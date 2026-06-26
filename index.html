@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="2026 世界足球盛會：台灣時間賽程、即時戰果、中文新聞、精華影片與賽前賠率。">
+  <title>世界盃 2026｜台灣時間即時戰況</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="groups.css">
+</head>
+<body>
+  <header class="hero">
+    <nav><a class="brand" href="#top"><span>26</span> 足球世界盃</a><div class="navlinks"><a href="#matches">賽程</a><a href="#groups">小組</a><a href="#scorers">進球榜</a><a href="#news">新聞</a><a href="#odds">賠率</a></div></nav>
+    <div class="hero-content" id="top">
+      <p class="eyebrow">CANADA · MEXICO · USA</p>
+      <h1>世界的哨聲<br><em>台灣時間，準時開踢。</em></h1>
+      <p class="lead">104 場賽事，一頁掌握每日賽程、戰果與場外焦點。</p>
+      <div class="status"><span class="pulse"></span><span id="update-label">讀取最新資料中…</span></div>
+    </div>
+    <div class="scrollhint">SCROLL TO MATCHDAY <span>↓</span></div>
+  </header>
+
+  <main>
+    <section class="match-section" id="matches">
+      <div class="section-head"><div><p class="kicker">MATCH CENTRE</p><h2>每日賽程・台灣時間</h2></div><p class="timezone">所有時間皆為 UTC+8<br>Asia / Taipei</p></div>
+      <div class="date-strip" id="date-strip" aria-label="選擇比賽日期"></div>
+      <div class="match-list" id="match-list"><p class="loading">載入賽程中…</p></div>
+      <p class="source-note">賽程與戰果：openfootball 公開資料。更新頻率約每 3 小時；正式資訊仍以主辦單位公告為準。</p>
+    </section>
+
+    <section class="group-section" id="groups">
+      <div class="section-head"><div><p class="kicker">GROUP STAGE</p><h2>小組晉級戰況</h2></div><p class="timezone">國旗・勝和負・晉級狀態<br>依最新戰果自動計算</p></div>
+      <div class="group-tabs" id="group-tabs"></div>
+      <div class="group-board" id="group-board"></div>
+      <div class="legend"><span><i class="advance"></i>晉級區</span><span><i class="third"></i>最佳第三名競逐</span></div>
+    </section>
+
+    <section class="scorers-section" id="scorers">
+      <div class="section-head light"><div><p class="kicker">GOLDEN BOOT</p><h2>進球榜</h2></div><p class="responsible">不含烏龍球<br>隨戰果自動更新</p></div>
+      <div class="scorer-list" id="scorer-list"></div>
+    </section>
+
+    <section class="stories" id="news">
+      <div class="section-head light"><div><p class="kicker">LATEST STORIES</p><h2>中文焦點新聞</h2></div><a class="text-link" href="https://news.google.com/search?q=2026%20%E4%B8%96%E7%95%8C%E7%9B%83&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant" target="_blank" rel="noopener">更多新聞 ↗</a></div>
+      <div class="news-grid" id="news-grid"><p class="loading">載入新聞中…</p></div>
+    </section>
+
+    <section class="video-section" id="videos">
+      <div class="section-head"><div><p class="kicker">WATCH AGAIN</p><h2>精彩影片</h2></div></div>
+      <div class="video-grid" id="video-grid"></div>
+    </section>
+
+    <section class="odds-section" id="odds">
+      <div class="section-head light"><div><p class="kicker">MARKET SNAPSHOT</p><h2>賽前賠率</h2></div><p class="responsible">未滿 18 歲請勿投注<br>請理性娛樂</p></div>
+      <div id="odds-grid" class="odds-grid"></div>
+      <p class="source-note dark">賠率僅供資訊參考，可能隨時變動；資料由 The Odds API 提供，不構成投注建議。</p>
+    </section>
+  </main>
+  <footer><div class="brand"><span>26</span> 足球世界盃</div><p>非官方球迷資訊站｜資料自動更新</p><p>© 2026 Taiwan Match Centre</p></footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

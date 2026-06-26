@@ -1,0 +1,6 @@
+{
+  "name": "taiwan-world-cup-2026",
+  "private": true,
+  "type": "module",
+  "scripts": {"update": "node scripts/update-data.mjs", "serve": "python3 -m http.server 4173"}
+}
