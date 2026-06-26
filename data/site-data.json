@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-06-26T21:03:30.703Z",
+  "updatedAt": "2026-06-26T21:29:20.781Z",
   "matches": [
     {
+      "number": 1,
       "round": "Matchday 1",
       "date": "2026-06-11",
       "kickoff": "2026-06-11T19:00:00.000Z",
@@ -15,6 +16,7 @@
       "ground": "Mexico City"
     },
     {
+      "number": 2,
       "round": "Matchday 1",
       "date": "2026-06-11",
       "kickoff": "2026-06-12T02:00:00.000Z",
@@ -28,6 +30,7 @@
       "ground": "Guadalajara (Zapopan)"
     },
     {
+      "number": 3,
       "round": "Matchday 8",
       "date": "2026-06-18",
       "kickoff": "2026-06-18T16:00:00.000Z",
@@ -41,6 +44,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 4,
       "round": "Matchday 8",
       "date": "2026-06-18",
       "kickoff": "2026-06-19T01:00:00.000Z",
@@ -54,6 +58,7 @@
       "ground": "Guadalajara (Zapopan)"
     },
     {
+      "number": 5,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-25T01:00:00.000Z",
@@ -67,6 +72,7 @@
       "ground": "Mexico City"
     },
     {
+      "number": 6,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-25T01:00:00.000Z",
@@ -80,6 +86,7 @@
       "ground": "Monterrey (Guadalupe)"
     },
     {
+      "number": 7,
       "round": "Matchday 2",
       "date": "2026-06-12",
       "kickoff": "2026-06-12T19:00:00.000Z",
@@ -93,6 +100,7 @@
       "ground": "Toronto"
     },
     {
+      "number": 8,
       "round": "Matchday 3",
       "date": "2026-06-13",
       "kickoff": "2026-06-13T19:00:00.000Z",
@@ -106,6 +114,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 9,
       "round": "Matchday 8",
       "date": "2026-06-18",
       "kickoff": "2026-06-18T19:00:00.000Z",
@@ -119,6 +128,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 10,
       "round": "Matchday 8",
       "date": "2026-06-18",
       "kickoff": "2026-06-18T22:00:00.000Z",
@@ -132,6 +142,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 11,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-24T19:00:00.000Z",
@@ -145,6 +156,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 12,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-24T19:00:00.000Z",
@@ -158,6 +170,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 13,
       "round": "Matchday 3",
       "date": "2026-06-13",
       "kickoff": "2026-06-13T22:00:00.000Z",
@@ -171,6 +184,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 14,
       "round": "Matchday 3",
       "date": "2026-06-13",
       "kickoff": "2026-06-14T01:00:00.000Z",
@@ -184,6 +198,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 15,
       "round": "Matchday 9",
       "date": "2026-06-19",
       "kickoff": "2026-06-19T22:00:00.000Z",
@@ -197,6 +212,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 16,
       "round": "Matchday 9",
       "date": "2026-06-19",
       "kickoff": "2026-06-20T00:30:00.000Z",
@@ -210,6 +226,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 17,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-24T22:00:00.000Z",
@@ -223,6 +240,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 18,
       "round": "Matchday 14",
       "date": "2026-06-24",
       "kickoff": "2026-06-24T22:00:00.000Z",
@@ -236,6 +254,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 19,
       "round": "Matchday 2",
       "date": "2026-06-12",
       "kickoff": "2026-06-13T01:00:00.000Z",
@@ -249,6 +268,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 20,
       "round": "Matchday 3",
       "date": "2026-06-13",
       "kickoff": "2026-06-14T04:00:00.000Z",
@@ -262,6 +282,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 21,
       "round": "Matchday 9",
       "date": "2026-06-19",
       "kickoff": "2026-06-19T19:00:00.000Z",
@@ -275,6 +296,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 22,
       "round": "Matchday 9",
       "date": "2026-06-19",
       "kickoff": "2026-06-20T03:00:00.000Z",
@@ -288,6 +310,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 23,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-26T02:00:00.000Z",
@@ -301,6 +324,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 24,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-26T02:00:00.000Z",
@@ -314,6 +338,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 25,
       "round": "Matchday 4",
       "date": "2026-06-14",
       "kickoff": "2026-06-14T17:00:00.000Z",
@@ -327,6 +352,7 @@
       "ground": "Houston"
     },
     {
+      "number": 26,
       "round": "Matchday 4",
       "date": "2026-06-14",
       "kickoff": "2026-06-14T23:00:00.000Z",
@@ -340,6 +366,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 27,
       "round": "Matchday 10",
       "date": "2026-06-20",
       "kickoff": "2026-06-20T20:00:00.000Z",
@@ -353,6 +380,7 @@
       "ground": "Toronto"
     },
     {
+      "number": 28,
       "round": "Matchday 10",
       "date": "2026-06-20",
       "kickoff": "2026-06-21T00:00:00.000Z",
@@ -366,6 +394,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 29,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-25T20:00:00.000Z",
@@ -379,6 +408,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 30,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-25T20:00:00.000Z",
@@ -392,6 +422,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 31,
       "round": "Matchday 4",
       "date": "2026-06-14",
       "kickoff": "2026-06-14T20:00:00.000Z",
@@ -405,6 +436,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 32,
       "round": "Matchday 4",
       "date": "2026-06-14",
       "kickoff": "2026-06-15T02:00:00.000Z",
@@ -418,6 +450,7 @@
       "ground": "Monterrey (Guadalupe)"
     },
     {
+      "number": 33,
       "round": "Matchday 10",
       "date": "2026-06-20",
       "kickoff": "2026-06-20T17:00:00.000Z",
@@ -431,6 +464,7 @@
       "ground": "Houston"
     },
     {
+      "number": 34,
       "round": "Matchday 10",
       "date": "2026-06-20",
       "kickoff": "2026-06-21T04:00:00.000Z",
@@ -444,6 +478,7 @@
       "ground": "Monterrey (Guadalupe)"
     },
     {
+      "number": 35,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-25T23:00:00.000Z",
@@ -457,6 +492,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 36,
       "round": "Matchday 15",
       "date": "2026-06-25",
       "kickoff": "2026-06-25T23:00:00.000Z",
@@ -470,6 +506,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 37,
       "round": "Matchday 5",
       "date": "2026-06-15",
       "kickoff": "2026-06-15T19:00:00.000Z",
@@ -483,6 +520,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 38,
       "round": "Matchday 5",
       "date": "2026-06-15",
       "kickoff": "2026-06-16T01:00:00.000Z",
@@ -496,6 +534,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 39,
       "round": "Matchday 11",
       "date": "2026-06-21",
       "kickoff": "2026-06-21T19:00:00.000Z",
@@ -509,6 +548,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 40,
       "round": "Matchday 11",
       "date": "2026-06-21",
       "kickoff": "2026-06-22T01:00:00.000Z",
@@ -522,6 +562,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 41,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-27T03:00:00.000Z",
@@ -531,6 +572,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 42,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-27T03:00:00.000Z",
@@ -540,6 +582,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 43,
       "round": "Matchday 5",
       "date": "2026-06-15",
       "kickoff": "2026-06-15T16:00:00.000Z",
@@ -553,6 +596,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 44,
       "round": "Matchday 5",
       "date": "2026-06-15",
       "kickoff": "2026-06-15T22:00:00.000Z",
@@ -566,6 +610,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 45,
       "round": "Matchday 11",
       "date": "2026-06-21",
       "kickoff": "2026-06-21T16:00:00.000Z",
@@ -579,6 +624,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 46,
       "round": "Matchday 11",
       "date": "2026-06-21",
       "kickoff": "2026-06-21T22:00:00.000Z",
@@ -592,6 +638,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 47,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-27T00:00:00.000Z",
@@ -601,6 +648,7 @@
       "ground": "Houston"
     },
     {
+      "number": 48,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-27T00:00:00.000Z",
@@ -610,6 +658,7 @@
       "ground": "Guadalajara (Zapopan)"
     },
     {
+      "number": 49,
       "round": "Matchday 6",
       "date": "2026-06-16",
       "kickoff": "2026-06-16T19:00:00.000Z",
@@ -623,6 +672,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 50,
       "round": "Matchday 6",
       "date": "2026-06-16",
       "kickoff": "2026-06-16T22:00:00.000Z",
@@ -636,6 +686,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 51,
       "round": "Matchday 12",
       "date": "2026-06-22",
       "kickoff": "2026-06-22T21:00:00.000Z",
@@ -649,6 +700,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 52,
       "round": "Matchday 12",
       "date": "2026-06-22",
       "kickoff": "2026-06-23T00:00:00.000Z",
@@ -662,6 +714,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 53,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-26T19:00:00.000Z",
@@ -675,15 +728,21 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 54,
       "round": "Matchday 16",
       "date": "2026-06-26",
       "kickoff": "2026-06-26T19:00:00.000Z",
       "team1": "Senegal",
       "team2": "Iraq",
+      "score": [
+        5,
+        0
+      ],
       "group": "Group I",
       "ground": "Toronto"
     },
     {
+      "number": 55,
       "round": "Matchday 6",
       "date": "2026-06-16",
       "kickoff": "2026-06-17T01:00:00.000Z",
@@ -697,6 +756,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 56,
       "round": "Matchday 6",
       "date": "2026-06-16",
       "kickoff": "2026-06-17T04:00:00.000Z",
@@ -710,6 +770,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 57,
       "round": "Matchday 12",
       "date": "2026-06-22",
       "kickoff": "2026-06-22T17:00:00.000Z",
@@ -723,6 +784,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 58,
       "round": "Matchday 12",
       "date": "2026-06-22",
       "kickoff": "2026-06-23T03:00:00.000Z",
@@ -736,6 +798,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 59,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-28T02:00:00.000Z",
@@ -745,6 +808,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 60,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-28T02:00:00.000Z",
@@ -754,6 +818,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 61,
       "round": "Matchday 7",
       "date": "2026-06-17",
       "kickoff": "2026-06-17T17:00:00.000Z",
@@ -767,6 +832,7 @@
       "ground": "Houston"
     },
     {
+      "number": 62,
       "round": "Matchday 7",
       "date": "2026-06-17",
       "kickoff": "2026-06-18T02:00:00.000Z",
@@ -780,6 +846,7 @@
       "ground": "Mexico City"
     },
     {
+      "number": 63,
       "round": "Matchday 13",
       "date": "2026-06-23",
       "kickoff": "2026-06-23T17:00:00.000Z",
@@ -793,6 +860,7 @@
       "ground": "Houston"
     },
     {
+      "number": 64,
       "round": "Matchday 13",
       "date": "2026-06-23",
       "kickoff": "2026-06-24T02:00:00.000Z",
@@ -806,6 +874,7 @@
       "ground": "Guadalajara (Zapopan)"
     },
     {
+      "number": 65,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-27T23:30:00.000Z",
@@ -815,6 +884,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 66,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-27T23:30:00.000Z",
@@ -824,6 +894,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 67,
       "round": "Matchday 7",
       "date": "2026-06-17",
       "kickoff": "2026-06-17T20:00:00.000Z",
@@ -837,6 +908,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 68,
       "round": "Matchday 7",
       "date": "2026-06-17",
       "kickoff": "2026-06-17T23:00:00.000Z",
@@ -850,6 +922,7 @@
       "ground": "Toronto"
     },
     {
+      "number": 69,
       "round": "Matchday 13",
       "date": "2026-06-23",
       "kickoff": "2026-06-23T20:00:00.000Z",
@@ -863,6 +936,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 70,
       "round": "Matchday 13",
       "date": "2026-06-23",
       "kickoff": "2026-06-23T23:00:00.000Z",
@@ -876,6 +950,7 @@
       "ground": "Toronto"
     },
     {
+      "number": 71,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-27T21:00:00.000Z",
@@ -885,6 +960,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 72,
       "round": "Matchday 17",
       "date": "2026-06-27",
       "kickoff": "2026-06-27T21:00:00.000Z",
@@ -894,6 +970,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 73,
       "round": "Round of 32",
       "date": "2026-06-28",
       "kickoff": "2026-06-28T19:00:00.000Z",
@@ -902,6 +979,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 74,
       "round": "Round of 32",
       "date": "2026-06-29",
       "kickoff": "2026-06-29T20:30:00.000Z",
@@ -910,6 +988,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 75,
       "round": "Round of 32",
       "date": "2026-06-29",
       "kickoff": "2026-06-30T01:00:00.000Z",
@@ -918,6 +997,7 @@
       "ground": "Monterrey (Guadalupe)"
     },
     {
+      "number": 76,
       "round": "Round of 32",
       "date": "2026-06-29",
       "kickoff": "2026-06-29T17:00:00.000Z",
@@ -926,6 +1006,7 @@
       "ground": "Houston"
     },
     {
+      "number": 77,
       "round": "Round of 32",
       "date": "2026-06-30",
       "kickoff": "2026-06-30T21:00:00.000Z",
@@ -934,6 +1015,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 78,
       "round": "Round of 32",
       "date": "2026-06-30",
       "kickoff": "2026-06-30T17:00:00.000Z",
@@ -942,6 +1024,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 79,
       "round": "Round of 32",
       "date": "2026-06-30",
       "kickoff": "2026-07-01T01:00:00.000Z",
@@ -950,6 +1033,7 @@
       "ground": "Mexico City"
     },
     {
+      "number": 80,
       "round": "Round of 32",
       "date": "2026-07-01",
       "kickoff": "2026-07-01T16:00:00.000Z",
@@ -958,6 +1042,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 81,
       "round": "Round of 32",
       "date": "2026-07-01",
       "kickoff": "2026-07-02T00:00:00.000Z",
@@ -966,6 +1051,7 @@
       "ground": "San Francisco Bay Area (Santa Clara)"
     },
     {
+      "number": 82,
       "round": "Round of 32",
       "date": "2026-07-01",
       "kickoff": "2026-07-01T20:00:00.000Z",
@@ -974,6 +1060,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 83,
       "round": "Round of 32",
       "date": "2026-07-02",
       "kickoff": "2026-07-02T23:00:00.000Z",
@@ -982,6 +1069,7 @@
       "ground": "Toronto"
     },
     {
+      "number": 84,
       "round": "Round of 32",
       "date": "2026-07-02",
       "kickoff": "2026-07-02T19:00:00.000Z",
@@ -990,6 +1078,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 85,
       "round": "Round of 32",
       "date": "2026-07-02",
       "kickoff": "2026-07-03T03:00:00.000Z",
@@ -998,6 +1087,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 86,
       "round": "Round of 32",
       "date": "2026-07-03",
       "kickoff": "2026-07-03T22:00:00.000Z",
@@ -1006,6 +1096,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 87,
       "round": "Round of 32",
       "date": "2026-07-03",
       "kickoff": "2026-07-04T01:30:00.000Z",
@@ -1014,6 +1105,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 88,
       "round": "Round of 32",
       "date": "2026-07-03",
       "kickoff": "2026-07-03T18:00:00.000Z",
@@ -1022,6 +1114,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 89,
       "round": "Round of 16",
       "date": "2026-07-04",
       "kickoff": "2026-07-04T21:00:00.000Z",
@@ -1030,6 +1123,7 @@
       "ground": "Philadelphia"
     },
     {
+      "number": 90,
       "round": "Round of 16",
       "date": "2026-07-04",
       "kickoff": "2026-07-04T17:00:00.000Z",
@@ -1038,6 +1132,7 @@
       "ground": "Houston"
     },
     {
+      "number": 91,
       "round": "Round of 16",
       "date": "2026-07-05",
       "kickoff": "2026-07-05T20:00:00.000Z",
@@ -1046,6 +1141,7 @@
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
+      "number": 92,
       "round": "Round of 16",
       "date": "2026-07-05",
       "kickoff": "2026-07-06T00:00:00.000Z",
@@ -1054,6 +1150,7 @@
       "ground": "Mexico City"
     },
     {
+      "number": 93,
       "round": "Round of 16",
       "date": "2026-07-06",
       "kickoff": "2026-07-06T19:00:00.000Z",
@@ -1062,6 +1159,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 94,
       "round": "Round of 16",
       "date": "2026-07-06",
       "kickoff": "2026-07-07T00:00:00.000Z",
@@ -1070,6 +1168,7 @@
       "ground": "Seattle"
     },
     {
+      "number": 95,
       "round": "Round of 16",
       "date": "2026-07-07",
       "kickoff": "2026-07-07T16:00:00.000Z",
@@ -1078,6 +1177,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 96,
       "round": "Round of 16",
       "date": "2026-07-07",
       "kickoff": "2026-07-07T20:00:00.000Z",
@@ -1086,6 +1186,7 @@
       "ground": "Vancouver"
     },
     {
+      "number": 97,
       "round": "Quarter-final",
       "date": "2026-07-09",
       "kickoff": "2026-07-09T20:00:00.000Z",
@@ -1094,6 +1195,7 @@
       "ground": "Boston (Foxborough)"
     },
     {
+      "number": 98,
       "round": "Quarter-final",
       "date": "2026-07-10",
       "kickoff": "2026-07-10T19:00:00.000Z",
@@ -1102,6 +1204,7 @@
       "ground": "Los Angeles (Inglewood)"
     },
     {
+      "number": 99,
       "round": "Quarter-final",
       "date": "2026-07-11",
       "kickoff": "2026-07-11T21:00:00.000Z",
@@ -1110,6 +1213,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 100,
       "round": "Quarter-final",
       "date": "2026-07-11",
       "kickoff": "2026-07-12T01:00:00.000Z",
@@ -1118,6 +1222,7 @@
       "ground": "Kansas City"
     },
     {
+      "number": 101,
       "round": "Semi-final",
       "date": "2026-07-14",
       "kickoff": "2026-07-14T19:00:00.000Z",
@@ -1126,6 +1231,7 @@
       "ground": "Dallas (Arlington)"
     },
     {
+      "number": 102,
       "round": "Semi-final",
       "date": "2026-07-15",
       "kickoff": "2026-07-15T19:00:00.000Z",
@@ -1134,6 +1240,7 @@
       "ground": "Atlanta"
     },
     {
+      "number": 103,
       "round": "Match for third place",
       "date": "2026-07-18",
       "kickoff": "2026-07-18T21:00:00.000Z",
@@ -1142,6 +1249,7 @@
       "ground": "Miami (Miami Gardens)"
     },
     {
+      "number": 104,
       "round": "Final",
       "date": "2026-07-19",
       "kickoff": "2026-07-19T19:00:00.000Z",
@@ -1536,22 +1644,22 @@
         },
         {
           "team": "Senegal",
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 3,
+          "gf": 8,
           "ga": 6,
-          "points": 0
+          "points": 3
         },
         {
           "team": "Iraq",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "gf": 1,
-          "ga": 7,
+          "ga": 12,
           "points": 0
         }
       ]
@@ -1734,6 +1842,11 @@
       "goals": 3
     },
     {
+      "name": "Ismaïla Sarr",
+      "team": "Senegal",
+      "goals": 3
+    },
+    {
       "name": "Johan Manzambi",
       "team": "Switzerland",
       "goals": 3
@@ -1809,11 +1922,6 @@
       "goals": 2
     },
     {
-      "name": "Ismaïla Sarr",
-      "team": "Senegal",
-      "goals": 2
-    },
-    {
       "name": "Julián Quiñones",
       "team": "Mexico",
       "goals": 2
@@ -1836,6 +1944,11 @@
     {
       "name": "Nicolas Pépé",
       "team": "Ivory Coast",
+      "goals": 2
+    },
+    {
+      "name": "Pape Gueye",
+      "team": "Senegal",
       "goals": 2
     },
     {
@@ -1994,6 +2107,11 @@
       "goals": 1
     },
     {
+      "name": "Habib Diarra",
+      "team": "Senegal",
+      "goals": 1
+    },
+    {
       "name": "Hassan Al-Haydos",
       "team": "Qatar",
       "goals": 1
@@ -2015,6 +2133,11 @@
     },
     {
       "name": "Ibrahim Mbaye",
+      "team": "Senegal",
+      "goals": 1
+    },
+    {
+      "name": "Iliman Ndiaye",
       "team": "Senegal",
       "goals": 1
     },
@@ -2363,19 +2486,22 @@
   "odds": [],
   "videos": [
     {
-      "label": "官方精彩片段",
-      "title": "FIFA 世界盃官方影片",
-      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/videos"
+      "id": "NX4tF2DZY8M",
+      "title": "WATCH LIVE | Senegal v Iraq | Group Stage I | FIFA World Cup 2026™",
+      "label": "FIFA 官方影片",
+      "url": "https://www.youtube.com/watch?v=NX4tF2DZY8M"
     },
     {
-      "label": "最新精華搜尋",
-      "title": "今日賽事精華",
-      "url": "https://www.youtube.com/results?search_query=2026+world+cup+highlights"
+      "id": "gxJiC724EK4",
+      "title": "Uzbekistan On Playing Congo DR | Fabio Cannavaro & Eldor Shomurodov Take Questions",
+      "label": "FIFA 官方影片",
+      "url": "https://www.youtube.com/watch?v=gxJiC724EK4"
     },
     {
-      "label": "中文內容",
-      "title": "世界盃中文精華",
-      "url": "https://www.youtube.com/results?search_query=2026+%E4%B8%96%E7%95%8C%E7%9B%83+%E7%B2%BE%E8%8F%AF"
+      "id": "GnY0nIlsOh8",
+      "title": "Austria On Playing Algeria | Ralf Rangnick & Konrad Laimer Takes Questions",
+      "label": "FIFA 官方影片",
+      "url": "https://www.youtube.com/watch?v=GnY0nIlsOh8"
     }
   ]
 }
