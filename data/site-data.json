@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:29:20.781Z",
+  "updatedAt": "2026-06-26T21:37:45.537Z",
   "matches": [
     {
       "number": 1,
@@ -2483,7 +2483,113 @@
       "source": "Harper's BAZAAR"
     }
   ],
-  "odds": [],
+  "odds": [
+    {
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "homePrice": 2.6,
+      "drawPrice": 3.4,
+      "awayPrice": 2.65
+    },
+    {
+      "home": "Uruguay",
+      "away": "Spain",
+      "homePrice": 6.5,
+      "drawPrice": 3.8,
+      "awayPrice": 1.57
+    },
+    {
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homePrice": 16,
+      "drawPrice": 8.35,
+      "awayPrice": 1.19
+    },
+    {
+      "home": "Egypt",
+      "away": "Iran",
+      "homePrice": 2.39,
+      "drawPrice": 2.6,
+      "awayPrice": 3.82
+    },
+    {
+      "home": "Croatia",
+      "away": "Ghana",
+      "homePrice": 1.75,
+      "drawPrice": 3.3,
+      "awayPrice": 5.5
+    },
+    {
+      "home": "Panama",
+      "away": "England",
+      "homePrice": 16,
+      "drawPrice": 8.2,
+      "awayPrice": 1.15
+    },
+    {
+      "home": "Colombia",
+      "away": "Portugal",
+      "homePrice": 4,
+      "drawPrice": 3.6,
+      "awayPrice": 1.91
+    },
+    {
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "homePrice": 1.8,
+      "drawPrice": 4.1,
+      "awayPrice": 4.45
+    },
+    {
+      "home": "Algeria",
+      "away": "Austria",
+      "homePrice": 3.9,
+      "drawPrice": 2.15,
+      "awayPrice": 2.85
+    },
+    {
+      "home": "Jordan",
+      "away": "Argentina",
+      "homePrice": 15,
+      "drawPrice": 8,
+      "awayPrice": 1.16
+    },
+    {
+      "home": "South Africa",
+      "away": "Canada",
+      "homePrice": 5.4,
+      "drawPrice": 3.5,
+      "awayPrice": 1.67
+    },
+    {
+      "home": "Brazil",
+      "away": "Japan",
+      "homePrice": 1.73,
+      "drawPrice": 3.85,
+      "awayPrice": 5.4
+    },
+    {
+      "home": "Netherlands",
+      "away": "Morocco",
+      "homePrice": 2.16,
+      "drawPrice": 3.35,
+      "awayPrice": 3.7
+    },
+    {
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "homePrice": 4.1,
+      "drawPrice": 3.65,
+      "awayPrice": 1.91
+    },
+    {
+      "home": "USA",
+      "away": "Bosnia & Herzegovina",
+      "homePrice": 1.41,
+      "drawPrice": 5.1,
+      "awayPrice": 9.6
+    }
+  ],
   "videos": [
     {
       "id": "NX4tF2DZY8M",
