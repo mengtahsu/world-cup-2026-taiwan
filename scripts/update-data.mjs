@@ -48,13 +48,19 @@ function computeScorers(raw){
 async function addPlayerProfiles(scorers){
   return Promise.all(scorers.map(async player=>{
     try{
+      const exact=async lang=>{
+        const params=new URLSearchParams({action:'query',titles:player.name,redirects:'1',prop:'pageimages|description',piprop:'thumbnail',pithumbsize:'360',format:'json',origin:'*'});
+        const json=await fetch(`https://${lang}.wikipedia.org/w/api.php?${params}`).then(r=>{if(!r.ok)throw Error(r.status);return r.json()});
+        return Object.values(json.query?.pages||{})[0];
+      };
       const search=async lang=>{
         const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:`${player.name} footballer`,gsrlimit:'1',prop:'pageimages|description',piprop:'thumbnail',pithumbsize:'360',format:'json',origin:'*'});
         const json=await fetch(`https://${lang}.wikipedia.org/w/api.php?${params}`).then(r=>{if(!r.ok)throw Error(r.status);return r.json()});
         return Object.values(json.query?.pages||{})[0];
       };
-      const page=await search('zh').then(x=>x?.thumbnail?x:search('en'));
-      return {...player,profile:{photo:page?.thumbnail?.source||'',bio:page?.description||`${player.team}國家隊球員`}};
+      const page=await exact('en').then(x=>x?.thumbnail?x:exact('zh')).then(x=>x?.thumbnail?x:search('en'));
+      const candidate=page?.thumbnail?.source||'',photo=/logo|\.svg(?:\.png)?$/i.test(candidate)?'':candidate;
+      return {...player,profile:{photo,bio:page?.description||`${player.team}國家隊球員`}};
     }catch{return {...player,profile:{photo:'',bio:`${player.team}國家隊球員，本屆世界盃目前攻進 ${player.goals} 球。`}}}
   }));
 }
