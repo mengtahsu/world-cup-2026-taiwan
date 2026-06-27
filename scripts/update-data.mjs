@@ -5,6 +5,14 @@ const NEWS='https://news.google.com/rss/search?q=2026%20%E4%B8%96%E7%95%8C%E7%9B
 const YOUTUBE='https://www.youtube.com/feeds/videos.xml?channel_id=UCpcTrCXblq78GZrTUTLWeBw';
 const clean=s=>String(s||'').replace(/<!\[CDATA\[|\]\]>/g,'').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim();
 
+if(process.env.GITHUB_EVENT_NAME==='schedule'){
+  try{
+    const previous=JSON.parse(await fs.readFile('data/site-data.json','utf8'));
+    const age=Date.now()-new Date(previous.updatedAt).getTime();
+    if(age<2.5*60*60*1000){console.log(`Skipping early scheduled refresh; last update was ${Math.round(age/60000)} minutes ago.`);process.exit(0)}
+  }catch{}
+}
+
 function kickoff(date,time='00:00 UTC+0'){
   const m=time.match(/(\d{1,2}):(\d{2})\s+UTC([+-]\d+)?/i);
   const hour=+(m?.[1]||0), minute=+(m?.[2]||0), offset=+(m?.[3]||0);
