@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T01:19:48.409Z",
+  "updatedAt": "2026-06-27T01:27:21.617Z",
   "matches": [
     {
       "number": 1,
@@ -1804,627 +1804,739 @@
     {
       "name": "Lionel Messi",
       "team": "Argentina",
-      "goals": 5
+      "goals": 5,
+      "matches": [
+        {
+          "number": 55,
+          "opponent": "Algeria",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-17T01:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 3
+        },
+        {
+          "number": 57,
+          "opponent": "Austria",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T17:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Argentina國家隊球員，本屆世界盃目前攻進 5 球。"
+      }
     },
     {
       "name": "Erling Haaland",
       "team": "Norway",
-      "goals": 4
+      "goals": 4,
+      "matches": [
+        {
+          "number": 50,
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T22:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 2
+        },
+        {
+          "number": 52,
+          "opponent": "Senegal",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-23T00:00:00.000Z",
+          "score": [
+            3,
+            2
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Norway國家隊球員，本屆世界盃目前攻進 4 球。"
+      }
     },
     {
       "name": "Kylian Mbappé",
       "team": "France",
-      "goals": 4
+      "goals": 4,
+      "matches": [
+        {
+          "number": 49,
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T19:00:00.000Z",
+          "score": [
+            3,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+      }
     },
     {
       "name": "Ousmane Dembélé",
       "team": "France",
-      "goals": 4
+      "goals": 4,
+      "matches": [
+        {
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 53,
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-26T19:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 3
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+      }
     },
     {
       "name": "Vinícius Júnior",
       "team": "Brazil",
-      "goals": 4
+      "goals": 4,
+      "matches": [
+        {
+          "number": 13,
+          "opponent": "Morocco",
+          "date": "2026-06-13",
+          "kickoff": "2026-06-13T22:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 16,
+          "opponent": "Haiti",
+          "date": "2026-06-19",
+          "kickoff": "2026-06-20T00:30:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 17,
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-24T22:00:00.000Z",
+          "score": [
+            0,
+            3
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 4 球。"
+      }
     },
     {
       "name": "Brian Brobbey",
       "team": "Netherlands",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 33,
+          "opponent": "Sweden",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T17:00:00.000Z",
+          "score": [
+            5,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 36,
+          "opponent": "Tunisia",
+          "date": "2026-06-25",
+          "kickoff": "2026-06-25T23:00:00.000Z",
+          "score": [
+            1,
+            3
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Deniz Undav",
       "team": "Germany",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 25,
+          "opponent": "Curaçao",
+          "date": "2026-06-14",
+          "kickoff": "2026-06-14T17:00:00.000Z",
+          "score": [
+            7,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 27,
+          "opponent": "Ivory Coast",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T20:00:00.000Z",
+          "score": [
+            2,
+            1
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Ismael Saibari",
       "team": "Morocco",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 13,
+          "opponent": "Brazil",
+          "date": "2026-06-13",
+          "kickoff": "2026-06-13T22:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 15,
+          "opponent": "Scotland",
+          "date": "2026-06-19",
+          "kickoff": "2026-06-19T22:00:00.000Z",
+          "score": [
+            0,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 18,
+          "opponent": "Haiti",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-24T22:00:00.000Z",
+          "score": [
+            4,
+            2
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Ismaïla Sarr",
       "team": "Senegal",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 52,
+          "opponent": "Norway",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-23T00:00:00.000Z",
+          "score": [
+            3,
+            2
+          ],
+          "goals": 2
+        },
+        {
+          "number": 54,
+          "opponent": "Iraq",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-26T19:00:00.000Z",
+          "score": [
+            5,
+            0
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Senegal國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Johan Manzambi",
       "team": "Switzerland",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 9,
+          "opponent": "Bosnia & Herzegovina",
+          "date": "2026-06-18",
+          "kickoff": "2026-06-18T19:00:00.000Z",
+          "score": [
+            4,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 11,
+          "opponent": "Canada",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-24T19:00:00.000Z",
+          "score": [
+            2,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Switzerland國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Jonathan David",
       "team": "Canada",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 10,
+          "opponent": "Qatar",
+          "date": "2026-06-18",
+          "kickoff": "2026-06-18T22:00:00.000Z",
+          "score": [
+            6,
+            0
+          ],
+          "goals": 3
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Matheus Cunha",
       "team": "Brazil",
-      "goals": 3
+      "goals": 3,
+      "matches": [
+        {
+          "number": 16,
+          "opponent": "Haiti",
+          "date": "2026-06-19",
+          "kickoff": "2026-06-20T00:30:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 17,
+          "opponent": "Scotland",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-24T22:00:00.000Z",
+          "score": [
+            0,
+            3
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
     },
     {
       "name": "Anthony Elanga",
       "team": "Sweden",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 33,
+          "opponent": "Netherlands",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T17:00:00.000Z",
+          "score": [
+            5,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 35,
+          "opponent": "Japan",
+          "date": "2026-06-25",
+          "kickoff": "2026-06-25T23:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Sweden國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Ayase Ueda",
       "team": "Japan",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 34,
+          "opponent": "Tunisia",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-21T04:00:00.000Z",
+          "score": [
+            0,
+            4
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Japan國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Cody Gakpo",
       "team": "Netherlands",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 33,
+          "opponent": "Sweden",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T17:00:00.000Z",
+          "score": [
+            5,
+            1
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Cristiano Ronaldo",
       "team": "Portugal",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 63,
+          "opponent": "Uzbekistan",
+          "date": "2026-06-23",
+          "kickoff": "2026-06-23T17:00:00.000Z",
+          "score": [
+            5,
+            0
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Portugal國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Crysencio Summerville",
       "team": "Netherlands",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 31,
+          "opponent": "Japan",
+          "date": "2026-06-14",
+          "kickoff": "2026-06-14T20:00:00.000Z",
+          "score": [
+            2,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 33,
+          "opponent": "Sweden",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T17:00:00.000Z",
+          "score": [
+            5,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Cyle Larin",
       "team": "Canada",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 7,
+          "opponent": "Bosnia & Herzegovina",
+          "date": "2026-06-12",
+          "kickoff": "2026-06-12T19:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 10,
+          "opponent": "Qatar",
+          "date": "2026-06-18",
+          "kickoff": "2026-06-18T22:00:00.000Z",
+          "score": [
+            6,
+            0
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Daichi Kamada",
       "team": "Japan",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 31,
+          "opponent": "Netherlands",
+          "date": "2026-06-14",
+          "kickoff": "2026-06-14T20:00:00.000Z",
+          "score": [
+            2,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 34,
+          "opponent": "Tunisia",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-21T04:00:00.000Z",
+          "score": [
+            0,
+            4
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Japan國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Daniel Muñoz",
       "team": "Colombia",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 62,
+          "opponent": "Uzbekistan",
+          "date": "2026-06-17",
+          "kickoff": "2026-06-18T02:00:00.000Z",
+          "score": [
+            1,
+            3
+          ],
+          "goals": 1
+        },
+        {
+          "number": 64,
+          "opponent": "DR Congo",
+          "date": "2026-06-23",
+          "kickoff": "2026-06-24T02:00:00.000Z",
+          "score": [
+            1,
+            0
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Colombia國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Elijah Just",
       "team": "New Zealand",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 38,
+          "opponent": "Iran",
+          "date": "2026-06-15",
+          "kickoff": "2026-06-16T01:00:00.000Z",
+          "score": [
+            2,
+            2
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Ermin Mahmic",
       "team": "Bosnia & Herzegovina",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 9,
+          "opponent": "Switzerland",
+          "date": "2026-06-18",
+          "kickoff": "2026-06-18T19:00:00.000Z",
+          "score": [
+            4,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 12,
+          "opponent": "Qatar",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-24T19:00:00.000Z",
+          "score": [
+            3,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Bosnia & Herzegovina國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Folarin Balogun",
       "team": "USA",
-      "goals": 2
+      "goals": 2,
+      "matches": [
+        {
+          "number": 19,
+          "opponent": "Paraguay",
+          "date": "2026-06-12",
+          "kickoff": "2026-06-13T01:00:00.000Z",
+          "score": [
+            4,
+            1
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "USA國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     },
     {
       "name": "Harry Kane",
       "team": "England",
-      "goals": 2
-    },
-    {
-      "name": "Julián Quiñones",
-      "team": "Mexico",
-      "goals": 2
-    },
-    {
-      "name": "Kai Havertz",
-      "team": "Germany",
-      "goals": 2
-    },
-    {
-      "name": "Maxi Araújo",
-      "team": "Uruguay",
-      "goals": 2
-    },
-    {
-      "name": "Mikel Oyarzabal",
-      "team": "Spain",
-      "goals": 2
-    },
-    {
-      "name": "Nicolas Pépé",
-      "team": "Ivory Coast",
-      "goals": 2
-    },
-    {
-      "name": "Pape Gueye",
-      "team": "Senegal",
-      "goals": 2
-    },
-    {
-      "name": "Rubén Vargas",
-      "team": "Switzerland",
-      "goals": 2
-    },
-    {
-      "name": "Yasin Ayari",
-      "team": "Sweden",
-      "goals": 2
-    },
-    {
-      "name": "Abbosbek Fayzullaev",
-      "team": "Uzbekistan",
-      "goals": 1
-    },
-    {
-      "name": "Abdulelah Al-Amri",
-      "team": "Saudi Arabia",
-      "goals": 1
-    },
-    {
-      "name": "Achraf Hakimi",
-      "team": "Morocco",
-      "goals": 1
-    },
-    {
-      "name": "Agustín Cano",
-      "team": "Uruguay",
-      "goals": 1
-    },
-    {
-      "name": "Alex Freeman",
-      "team": "USA",
-      "goals": 1
-    },
-    {
-      "name": "Alexander Isak",
-      "team": "Sweden",
-      "goals": 1
-    },
-    {
-      "name": "Ali Olwan",
-      "team": "Jordan",
-      "goals": 1
-    },
-    {
-      "name": "Álvaro Fidalgo",
-      "team": "Mexico",
-      "goals": 1
-    },
-    {
-      "name": "Amad Diallo",
-      "team": "Ivory Coast",
-      "goals": 1
-    },
-    {
-      "name": "Amine Gouiri",
-      "team": "Algeria",
-      "goals": 1
-    },
-    {
-      "name": "Ante Budimir",
-      "team": "Croatia",
-      "goals": 1
-    },
-    {
-      "name": "Arda Güler",
-      "team": "Turkey",
-      "goals": 1
-    },
-    {
-      "name": "Auston Trusty",
-      "team": "USA",
-      "goals": 1
-    },
-    {
-      "name": "Aymen Hussein",
-      "team": "Iraq",
-      "goals": 1
-    },
-    {
-      "name": "Baris Alper Yilmaz",
-      "team": "Turkey",
-      "goals": 1
-    },
-    {
-      "name": "Bradley Barcola",
-      "team": "France",
-      "goals": 1
-    },
-    {
-      "name": "Breel Embolo",
-      "team": "Switzerland",
-      "goals": 1
-    },
-    {
-      "name": "Caleb Yirenkyi",
-      "team": "Ghana",
-      "goals": 1
-    },
-    {
-      "name": "Connor Metcalfe",
-      "team": "Australia",
-      "goals": 1
-    },
-    {
-      "name": "Daizen Maeda",
-      "team": "Japan",
-      "goals": 1
-    },
-    {
-      "name": "Désiré Doué",
-      "team": "France",
-      "goals": 1
-    },
-    {
-      "name": "Emam Ashour",
-      "team": "Egypt",
-      "goals": 1
-    },
-    {
-      "name": "Felix Nmecha",
-      "team": "Germany",
-      "goals": 1
-    },
-    {
-      "name": "Finn Surman",
-      "team": "New Zealand",
-      "goals": 1
-    },
-    {
-      "name": "Franck Kessié",
-      "team": "Ivory Coast",
-      "goals": 1
-    },
-    {
-      "name": "Gessime Yassine",
-      "team": "Morocco",
-      "goals": 1
-    },
-    {
-      "name": "Giovanni Reyna",
-      "team": "USA",
-      "goals": 1
-    },
-    {
-      "name": "Gonzalo Plata",
-      "team": "Ecuador",
-      "goals": 1
-    },
-    {
-      "name": "Granit Xhaka",
-      "team": "Switzerland",
-      "goals": 1
-    },
-    {
-      "name": "Habib Diarra",
-      "team": "Senegal",
-      "goals": 1
-    },
-    {
-      "name": "Hassan Al-Haydos",
-      "team": "Qatar",
-      "goals": 1
-    },
-    {
-      "name": "Hazem Mastouri",
-      "team": "Tunisia",
-      "goals": 1
-    },
-    {
-      "name": "Hélio Varela",
-      "team": "Cape Verde",
-      "goals": 1
-    },
-    {
-      "name": "Hwang In-Beom",
-      "team": "South Korea",
-      "goals": 1
-    },
-    {
-      "name": "Ibrahim Mbaye",
-      "team": "Senegal",
-      "goals": 1
-    },
-    {
-      "name": "Iliman Ndiaye",
-      "team": "Senegal",
-      "goals": 1
-    },
-    {
-      "name": "Jamal Musiala",
-      "team": "Germany",
-      "goals": 1
-    },
-    {
-      "name": "Jáminton Campaz",
-      "team": "Colombia",
-      "goals": 1
-    },
-    {
-      "name": "Jan Paul van Hecke",
-      "team": "Netherlands",
-      "goals": 1
-    },
-    {
-      "name": "João Neves",
-      "team": "Portugal",
-      "goals": 1
-    },
-    {
-      "name": "John McGinn",
-      "team": "Scotland",
-      "goals": 1
-    },
-    {
-      "name": "Jovo Lukić",
-      "team": "Bosnia & Herzegovina",
-      "goals": 1
-    },
-    {
-      "name": "Jude Bellingham",
-      "team": "England",
-      "goals": 1
-    },
-    {
-      "name": "Junya Ito",
-      "team": "Japan",
-      "goals": 1
-    },
-    {
-      "name": "Kaan Ayhan",
-      "team": "Turkey",
-      "goals": 1
-    },
-    {
-      "name": "Keito Nakamura",
-      "team": "Japan",
-      "goals": 1
-    },
-    {
-      "name": "Kerim Alajbegovic",
-      "team": "Bosnia & Herzegovina",
-      "goals": 1
-    },
-    {
-      "name": "Kevin Pina",
-      "team": "Cape Verde",
-      "goals": 1
-    },
-    {
-      "name": "Ladislav Krejcí",
-      "team": "Czech Republic",
-      "goals": 1
-    },
-    {
-      "name": "Lamine Yamal",
-      "team": "Spain",
-      "goals": 1
-    },
-    {
-      "name": "Leo Østigard",
-      "team": "Norway",
-      "goals": 1
-    },
-    {
-      "name": "Leroy Sané",
-      "team": "Germany",
-      "goals": 1
-    },
-    {
-      "name": "Livano Comenencia",
-      "team": "Curaçao",
-      "goals": 1
-    },
-    {
-      "name": "Luis Díaz",
-      "team": "Colombia",
-      "goals": 1
-    },
-    {
-      "name": "Luis Romo",
-      "team": "Mexico",
-      "goals": 1
-    },
-    {
-      "name": "Marcus Holmgren Pedersen",
-      "team": "Norway",
-      "goals": 1
-    },
-    {
-      "name": "Marcus Rashford",
-      "team": "England",
-      "goals": 1
-    },
-    {
-      "name": "Marko Arnautovic",
-      "team": "Austria",
-      "goals": 1
-    },
-    {
-      "name": "Martin Baturina",
-      "team": "Croatia",
-      "goals": 1
-    },
-    {
-      "name": "Mateo Chávez",
-      "team": "Mexico",
-      "goals": 1
-    },
-    {
-      "name": "Matías Galarza",
-      "team": "Paraguay",
-      "goals": 1
-    },
-    {
-      "name": "Mattias Svanberg",
-      "team": "Sweden",
-      "goals": 1
-    },
-    {
-      "name": "Mauricio",
-      "team": "Paraguay",
-      "goals": 1
-    },
-    {
-      "name": "Michal Sadílek",
-      "team": "Czech Republic",
-      "goals": 1
-    },
-    {
-      "name": "Mohamed Salah",
-      "team": "Egypt",
-      "goals": 1
-    },
-    {
-      "name": "Mohammad Mohebbi",
-      "team": "Iran",
-      "goals": 1
-    },
-    {
-      "name": "Mostafa Zico",
-      "team": "Egypt",
-      "goals": 1
-    },
-    {
-      "name": "Nadhir Benbouali",
-      "team": "Algeria",
-      "goals": 1
-    },
-    {
-      "name": "Nathan Saliba",
-      "team": "Canada",
-      "goals": 1
-    },
-    {
-      "name": "Nathaniel Brown",
-      "team": "Germany",
-      "goals": 1
-    },
-    {
-      "name": "Nestory Irankunda",
-      "team": "Australia",
-      "goals": 1
-    },
-    {
-      "name": "Nico Schlotterbeck",
-      "team": "Germany",
-      "goals": 1
-    },
-    {
-      "name": "Nilson Angulo",
-      "team": "Ecuador",
-      "goals": 1
-    },
-    {
-      "name": "Nizar Al-Rashdan",
-      "team": "Jordan",
-      "goals": 1
-    },
-    {
-      "name": "Nuno Mendes",
-      "team": "Portugal",
-      "goals": 1
-    },
-    {
-      "name": "Oh Hyeon-Gyu",
-      "team": "South Korea",
-      "goals": 1
-    },
-    {
-      "name": "Omar Rekik",
-      "team": "Tunisia",
-      "goals": 1
-    },
-    {
-      "name": "Petar Musa",
-      "team": "Croatia",
-      "goals": 1
-    },
-    {
-      "name": "Promise David",
-      "team": "Canada",
-      "goals": 1
-    },
-    {
-      "name": "Rafael Leão",
-      "team": "Portugal",
-      "goals": 1
-    },
-    {
-      "name": "Ramin Rezaeian",
-      "team": "Iran",
-      "goals": 1
-    },
-    {
-      "name": "Raúl Jiménez",
-      "team": "Mexico",
-      "goals": 1
-    },
-    {
-      "name": "Romano Schmid",
-      "team": "Austria",
-      "goals": 1
-    },
-    {
-      "name": "Sebastian Berhalter",
-      "team": "USA",
-      "goals": 1
-    },
-    {
-      "name": "Soufiane Rahimi",
-      "team": "Morocco",
-      "goals": 1
-    },
-    {
-      "name": "Teboho Mokoena",
-      "team": "South Africa",
-      "goals": 1
-    },
-    {
-      "name": "Thapelo Maseko",
-      "team": "South Africa",
-      "goals": 1
-    },
-    {
-      "name": "Thelo Aasgaard",
-      "team": "Norway",
-      "goals": 1
-    },
-    {
-      "name": "Trézéguet",
-      "team": "Egypt",
-      "goals": 1
-    },
-    {
-      "name": "Viktor Gyökeres",
-      "team": "Sweden",
-      "goals": 1
-    },
-    {
-      "name": "Virgil van Dijk",
-      "team": "Netherlands",
-      "goals": 1
-    },
-    {
-      "name": "Wilson Isidor",
-      "team": "Haiti",
-      "goals": 1
-    },
-    {
-      "name": "Yoane Wissa",
-      "team": "DR Congo",
-      "goals": 1
+      "goals": 2,
+      "matches": [
+        {
+          "number": 67,
+          "opponent": "Croatia",
+          "date": "2026-06-17",
+          "kickoff": "2026-06-17T20:00:00.000Z",
+          "score": [
+            4,
+            2
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "England國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
     }
   ],
   "news": [
@@ -2445,6 +2557,12 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Bc0xyTm4weXlaODZ1WTRKUjFhNklKYkNwcnI0dzlLbmFDaDNmclBPdHFrRW03R0lMVUlDbGNrYnB3d0lucXdzMkJneUtkZkgyTVNXaFVVaDZlWmlVQThR?oc=5",
       "pubDate": "Thu, 25 Jun 2026 22:56:00 GMT",
       "source": "中央社 CNA"
+    },
+    {
+      "title": "《2026世界盃》從形勢大好到爆冷輸給南非 南韓到底想踢出什麼樣的足球？ - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQVEpkTWFjSGY5akZtTWs1U3IzT2ZiVXU1MEY3Yk9XNmw4Y2pNV1hvbjNDZjl2MXRoVk95NWRsd2Jma0J3TjRySk5ZbjFvNDcy?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 15:33:10 GMT",
+      "source": "運動視界Sports Vision"
     },
     {
       "title": "挪威世界盃2026賽程｜國家隊球員陣容名單+足球排名 - 香港01",
@@ -2475,27 +2593,21 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uNEVwcXZEa3p2V1lmNmNhUTdYNTVDcGFuNDdQWVhoall2NDF3YVp2dDZjeXcwS1FpVG1FMWZVTWFvak52MzdfNUJRWGzSAVJBVV95cUxNQzh2TkdYdVJqTzZwSGI5blR4ZzI0NHlscENhMXNqRVBPc29oaUZEMWRvSnJ2MjdIT2w1aHNtaWtvWm4zenNwZGhRMV9Vekx5VVZR?oc=5",
       "pubDate": "Thu, 25 Jun 2026 22:00:00 GMT",
       "source": "NOWnews今日新聞"
-    },
-    {
-      "title": "世足／2026世界盃入場觀眾逾360萬 超越1994年創史上新高 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3dXd5eDBjTFZ2cnFfR1pnN1pYTmFoMEJVZElfSVFybHZJNzhYQlZmVkVIZWF6cllScWZIa1dhYlRHZFdWazZqWTJKUW00Rm1ENWxr?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 04:42:00 GMT",
-      "source": "東森新聞"
     }
   ],
   "odds": [
     {
       "home": "Cape Verde",
       "away": "Saudi Arabia",
-      "homePrice": 3,
-      "drawPrice": 2.1,
-      "awayPrice": 3.6
+      "homePrice": 3.2,
+      "drawPrice": 1.9,
+      "awayPrice": 4
     },
     {
       "home": "Uruguay",
       "away": "Spain",
-      "homePrice": 13,
-      "drawPrice": 4.7,
+      "homePrice": 12,
+      "drawPrice": 5,
       "awayPrice": 1.25
     },
     {
@@ -2587,27 +2699,27 @@
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.41,
       "drawPrice": 5.1,
-      "awayPrice": 10
+      "awayPrice": 9.8
     }
   ],
   "videos": [
     {
-      "id": "aEdp4GqhdNo",
-      "title": "Ousmane Dembélé reacts to World Cup HAT TRICK for France 😮‍💨",
-      "label": "ESPN UK 世界盃焦點",
-      "url": "https://www.youtube.com/watch?v=aEdp4GqhdNo"
+      "id": "Gb-PuoAYFhU",
+      "title": "【2026 FIFA世界盃™】塞內加爾狂轟5球！勝伊拉克保一線生機/愛爾達電視20260627",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=Gb-PuoAYFhU"
     },
     {
-      "id": "n15UVrmTpFk",
-      "title": "Breaking down France’s path to the World Cup Final after 4-1 win vs. Norway | ESPN FC Full Show",
-      "label": "ESPN FC 世界盃焦點",
-      "url": "https://www.youtube.com/watch?v=n15UVrmTpFk"
+      "id": "SjsMWsFV-M8",
+      "title": "【2026 FIFA世界盃™】登貝萊戴帽史上第二快！法國4：1奪I組龍頭/愛爾達電視20260627",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=SjsMWsFV-M8"
     },
     {
-      "id": "EkWuGx5S7QQ",
-      "title": "Uruguay vs. Spain PREVIEW 🍿 2026 World Cup | ESPN FC",
-      "label": "ESPN FC 世界盃焦點",
-      "url": "https://www.youtube.com/watch?v=EkWuGx5S7QQ"
+      "id": "8KFmKfaurfc",
+      "title": "【全場精華】挪威 VS 法國 I組第三輪｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=8KFmKfaurfc"
     }
   ]
 }
