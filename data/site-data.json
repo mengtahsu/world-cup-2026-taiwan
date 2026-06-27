@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T01:40:48.746Z",
+  "updatedAt": "2026-06-27T05:04:27.107Z",
   "matches": [
     {
       "number": 1,
@@ -644,6 +644,10 @@
       "kickoff": "2026-06-27T00:00:00.000Z",
       "team1": "Cape Verde",
       "team2": "Saudi Arabia",
+      "score": [
+        0,
+        0
+      ],
       "group": "Group H",
       "ground": "Houston"
     },
@@ -654,6 +658,10 @@
       "kickoff": "2026-06-27T00:00:00.000Z",
       "team1": "Uruguay",
       "team2": "Spain",
+      "score": [
+        0,
+        1
+      ],
       "group": "Group H",
       "ground": "Guadalajara (Zapopan)"
     },
@@ -1579,43 +1587,43 @@
       "teams": [
         {
           "team": "Spain",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "gf": 4,
+          "gf": 5,
           "ga": 0,
-          "points": 4
-        },
-        {
-          "team": "Uruguay",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 3,
-          "ga": 3,
-          "points": 2
+          "points": 7
         },
         {
           "team": "Cape Verde",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 2,
+          "drawn": 3,
           "lost": 0,
           "gf": 2,
           "ga": 2,
+          "points": 3
+        },
+        {
+          "team": "Uruguay",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "gf": 3,
+          "ga": 4,
           "points": 2
         },
         {
           "team": "Saudi Arabia",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 1,
           "gf": 1,
           "ga": 5,
-          "points": 1
+          "points": 2
         }
       ]
     },
@@ -1830,8 +1838,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Argentina國家隊球員，本屆世界盃目前攻進 5 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178_%28cropped_2%29.jpg/500px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178_%28cropped_2%29.jpg",
+        "bio": "Argentine footballer (born 1987)"
       }
     },
     {
@@ -1929,8 +1937,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg/500px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg",
+        "bio": "French footballer (born 1997)"
       }
     },
     {
@@ -2039,8 +2047,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
+        "bio": "German footballer (born 1996)"
       }
     },
     {
@@ -2116,8 +2124,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Senegal國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/500px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg",
+        "bio": "Senegalese footballer (born 1998)"
       }
     },
     {
@@ -2171,8 +2179,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jonathan_David_asse_losc_2425_%28cropped%29.jpg/500px-Jonathan_David_asse_losc_2425_%28cropped%29.jpg",
-        "bio": "Soccer player (born 2000)"
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2204,8 +2212,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg/500px-Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg",
-        "bio": "Brazilian footballer (born 1999)"
+        "photo": "",
+        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2237,8 +2245,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Sweden國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg/500px-Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+        "bio": "Swedish footballer (born 2002)"
       }
     },
     {
@@ -2259,8 +2267,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Go_Ahead_Eagles_-_Feyenoord_-_53679351240_%28Ayase_Ueda_02%29.jpg/500px-Go_Ahead_Eagles_-_Feyenoord_-_53679351240_%28Ayase_Ueda_02%29.jpg",
-        "bio": "Japanese footballer (born 1998)"
+        "photo": "",
+        "bio": "Japan國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     },
     {
@@ -2369,8 +2377,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cyle_Larin_%282021-22_S%C3%BCper_Lig%29_-_Resim1_%28cropped%29.png/500px-Cyle_Larin_%282021-22_S%C3%BCper_Lig%29_-_Resim1_%28cropped%29.png",
-        "bio": "Canadian soccer player (born 1995)"
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     },
     {
@@ -2539,35 +2547,76 @@
       }
     }
   ],
-  "news": [],
-  "odds": [
+  "news": [
     {
-      "home": "Cape Verde",
-      "away": "Saudi Arabia",
-      "homePrice": 4,
-      "drawPrice": 1.6,
-      "awayPrice": 4.7
+      "title": "2026世足賽賽程｜6月27日小組賽第三輪，單日6場賽事比賽時間、直播線上看管道、戰績排名總整理晉級32強淘汰賽名單一次看！【2026年國際足總世界盃】 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPNGNRLW1GOEFoT3B4bk02UThGSmxDY3RaRWY2QlFPY19VbzVsWlRvdmZTZ01qLVRQTDI1cmw5a0k1OVNiMGh6RnFES0VOcW1YRmN5NkppVHVqMV95R3l5dkNoMlpCbEJPR0dxOVFpdVZJTGtxUFZyS1pkclVIbFNrNW5VYVptWjJfSUZOYVBUOURPV1FJOTIzV1NLc2o4X054aUVDbnNFdl8waW1lZHVhNU01eXk5eTFNOHlDV2dPUDgwTFpYbW9vQ1Q5VlB3ZVJKbV8zZHJwcjd2YzBhR3M4RGZjcmhmY214RWhlZWJUVGRObTROeFYzak0zaFB1VGkxS1BDYXpZWW5RMUJ6T3FZbmZkYVFDNlh3NEZFUzhpdHFzTTZwb1JCWmVXNUgwanQxMkZoVE9PN1dYZU9MMUM1T3JqcFg4aWZPdmVMWnBzT0kxR012eXp2SWl4SGlObTNaOFlNc3J4SDRJWUx3ajhNVDRWLWRhZE16RkRMdTgxaVVMNFNlbERBanREX3dvSklsOUZpVV80NU5obmNTUUJZMDY2UzhnTWkxc090U19PNGxaSVQwYjJNSjkzWmZTRm9QemVFaEJyTlItWDE2SGRYYnZzaWp6Nk5JaUlrWnVYZjU?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 02:50:42 GMT",
+      "source": "Yahoo運動"
     },
     {
-      "home": "Uruguay",
-      "away": "Spain",
-      "homePrice": 25,
-      "drawPrice": 5,
-      "awayPrice": 1.18
+      "title": "2026世界盃｜法國4：1擊敗挪威！登貝萊32分鐘帽子戲法，哈蘭德缺陣無緣對決姆巴佩 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JQzB5aFM5VTdEMUp6SzNNRENiNW5YdGR6UDVmYkIwdUhZdDU2RDZIUDhiWEt2UlRELVg5MWM1dF94aGlIMmRtMnFUNGlIaDdKdWVPUWV4azFqanVnOEdNeDB1OWN0Qm95UHo5T21DTGxXenM?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 15:09:20 GMT",
+      "source": "ELLE"
+    },
+    {
+      "title": "2026世界盃｜分組賽32強晉級名單：最新出線隊伍、淘汰國家名單懶人包（持續更新） - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjlHTm1kbXJYR1F2aXZKczRUcDNQLVhsVVpiSW5XeXBHOTZMZS1ZLVlZTXpCYmR1c2pXZ0JETzk4cktQQ040UkJuSm5qYlNvRk8xUEtXY1VpTWdCdzJta25GRlo4UjI0aXVQdlFlSUxZTW1iMWJlYXlLQ1RYa2phTVRaTG5Iam0zSF9UdmdwMTQ2Y0FMakhDQ3gwVkRPZkVzNEwxbnZnb0hTTm9VeWpEcQ?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 03:01:39 GMT",
+      "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "2026世足賽哪裡看？台灣轉播平台、賽程表、分組名單懶人包 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed0dwMGdsWkxFV1p1MEVOOFlKZzd4WkJLUjZxWWRFczV0ZjBoSUZ2bXk1MTNBTWtDemlNVzd3Q3RRU2djaTdnTlRwWDJERnlvS2hpcDd6TV9EeHdMOEt5ZHZLb1BaSWFRaUFkSlhVamcxdlU?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 03:16:58 GMT",
+      "source": "數位時代"
+    },
+    {
+      "title": "荷蘭3：1大勝突尼西亞【2026世界盃足球賽賽程表】每日賽事亮點 - Cosmopolitan",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RXM2pMaEdkcmtyNERVbEQzZnNtc2VxWXVRV0ZQZWhLNzJidEdsYUFXRFRoVEozME9CVFloWGpUQ1A2TzFVbDRra19UcEhEM3RleWo5eGFVdHZheEJBTHdjZWNyWHh1Y2E0MzRuS1R1SERJbUtEd2xkRHNyZjN3ZG5EY1M5ODktdkl5YlgzV1Q?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 02:21:06 GMT",
+      "source": "Cosmopolitan"
+    },
+    {
+      "title": "2026世界盃｜法國4：1勝挪威小組第一晉級！48隊分組、賽程表與淘汰賽一次看 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU1USFR0U2FwRXgzblVkbkNtM2pZdnBtV2hsTEEwUFZmN3gyb3dxcUNYaVRxZHBkLW1Tc1F5SGU0MUFGWk83ZXh0Tk94OUpXNmhBQXFBcjlqa0M1MkUwODE2a0VhaF9yWnF1VUpSVTBJdzZfN1NlXzBCbmpsMVdUZV9rbDVLZw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 01:58:58 GMT",
+      "source": "ELLE"
+    },
+    {
+      "title": "2026世界盃殘酷開局！首批遭淘汰國家隊出爐（持續更新） - GQ Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVHptZDYwOENKbnFXWmMzOUREaDM0QnlEclNZSzhnXzJKOWU3TlVMRi1RbkZRNW5JektMeURlSVpFeU5DRFdLUHI0Zi1kaXpRRE0yX0tGN09XcEhmVWxwQldqcWdZRTZYM2JBT3ZnbmEzR2F6ZUg3ajdYWDZTazQxQS1jMmNsOEM2VHYzanNieFYzUWhxVjJRSTBaSmUtX29pRFVtVi1ldDhTcjJOeWZYQ3lUM1pzaGwzUlh3NWctak1DV29XcmNnblp1RHp0TnRvYkJpVTBabWlxaUZ5ak1EaS1meE0xZw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 01:10:59 GMT",
+      "source": "GQ Taiwan"
+    },
+    {
+      "title": "每日更新／2026世界盃足球賽 ｜淘汰賽對戰表、最新賽果 - 民視新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mOWlvRFd6dExlZXFrU2J5NEN6VHhvbWFaVWlNTC1KQ25ZRDR6TzViZkNrY3FwbHdyLXlDdm9SZDBwcjhXX0pLeGtPRDFOUURReFl6Rm8xU1dfa1BxOVFIRw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 14:41:58 GMT",
+      "source": "民視新聞網"
+    },
+    {
+      "title": "2026 世界盃足球賽 06/27【挪威 vs 法國】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XWUxwY3kyVmpERnpIY3JIbkVQWVFrVFA4cWNYT19JbUdKMTlvU01wZTlvLXNXN0tMT1RLLWRNNm1sUkdoSEhGdjdQNS0?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:31:28 GMT",
+      "source": "蘋果仁"
+    }
+  ],
+  "odds": [
+    {
+      "home": "Egypt",
+      "away": "Iran",
+      "homePrice": 100,
+      "drawPrice": 9.5,
+      "awayPrice": 1.03
     },
     {
       "home": "New Zealand",
       "away": "Belgium",
-      "homePrice": 15.5,
-      "drawPrice": 8.15,
-      "awayPrice": 1.2
-    },
-    {
-      "home": "Egypt",
-      "away": "Iran",
-      "homePrice": 2.67,
-      "drawPrice": 2.6,
-      "awayPrice": 3.36
+      "homePrice": 90,
+      "drawPrice": 45,
+      "awayPrice": 1
     },
     {
       "home": "Croatia",
@@ -2579,16 +2628,16 @@
     {
       "home": "Panama",
       "away": "England",
-      "homePrice": 14,
-      "drawPrice": 7.8,
-      "awayPrice": 1.17
+      "homePrice": 16,
+      "drawPrice": 8.2,
+      "awayPrice": 1.15
     },
     {
       "home": "Colombia",
       "away": "Portugal",
-      "homePrice": 3.9,
-      "drawPrice": 3.5,
-      "awayPrice": 1.95
+      "homePrice": 3.85,
+      "drawPrice": 3.8,
+      "awayPrice": 1.89
     },
     {
       "home": "DR Congo",
@@ -2607,9 +2656,9 @@
     {
       "home": "Jordan",
       "away": "Argentina",
-      "homePrice": 16,
+      "homePrice": 18,
       "drawPrice": 8.2,
-      "awayPrice": 1.15
+      "awayPrice": 1.14
     },
     {
       "home": "South Africa",
@@ -2626,18 +2675,32 @@
       "awayPrice": 5.4
     },
     {
+      "home": "Germany",
+      "away": "Paraguay",
+      "homePrice": 1.37,
+      "drawPrice": 5.2,
+      "awayPrice": 7.8
+    },
+    {
       "home": "Netherlands",
       "away": "Morocco",
-      "homePrice": 2.08,
-      "drawPrice": 3.35,
-      "awayPrice": 4
+      "homePrice": 2.18,
+      "drawPrice": 3.3,
+      "awayPrice": 3.85
     },
     {
       "home": "Ivory Coast",
       "away": "Norway",
-      "homePrice": 4.1,
-      "drawPrice": 3.65,
-      "awayPrice": 1.91
+      "homePrice": 4,
+      "drawPrice": 3.55,
+      "awayPrice": 1.93
+    },
+    {
+      "home": "France",
+      "away": "Sweden",
+      "homePrice": 1.28,
+      "drawPrice": 5.7,
+      "awayPrice": 10
     },
     {
       "home": "USA",
@@ -2645,26 +2708,33 @@
       "homePrice": 1.41,
       "drawPrice": 5.1,
       "awayPrice": 9.8
+    },
+    {
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "homePrice": 1.19,
+      "drawPrice": 7.5,
+      "awayPrice": 17
     }
   ],
   "videos": [
     {
-      "id": "Gb-PuoAYFhU",
-      "title": "【2026 FIFA世界盃™】塞內加爾狂轟5球！勝伊拉克保一線生機/愛爾達電視20260627",
+      "id": "YksyhqsucUA",
+      "title": "【2026 FIFA世界盃™】維德角逼和三戰不敗 驚奇晉級32強賽/愛爾達電視20260627",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Gb-PuoAYFhU"
+      "url": "https://www.youtube.com/watch?v=YksyhqsucUA"
     },
     {
-      "id": "SjsMWsFV-M8",
-      "title": "【2026 FIFA世界盃™】登貝萊戴帽史上第二快！法國4：1奪I組龍頭/愛爾達電視20260627",
+      "id": "9RN63btHdFg",
+      "title": "【2026 FIFA世界盃™】烏拉圭「奶油手」釀禍 不敵西班牙遭淘汰/愛爾達電視20260627",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=SjsMWsFV-M8"
+      "url": "https://www.youtube.com/watch?v=9RN63btHdFg"
     },
     {
-      "id": "8KFmKfaurfc",
-      "title": "【全場精華】挪威 VS 法國 I組第三輪｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "XHbHgFi_2FA",
+      "title": "【全場精華】烏拉圭 VS 西班牙 H組第三輪｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=8KFmKfaurfc"
+      "url": "https://www.youtube.com/watch?v=XHbHgFi_2FA"
     }
   ]
 }
