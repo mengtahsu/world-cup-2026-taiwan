@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T05:04:27.107Z",
+  "updatedAt": "2026-06-27T08:07:15.416Z",
   "matches": [
     {
       "number": 1,
@@ -568,6 +568,10 @@
       "kickoff": "2026-06-27T03:00:00.000Z",
       "team1": "Egypt",
       "team2": "Iran",
+      "score": [
+        1,
+        1
+      ],
       "group": "Group G",
       "ground": "Seattle"
     },
@@ -578,6 +582,10 @@
       "kickoff": "2026-06-27T03:00:00.000Z",
       "team1": "New Zealand",
       "team2": "Belgium",
+      "score": [
+        1,
+        5
+      ],
       "group": "Group G",
       "ground": "Vancouver"
     },
@@ -1541,43 +1549,43 @@
       "name": "Group G",
       "teams": [
         {
-          "team": "Egypt",
-          "played": 2,
+          "team": "Belgium",
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "gf": 4,
+          "gf": 6,
           "ga": 2,
-          "points": 4
+          "points": 5
+        },
+        {
+          "team": "Egypt",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 5,
+          "ga": 3,
+          "points": 5
         },
         {
           "team": "Iran",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 2,
+          "drawn": 3,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
-          "points": 2
-        },
-        {
-          "team": "Belgium",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "points": 2
+          "gf": 3,
+          "ga": 3,
+          "points": 3
         },
         {
           "team": "New Zealand",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 1,
-          "lost": 1,
-          "gf": 3,
-          "ga": 5,
+          "lost": 2,
+          "gf": 4,
+          "ga": 10,
           "points": 1
         }
       ]
@@ -2052,6 +2060,39 @@
       }
     },
     {
+      "name": "Elijah Just",
+      "team": "New Zealand",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 38,
+          "opponent": "Iran",
+          "date": "2026-06-15",
+          "kickoff": "2026-06-16T01:00:00.000Z",
+          "score": [
+            2,
+            2
+          ],
+          "goals": 2
+        },
+        {
+          "number": 42,
+          "opponent": "Belgium",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-27T03:00:00.000Z",
+          "score": [
+            1,
+            5
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
+        "bio": "New Zealand footballer (born 2000)"
+      }
+    },
+    {
       "name": "Ismael Saibari",
       "team": "Morocco",
       "goals": 3,
@@ -2091,8 +2132,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
+        "bio": "Moroccan footballer (born 2001)"
       }
     },
     {
@@ -2245,8 +2286,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg/500px-Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
-        "bio": "Swedish footballer (born 2002)"
+        "photo": "",
+        "bio": "Sweden國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     },
     {
@@ -2448,28 +2489,6 @@
       }
     },
     {
-      "name": "Elijah Just",
-      "team": "New Zealand",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 38,
-          "opponent": "Iran",
-          "date": "2026-06-15",
-          "kickoff": "2026-06-16T01:00:00.000Z",
-          "score": [
-            2,
-            2
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "",
-        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 2 球。"
-      }
-    },
-    {
       "name": "Ermin Mahmic",
       "team": "Bosnia & Herzegovina",
       "goals": 2,
@@ -2549,9 +2568,9 @@
   ],
   "news": [
     {
-      "title": "2026世足賽賽程｜6月27日小組賽第三輪，單日6場賽事比賽時間、直播線上看管道、戰績排名總整理晉級32強淘汰賽名單一次看！【2026年國際足總世界盃】 - Yahoo運動",
+      "title": "2026世足賽賽程｜6月28日小組賽最後一天！比賽時間、直播線上看管道、戰績排名總整理晉級32強淘汰賽名單一次看！【2026年國際足總世界盃】 - Yahoo運動",
       "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPNGNRLW1GOEFoT3B4bk02UThGSmxDY3RaRWY2QlFPY19VbzVsWlRvdmZTZ01qLVRQTDI1cmw5a0k1OVNiMGh6RnFES0VOcW1YRmN5NkppVHVqMV95R3l5dkNoMlpCbEJPR0dxOVFpdVZJTGtxUFZyS1pkclVIbFNrNW5VYVptWjJfSUZOYVBUOURPV1FJOTIzV1NLc2o4X054aUVDbnNFdl8waW1lZHVhNU01eXk5eTFNOHlDV2dPUDgwTFpYbW9vQ1Q5VlB3ZVJKbV8zZHJwcjd2YzBhR3M4RGZjcmhmY214RWhlZWJUVGRObTROeFYzak0zaFB1VGkxS1BDYXpZWW5RMUJ6T3FZbmZkYVFDNlh3NEZFUzhpdHFzTTZwb1JCWmVXNUgwanQxMkZoVE9PN1dYZU9MMUM1T3JqcFg4aWZPdmVMWnBzT0kxR012eXp2SWl4SGlObTNaOFlNc3J4SDRJWUx3ajhNVDRWLWRhZE16RkRMdTgxaVVMNFNlbERBanREX3dvSklsOUZpVV80NU5obmNTUUJZMDY2UzhnTWkxc090U19PNGxaSVQwYjJNSjkzWmZTRm9QemVFaEJyTlItWDE2SGRYYnZzaWp6Nk5JaUlrWnVYZjU?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 02:50:42 GMT",
+      "pubDate": "Sat, 27 Jun 2026 05:48:23 GMT",
       "source": "Yahoo運動"
     },
     {
@@ -2563,8 +2582,20 @@
     {
       "title": "2026世界盃｜分組賽32強晉級名單：最新出線隊伍、淘汰國家名單懶人包（持續更新） - Harper's BAZAAR",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjlHTm1kbXJYR1F2aXZKczRUcDNQLVhsVVpiSW5XeXBHOTZMZS1ZLVlZTXpCYmR1c2pXZ0JETzk4cktQQ040UkJuSm5qYlNvRk8xUEtXY1VpTWdCdzJta25GRlo4UjI0aXVQdlFlSUxZTW1iMWJlYXlLQ1RYa2phTVRaTG5Iam0zSF9UdmdwMTQ2Y0FMakhDQ3gwVkRPZkVzNEwxbnZnb0hTTm9VeWpEcQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 03:01:39 GMT",
+      "pubDate": "Sat, 27 Jun 2026 06:00:46 GMT",
       "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "荷蘭3：1大勝突尼西亞【2026世界盃足球賽賽程表】每日賽事亮點 - Cosmopolitan",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RXM2pMaEdkcmtyNERVbEQzZnNtc2VxWXVRV0ZQZWhLNzJidEdsYUFXRFRoVEozME9CVFloWGpUQ1A2TzFVbDRra19UcEhEM3RleWo5eGFVdHZheEJBTHdjZWNyWHh1Y2E0MzRuS1R1SERJbUtEd2xkRHNyZjN3ZG5EY1M5ODktdkl5YlgzV1Q?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 05:23:48 GMT",
+      "source": "Cosmopolitan"
+    },
+    {
+      "title": "2026世界盃｜維德角0：0逼和沙烏地阿拉伯！首戰世足就闖淘汰賽，48隊分組與賽程一次看 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU1USFR0U2FwRXgzblVkbkNtM2pZdnBtV2hsTEEwUFZmN3gyb3dxcUNYaVRxZHBkLW1Tc1F5SGU0MUFGWk83ZXh0Tk94OUpXNmhBQXFBcjlqa0M1MkUwODE2a0VhaF9yWnF1VUpSVTBJdzZfN1NlXzBCbmpsMVdUZV9rbDVLZw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 05:14:47 GMT",
+      "source": "ELLE"
     },
     {
       "title": "2026世足賽哪裡看？台灣轉播平台、賽程表、分組名單懶人包 - 數位時代",
@@ -2573,57 +2604,31 @@
       "source": "數位時代"
     },
     {
-      "title": "荷蘭3：1大勝突尼西亞【2026世界盃足球賽賽程表】每日賽事亮點 - Cosmopolitan",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RXM2pMaEdkcmtyNERVbEQzZnNtc2VxWXVRV0ZQZWhLNzJidEdsYUFXRFRoVEozME9CVFloWGpUQ1A2TzFVbDRra19UcEhEM3RleWo5eGFVdHZheEJBTHdjZWNyWHh1Y2E0MzRuS1R1SERJbUtEd2xkRHNyZjN3ZG5EY1M5ODktdkl5YlgzV1Q?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 02:21:06 GMT",
-      "source": "Cosmopolitan"
-    },
-    {
-      "title": "2026世界盃｜法國4：1勝挪威小組第一晉級！48隊分組、賽程表與淘汰賽一次看 - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU1USFR0U2FwRXgzblVkbkNtM2pZdnBtV2hsTEEwUFZmN3gyb3dxcUNYaVRxZHBkLW1Tc1F5SGU0MUFGWk83ZXh0Tk94OUpXNmhBQXFBcjlqa0M1MkUwODE2a0VhaF9yWnF1VUpSVTBJdzZfN1NlXzBCbmpsMVdUZV9rbDVLZw?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 01:58:58 GMT",
-      "source": "ELLE"
-    },
-    {
       "title": "2026世界盃殘酷開局！首批遭淘汰國家隊出爐（持續更新） - GQ Taiwan",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVHptZDYwOENKbnFXWmMzOUREaDM0QnlEclNZSzhnXzJKOWU3TlVMRi1RbkZRNW5JektMeURlSVpFeU5DRFdLUHI0Zi1kaXpRRE0yX0tGN09XcEhmVWxwQldqcWdZRTZYM2JBT3ZnbmEzR2F6ZUg3ajdYWDZTazQxQS1jMmNsOEM2VHYzanNieFYzUWhxVjJRSTBaSmUtX29pRFVtVi1ldDhTcjJOeWZYQ3lUM1pzaGwzUlh3NWctak1DV29XcmNnblp1RHp0TnRvYkJpVTBabWlxaUZ5ak1EaS1meE0xZw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 01:10:59 GMT",
+      "pubDate": "Sat, 27 Jun 2026 01:03:26 GMT",
       "source": "GQ Taiwan"
     },
     {
-      "title": "每日更新／2026世界盃足球賽 ｜淘汰賽對戰表、最新賽果 - 民視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mOWlvRFd6dExlZXFrU2J5NEN6VHhvbWFaVWlNTC1KQ25ZRDR6TzViZkNrY3FwbHdyLXlDdm9SZDBwcjhXX0pLeGtPRDFOUURReFl6Rm8xU1dfa1BxOVFIRw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 14:41:58 GMT",
-      "source": "民視新聞網"
+      "title": "世足》32強有28隊出爐 南韓瀕臨淘汰 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ERXhxTjdfLU82eXg1RzBnMHJHOXVkT1BnejV4aVhVY1lqemlWTGpfdlRUZEtLcHYyTTRSMWxUZ1E5OHhXMVlvY0otZEQwOXJvWW9EdmxkblZtSzlJLXBlV9IBZkFVX3lxTE53eG1wRWg5REM3M0h2UGlTV1IzZDlxbVFqNGlpT1V5UVJKem1QbmN1RDBPLVFpbkk5bFJPakpXc1l0SlluZEMwZ0NmQXFVQ0lzMVhzRW9IMDdfTFU5TmZsalNRVXFDZw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 05:56:00 GMT",
+      "source": "自由體育"
     },
     {
-      "title": "2026 世界盃足球賽 06/27【挪威 vs 法國】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XWUxwY3kyVmpERnpIY3JIbkVQWVFrVFA4cWNYT19JbUdKMTlvU01wZTlvLXNXN0tMT1RLLWRNNm1sUkdoSEhGdjdQNS0?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 20:31:28 GMT",
+      "title": "2026 國際足總世界盃戰績排名：世足 A～L 組積分、最佳第三名、32 強晉級整理（持續更新） - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzTmxENU8xOW5jdUVzeEw3OUVNVkdSOFBfdXFyemtXTE1VTmlZa3FHWmhmWnVVUWFWcWEteXJiQlp5cmRXLXZNM1c1dmE?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 05:04:51 GMT",
       "source": "蘋果仁"
     }
   ],
   "odds": [
     {
-      "home": "Egypt",
-      "away": "Iran",
-      "homePrice": 100,
-      "drawPrice": 9.5,
-      "awayPrice": 1.03
-    },
-    {
-      "home": "New Zealand",
-      "away": "Belgium",
-      "homePrice": 90,
-      "drawPrice": 45,
-      "awayPrice": 1
-    },
-    {
       "home": "Croatia",
       "away": "Ghana",
-      "homePrice": 1.75,
-      "drawPrice": 3.3,
-      "awayPrice": 5.5
+      "homePrice": 1.85,
+      "drawPrice": 3.2,
+      "awayPrice": 5
     },
     {
       "home": "Panama",
@@ -2635,16 +2640,16 @@
     {
       "home": "Colombia",
       "away": "Portugal",
-      "homePrice": 3.85,
+      "homePrice": 3.5,
       "drawPrice": 3.8,
-      "awayPrice": 1.89
+      "awayPrice": 2
     },
     {
       "home": "DR Congo",
       "away": "Uzbekistan",
-      "homePrice": 1.77,
-      "drawPrice": 4.1,
-      "awayPrice": 4.7
+      "homePrice": 1.65,
+      "drawPrice": 4.25,
+      "awayPrice": 5.5
     },
     {
       "home": "Algeria",
@@ -2656,37 +2661,37 @@
     {
       "home": "Jordan",
       "away": "Argentina",
-      "homePrice": 18,
-      "drawPrice": 8.2,
-      "awayPrice": 1.14
+      "homePrice": 17,
+      "drawPrice": 9,
+      "awayPrice": 1.13
     },
     {
       "home": "South Africa",
       "away": "Canada",
-      "homePrice": 5.4,
-      "drawPrice": 3.5,
-      "awayPrice": 1.67
+      "homePrice": 5.6,
+      "drawPrice": 3.6,
+      "awayPrice": 1.63
     },
     {
       "home": "Brazil",
       "away": "Japan",
-      "homePrice": 1.73,
-      "drawPrice": 3.85,
-      "awayPrice": 5.4
+      "homePrice": 1.71,
+      "drawPrice": 3.9,
+      "awayPrice": 5.5
     },
     {
       "home": "Germany",
       "away": "Paraguay",
-      "homePrice": 1.37,
+      "homePrice": 1.35,
       "drawPrice": 5.2,
-      "awayPrice": 7.8
+      "awayPrice": 8.5
     },
     {
       "home": "Netherlands",
       "away": "Morocco",
       "homePrice": 2.18,
-      "drawPrice": 3.3,
-      "awayPrice": 3.85
+      "drawPrice": 3.2,
+      "awayPrice": 3.8
     },
     {
       "home": "Ivory Coast",
@@ -2699,42 +2704,49 @@
       "home": "France",
       "away": "Sweden",
       "homePrice": 1.28,
-      "drawPrice": 5.7,
+      "drawPrice": 5.8,
       "awayPrice": 10
     },
     {
       "home": "USA",
       "away": "Bosnia & Herzegovina",
-      "homePrice": 1.41,
-      "drawPrice": 5.1,
-      "awayPrice": 9.8
+      "homePrice": 1.39,
+      "drawPrice": 5.2,
+      "awayPrice": 10
+    },
+    {
+      "home": "Australia",
+      "away": "Egypt",
+      "homePrice": 3.55,
+      "drawPrice": 3.15,
+      "awayPrice": 2.3
     },
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.19,
+      "homePrice": 1.18,
       "drawPrice": 7.5,
-      "awayPrice": 17
+      "awayPrice": 18
     }
   ],
   "videos": [
     {
-      "id": "YksyhqsucUA",
-      "title": "【2026 FIFA世界盃™】維德角逼和三戰不敗 驚奇晉級32強賽/愛爾達電視20260627",
+      "id": "qNhNgz_WD_M",
+      "title": "【2026 FIFA世界盃™】特羅薩德梅開二度 比利時大勝小組一晉級/愛爾達電視20260627",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=YksyhqsucUA"
+      "url": "https://www.youtube.com/watch?v=qNhNgz_WD_M"
     },
     {
-      "id": "9RN63btHdFg",
-      "title": "【2026 FIFA世界盃™】烏拉圭「奶油手」釀禍 不敵西班牙遭淘汰/愛爾達電視20260627",
+      "id": "UYus6Kx8g7k",
+      "title": "【2026 FIFA世界盃™】補時超前球被判越位 埃及晉級伊朗再等等/愛爾達電視20260627",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=9RN63btHdFg"
+      "url": "https://www.youtube.com/watch?v=UYus6Kx8g7k"
     },
     {
-      "id": "XHbHgFi_2FA",
-      "title": "【全場精華】烏拉圭 VS 西班牙 H組第三輪｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "vN3xankMGuw",
+      "title": "【全場精華】紐西蘭 VS 比利時 G組第三輪｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=XHbHgFi_2FA"
+      "url": "https://www.youtube.com/watch?v=vN3xankMGuw"
     }
   ]
 }
