@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T01:27:21.617Z",
+  "updatedAt": "2026-06-27T01:30:44.494Z",
   "matches": [
     {
       "number": 1,
@@ -1830,8 +1830,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Argentina國家隊球員，本屆世界盃目前攻進 5 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/500px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+        "bio": "阿根廷足球運動員"
       }
     },
     {
@@ -1863,8 +1863,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Norway國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mohamed_Salah_06042025_%281%29.jpg/500px-Mohamed_Salah_06042025_%281%29.jpg",
+        "bio": "Norway國家隊球員"
       }
     },
     {
@@ -1929,8 +1929,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_Ligue_1_McDonald%27s_2024.svg/500px-Logo_Ligue_1_McDonald%27s_2024.svg.png",
+        "bio": "France國家隊球員"
       }
     },
     {
@@ -2006,8 +2006,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/EnglandTyneWear.png",
+        "bio": "英格兰桑德兰的足球俱乐部"
       }
     },
     {
@@ -2116,8 +2116,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Senegal國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Senegal_fans_Russia_2018.jpg/500px-Senegal_fans_Russia_2018.jpg",
+        "bio": "塞內加爾國家體育代表隊"
       }
     },
     {
@@ -2204,8 +2204,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/EnglandGreaterManchester.png",
+        "bio": "英格蘭足球俱樂部"
       }
     },
     {
@@ -2599,16 +2599,16 @@
     {
       "home": "Cape Verde",
       "away": "Saudi Arabia",
-      "homePrice": 3.2,
-      "drawPrice": 1.9,
+      "homePrice": 3.8,
+      "drawPrice": 1.75,
       "awayPrice": 4
     },
     {
       "home": "Uruguay",
       "away": "Spain",
-      "homePrice": 12,
-      "drawPrice": 5,
-      "awayPrice": 1.25
+      "homePrice": 18,
+      "drawPrice": 4.7,
+      "awayPrice": 1.22
     },
     {
       "home": "New Zealand",
