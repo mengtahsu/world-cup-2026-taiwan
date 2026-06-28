@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:18:43.423Z",
+  "updatedAt": "2026-06-28T22:16:19.060Z",
   "matches": [
     {
       "number": 1,
@@ -1016,6 +1016,10 @@
       "kickoff": "2026-06-28T19:00:00.000Z",
       "team1": "South Africa",
       "team2": "Canada",
+      "score": [
+        0,
+        1
+      ],
       "ground": "Los Angeles (Inglewood)"
     },
     {
@@ -2090,8 +2094,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
+        "bio": "German footballer (born 1996)"
       }
     },
     {
@@ -2200,8 +2204,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
-        "bio": "Moroccan footballer (born 2001)"
+        "photo": "",
+        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2486,8 +2490,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Crysencio_Summerville_of_West_Ham_United.jpeg/500px-Crysencio_Summerville_of_West_Ham_United.jpeg",
+        "bio": "Dutch footballer"
       }
     },
     {
@@ -2631,28 +2635,28 @@
       "source": "自由體育"
     },
     {
-      "title": "2026世足》32強名單底定！亞洲球隊僅剩2支、梅西堆高進球紀錄，完整對戰看這邊| 國際中心| 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01dE5qVGx0cG95emlHVjV2aVlNU0tNS19NR0JrQk42SEtET2UwbUtybmpPWUxBT0QyNlFCUTBWX01IYzAybXZRYWlpbGhsUQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 05:05:00 GMT",
-      "source": "Storm.mg"
+      "title": "世足賽／傷停補時關鍵絕殺！加拿大1比0險勝南非挺進淘汰賽下一輪| 2026美加墨世足| 運動 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZlpFU0tObmlob3pUckY3TElud1FFNjBGQ1dRUThnOFh6Tnd0NFJGVHVJVTI0bEFtdWhVcUk3U3Y2T3otQlJJSzFIN3oyWEIxMFc0?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 21:10:50 GMT",
+      "source": "UDN"
     },
     {
-      "title": "世足／超慘！強權爆冷淘汰 要自己買機票回家 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWHJMSGF4bWJEMnBHZG55Z1VpSmFOcS0tRk1CT0lBRnlSY3dkV1dhb1FXOFZMcnJ0RF9NMGl1WHBfMFdIcmdBTmpuazZGWmNWNVF3?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 13:48:00 GMT",
-      "source": "東森新聞"
+      "title": "世界盃2026｜加拿大92分鐘絕殺南非 晉16強創隊史 - 星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPX212R2liSWFNbXZEalF2dmo5alVOY24tbTNBN3MzbHhLWnlnREFCZnQ0MFhOQk9GQ3VsYnpFWUI1UU1xcWpjWmc0VUJKWkYwS3BxakN1MEdMZWJjRkNOenNKbzJzU3FORFhMVGdqdElzeHVaRzdzazhtbUhJbFBmT0Z4N29kakloSElYVlVDdnppTFA2ZEV0SUlld2xOOXcxNGxVTWtsQWxTdE9IVkhNaFkwRzNEWER4cE14Yk0wSjQ5TmU3QkdGLUxqTi1KcFRhMnlBRUpoam9OUDg3OWVseW9yQm5LaGVWdkhoNzhGZ3BwSVl5VmRRU0RsN04wNWdHOHI1dDNqWEVCVEdxZVA0SUlmYzdYcXM4MmdFVmtpS0tqdkloSWJOVkxZNUlmcHNxdXh4Zi13?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 20:58:35 GMT",
+      "source": "星島頭條"
     },
     {
-      "title": "《2026世界盃》完成真正的團隊進化 小組賽後法國為何成為最大奪冠熱門？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50ZHJMQ3haWGUydGZwQ0ZaVHozaGY3NDRlTWh5SWQwc2FTcFZwREtPUUNsM2Y3QzlibUh0cW14bTJmMmx6cWgwYms5T21iR3ZR?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 15:51:22 GMT",
-      "source": "運動視界Sports Vision"
+      "title": "世足》傷停補時絕殺！加拿大險勝南非隊史首闖16強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSlJjVlAzRzYwNUNXZm5NRGpRUGpiYWJEWWQ0X3V2SGFycU1zVGVXemt6OC1KUDF1bGtTVXZmU3RNUEh3THhta3dqYXVRdTc2MUREcGhvR0hkZzVnWWJBX9IBZkFVX3lxTE9Icnh4MjdKUndoZDFDNWJ0TGxZSV9GanpQNEdITnpGdGtUc1FkRlBtc0IxVlRTN3JPUE50bFlPdWNaVlZfTzVLM1BSZHo3ck8tOTB5bG50ajg5LUZlQnVXS0RTT3hOUQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 21:31:00 GMT",
+      "source": "自由體育"
     },
     {
-      "title": "韓國意外小組賽淘汰！混血球星吐露心聲：這不是我夢想中的世界盃 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TN1VCS1FJSFl2SXNOVlQzbUtkaTQ3WnJ6ZWlHQU5EOU9LRldjekFsN29HN19SRkNFX1NyRnFkSTdTNE5GR0puU3FPblbSAVJBVV95cUxPYzV6Rld1cVVJcV9ybFM5OHM1SlBEc3VWZ2lkUGlfZlU3aURmSmUyX3g0M3lCR0dvQ010VFdvRHBubE5PR0JoSGN6b2dsUVg4clJR?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 14:05:10 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "世足》韓國隊淘汰！無緣美加墨世界盃32強賽 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbjJuWkwwal9rZjZCakVhZ256WmpYb1dOXzBaci1HV3czWGJoU2RVUFlXRkVqTVhfQlZHTFh5blRrWXZieXRKRy1fOWZvR0xRdHBYV1lMLTU1dWFfcGxZU3pOWnJtOUN1dFVPbFBBNFN2ZTFwbHJsdTBkMEFYZkRGMVFDS3lSbm8yQkptQi1ZN25oNDdDSTMyZnFnOUpQMlh3ai16aTFuMzAzNXJTR3NGM1JJSXl3T2dNN1VIOElka0xwMm5Gd1VnajlOa0NWQXpqaXozRm5FbTlUR3JmQ2swOC1aWkJ5UTJzMmMwTkhZVU5kWUc2cWJuaXJBM3dnMlUwRkJGWi01TGdaUXdDUGwtV0ZZR2gyM052S1ZFTmwwTWhCS3Y1NFdBYWl4V3BUTTh6RFFPYjdMaWJQcjRZVkY4djdHWQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 01:35:33 GMT",
+      "source": "Yahoo運動"
     },
     {
       "title": "世足賽／L組三隊晉級 南韓淘汰M1 - UDN",
@@ -2661,38 +2665,31 @@
       "source": "UDN"
     },
     {
-      "title": "日韓足球為何差距擴大韓媒：日本育才、韓國靠天才| 運動 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFc0hrOXJVdGdhY05CZkY5UWdNUTE0WW9DRjNXOXBrMEdrdW5kc2VmOVRabnM0WjI5eGdzb1RhaUFQa0NYaFNqZTctRnZUdy1nWFBYaXY1V3ZEUnNEekk4?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 07:39:00 GMT",
-      "source": "中央社 CNA"
-    },
-    {
-      "title": "【2026世界盃】梅西替補建功連7戰破門 阿根廷3比1擊敗約旦 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODB3UXowdjNkMk9INUdzcGNqMm9HSmJBUlFnVW5fWlIyZmFKRUxzMU1ycEFubkJ1OGNSWE1JcS05MmY3c3RHN0RuU1BVZktiUlg5VTk4YmR2NVBaX0hqN2g4Z2kxZjg3VkE2QzFhOGVjRTJVUVNOWTl5VzRBaG9FdzMzVUdSREtG?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 06:48:00 GMT",
-      "source": "PChome Online 新聞"
-    },
-    {
-      "title": "世足》可踢滿90分鐘卻選擇替補 阿根廷主帥曝梅西的想法 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERlAwZDNFVW9DeURCSUlTSWpabk9PSG51VnJEeGIwWm5ZaTVwWWdjNHF3M3IxUXdlaHRfRHo1Z3F2Mzdua3QzR3Z4aTFjMTl4bEJMZnlEWGUwUG45aUdGMVYxbktrdUxpQ1RpMdIBZkFVX3lxTE85WnpmUHRtY0UtNUZlSUdFbmgydXJrTU9XU3EtaTF0ZHMxbFo0OGV6WXhveEsxVEZqLTNVZjFpaXJkM3ZXclRpSkZraWNtN25uaTRsNFZqZUFXOExwWm5fVzd2LWZ0dw?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 09:15:00 GMT",
+      "title": "世足》南韓確定出局！隔8年無緣淘汰賽 韓媒：孫興慜最後一舞遺憾收場 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aaGlXYkxxc2QtTVlTdXQ5U2hDMnVFRThHOFhBM3gyTENYQ3pPQ0FmbXhsS29RT3hHdno0eE55Z1k1RVBVSFl3NWpHQThJMW0xbGN6ZGJhZ25ITWJXWUxtNNIBZkFVX3lxTE10TmdJZHlPd01DUmpPT0pSR3JhUjBsMV91Y0M0Sk9HVXpraHd3VkFqT1N5dVc5b1h0WUJXc01GdGZzVVRZQ09YWDBYM2J1cG1ubFBsaDRfcDVXYlg4YzJ3c29xS1Fudw?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 02:25:00 GMT",
       "source": "自由體育"
+    },
+    {
+      "title": "世足》史上第一人！梅西連7戰進球 寫兩大狂紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PX2VsV1BRbHpjblRCbnBrU1pQaGpta3gzX2otS3YxelhQd2YyUFFMcllJRDdEaXZPSzVFUXFvNjNxa2hidmphNm9LM2JwN19tMmE5YmR5TGoyMDUyNUlERdIBZkFVX3lxTE4yR2UtQXJhTzEwZmdZOHQ5eDRfWHNxeGp5TEtCQVk4cmZoMWFOY0hsVGQzZlJEX1B0UVFkbTlIZG9lcU93YkF6dFdtS2ZHdUNrZjJTUFA1R05zYmhpWF92ZVcxV0s3Zw?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 04:21:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "梅西連7場出賽進球創紀錄世界盃阿根廷預賽全勝| 運動 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lYzlmR1M3aGh2NHlIYlZyT1ZSbi1nZEh2YTRIbl9BSndjdy03MG8taGhGdkRZY0ZHQ3Zpd3BUaGc3OE5OWnQ5RFoxeUlrSlJCZXZuMmFycWFQYVZ3YnE0?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 04:45:00 GMT",
+      "source": "中央社 CNA"
     }
   ],
   "odds": [
     {
-      "home": "South Africa",
-      "away": "Canada",
-      "homePrice": 5.25,
-      "drawPrice": 3.4,
-      "awayPrice": 1.81
-    },
-    {
       "home": "Brazil",
       "away": "Japan",
-      "homePrice": 1.72,
-      "drawPrice": 3.9,
-      "awayPrice": 5.4
+      "homePrice": 1.74,
+      "drawPrice": 3.75,
+      "awayPrice": 5.55
     },
     {
       "home": "Germany",
@@ -2704,37 +2701,37 @@
     {
       "home": "Netherlands",
       "away": "Morocco",
-      "homePrice": 2.2,
-      "drawPrice": 3.25,
-      "awayPrice": 3.75
+      "homePrice": 2.3,
+      "drawPrice": 3.1,
+      "awayPrice": 3.65
     },
     {
       "home": "Ivory Coast",
       "away": "Norway",
-      "homePrice": 3.85,
+      "homePrice": 3.7,
       "drawPrice": 3.4,
-      "awayPrice": 2
+      "awayPrice": 2.04
     },
     {
       "home": "France",
       "away": "Sweden",
-      "homePrice": 1.27,
+      "homePrice": 1.26,
       "drawPrice": 6.25,
-      "awayPrice": 12
+      "awayPrice": 13
     },
     {
       "home": "Mexico",
       "away": "Ecuador",
-      "homePrice": 2.28,
-      "drawPrice": 2.95,
-      "awayPrice": 3.95
+      "homePrice": 2.38,
+      "drawPrice": 2.9,
+      "awayPrice": 3.9
     },
     {
       "home": "England",
       "away": "DR Congo",
-      "homePrice": 1.23,
-      "drawPrice": 5.6,
-      "awayPrice": 13
+      "homePrice": 1.25,
+      "drawPrice": 5.3,
+      "awayPrice": 12
     },
     {
       "home": "Belgium",
@@ -2747,15 +2744,15 @@
       "home": "USA",
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.39,
-      "drawPrice": 5.3,
+      "drawPrice": 5.4,
       "awayPrice": 10
     },
     {
       "home": "Spain",
       "away": "Austria",
-      "homePrice": 1.27,
-      "drawPrice": 5,
-      "awayPrice": 12
+      "homePrice": 1.26,
+      "drawPrice": 5.1,
+      "awayPrice": 12.5
     },
     {
       "home": "Portugal",
@@ -2767,16 +2764,16 @@
     {
       "home": "Switzerland",
       "away": "Algeria",
-      "homePrice": 1.87,
-      "drawPrice": 3.4,
-      "awayPrice": 4.4
+      "homePrice": 2,
+      "drawPrice": 3.3,
+      "awayPrice": 4
     },
     {
       "home": "Australia",
       "away": "Egypt",
-      "homePrice": 3.4,
-      "drawPrice": 2.88,
-      "awayPrice": 2.48
+      "homePrice": 3.45,
+      "drawPrice": 2.8,
+      "awayPrice": 2.5
     },
     {
       "home": "Argentina",
@@ -2789,28 +2786,28 @@
       "home": "Colombia",
       "away": "Ghana",
       "homePrice": 1.51,
-      "drawPrice": 3.95,
+      "drawPrice": 3.9,
       "awayPrice": 7.5
     }
   ],
   "videos": [
     {
-      "id": "-kbgfn1inXc",
-      "title": "【全場精華】6/28 味全龍 vs. 富邦悍將 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "Rjukm9gfTcA",
+      "title": "【2026 FIFA世界盃™】補時致勝一擊 加拿大晉級16強締造隊史/愛爾達電視20260629",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=-kbgfn1inXc"
+      "url": "https://www.youtube.com/watch?v=Rjukm9gfTcA"
     },
     {
-      "id": "Lnj90IfCtM0",
-      "title": "【2026 FIFA世界盃™】奧地利驚險逼平 總教練：太不可思議/愛爾達電視20260628",
+      "id": "6551vRBGUsw",
+      "title": "【全場精華】南非 VS 加拿大 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Lnj90IfCtM0"
+      "url": "https://www.youtube.com/watch?v=6551vRBGUsw"
     },
     {
-      "id": "-I_c8LA32CM",
-      "title": "【2026 FIFA世界盃™】奧地利神調度扳平 攜手阿爾及利亞晉級/愛爾達電視20260628",
+      "id": "g6VIXjDG-hs",
+      "title": "【2026 FIFA世界盃™】黑馬驚奇維德角 32強挑戰阿根廷成焦點/愛爾達電視20260629",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=-I_c8LA32CM"
+      "url": "https://www.youtube.com/watch?v=g6VIXjDG-hs"
     }
   ]
 }
