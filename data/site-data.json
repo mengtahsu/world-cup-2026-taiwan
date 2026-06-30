@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:16:01.976Z",
+  "updatedAt": "2026-06-30T22:41:50.835Z",
   "matches": [
     {
       "number": 1,
@@ -1077,6 +1077,10 @@
       "kickoff": "2026-06-30T17:00:00.000Z",
       "team1": "Ivory Coast",
       "team2": "Norway",
+      "score": [
+        1,
+        2
+      ],
       "ground": "Dallas (Arlington)"
     },
     {
@@ -1904,7 +1908,7 @@
     {
       "name": "Erling Haaland",
       "team": "Norway",
-      "goals": 4,
+      "goals": 5,
       "matches": [
         {
           "number": 50,
@@ -1927,6 +1931,17 @@
             2
           ],
           "goals": 2
+        },
+        {
+          "number": 78,
+          "opponent": "Ivory Coast",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T17:00:00.000Z",
+          "score": [
+            1,
+            2
+          ],
+          "goals": 1
         }
       ],
       "profile": {
@@ -2139,8 +2154,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
-        "bio": "German footballer (born 1996)"
+        "photo": "",
+        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2249,8 +2264,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
+        "bio": "Moroccan footballer (born 2001)"
       }
     },
     {
@@ -2441,6 +2456,39 @@
       }
     },
     {
+      "name": "Amad Diallo",
+      "team": "Ivory Coast",
+      "goals": 2,
+      "matches": [
+        {
+          "number": 26,
+          "opponent": "Ecuador",
+          "date": "2026-06-14",
+          "kickoff": "2026-06-14T23:00:00.000Z",
+          "score": [
+            1,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 78,
+          "opponent": "Norway",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T17:00:00.000Z",
+          "score": [
+            1,
+            2
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Ivory Coast國家隊球員，本屆世界盃目前攻進 2 球。"
+      }
+    },
+    {
       "name": "Anthony Elanga",
       "team": "Sweden",
       "goals": 2,
@@ -2615,76 +2663,25 @@
         "photo": "",
         "bio": "Japan國家隊球員，本屆世界盃目前攻進 2 球。"
       }
-    },
-    {
-      "name": "Daniel Muñoz",
-      "team": "Colombia",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 62,
-          "opponent": "Uzbekistan",
-          "date": "2026-06-17",
-          "kickoff": "2026-06-18T02:00:00.000Z",
-          "score": [
-            1,
-            3
-          ],
-          "goals": 1
-        },
-        {
-          "number": 64,
-          "opponent": "DR Congo",
-          "date": "2026-06-23",
-          "kickoff": "2026-06-24T02:00:00.000Z",
-          "score": [
-            1,
-            0
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "",
-        "bio": "Colombia國家隊球員，本屆世界盃目前攻進 2 球。"
-      }
     }
   ],
   "news": [
     {
       "title": "2026 世界盃足球賽 07/01【象牙海岸 vs 挪威】直播、轉播 LIVE 線上看 - 蘋果仁",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ajVuZTdwS2VmeDloSE4yaUgtOGhtNWhWalZTY2Itc2lRVTlmWm9qR1ZMRVlrRGlBVUNja3k4Um4tcmJFV0tOdFgzNFU?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 15:02:02 GMT",
+      "pubDate": "Tue, 30 Jun 2026 20:33:47 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "2026世界盃｜32強淘汰賽完整賽程一次看！南非、日本、德國、荷蘭確定出局 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mbl9Lc1FBSGszTlhiQi1wZlh1YU41ZTA1QU0xeFdvRFZzY0lkTUlpWEdPZVpJS3dXTUlCX1g5aHJrNWhpV25wMXFfbmdHMzRweDJUV0E5X1cxZDltaEltWm1kVWlLdTBIaGZWT1IzLXdRUjA?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:30:00 GMT",
-      "source": "Vogue Taiwan"
+      "title": "挪威對象牙海岸2026世界盃直播線上看！哈蘭德、迪奧曼德兩大新星對決，最終贏家會是誰？ - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkNSUmVoTEhLMmhSd2J4Uko2dWViUHVxbkZROWJXS0VqSV93SnhzQUFPT3RyR2RzTTVUZUtDN1czQ3lnMnk5cWdaaHRTOUZ6bzA4STlqLVh0S1RueVUxZ2lyc1J2Y1hMYXpaT0p4anl6UVNxT1VhaGViTTRZNUJsU0p5YWplY0pSUW9QdWVKSlZwZFNMTld6cGZGRU5BeGtVaTNad0RwWlB1bVkx?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:05:47 GMT",
+      "source": "Harper's BAZAAR"
     },
     {
-      "title": "墨西哥厄瓜多直播線上看｜世界盃32強墨西哥vs厄瓜多比賽時間、轉播平台 - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOGNfYmNNdVlYYXlObEQtaGdpMFlYMzZVRHdrbklpa0x2emd6cG5vWjZmbzlSMUNSLVZTWVhtSHZzd2xMRVF4WW9nZENkaDlyN2pDTmo1NGlIcHdkbFFKTQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:46:03 GMT",
-      "source": "Marie Claire 美麗佳人"
-    },
-    {
-      "title": "2026世足》日本率先破門無用！巴西下半場狂轟濫炸，2比1逆轉晉級16強 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxORXFXRUdUdXBCLW1Ic3NCTWliWEp6RDR1ZXB5eXN3eHE1XzJWb09fSGdxYWUteXQ4YWpJTXJLM1drWUIxZHhiRENxR0xScWVaWEJfVGhpWHJhYnJKS1Z4NmFablFzZDVaWjRDa3JtUjVyalF3MF8tQm5pa1NKcUY2TmpHeWdTc0o5MV85M0M2SFhrN3luOU5UNlJ0a2RKZVF0am85T1ZBNnltVlA2UUp5a1FGWjlnRURSTTdHTVF4UFp5b1g4S3l1R25MejR0bndkWmtqTUpLMTBhamdzSGJjRTZWWlY1bUQ2VEd4WWR0clpNQU9IRUtUREVFOEdGSV9KbW1xMDVmeFZOT1ZsZkFaWEYtWXZMNXRiSC1TZnRjRGYtR0Y3MlJyRnZraWgwT1V0QWdPLVR1YVRQdmlneDN3QWxyYjN3ZXMyYlpCNTUtZmdsdG1Jd25Pb0Z3c0UzZjVCMW9QRVJRY2hlWldwUkxHd3ZILUJfYklMemZCZUwyb1NVNnJnTzNkQXNNXy1TZw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT",
-      "source": "Yahoo新聞"
-    },
-    {
-      "title": "日本巴西直播線上看｜世界盃32強日本vs巴西比賽時間、轉播平台 - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdkVVTWJmcDZrWXo0azVYVlZwQ2QyM3p0TTJjZzRFZWNFTGZlc3ZvTjJtYnNXZWx6NU9QWm4taTJHWXlFcWJzQTlCU1hqdnRBN3lqRnNlVEN4ekR0VGx0UQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 19:27:59 GMT",
-      "source": "Marie Claire 美麗佳人"
-    },
-    {
-      "title": "世足賽／傷停補時攻入關鍵一球！巴西2：1絕殺日本| 2026美加墨世足| 運動 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXLURWSFluel9QdU9WUWhpVC1GVFIzQ2xJWWdrN0FNYzBoSkRDYUZMTEQ2WEd5dTE2alhDOG1nYUlBT29ZNXJiWUlnbV9ZaXNDVU53?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 19:25:20 GMT",
+      "title": "世足賽／哈蘭德關鍵致勝球挪威2比1力克象牙海岸晉級| 2026美加墨世足| 運動 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MGZXR2JDajdveDVoWVM2eXVmd3JvM3lvcXY4WnIzVXBwcG80NGlTTHd4T1VHQTQ2aFhzY3RDSUU0d3ROS2pVZ3BUQVVjaGhKTXBR?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:09:08 GMT",
       "source": "UDN"
     },
     {
@@ -2694,58 +2691,69 @@
       "source": "自由體育"
     },
     {
-      "title": "世足32強名單、賽程時間、對戰組合！法國瑞典、維德角阿根廷...死亡組出列，直播轉播平台懶人包 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTZpSDk5cFZxNll5UnFJVm5ObjNrR1QxV0tWc0d1bkRkNGF6T0t4dHVRV3JGQTJtM21jVTUxYzZHaXJXVk1JcE9CY3BvbmJtSW5MT0xIY2lkTXdrTzZtNHk0blFPTTM3aF9UUmVvcDJGTFZTUzJEbVRQRngzVXU1eQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:47:29 GMT",
-      "source": "今周刊"
+      "title": "2026 世界盃足球賽 06/30【德國 vs 巴拉圭】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yWm0zUGhxaU1LeXNiSUdRMVdUNzBWakJDSHg5akpYSHhPUWZ6cldpbmR4a0pWeDRNWmZrNjR5TDRidm1kaHBVbkhpV1U?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 00:05:52 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "世界盃7/1法國VS瑞典32強淘汰賽懶人包》完整分析、預測先發名單 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adlFkbFZidWVKcEw1YXVvTFpNZlM3am1hdC16aGpUbHg5cmNBaHFremYyeVZmcUgzYXgyRXgxMmFZd3cyZFczREJfcmTSAVJBVV95cUxQNlZOSFgta0VRQ3QyVlNuX0EyUVo2ekRTbU83b1d1dVVyTmdFNEN4WTVnYmZJY0R0UjVVc1czd2VVQ0Y1OENVLTVjMVFTSTF1T3F3?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "《2026世界盃》從「最穩定」代表到連三屆恥辱性出局或許該認清德國不再是一線強隊了？ _p.2 - 足球 - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mQm5JRHlLWTdKeGpvRXBNZExqRkw3QUxzdG11eloxZnFwZUFxMlAwTGFzTVExVnFLV2JhYjlaZDFhbUF6MjdacHVEZFBTQnVaR1F5b01mQnhhZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 08:53:44 GMT",
+      "source": "運動視界Sports Vision"
+    },
+    {
+      "title": "2026世足》日本率先破門無用！巴西下半場狂轟濫炸，2比1逆轉晉級16強 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxORXFXRUdUdXBCLW1Ic3NCTWliWEp6RDR1ZXB5eXN3eHE1XzJWb09fSGdxYWUteXQ4YWpJTXJLM1drWUIxZHhiRENxR0xScWVaWEJfVGhpWHJhYnJKS1Z4NmFablFzZDVaWjRDa3JtUjVyalF3MF8tQm5pa1NKcUY2TmpHeWdTc0o5MV85M0M2SFhrN3luOU5UNlJ0a2RKZVF0am85T1ZBNnltVlA2UUp5a1FGWjlnRURSTTdHTVF4UFp5b1g4S3l1R25MejR0bndkWmtqTUpLMTBhamdzSGJjRTZWWlY1bUQ2VEd4WWR0clpNQU9IRUtUREVFOEdGSV9KbW1xMDVmeFZOT1ZsZkFaWEYtWXZMNXRiSC1TZnRjRGYtR0Y3MlJyRnZraWgwT1V0QWdPLVR1YVRQdmlneDN3QWxyYjN3ZXMyYlpCNTUtZmdsdG1Jd25Pb0Z3c0UzZjVCMW9QRVJRY2hlWldwUkxHd3ZILUJfYklMemZCZUwyb1NVNnJnTzNkQXNNXy1TZw?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT",
+      "source": "Yahoo新聞"
+    },
+    {
+      "title": "2026 世界盃足球賽 06/30【巴西 vs 日本】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qdXNnbnlySjNjS1ZacHR5YlZ2NlBEb3RVVkZnSkt5SV9XM3ItZURlTWM5ZXkyQ00yVmlJQk1MaldWUjJFSzR4ZXl1cVg?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 20:48:04 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足》田中碧致命失誤後淚崩 巴西庫尼亞送暖：我知道他很難受 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMXNUYkRwcmNNYk45MktZTDhoR3g1bVZEQWhScEZmN3hmX0tib0o1R1V6LThMdXVySDB6aWRIOXNOaG9odE1mUngtcjZMczh5WFVLS1dGTXdrQmJDM3ROOGZRZnpjR1NKeWpyb9IBZkFVX3lxTE1HRDJETlIyd1FRTHRKeTZiNjVPQUlGakpvVUFzaEM1RUN3QWZkV2YyeGs4Z2pWQ3dvSFFtQlI4SUJFTURMcG0zbmJYdVFEcko1b0hnY3FCVG51Ukw1TUJTTm9jSUhyUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 05:34:00 GMT",
+      "source": "自由體育"
     }
   ],
   "odds": [
     {
-      "home": "Ivory Coast",
-      "away": "Norway",
-      "homePrice": 9,
-      "drawPrice": 3.3,
-      "awayPrice": 1.4
-    },
-    {
       "home": "France",
       "away": "Sweden",
-      "homePrice": 1.3,
-      "drawPrice": 6.1,
-      "awayPrice": 11.5
+      "homePrice": 1,
+      "drawPrice": 100,
+      "awayPrice": 100
     },
     {
       "home": "Mexico",
       "away": "Ecuador",
       "homePrice": 2.25,
-      "drawPrice": 2.85,
+      "drawPrice": 2.88,
       "awayPrice": 4.2
     },
     {
       "home": "England",
       "away": "DR Congo",
-      "homePrice": 1.29,
+      "homePrice": 1.28,
       "drawPrice": 5.6,
-      "awayPrice": 15
+      "awayPrice": 16
     },
     {
       "home": "Belgium",
       "away": "Senegal",
-      "homePrice": 2.15,
-      "drawPrice": 3.2,
+      "homePrice": 2.1,
+      "drawPrice": 3.3,
       "awayPrice": 3.7
     },
     {
       "home": "USA",
       "away": "Bosnia & Herzegovina",
-      "homePrice": 1.4,
+      "homePrice": 1.41,
       "drawPrice": 5.2,
       "awayPrice": 10
     },
@@ -2766,23 +2774,23 @@
     {
       "home": "Switzerland",
       "away": "Algeria",
-      "homePrice": 2.02,
+      "homePrice": 2.04,
       "drawPrice": 3.1,
-      "awayPrice": 4.3
+      "awayPrice": 4.2
     },
     {
       "home": "Australia",
       "away": "Egypt",
-      "homePrice": 3.5,
-      "drawPrice": 2.8,
+      "homePrice": 3.45,
+      "drawPrice": 2.85,
       "awayPrice": 2.55
     },
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.17,
-      "drawPrice": 8.5,
-      "awayPrice": 20
+      "homePrice": 1.16,
+      "drawPrice": 9,
+      "awayPrice": 21
     },
     {
       "home": "Colombia",
@@ -2794,29 +2802,36 @@
     {
       "home": "Canada",
       "away": "Morocco",
-      "homePrice": 4.9,
-      "drawPrice": 3.45,
-      "awayPrice": 1.74
+      "homePrice": 4.8,
+      "drawPrice": 3.35,
+      "awayPrice": 1.77
+    },
+    {
+      "home": "Brazil",
+      "away": "Norway",
+      "homePrice": 1.9,
+      "drawPrice": 3.5,
+      "awayPrice": 4.2
     }
   ],
   "videos": [
     {
-      "id": "aM5ye9iqKck",
-      "title": "【全場精華】6/30 統一獅 vs. 富邦悍將 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "LUGFEngCPMk",
+      "title": "【2026 FIFA世界盃™】維京划船熱血慶祝 哈蘭德：團結力量大/愛爾達電視20260701",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=aM5ye9iqKck"
+      "url": "https://www.youtube.com/watch?v=LUGFEngCPMk"
     },
     {
-      "id": "suYLcUsyB0Q",
-      "title": "【全場精華】6/30 中信兄弟 vs. 味全龍 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "Cc8_7W4xEMc",
+      "title": "【2026 FIFA世界盃™】哈蘭德關鍵推射破網 帶領挪威前進16強/愛爾達電視20260701",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=suYLcUsyB0Q"
+      "url": "https://www.youtube.com/watch?v=Cc8_7W4xEMc"
     },
     {
-      "id": "ty4vFz4Byo4",
-      "title": "【2026 FIFA世界盃™】 摩洛哥逆轉擊敗荷蘭 心態調整成關鍵/愛爾達電視20260630新聞",
+      "id": "UlpPfBONtok",
+      "title": "【全場精華】象牙海岸 VS 挪威 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=ty4vFz4Byo4"
+      "url": "https://www.youtube.com/watch?v=UlpPfBONtok"
     }
   ]
 }
