@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T06:33:54.829Z",
+  "updatedAt": "2026-06-30T10:39:51.249Z",
   "matches": [
     {
       "number": 1,
@@ -1930,8 +1930,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Norway國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/500px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+        "bio": "Norwegian footballer (born 2000)"
       }
     },
     {
@@ -1963,8 +1963,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/500px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+        "bio": "French footballer (born 1998)"
       }
     },
     {
@@ -1996,8 +1996,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg/500px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg",
+        "bio": "French footballer (born 1997)"
       }
     },
     {
@@ -2040,8 +2040,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/500px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+        "bio": "Brazilian footballer (born 2000)"
       }
     },
     {
@@ -2073,8 +2073,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/500px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+        "bio": "Dutch footballer (born 2002)"
       }
     },
     {
@@ -2106,8 +2106,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg/500px-Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg",
+        "bio": "Dutch footballer (born 1999)"
       }
     },
     {
@@ -2172,8 +2172,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
+        "bio": "New Zealand footballer (born 2000)"
       }
     },
     {
@@ -2249,8 +2249,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
+        "bio": "Moroccan footballer (born 2001)"
       }
     },
     {
@@ -2282,8 +2282,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Senegal國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/500px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg",
+        "bio": "Senegalese footballer (born 1998)"
       }
     },
     {
@@ -2403,8 +2403,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg/500px-Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg",
+        "bio": "Brazilian footballer (born 1999)"
       }
     },
     {
@@ -2652,18 +2652,6 @@
   ],
   "news": [
     {
-      "title": "世足/重押強國「但都和局」 他1天內狂輸1.33億 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPdWdnRHpNZE1FY09BaTdMRTJhajlTamNZUWkzM3ZmdmNyckd3Z3RoX1FTSl9OX0dJbVlFQU9PUzdmbnNqcVhIZk5UNGJLWU9sZ05EVEZTVkI4YXcyVEt3VklJUE5jclAyMmN2NVBHWC1lUHV6ajA3bmVSWngtck84Rlo4aDN0dFpqaUZULXdISWl4NEFvVkRsY1ctd1NkbEprNnNPcmprd096RkRNOG5JR1FrMnFCM2UzbTN4d1VJcUxkQkZQbGVaVDRiVVZLYjNDZlhtTXBjSW1UeWdmOUd6ZF9KTV9WMnlQcExPU0s0U0JuQUxJSVRaSlBQVndiaGw2OUhqeXdoNkpSamlZcGZIVW1CRDRmYmRfeFk4dFNpRi0zUFd3Z2J3?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 05:17:21 GMT",
-      "source": "Yahoo運動"
-    },
-    {
-      "title": "2026世界盃32強淘汰賽展開法國穩居冠軍大熱門| 運動 | 2026美加墨世足 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmpHWjF5R2JIVU1wc3h3aFVWOVZzYWFNZEoyS2YycndTRVUxSnVRWXA1d2wxTTlMSmIzdlJMRTZqaER6STRBNlp2WDlqT25QTDAyZFNfdmp5NlN1YVgxcy1UUWFPc2VndkRVSjlhdGIyYlo5dGtyT0cwTWlnNUQwbVQ1RQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 04:03:06 GMT",
-      "source": "UDN"
-    },
-    {
       "title": "2026世足》日本率先破門無用！巴西下半場狂轟濫炸，2比1逆轉晉級16強 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxORXFXRUdUdXBCLW1Ic3NCTWliWEp6RDR1ZXB5eXN3eHE1XzJWb09fSGdxYWUteXQ4YWpJTXJLM1drWUIxZHhiRENxR0xScWVaWEJfVGhpWHJhYnJKS1Z4NmFablFzZDVaWjRDa3JtUjVyalF3MF8tQm5pa1NKcUY2TmpHeWdTc0o5MV85M0M2SFhrN3luOU5UNlJ0a2RKZVF0am85T1ZBNnltVlA2UUp5a1FGWjlnRURSTTdHTVF4UFp5b1g4S3l1R25MejR0bndkWmtqTUpLMTBhamdzSGJjRTZWWlY1bUQ2VEd4WWR0clpNQU9IRUtUREVFOEdGSV9KbW1xMDVmeFZOT1ZsZkFaWEYtWXZMNXRiSC1TZnRjRGYtR0Y3MlJyRnZraWgwT1V0QWdPLVR1YVRQdmlneDN3QWxyYjN3ZXMyYlpCNTUtZmdsdG1Jd25Pb0Z3c0UzZjVCMW9QRVJRY2hlWldwUkxHd3ZILUJfYklMemZCZUwyb1NVNnJnTzNkQXNNXy1TZw?oc=5",
       "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT",
@@ -2676,22 +2664,28 @@
       "source": "Marie Claire 美麗佳人"
     },
     {
-      "title": "世界盃2026︱堂安律淚認日本「實力不足」：我們發自內心想贏冠軍 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbWJLMmFJdDdqSkVFbGQ0ZTVhblJzbVBrU3d0d2VOb3RrTlB2Q3dkd2E0VWcxblFOT1Y3MzBKa01YZHIyLUJlUjQ2SGc2c0ZicE9MYnJDa1FmOUNKcFJnaERNeU4waHdyaFBZSlVXRWQteW8tbU4yTnd3M2J3MnZOS3J0MlpqSThkR3JhQWtMdUpnRDJzVWZlMHJnT2xQdnp4OW5EUXRJQkpSVl9ieHFkdVo0M0pxRzBXSFp6NlZ6R19hamN5T0Jud203R1hlMm5GZGtPaHpEcXJOQTNaclpjQnI1QjRzT2JHMXBVMF9OaEhsd3NvZU9TOGRlOWtJVnNmYjhyRUlnanFXUllaQkZLSFp2R1JTbE4xVkNCSU5HWkR5V0Mtc1U2b3FKRXc0cndZUjdmaXRHeEFBemd4Y3dzU0llLW16LVlYYW1ZQThoNzFha0ZMQ3UyN2g1SElPWnplNDVHODJFMFh5a0N5cTNXbWJNTENVTlZrZ2lHaVFmdnN1V0Jxd1hzeVJDVDBRUzM3RUhJYUJoUDBWcDk4VWZv?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 02:44:29 GMT",
-      "source": "香港01"
+      "title": "世足》一句「不是以前的巴西」惹禍 日本小將：並不是說巴西很弱... - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HLWVXaEtTTnZMcmVicGRHa1o2Q0JmY1g1YUpVREFkaHAxRFYtVmdjU1JCYm55TjdjNHJjbGdhaUJtR1RtMVJWbjFMeURvXzFsZlpJY0gtZUR3VC1QU0ZjUtIBZkFVX3lxTFAzRTYtcDRRWVBYR3FsRHNUN0xQeTBQN1MyR0VLUXhIOVFMaWI0eENMeHZYUTQyOTBTQ1k4OE9NTkVFaVFMb0ozQ3FRVlpmM0NMVllzMWJUQXVUT3RtZUxnQmFMRllDUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 06:19:00 GMT",
+      "source": "自由體育"
     },
     {
-      "title": "2026 世界盃足球賽 06/30【荷蘭 vs 摩洛哥】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WVnJ5WFk5NlZGN003alVtWURxNHk2MENiSHYtdTJhSmw2ejRRVnpLVHk2NTIwSnRORlRVOHlYeHhjOXFCcnBmYUZ5c3E?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 03:59:25 GMT",
+      "title": "世足》PK大戰淘汰4屆冠軍德國！巴拉圭寫首見紀錄驚奇闖16強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kQmlSbGF6Z2h5THdjbUtKRm4xLVhqQjktcHQzV1JuaGNTcFRiMC1lMXNrUW45b0R2R3ZHdi1raTdSLVR3dXFqcG9LVWpGUDVlUE5sX3dEUXlaT1E2d1pYY9IBZkFVX3lxTFB4ejZfc1plZWYyc3BwTlZDU196dGZhY1diUjRVUjJKYTNxbVRLQkh0RnVWOE5IUlRrM3hmbmNoNU4xNFpxQ241ZWI0S21sZ1VZSDRuYzlfSXk1ZTQxYjlCQ255Nk5tUQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 23:38:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "2026 世界盃足球賽 06/30【德國 vs 巴拉圭】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yWm0zUGhxaU1LeXNiSUdRMVdUNzBWakJDSHg5akpYSHhPUWZ6cldpbmR4a0pWeDRNWmZrNjR5TDRidm1kaHBVbkhpV1U?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 00:05:52 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "世足》16強有4席出爐！ 世界前10的德國、荷蘭都倒在PK大戰 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseUZCMzEtU3pmZVh2MDB3U3Z3V3VtZXV4dTlmVkZqMzVSR05reGlpZGhrYnowclNmR1luOG1mVGoyZzdkNFhVeW9COGlHR205eVd2Ymc0dUFfMW9JY1hFcw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 05:09:00 GMT",
-      "source": "自由體育"
+      "title": "《2026世界盃》從「最穩定」代表到連三屆恥辱性出局 或許該認清德國不再是一線強隊了？ - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a3hhbXl3ZERBQ1pGZjRueUhCZUZnX3FNZU1XUm9hOGc5OV9hazRJMTdXUi16Yzc2aEVsbHNDdTZTRGwwMnVrYmVPaFV6d0hh?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 08:36:46 GMT",
+      "source": "運動視界Sports Vision"
     },
     {
       "title": "摩洛哥PK大戰3比2爆冷勝荷蘭 晉級世界盃16強 - 中央社 CNA",
@@ -2700,61 +2694,67 @@
       "source": "中央社 CNA"
     },
     {
-      "title": "世足》PK大戰淘汰4屆冠軍德國！巴拉圭寫首見紀錄驚奇闖16強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kQmlSbGF6Z2h5THdjbUtKRm4xLVhqQjktcHQzV1JuaGNTcFRiMC1lMXNrUW45b0R2R3ZHdi1raTdSLVR3dXFqcG9LVWpGUDVlUE5sX3dEUXlaT1E2d1pYY9IBZkFVX3lxTFB4ejZfc1plZWYyc3BwTlZDU196dGZhY1diUjRVUjJKYTNxbVRLQkh0RnVWOE5IUlRrM3hmbmNoNU4xNFpxQ241ZWI0S21sZ1VZSDRuYzlfSXk1ZTQxYjlCQ255Nk5tUQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:38:00 GMT",
-      "source": "自由體育"
+      "title": "2026世足／足球巴逆逆是你？神祕客砸1.3億押荷蘭、比利時 連續逼和資產秒變0 | 鏡週刊 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OeUlsTDJqUHVoeG94eEZVcmFCbmE2NFVEclplMkk2NkdfSzlCMXJtZnk2ZVZvTFdEVS1GOG5KTEtLOW1xRV9TREllenNDRC1LWm9XT0VB?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 08:41:15 GMT",
+      "source": "LINE TODAY"
+    },
+    {
+      "title": "2026 世界盃足球賽 06/30【荷蘭 vs 摩洛哥】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WVnJ5WFk5NlZGN003alVtWURxNHk2MENiSHYtdTJhSmw2ejRRVnpLVHk2NTIwSnRORlRVOHlYeHhjOXFCcnBmYUZ5c3E?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 03:59:25 GMT",
+      "source": "蘋果仁"
     }
   ],
   "odds": [
     {
       "home": "Ivory Coast",
       "away": "Norway",
-      "homePrice": 3.75,
-      "drawPrice": 3.45,
-      "awayPrice": 2.05
+      "homePrice": 3.5,
+      "drawPrice": 3.4,
+      "awayPrice": 2.12
     },
     {
       "home": "France",
       "away": "Sweden",
       "homePrice": 1.29,
       "drawPrice": 6.25,
-      "awayPrice": 11.5
+      "awayPrice": 11
     },
     {
       "home": "Mexico",
       "away": "Ecuador",
-      "homePrice": 2.32,
-      "drawPrice": 2.75,
-      "awayPrice": 4.2
+      "homePrice": 2.28,
+      "drawPrice": 2.9,
+      "awayPrice": 4
     },
     {
       "home": "England",
       "away": "DR Congo",
-      "homePrice": 1.26,
-      "drawPrice": 5.75,
-      "awayPrice": 16
+      "homePrice": 1.29,
+      "drawPrice": 5.6,
+      "awayPrice": 15
     },
     {
       "home": "Belgium",
       "away": "Senegal",
-      "homePrice": 2.1,
-      "drawPrice": 3.3,
+      "homePrice": 2.15,
+      "drawPrice": 3.2,
       "awayPrice": 3.7
     },
     {
       "home": "USA",
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.4,
-      "drawPrice": 5.2,
+      "drawPrice": 5.1,
       "awayPrice": 10
     },
     {
       "home": "Spain",
       "away": "Austria",
-      "homePrice": 1.27,
-      "drawPrice": 5,
-      "awayPrice": 12
+      "homePrice": 1.33,
+      "drawPrice": 5.4,
+      "awayPrice": 9.5
     },
     {
       "home": "Portugal",
@@ -2773,16 +2773,16 @@
     {
       "home": "Australia",
       "away": "Egypt",
-      "homePrice": 3.6,
-      "drawPrice": 2.9,
+      "homePrice": 3.65,
+      "drawPrice": 2.88,
       "awayPrice": 2.5
     },
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.18,
-      "drawPrice": 8,
-      "awayPrice": 19
+      "homePrice": 1.17,
+      "drawPrice": 8.5,
+      "awayPrice": 20
     },
     {
       "home": "Colombia",
@@ -2794,29 +2794,29 @@
     {
       "home": "Canada",
       "away": "Morocco",
-      "homePrice": 4.8,
+      "homePrice": 4.9,
       "drawPrice": 3.5,
-      "awayPrice": 1.72
+      "awayPrice": 1.71
     }
   ],
   "videos": [
     {
-      "id": "Z3we8GCVUh8",
-      "title": "【2026 FIFA世界盃™】PK大戰驚險突圍 巴拉圭擊倒德國晉16強/愛爾達電視20260630",
+      "id": "ty4vFz4Byo4",
+      "title": "【2026 FIFA世界盃™】 摩洛哥逆轉擊敗荷蘭 心態調整成關鍵/愛爾達電視20260630新聞",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Z3we8GCVUh8"
+      "url": "https://www.youtube.com/watch?v=ty4vFz4Byo4"
     },
     {
-      "id": "YKaxEnMC2GI",
-      "title": "【全場精華】德國 VS 巴拉圭 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "-NLmhizCeqA",
+      "title": "【2026 FIFA世界盃™】 PK大戰高潮迭起 摩洛哥3：2擊敗荷蘭/愛爾達電視20260630新聞",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=YKaxEnMC2GI"
+      "url": "https://www.youtube.com/watch?v=-NLmhizCeqA"
     },
     {
-      "id": "TVktH1xPfWg",
-      "title": "【2026 FIFA世界盃™】巴西逆轉日本 主帥說明內馬爾使用時機/愛爾達電視20260630",
+      "id": "c602qFxwPVA",
+      "title": "【全場精華】荷蘭 VS 摩洛哥 32強 ｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=TVktH1xPfWg"
+      "url": "https://www.youtube.com/watch?v=c602qFxwPVA"
     }
   ]
 }
