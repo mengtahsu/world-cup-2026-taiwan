@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T01:26:08.820Z",
+  "updatedAt": "2026-06-30T06:33:54.829Z",
   "matches": [
     {
       "number": 1,
@@ -1042,6 +1042,10 @@
       "kickoff": "2026-06-30T01:00:00.000Z",
       "team1": "Netherlands",
       "team2": "Morocco",
+      "score": [
+        1,
+        1
+      ],
       "ground": "Monterrey (Guadalupe)"
     },
     {
@@ -1893,8 +1897,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178_%28cropped_2%29.jpg/500px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178_%28cropped_2%29.jpg",
-        "bio": "Argentine footballer (born 1987)"
+        "photo": "",
+        "bio": "Argentina國家隊球員，本屆世界盃目前攻進 6 球。"
       }
     },
     {
@@ -1926,8 +1930,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/500px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
-        "bio": "Norwegian footballer (born 2000)"
+        "photo": "",
+        "bio": "Norway國家隊球員，本屆世界盃目前攻進 4 球。"
       }
     },
     {
@@ -1959,8 +1963,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/500px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
-        "bio": "French footballer (born 1998)"
+        "photo": "",
+        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
       }
     },
     {
@@ -1992,8 +1996,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg/500px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg",
-        "bio": "French footballer (born 1997)"
+        "photo": "",
+        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
       }
     },
     {
@@ -2036,8 +2040,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/500px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
-        "bio": "Brazilian footballer (born 2000)"
+        "photo": "",
+        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 4 球。"
       }
     },
     {
@@ -2069,8 +2073,41 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/500px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
-        "bio": "Dutch footballer (born 2002)"
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+      }
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "Netherlands",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 33,
+          "opponent": "Sweden",
+          "date": "2026-06-20",
+          "kickoff": "2026-06-20T17:00:00.000Z",
+          "score": [
+            5,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 75,
+          "opponent": "Morocco",
+          "date": "2026-06-29",
+          "kickoff": "2026-06-30T01:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2102,8 +2139,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
-        "bio": "German footballer (born 1996)"
+        "photo": "",
+        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2135,8 +2172,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
-        "bio": "New Zealand footballer (born 2000)"
+        "photo": "",
+        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2168,8 +2205,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Prime_Minister_at_St_George%27s_Park_with_Gareth_Southgate_on_October_10%2C_2023_%28Harry_Kane%29.jpg/500px-The_Prime_Minister_at_St_George%27s_Park_with_Gareth_Southgate_on_October_10%2C_2023_%28Harry_Kane%29.jpg",
-        "bio": "English footballer (born 1993)"
+        "photo": "",
+        "bio": "England國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2212,8 +2249,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
-        "bio": "Moroccan footballer (born 2001)"
+        "photo": "",
+        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2459,28 +2496,6 @@
       }
     },
     {
-      "name": "Cody Gakpo",
-      "team": "Netherlands",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 33,
-          "opponent": "Sweden",
-          "date": "2026-06-20",
-          "kickoff": "2026-06-20T17:00:00.000Z",
-          "score": [
-            5,
-            1
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 2 球。"
-      }
-    },
-    {
       "name": "Cristiano Ronaldo",
       "team": "Portugal",
       "goals": 2,
@@ -2637,16 +2652,16 @@
   ],
   "news": [
     {
-      "title": "世足賽／德國爆冷出局！巴拉圭PK大戰淘汰4屆冠軍 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91UHpTM1Bqa3NjeEY5a1Q5Xzg1NmhzWFl5THVyZUN0ZkxmYTFodTI2bVNFakZOSUhfUC1yWWQycFE4elJvY0xPamE3b2JaSjBGa0lR0gFYQVVfeXFMUG9GQ2JPWENKaUZYR2dCTkRuOWlmYWJsTDdTSFVtWHQ5VVFpVDZTSEppaDVONldBYl9pY2kxY25DT1BQdmlkeDJIZjZYU2pidEw0ellmdkNKZA?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:38:17 GMT",
-      "source": "UDN"
+      "title": "世足/重押強國「但都和局」 他1天內狂輸1.33億 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPdWdnRHpNZE1FY09BaTdMRTJhajlTamNZUWkzM3ZmdmNyckd3Z3RoX1FTSl9OX0dJbVlFQU9PUzdmbnNqcVhIZk5UNGJLWU9sZ05EVEZTVkI4YXcyVEt3VklJUE5jclAyMmN2NVBHWC1lUHV6ajA3bmVSWngtck84Rlo4aDN0dFpqaUZULXdISWl4NEFvVkRsY1ctd1NkbEprNnNPcmprd096RkRNOG5JR1FrMnFCM2UzbTN4d1VJcUxkQkZQbGVaVDRiVVZLYjNDZlhtTXBjSW1UeWdmOUd6ZF9KTV9WMnlQcExPU0s0U0JuQUxJSVRaSlBQVndiaGw2OUhqeXdoNkpSamlZcGZIVW1CRDRmYmRfeFk4dFNpRi0zUFd3Z2J3?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 05:17:21 GMT",
+      "source": "Yahoo運動"
     },
     {
-      "title": "世足》PK大戰淘汰4屆冠軍德國！巴拉圭寫首見紀錄驚奇闖16強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kQmlSbGF6Z2h5THdjbUtKRm4xLVhqQjktcHQzV1JuaGNTcFRiMC1lMXNrUW45b0R2R3ZHdi1raTdSLVR3dXFqcG9LVWpGUDVlUE5sX3dEUXlaT1E2d1pYY9IBZkFVX3lxTFB4ejZfc1plZWYyc3BwTlZDU196dGZhY1diUjRVUjJKYTNxbVRLQkh0RnVWOE5IUlRrM3hmbmNoNU4xNFpxQ241ZWI0S21sZ1VZSDRuYzlfSXk1ZTQxYjlCQ255Nk5tUQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:38:00 GMT",
-      "source": "自由體育"
+      "title": "2026世界盃32強淘汰賽展開法國穩居冠軍大熱門| 運動 | 2026美加墨世足 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmpHWjF5R2JIVU1wc3h3aFVWOVZzYWFNZEoyS2YycndTRVUxSnVRWXA1d2wxTTlMSmIzdlJMRTZqaER6STRBNlp2WDlqT25QTDAyZFNfdmp5NlN1YVgxcy1UUWFPc2VndkRVSjlhdGIyYlo5dGtyT0cwTWlnNUQwbVQ1RQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 04:03:06 GMT",
+      "source": "UDN"
     },
     {
       "title": "2026世足》日本率先破門無用！巴西下半場狂轟濫炸，2比1逆轉晉級16強 - Yahoo新聞",
@@ -2661,49 +2676,42 @@
       "source": "Marie Claire 美麗佳人"
     },
     {
-      "title": "世足》第95分鐘絕殺讓日本隊心碎 巴西英雄：喜悅無法以言語形容 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03a25tN29fV1RwXzJrMVdMekVJdEFEeENhUll0SVJUb0xzSGh3NHk3VjFGNGZsaGh4bENRY0RfYVpyUDJlVkFOWkRIMER3TFczTHdLUUxibFdCQll4bjRXT9IBZkFVX3lxTE9aSHhiT2lBeVNZdW1pWnE3d2tGNUQ1WFFKNG55YXZOMzJfN2NaUUhZSHIxQTlmTDFtQW1uVWZITk8xcFV5ZE5NZWdjVnNCaE9rWDNXYWp5clFKdjJNaWw3SmtQemhvdw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 21:49:00 GMT",
+      "title": "世界盃2026︱堂安律淚認日本「實力不足」：我們發自內心想贏冠軍 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbWJLMmFJdDdqSkVFbGQ0ZTVhblJzbVBrU3d0d2VOb3RrTlB2Q3dkd2E0VWcxblFOT1Y3MzBKa01YZHIyLUJlUjQ2SGc2c0ZicE9MYnJDa1FmOUNKcFJnaERNeU4waHdyaFBZSlVXRWQteW8tbU4yTnd3M2J3MnZOS3J0MlpqSThkR3JhQWtMdUpnRDJzVWZlMHJnT2xQdnp4OW5EUXRJQkpSVl9ieHFkdVo0M0pxRzBXSFp6NlZ6R19hamN5T0Jud203R1hlMm5GZGtPaHpEcXJOQTNaclpjQnI1QjRzT2JHMXBVMF9OaEhsd3NvZU9TOGRlOWtJVnNmYjhyRUlnanFXUllaQkZLSFp2R1JTbE4xVkNCSU5HWkR5V0Mtc1U2b3FKRXc0cndZUjdmaXRHeEFBemd4Y3dzU0llLW16LVlYYW1ZQThoNzFha0ZMQ3UyN2g1SElPWnplNDVHODJFMFh5a0N5cTNXbWJNTENVTlZrZ2lHaVFmdnN1V0Jxd1hzeVJDVDBRUzM3RUhJYUJoUDBWcDk4VWZv?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 02:44:29 GMT",
+      "source": "香港01"
+    },
+    {
+      "title": "2026 世界盃足球賽 06/30【荷蘭 vs 摩洛哥】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WVnJ5WFk5NlZGN003alVtWURxNHk2MENiSHYtdTJhSmw2ejRRVnpLVHk2NTIwSnRORlRVOHlYeHhjOXFCcnBmYUZ5c3E?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 03:59:25 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足》16強有4席出爐！ 世界前10的德國、荷蘭都倒在PK大戰 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseUZCMzEtU3pmZVh2MDB3U3Z3V3VtZXV4dTlmVkZqMzVSR05reGlpZGhrYnowclNmR1luOG1mVGoyZzdkNFhVeW9COGlHR205eVd2Ymc0dUFfMW9JY1hFcw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 05:09:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "世足》亞洲9隊僅2隊晉級 韓媒嘆：只有日本閃耀我們是井底之蛙 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdFh6UEVyZnNXNkt3b0pTcnRmRjFFaVowVUNrTWRja2dmLVlUMml1WGt4V01WNnBneW1zMUFLNnhKMHNpcjd6bk9Ob1M1OUVYNjF4SmJWcDkxdlIzY1V5a2p5VzFkN1VlanVETNIBZkFVX3lxTE8xcFBYSXJ0Q0paS0x2V3FPQUl1S2lmcUx0b1BuRHI1WE8tTy04VzhRWk5ubE8tM0NHb1BRVk81UVdZSmpJdUxtR1BEY0RuUGJvX3g1RW9nQXBhd3dMWXR0MlhOeUdjZw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 06:21:00 GMT",
+      "title": "摩洛哥PK大戰3比2爆冷勝荷蘭 晉級世界盃16強 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MZ1dJakNEX0g0SDVUV3prb3pLVG4wYTBFY29QRk1qY2hteHo4T3ZoNnRHT0FiZXQtSWUyVWZMT0ViUTZlVWNZZzgyOC1Za0lHd0ZkaDZjV2xocndWSkZN?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 05:10:00 GMT",
+      "source": "中央社 CNA"
+    },
+    {
+      "title": "世足》PK大戰淘汰4屆冠軍德國！巴拉圭寫首見紀錄驚奇闖16強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kQmlSbGF6Z2h5THdjbUtKRm4xLVhqQjktcHQzV1JuaGNTcFRiMC1lMXNrUW45b0R2R3ZHdi1raTdSLVR3dXFqcG9LVWpGUDVlUE5sX3dEUXlaT1E2d1pYY9IBZkFVX3lxTFB4ejZfc1plZWYyc3BwTlZDU196dGZhY1diUjRVUjJKYTNxbVRLQkh0RnVWOE5IUlRrM3hmbmNoNU4xNFpxQ241ZWI0S21sZ1VZSDRuYzlfSXk1ZTQxYjlCQ255Nk5tUQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 23:38:00 GMT",
       "source": "自由體育"
-    },
-    {
-      "title": "【2026世界盃】韓國夢碎震撼政壇！李在明轟「用人失敗」下令徹查 總教練洪明甫深夜請辭扛責 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmlNbnVsNE5IdXNCVWUxZWdHVGVLVEhiQ2R5aHF2RnB0SGt5cDZfSkpZcFBTTnM1TnZ0TndvY3U5YWNxUXhmY1UySXExNlhqdUNQdWE5R1B5bW4yd1hDTEpvZFlaemt5ejJVSFZWU3BsLURwY2d6LVlvOGhWY2JsMldzTnROS3RE?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 02:15:00 GMT",
-      "source": "PChome Online 新聞"
-    },
-    {
-      "title": "2026世界盃／韓國無緣32強 足協取消返國歡迎儀式 - rti.org.tw",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oZngzYkNwcUVqZlgzUjg4aXFsbXNPZW5FR0hDVU9fSU5ETXZhdnJKMFlBY195eGJWbFVGX0RvOVFIYmlwVHZJMC1WOThoczlxWFhpU2tQZw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 06:49:29 GMT",
-      "source": "rti.org.tw"
-    },
-    {
-      "title": "【巴西vs日本】06/30世足直播！獨家免費線上看、LIVE！2026世界盃 轉播 - 吃貨瑪莉",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1iZF8wZmFuaktMVll5dm44V0lacWRWOFBmWmRpRjJRYmJtcDhTREJIalpoOHhRSlpHSjJKeQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:32:23 GMT",
-      "source": "吃貨瑪莉"
     }
   ],
   "odds": [
     {
-      "home": "Netherlands",
-      "away": "Morocco",
-      "homePrice": 2.6,
-      "drawPrice": 2.6,
-      "awayPrice": 3.3
-    },
-    {
       "home": "Ivory Coast",
       "away": "Norway",
-      "homePrice": 3.7,
-      "drawPrice": 3.4,
+      "homePrice": 3.75,
+      "drawPrice": 3.45,
       "awayPrice": 2.05
     },
     {
@@ -2711,34 +2719,34 @@
       "away": "Sweden",
       "homePrice": 1.29,
       "drawPrice": 6.25,
-      "awayPrice": 11
+      "awayPrice": 11.5
     },
     {
       "home": "Mexico",
       "away": "Ecuador",
-      "homePrice": 2.3,
-      "drawPrice": 2.88,
+      "homePrice": 2.32,
+      "drawPrice": 2.75,
       "awayPrice": 4.2
     },
     {
       "home": "England",
       "away": "DR Congo",
       "homePrice": 1.26,
-      "drawPrice": 5.6,
+      "drawPrice": 5.75,
       "awayPrice": 16
     },
     {
       "home": "Belgium",
       "away": "Senegal",
-      "homePrice": 2.2,
+      "homePrice": 2.1,
       "drawPrice": 3.3,
-      "awayPrice": 3.4
+      "awayPrice": 3.7
     },
     {
       "home": "USA",
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.4,
-      "drawPrice": 5.3,
+      "drawPrice": 5.2,
       "awayPrice": 10
     },
     {
@@ -2759,29 +2767,36 @@
       "home": "Switzerland",
       "away": "Algeria",
       "homePrice": 2.02,
-      "drawPrice": 3.2,
-      "awayPrice": 4.1
+      "drawPrice": 3.15,
+      "awayPrice": 4.2
     },
     {
       "home": "Australia",
       "away": "Egypt",
       "homePrice": 3.6,
-      "drawPrice": 2.95,
-      "awayPrice": 2.43
+      "drawPrice": 2.9,
+      "awayPrice": 2.5
     },
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.17,
-      "drawPrice": 8.5,
-      "awayPrice": 20
+      "homePrice": 1.18,
+      "drawPrice": 8,
+      "awayPrice": 19
     },
     {
       "home": "Colombia",
       "away": "Ghana",
-      "homePrice": 1.45,
-      "drawPrice": 4.1,
-      "awayPrice": 8.5
+      "homePrice": 1.51,
+      "drawPrice": 3.8,
+      "awayPrice": 8
+    },
+    {
+      "home": "Canada",
+      "away": "Morocco",
+      "homePrice": 4.8,
+      "drawPrice": 3.5,
+      "awayPrice": 1.72
     }
   ],
   "videos": [
