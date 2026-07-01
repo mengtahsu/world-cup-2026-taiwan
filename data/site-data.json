@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:49:40.899Z",
+  "updatedAt": "2026-07-01T13:41:31.681Z",
   "matches": [
     {
       "number": 1,
@@ -1213,7 +1213,7 @@
       "round": "Round of 16",
       "date": "2026-07-05",
       "kickoff": "2026-07-06T00:00:00.000Z",
-      "team1": "W79",
+      "team1": "Mexico",
       "team2": "W80",
       "ground": "Mexico City"
     },
@@ -1953,8 +1953,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Argentina國家隊球員，本屆世界盃目前攻進 6 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-055.jpg/500px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-055.jpg",
+        "bio": "Argentine footballer (born 1987)"
       }
     },
     {
@@ -2074,8 +2074,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/500px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+        "bio": "Brazilian footballer (born 2000)"
       }
     },
     {
@@ -2140,8 +2140,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg/500px-Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg",
+        "bio": "Dutch footballer (born 1999)"
       }
     },
     {
@@ -2173,8 +2173,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
+        "bio": "German footballer (born 1996)"
       }
     },
     {
@@ -2206,8 +2206,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
+        "bio": "New Zealand footballer (born 2000)"
       }
     },
     {
@@ -2239,7 +2239,7 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Harry_Kane_England_v_Ghana_23_June_2026-219.jpg/500px-Harry_Kane_England_v_Ghana_23_June_2026-219.jpg",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Harry_Kane_England_v_Ghana_23_June_2026-024.jpg/500px-Harry_Kane_England_v_Ghana_23_June_2026-024.jpg",
         "bio": "English footballer (born 1993)"
       }
     },
@@ -2316,8 +2316,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Senegal國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/500px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg",
+        "bio": "Senegalese footballer (born 1998)"
       }
     },
     {
@@ -2371,8 +2371,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jonathan_David_Canada_v_Qatar_18_June_2026-158.jpg/500px-Jonathan_David_Canada_v_Qatar_18_June_2026-158.jpg",
-        "bio": "Soccer player (born 2000)"
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2415,8 +2415,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Juli%C3%A1n_Qui%C3%B1ones.png",
-        "bio": "Mexican footballer (born 1997)"
+        "photo": "",
+        "bio": "Mexico國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2481,8 +2481,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg/500px-Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg",
-        "bio": "Brazilian footballer (born 1999)"
+        "photo": "",
+        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2547,8 +2547,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amad_Diallo_Cote_D%27Ivoire_v_Ecuador_14_June_2026-256_%28cropped_2%29.jpg/500px-Amad_Diallo_Cote_D%27Ivoire_v_Ecuador_14_June_2026-256_%28cropped_2%29.jpg",
-        "bio": "Ivorian footballer (born 2002)"
+        "photo": "",
+        "bio": "Ivory Coast國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     },
     {
@@ -2635,8 +2635,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bradley_Barcola_France_v_Senegal_16_June_2026-398.jpg/500px-Bradley_Barcola_France_v_Senegal_16_June_2026-398.jpg",
-        "bio": "French footballer (born 2002)"
+        "photo": "",
+        "bio": "France國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     },
     {
@@ -2690,30 +2690,12 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Crysencio_Summerville_of_West_Ham_United.jpeg/500px-Crysencio_Summerville_of_West_Ham_United.jpeg",
-        "bio": "Dutch footballer"
+        "photo": "",
+        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 2 球。"
       }
     }
   ],
   "news": [
-    {
-      "title": "他比梅西、姆巴佩還忙碌！FIFA主席一星期飛12城市繞了地球半圈 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVy1ldUxFbHdLSzNhOVh6YjV4dUVLXzZEd01QUThHdFVzMFFYX2NsQzViQXBCczRvWXpTai1xT0JSR1hiN0FYMUlPSXprOTdKTkE5RXRwVF9ELUVLY1NxRGQtSXZ1YnA5WUljc0NhbWR3NFl6bTJjYng1RkVtQzI3YUcwd1dJOEt0UjMzcEVkTGZ5XzQwLVVSQ1Y0LUZ5bnhuazUzaTA2aU9PUElNcVlYN2VjMlRuVWIyY2RLZWNFRWxQaDJLQWY5VnR2RDlnUmZQWnRjSWJhOTFFY0MxaHpGQkcySWctRng4TTEzeUl1RzhPbnZSRi0yLUVBcVpYY0E0d2pYVzlsSzdyb2RwalVFYm85X1pkRnllNmotTEtyWkpYd3FHZHhnZEVzaHNkcUNfc210Tkk1SEh5OEItR3JWbTR0dWJyVkF6VFZyR3NCa0FOa2ZjY0dVb0NsaE9rLUJXWWtiLUFvLVQ1OTd0cEVndGN4NjBHMGlCVl9GdQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:27:55 GMT",
-      "source": "Yahoo運動"
-    },
-    {
-      "title": "世足》美媒辣評48隊105件球衣 最吸睛、最糟糕一次看！ - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYNURQNnplbmlaRWxLdnU1cXJ2eVppTU5sdWdfa29nbENtWFZtby1tbWRTVjQ1NFBrdUNNeXAwcmxSWFNhVV8zN3VUd2hFa1NNLS15aWttak5IMTNibDRDSNIBZkFVX3lxTE16UXBTNkQ4UW5mM0tubW9VY0Z2bXVUMHdVb3dDZU8yVHI4NXB2U0R0OXl3Z2RiaEZVNTNZZ2tOUmxOckQ2Vzc3aHZmYVY5N0Q4SjNoRG5wZHMxT3o2Ri1YWXhsWEdZZw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 06:55:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "世界盃7/2美國VS波赫32強淘汰賽懶人包》完整分析、預測先發名單 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NRUNZQ1NaN19rYXZIa3cyRnVma2hveU5yZkZ2WV9aNkFHd0JWWVMySE5sRFVnQ054N0dTdGZVMjNZR2VoUWF5QnREM2vSAVJBVV95cUxObmlRMk0teWM0UUNvNlBsTUgyS1d0STZhWnJKeEJBeHBsRFk1Um5LeC12bEU0VVM2MFJVa0pqYTZCVzNKQ1RZeTlhVmVlZ0NKRHN3?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 06:26:03 GMT",
-      "source": "NOWnews今日新聞"
-    },
     {
       "title": "世界盃7/1法國VS瑞典32強淘汰賽懶人包》完整分析、預測先發名單 - NOWnews今日新聞",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adlFkbFZidWVKcEw1YXVvTFpNZlM3am1hdC16aGpUbHg5cmNBaHFremYyeVZmcUgzYXgyRXgxMmFZd3cyZFczREJfcmTSAVJBVV95cUxQNlZOSFgta0VRQ3QyVlNuX0EyUVo2ekRTbU83b1d1dVVyTmdFNEN4WTVnYmZJY0R0UjVVc1czd2VVQ0Y1OENVLTVjMVFTSTF1T3F3?oc=5",
@@ -2721,16 +2703,16 @@
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "世足》姆巴佩梅開二度世界盃進球來到18顆！法國火力全開3比0淘汰瑞典 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPNlFiNVZBWlR1ZHQ1WlhCOFNua1Vnak41NHBHaGlqRDRSS2haZHlaQ3A3WWhOS085OExvTmoyQm5IcmR0YmZ6ME9tbnNGOC1XdHZybXpyU19YLUxhX2QtQXotNkRnQVl6VGdNTlBDNWUyQVkzVUxyREd0TGhnWXpMZDYyMUVaTFd3djRwX0dvQjlRNjZKV1dBTVpXZVpHaG05OTZMdzdJX0g1MkRKMkZfMDlJWXpIUWYzaC1CN1NxaUxVU1lxS1h4eWMzTXBsTWFodW9oUHY1bUlCQ3hKTUt1OHFOUURxXzJWQzdnUHJwTEdBeXVqblRabDRKMll1UUJOTU01VG9SU1ZFVHpHcGJHb2lkZXZlM1VnVGJhRjBHN2RvdHpiX1RWV0g5UW93MDBEZUZwX3NvWlpHWkRkM3lHTmg1R3BkZlpCaEhpTWY0aHljR0dhQzF5S3RuakNlZVRMc2tHVHk1SHhQUHo2amRTNHBiaUQ4VW03YXdBTnNwVHpsWlQyYm5yQzRUU09Mc21nYXJ4VUFfR3Z2Q3Y0aEptQXJLSkpKRUVldWl5OWNSNDJoU0tNalQwY05sZjdqYzZrT1pudldscXRGQQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:54:22 GMT",
+      "title": "世足／挑戰賽史進球王 姆巴佩：梅西會進更多 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQajMwSFpIM01OTU11Y3JINVdUTFZpVHcwa3JQWm1lN0sxTExjRzl0Nmo5S3NrV1BEZDRWTVdEMkJ4Njlua0FQMmxQUkg4ZmFXaEY0NmFaWVY2cnhBUHprMjUxT0NfZlQ0QktkcWc0b29DLURRUlNXYURuM2dfZ1dSMnNlMzYxcnl0Vm14bTUtWlJNbFZZbk9zbUVtbnlFUGJkcnBPT2M3RlJJcFhJYjhlOVdPS0dNMDhBNWhwZ2lNMWl6UHJLMDJVSlhxQnJEc19uMnRkajVhY0lXLUJabWJJanNCTmpHUUR4WHBMejVSNUFIZ08tdWw3RVcycTZHX3lUTHhmWmF4MXJiQlJWWmN0MmJvUWhrRnVXMEZtb0dPTlR1NHJHdnliY3dyUW1pZHFQb3Fkb1Bfc04?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 10:54:29 GMT",
       "source": "Yahoo運動"
     },
     {
-      "title": "世足》姆巴佩梅開二度 法國寫史上第一紀錄大勝瑞典闖16強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ZzdtU1RDOVM0UzZVUG5nb25QUnM3eEVTRm5na1hRRjhaQ0IyekV0UnhlR0Utd0ZfZG9fRDFQMjB5VEVlbFVRbFNYdVJuZV9GbHVldmEwX2ZDVTQ0QlBPX9IBZkFVX3lxTE05VElZeTVXcFhpRWRMN3RRdmZBQ3gtSF9fNGhnd29TYVFUVFZKei0yWlpDcTV1VU5GNmxuSmUtakNDdFVJVzlkWFhLNzFLMkF6alE0Vk52U0Qtd3lBaEQwY2lMaU9idw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 23:01:00 GMT",
-      "source": "自由體育"
+      "title": "法國瑞典直播線上看｜世界盃32強法國vs瑞典比賽時間、轉播平台 - Marie Claire 美麗佳人",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xVWNyZVFkYm9KZmtxaVlOTndKTVZrS1J3NmUxRlpKZDZNSUR2WkJkSTRCNk5yMGZhWU9MSUVqLXEwM0Z1VERmaUZzSDlFU056c0VzSmZJeldCUEFqbUNPRQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:10:33 GMT",
+      "source": "Marie Claire 美麗佳人"
     },
     {
       "title": "2026世足》哈蘭德絕殺建功！挪威2比1氣走象牙海岸，睽違28年重返16強 - Yahoo新聞",
@@ -2749,6 +2731,24 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ajVuZTdwS2VmeDloSE4yaUgtOGhtNWhWalZTY2Itc2lRVTlmWm9qR1ZMRVlrRGlBVUNja3k4Um4tcmJFV0tOdFgzNFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:33:47 GMT",
       "source": "蘋果仁"
+    },
+    {
+      "title": "世界盃墨西哥2比0宰厄瓜多 發揮地主優勢闖16強 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wb0o3U2tETEFKM0Y3MlhUejRNV29Vcm9aVlE1c05ucGlIeWNNcGJvSUt6eGNfa0hfYmRibW1UU01RTWY0cGtUZnh2RURGcnlMb3dhMGFtaUxUYkVhTC04?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:27:00 GMT",
+      "source": "中央社 CNA"
+    },
+    {
+      "title": "世界盃運彩分析》7/1 地主墨西哥強勢出擊 厄瓜多上演奇蹟逆轉後能否再爆冷？ - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNVzNvYzh1d3lsVVVNWWhUWmtUaGJOQ3FrX2ExeW0tQVRPZXFVR3hrRGwxWWpCazVueko4cHl2VzJKNTNHZjBCOWlDQ3B6SU1SbW5NZjhLRHhQUUd5NXBkNHZLMW1DY2lJd1ZrOVh3ZWhabFplSEpfNHQxbWlOd3BfaE5OcWNkelJrNi1nZmxSYkNBZmp4RWJGRUUxUWtfblY5NEJMYVZyMXd3cjdMc3F2MGJGTjNiRkp6bGY4b2NKT3poNTJmWWdYV1IxaXNMMzVhRmN5R0N4M3JONlNVcVliUE1nc3BwZjZrcmZyUm9IVzFfT3YyTlVCNl9hYWNfa1VDUUcwZHctLTV4QTdub3Y0QkhLLWRiZ0MzN2w0aG00ajN2NllPWld4QmxaUHlqUWI2bXh4Q1RfcGFYT1BEMlg2d3p4czZXRWkzUjk1Y1F5ZHRpVy1uX1BMY1FVSHA5SDBSclBucWhRNnZmYnFKanNocURLU3BGUXVTYTVoeTBpVW1ETDhJQi0xeEUybFREUUdQMVB0V0VheDdibUlUZDlEcGZ0SkZ4S3dXSzBmLXVYdkNQN01tN21DRGNrdVExVGZyR0tBRk1hN0ZiVGE3Q1F6UTJaSTEyZ1d4N0dkWjdLeHJFRFc5c3h1b3daN0I1dw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:31:22 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世足賽》墨西哥球迷作妖！徹夜喧囂鬧爆對手 厄瓜多輸球怒抗議 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOeGZzMTR5LVJsd2o4Y0taS28wMWJQOVlVY04wVTNxMDMxcDVGRFZsVjY0RHhBZzJYRTROc2ltdXR0UXdBd042MjNwOGhjdWdjUF9TYnBOaEZKSncyRVNkcExENDJCZlNucnpmYng5QlZldDhlSEN3ZldUaVAxNlAtam1YYUJHSTNUamZwVUJjNjMxNmZxcGN1VmdzbUtOazFSYlpwaExvNjluZGZvdDF3YWwyVTFuNkxzUFRzTUdKbkhYaTh3TW9BSFczLXJLcXZ4VV9IeDM0V2R1bEFuNGM4VGlld0NzV3d1UnR1b0h3cllXaEZ6TGp0cS11R2tyZXkwRm4yODJ1YV9GSWJMU3BmQS1WWG5vY3NXaGJHUzZ6UGFfT1BqS3VDajctRElVWFV2dWRWTTU1YkduY3VOOE5JUWg1RThqaS1paDFDWDNjVkNNci0tSzFzRWswV2o4dlNzTmtPSTkyd0NfVUJQWlVYVHQwTTdhaEFNMS1LQy1jUWxsQnpBTm8yRE03emswUHc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 10:20:09 GMT",
+      "source": "Yahoo新聞"
     }
   ],
   "odds": [
@@ -2756,8 +2756,8 @@
       "home": "England",
       "away": "DR Congo",
       "homePrice": 1.3,
-      "drawPrice": 5.25,
-      "awayPrice": 16
+      "drawPrice": 5.2,
+      "awayPrice": 15
     },
     {
       "home": "Belgium",
@@ -2771,14 +2771,14 @@
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.42,
       "drawPrice": 5.1,
-      "awayPrice": 9.4
+      "awayPrice": 9.6
     },
     {
       "home": "Spain",
       "away": "Austria",
       "homePrice": 1.32,
-      "drawPrice": 5.4,
-      "awayPrice": 10
+      "drawPrice": 5.25,
+      "awayPrice": 9.5
     },
     {
       "home": "Portugal",
@@ -2804,7 +2804,7 @@
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.17,
+      "homePrice": 1.16,
       "drawPrice": 8.5,
       "awayPrice": 21
     },
@@ -2825,15 +2825,15 @@
     {
       "home": "Paraguay",
       "away": "France",
-      "homePrice": 20,
-      "drawPrice": 7.5,
-      "awayPrice": 1.19
+      "homePrice": 18,
+      "drawPrice": 6.75,
+      "awayPrice": 1.21
     },
     {
       "home": "Brazil",
       "away": "Norway",
-      "homePrice": 1.9,
-      "drawPrice": 3.6,
+      "homePrice": 1.87,
+      "drawPrice": 3.7,
       "awayPrice": 4.1
     }
   ],
