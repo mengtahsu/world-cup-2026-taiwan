@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:12:57.824Z",
+  "updatedAt": "2026-07-01T22:41:21.770Z",
   "matches": [
     {
       "number": 1,
@@ -2045,8 +2045,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "England國家隊球員，本屆世界盃目前攻進 5 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg/500px-Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg",
+        "bio": "English footballer (born 1993)"
       }
     },
     {
@@ -2078,8 +2078,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 4 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg/500px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg",
+        "bio": "French footballer (born 1997)"
       }
     },
     {
@@ -2254,8 +2254,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "New Zealand國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
+        "bio": "New Zealand footballer (born 2000)"
       }
     },
     {
@@ -2386,8 +2386,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jonathan_David_Canada_v_Qatar_18_June_2026-242_%28cropped%29.jpg/500px-Jonathan_David_Canada_v_Qatar_18_June_2026-242_%28cropped%29.jpg",
-        "bio": "Soccer player (born 2000)"
+        "photo": "",
+        "bio": "Canada國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2430,8 +2430,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Juli%C3%A1n_Qui%C3%B1ones.png",
-        "bio": "Mexican footballer (born 1997)"
+        "photo": "",
+        "bio": "Mexico國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2712,22 +2712,16 @@
   ],
   "news": [
     {
-      "title": "世界盃7/2英格蘭VS民主剛果32強淘汰賽懶人包》全分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UTnl4cm1RVnNic1d2bWJwcVE0bzRTYnQ0eWNwTmJLaW8zZ2N4cm1vc2dOSWZIMkgwQ2I3bWRVd2tPZmpjRmdtT0lmclDSAVJBVV95cUxPdThxV1gtaFVCemxoQ2lCWDR0Snc2MjBvamllSll4Tk4yVldNV2ZEcnQtQ0VEX0dNVXVoX2lxc1lnVndsZjRyLVh1ODM4YW90RlRn?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
-    },
-    {
-      "title": "2026 世界盃足球賽 07/02【英格蘭 vs 剛果民主共和國】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PQzZRZ20yYkxBamo5MlY5M0VZY0hjQ3RWSm9FRkcxLWlfSHRMX3ZNNDRsVWZBLU53UEtvSDNaS0lfZVpGSldvcXA5cV8?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 14:03:03 GMT",
+      "title": "2026 世界盃足球賽 07/02【比利時 vs 塞內加爾】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NVkJYeFl2cVdOWFVtVjAxaThpZGpQNFF4bXpqZ0NGWTNTQWsycHl5UWpiSTE1LXR4NU91OGs3SFRHYkNUZGhyQjN0RHk?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:03:37 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "2026世足》凱恩梅開二度逆轉獲勝！英格蘭2比1氣走剛果，三獅軍團驚險挺進16強 | 國際中心 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OTUpGTmhCYjdneEp1VGlJNTlXNkRSdXp6VTlycVZpZS1LOXl5X2hIUzlPSWtzZDNURjR1bEtwQzRqUmdiOHUtQWZqMHRMQQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:00:00 GMT",
-      "source": "風傳媒"
+      "title": "英格蘭對剛果2026世界盃32強｜賽果出爐+國家足球隊球員出爐 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQU3hpNjZ6N2FkWjNaOUxOay1WNnVnZ1c2YXowNENtVEJzUlMwN0V4MllHcURRb2sxYk14V25tX0VyUjhRX2hzY0JXNmx1dTZIQzh6eGhDTzFVNnhkYW5wMWduaktHQnYyT1pCX0ViaEFBTmY5MHVVWE1mbGxwemJCeTV3aFp5VndiTmZNM0U2eUdWblZLc2VQUnpEV1g1VFpMMWZLOWJSQy04ZXdpTVZmWFpvRmJrMU1NSlI0c2p0bXFPMTVzQTgydmg0ZTdvNEFIMnJqRzhSV2FwRnM3ZTB6S0wzVmVMN2l6VWNDdnE5c3N1M3JJaHFqanBabERqM1otVG4xN1NXeEtoT0pOblJ0X0k1eXRCT0xGb0F2WWw5SHhodjRraGFId2g5bkVMa2xRQUYtaUVDVzljbUNRQ2Nkb1VRYnAwR1lXY29yLUk5VmhCZHo2MzJmX3pHTmJZcmZXWGhqUXZkNVQyMmhhNHdIMS1jbHF2MUFKSzRHcFNZNElmTW04OFVBUEItazVZUk1Nd0VVYg?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:01:40 GMT",
+      "source": "香港01"
     },
     {
       "title": "世足》姆巴佩梅開二度世界盃進球來到18顆！法國火力全開3比0淘汰瑞典 - Yahoo運動",
@@ -2736,22 +2730,22 @@
       "source": "Yahoo運動"
     },
     {
-      "title": "世足／世界盃「真．死亡之組」！F組全打包回家 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95MTBaaXEtLUNyRFlrY0xPUTZLNWNKbEM0ejNaVXk3WGp0SjFnekwxVUsySnd4SHAwSUdYVDJjVkNNNHV3R01Dekg2eC1JSmlDXzVz?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:35:00 GMT",
-      "source": "東森新聞"
-    },
-    {
-      "title": "世足》連斬7支歐洲球隊寫新猷！法國奪冠機率飆升還超越阿根廷 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81VExOcDE4Ujc0VlBrbmExMFRrRTNLbUxaMzBlWFg5ZHU4cENWZlljdEU3d1F6WmFiWnRnRVRMamQ0WTZsbDJyczJBcl9GWkNhQkNIQW5oWWdmTU9iRnhqUNIBZkFVX3lxTE1Ja0Q2bDVreEk3WDdIblh2a0h5V3V3ZG5KcmhLV0hoeW9IeVpFV2tkbE42UmRwX1pVRTV2VDlkZVlaa1ZTQWI4R1NXQUFjT2UzQmRxcW1HU3BEQnA1X292MHVMT2o4Zw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 23:51:00 GMT",
+      "title": "世足》真的是「死亡之組」！3隊晉級淘汰賽都倒在32強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16QlNTTWFieTVGRkdNR25YNjFCT0s1N3NlVnpJdmQtVEhfNFpjS1dIRURLWkpJMGttYTFMb0xTNjNFTmF3b0x2Ny1wU1NvODNGMl9FR3JfaUVhTTQwYV9UTEdLV044WkNuRnpjVdIBZkFVX3lxTE42M0hjY2dTTXJfN2Z6dks0Y21pejRNOGNQd2UxVUxTYXhDR3VPMnRmMnE5a1BQQUcwYUpfMU4tUEtSUlNTNDk1WEhBZ2h4Ui16Y3pWdmVZSDc5UnBYRlFJakpuNlhxdw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 03:39:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "世足》哈蘭德英雄命！相隔28年挪威再闖16強 下週一大戰巴西 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbEtlakZFalBIekx6bTRZOXZqUk92ek1NT3g1Tk8wWTV6bXMxMXQtSC1US09hcXRwZTVFMTh3RmYwR1JKTzBzTGZoM1VPZVdHZmluTUJlLTMxYlFTbExxT1V3RjlFWFFrN05SetIBZkFVX3lxTE1TUmNLd3EzQ2Z0WFlLZmtpMy15d0RGZUhjQk92WERZcHBZaDBYR205NTc2OU9xM25BcHZ4c290R1RIWjJzajNWTFQ4YjZ6VlJaQzVMeVQ1WFRfWU9wSDMzNU94eDZxQQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:13:00 GMT",
-      "source": "自由體育"
+      "title": "法國瑞典直播線上看｜世界盃32強法國vs瑞典比賽時間、轉播平台 - Marie Claire 美麗佳人",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xVWNyZVFkYm9KZmtxaVlOTndKTVZrS1J3NmUxRlpKZDZNSUR2WkJkSTRCNk5yMGZhWU9MSUVqLXEwM0Z1VERmaUZzSDlFU056c0VzSmZJeldCUEFqbUNPRQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:10:33 GMT",
+      "source": "Marie Claire 美麗佳人"
+    },
+    {
+      "title": "2026 世界盃足球賽 07/01【象牙海岸 vs 挪威】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ajVuZTdwS2VmeDloSE4yaUgtOGhtNWhWalZTY2Itc2lRVTlmWm9qR1ZMRVlrRGlBVUNja3k4Um4tcmJFV0tOdFgzNFU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:33:47 GMT",
+      "source": "蘋果仁"
     },
     {
       "title": "2026世足》哈蘭德絕殺建功！挪威2比1氣走象牙海岸，睽違28年重返16強 - Yahoo新聞",
@@ -2760,40 +2754,46 @@
       "source": "Yahoo新聞"
     },
     {
-      "title": "哈蘭德魅力多大？挪威王室姊弟罕見現身世界盃正裝配足球圍巾穿搭被熱搜！最酷公主還曾跟「魔人普烏」踢球 - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzBjaWhwRVFuOTQ3b0pMREhmbm9DdWg2Z2Z6d2E3MnhSV3h2LWFSN2h0bVg2a3NuSl9RVWt6UHo1UDBmQmJhUHlVTnRaVHhsaWtSWHdkOV9kQlpZaEt3UkZHY3VIa21yOHNsSTJJMS1IT21SeGpCelRQVlh5QzJkMVF3cjRtemxxdWxZSHhOSVN5VEFpUTFSYUhNc2xLNW5CNlFnaXlmdmZZVmNGMFZtNFpR?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:23:28 GMT",
-      "source": "ELLE"
+      "title": "世足賽／哈蘭德關鍵致勝球挪威2比1力克象牙海岸晉級| 2026美加墨世足| 運動 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MGZXR2JDajdveDVoWVM2eXVmd3JvM3lvcXY4WnIzVXBwcG80NGlTTHd4T1VHQTQ2aFhzY3RDSUU0d3ROS2pVZ3BUQVVjaGhKTXBR?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:09:08 GMT",
+      "source": "UDN"
+    },
+    {
+      "title": "2026世界盃／墨西哥闖16強 首都慶祝活動至少2人喪命 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BLXdxQ1U1T0tDWFBvU0dmX2cwNHpYNlE1QVRZdXEtU0RTVDdQX2dETUMtQ2hhWl9xY1RQT2NCejFQSmloR3pLMEttMUlxMG8x?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 14:14:00 GMT",
+      "source": "TVBS新聞網"
     }
   ],
   "odds": [
     {
       "home": "Belgium",
       "away": "Senegal",
-      "homePrice": 2,
-      "drawPrice": 3.4,
-      "awayPrice": 3.9
+      "homePrice": 1.25,
+      "drawPrice": 3.8,
+      "awayPrice": 100
     },
     {
       "home": "USA",
       "away": "Bosnia & Herzegovina",
       "homePrice": 1.39,
-      "drawPrice": 5.3,
+      "drawPrice": 5.4,
       "awayPrice": 10
     },
     {
       "home": "Spain",
       "away": "Austria",
-      "homePrice": 1.33,
-      "drawPrice": 5.25,
+      "homePrice": 1.32,
+      "drawPrice": 5.4,
       "awayPrice": 9.5
     },
     {
       "home": "Portugal",
       "away": "Croatia",
-      "homePrice": 1.78,
-      "drawPrice": 3.6,
-      "awayPrice": 4.6
+      "homePrice": 1.74,
+      "drawPrice": 3.7,
+      "awayPrice": 4.7
     },
     {
       "home": "Switzerland",
@@ -2805,14 +2805,14 @@
     {
       "home": "Australia",
       "away": "Egypt",
-      "homePrice": 3.55,
+      "homePrice": 3.45,
       "drawPrice": 2.88,
       "awayPrice": 2.55
     },
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.17,
+      "homePrice": 1.16,
       "drawPrice": 8.5,
       "awayPrice": 21
     },
@@ -2820,8 +2820,8 @@
       "home": "Colombia",
       "away": "Ghana",
       "homePrice": 1.51,
-      "drawPrice": 3.8,
-      "awayPrice": 8
+      "drawPrice": 3.85,
+      "awayPrice": 7.5
     },
     {
       "home": "Canada",
@@ -2833,9 +2833,9 @@
     {
       "home": "Paraguay",
       "away": "France",
-      "homePrice": 19,
-      "drawPrice": 7,
-      "awayPrice": 1.19
+      "homePrice": 20,
+      "drawPrice": 7.5,
+      "awayPrice": 1.18
     },
     {
       "home": "Brazil",
@@ -2848,11 +2848,17 @@
       "home": "Mexico",
       "away": "England",
       "homePrice": 3.6,
-      "drawPrice": 3.15,
-      "awayPrice": 2.28
+      "drawPrice": 3.2,
+      "awayPrice": 2.33
     }
   ],
   "videos": [
+    {
+      "id": "fYWwm36Js_U",
+      "title": "【2026 FIFA世界盃™】英格蘭隊長肯恩 晉16強賽後喊話好好享受/愛爾達電視20260702",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=fYWwm36Js_U"
+    },
     {
       "id": "pWOUaBIk1is",
       "title": "【2026 FIFA世界盃™】肯恩梅開二度 帶領英格蘭逆轉晉級16強/愛爾達電視20260702",
@@ -2864,12 +2870,6 @@
       "title": "【全場精華】英格蘭 VS 民主剛果 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=gwSO2hidKTA"
-    },
-    {
-      "id": "OHN7eIY6y64",
-      "title": "【全場精華】7/1 樂天桃猿 vs. 統一獅 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=OHN7eIY6y64"
     }
   ]
 }
