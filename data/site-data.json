@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T12:22:03.431Z",
+  "updatedAt": "2026-07-02T15:13:33.678Z",
   "matches": [
     {
       "number": 1,
@@ -1033,6 +1033,14 @@
         1,
         1
       ],
+      "extraTime": [
+        1,
+        1
+      ],
+      "penalties": [
+        3,
+        4
+      ],
       "ground": "Boston (Foxborough)"
     },
     {
@@ -1045,6 +1053,14 @@
       "score": [
         1,
         1
+      ],
+      "extraTime": [
+        1,
+        1
+      ],
+      "penalties": [
+        2,
+        3
       ],
       "ground": "Monterrey (Guadalupe)"
     },
@@ -1135,6 +1151,10 @@
       "team2": "Senegal",
       "score": [
         2,
+        2
+      ],
+      "extraTime": [
+        3,
         2
       ],
       "ground": "Seattle"
@@ -1921,8 +1941,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/500px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
-        "bio": "French footballer (born 1998)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+        "bio": "Centre-Forward・France・生於 1998-12-20"
       }
     },
     {
@@ -1965,8 +1985,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-055.jpg/500px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-055.jpg",
-        "bio": "Argentine footballer (born 1987)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
+        "bio": "Right Winger・Argentina・生於 1987-06-24"
       }
     },
     {
@@ -2009,8 +2029,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/500px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
-        "bio": "Norwegian footballer (born 2000)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
+        "bio": "Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -2053,8 +2073,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/500px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
-        "bio": "English footballer (born 1993)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png",
+        "bio": "Centre-Forward・England・生於 1993-07-28"
       }
     },
     {
@@ -2097,8 +2117,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/500px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg",
-        "bio": "Senegalese footballer (born 1998)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
+        "bio": "Left Wing・Senegal・生於 1998-02-25"
       }
     },
     {
@@ -2130,8 +2150,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg/500px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29.jpg",
-        "bio": "French footballer (born 1997)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+        "bio": "Right Winger・France・生於 1997-05-15"
       }
     },
     {
@@ -2174,8 +2194,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/500px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
-        "bio": "Brazilian footballer (born 2000)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png",
+        "bio": "Left Wing・Brazil・生於 2000-07-12"
       }
     },
     {
@@ -2207,8 +2227,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Netherlands國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q3qz441762198721.png",
+        "bio": "Centre-Forward・The Netherlands・生於 2002-02-01"
       }
     },
     {
@@ -2240,8 +2260,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg/500px-Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg",
-        "bio": "Dutch footballer (born 1999)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png",
+        "bio": "Left Wing・The Netherlands・生於 1999-05-07"
       }
     },
     {
@@ -2273,8 +2293,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
-        "bio": "German footballer (born 1996)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hcxx8s1763586492.png",
+        "bio": "Centre-Forward・Germany・生於 1996-07-19"
       }
     },
     {
@@ -2306,8 +2326,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elijah_Just_%28cropped%29.jpg/500px-Elijah_Just_%28cropped%29.jpg",
-        "bio": "New Zealand footballer (born 2000)"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gb5m291779220774.png",
+        "bio": "Right Winger・New Zealand・生於 2000-05-01"
       }
     },
     {
@@ -2339,8 +2359,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "USA國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png",
+        "bio": "Centre-Forward・United States・生於 2001-07-03"
       }
     },
     {
@@ -2383,8 +2403,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3y277g1764595447.png",
+        "bio": "Attacking Midfield・Morocco・生於 2001-01-28"
       }
     },
     {
@@ -2416,8 +2436,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Switzerland國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pg2bjt1763328991.png",
+        "bio": "Central Midfield・Switzerland・生於 2005-10-14"
       }
     },
     {
@@ -2438,8 +2458,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Canada國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png",
+        "bio": "Centre-Forward・Canada・生於 2000-01-04"
       }
     },
     {
@@ -2482,8 +2502,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Mexico國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwg6ps1781248412.png",
+        "bio": "Centre-Forward・Mexico・生於 1997-03-24"
       }
     },
     {
@@ -2515,8 +2535,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hem4r91694204364.png",
+        "bio": "Centre-Forward・Germany・生於 1999-06-11"
       }
     },
     {
@@ -2548,8 +2568,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Brazil國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png",
+        "bio": "Centre-Forward・Brazil・生於 1999-05-27"
       }
     },
     {
@@ -2581,8 +2601,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "DR Congo國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ye9inj1766824633.png",
+        "bio": "Centre-Forward・DR Congo・生於 1996-09-03"
       }
     },
     {
@@ -2614,8 +2634,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Ivory Coast國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png",
+        "bio": "Right Winger・Ivory Coast・生於 2002-07-11"
       }
     },
     {
@@ -2647,8 +2667,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Sweden國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zptapf1770796138.png",
+        "bio": "Left Wing・Sweden・生於 2002-04-27"
       }
     },
     {
@@ -2669,8 +2689,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Japan國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png",
+        "bio": "Centre-Forward・Japan・生於 1998-08-28"
       }
     },
     {
@@ -2702,8 +2722,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "France國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png",
+        "bio": "Left Wing・France・生於 2002-09-02"
       }
     },
     {
@@ -2724,8 +2744,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Portugal國家隊球員，本屆世界盃目前攻進 2 球。"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+        "bio": "Centre-Forward・Portugal・生於 1985-02-05"
       }
     }
   ],
@@ -2737,22 +2757,22 @@
       "source": "Harper's BAZAAR"
     },
     {
-      "title": "奧地利隔72年重返淘汰賽！強碰西班牙　主帥放話：不讓亞馬爾拿球 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tcVFINjd3ZUFsWGlhQmFLanZRQUpJR2FGN0pUekQ1VHZmMW53d0FoandYNXRBeExBYjFscjJ4LTNQMDFodElVZUttRjbSAVJBVV95cUxNY095dVRFUWR0S0tGZFhLR0E0ZVBTM2YtQXhQeEQ3cXVTbWNJU3ZFYWhVWXlHNGhnYW5Ma3M3Z3ZGc0JlR0ZBUE9qMWtMQll0RGRB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:21:46 GMT",
+      "title": "本田圭佑成日本隊主帥？「執照」可能成攔路石　本人完全不屑去考 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuY0Y0NGxzSHQxR3V6bGFBSlI3Z2tfanpKUkd6N3FxWldoV1d0cmdEUUFmNElQT3JfdnpSYUpBSWVxV203Yk5GV0tjWkjSAVJBVV95cUxNRi1Yemx0NEQ2bFltVnVEc21ZTkFVZGwzdlQ1dWtkS0JyT2d5M2s3U2NYZnplN3M5RGhLTm11M1RfNE1aR2tiNlNJTDlaQVo0VllR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:31:08 GMT",
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "世足》凱恩再度成為英格蘭救世主 神勇表現寫一堆狂紀錄 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FakpRcUJycHdtdlBsQ3lnb1ZBWkc1d2daWHl0Rm5kX3c1Rl9iRm1lLTRFXzc4SFM4WEZNT1FpLU0xM0FnN1NibGhOcVRvbHpHYlBQS29FZ09VbURtT2dadzNneFljZnl3ZV9uQdIBZkFVX3lxTE9UQzI0cm5mT3ZNM2Q1VjVra0V5c3JSd2Vjams4b1RTTVI0Z21FQVBCalF0YlhlZUZnUW5CR1dSQy1IZ2VCeHdHMEpIRHd3QW1VNHpiZExKemktaHhiNDgtOHhHUV9LQQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:42:00 GMT",
-      "source": "自由體育"
+      "title": "世界盃7/2英格蘭VS民主剛果32強淘汰賽懶人包》全分析、預測先發 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UTnl4cm1RVnNic1d2bWJwcVE0bzRTYnQ0eWNwTmJLaW8zZ2N4cm1vc2dOSWZIMkgwQ2I3bWRVd2tPZmpjRmdtT0lmclDSAVJBVV95cUxPdThxV1gtaFVCemxoQ2lCWDR0Snc2MjBvamllSll4Tk4yVldNV2ZEcnQtQ0VEX0dNVXVoX2lxc1lnVndsZjRyLVh1ODM4YW90RlRn?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 22:00:00 GMT",
+      "source": "NOWnews今日新聞"
     },
     {
-      "title": "英格蘭對剛果2026世界盃32強｜賽果出爐+國家足球隊球員出爐 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQU3hpNjZ6N2FkWjNaOUxOay1WNnVnZ1c2YXowNENtVEJzUlMwN0V4MllHcURRb2sxYk14V25tX0VyUjhRX2hzY0JXNmx1dTZIQzh6eGhDTzFVNnhkYW5wMWduaktHQnYyT1pCX0ViaEFBTmY5MHVVWE1mbGxwemJCeTV3aFp5VndiTmZNM0U2eUdWblZLc2VQUnpEV1g1VFpMMWZLOWJSQy04ZXdpTVZmWFpvRmJrMU1NSlI0c2p0bXFPMTVzQTgydmg0ZTdvNEFIMnJqRzhSV2FwRnM3ZTB6S0wzVmVMN2l6VWNDdnE5c3N1M3JJaHFqanBabERqM1otVG4xN1NXeEtoT0pOblJ0X0k1eXRCT0xGb0F2WWw5SHhodjRraGFId2g5bkVMa2xRQUYtaUVDVzljbUNRQ2Nkb1VRYnAwR1lXY29yLUk5VmhCZHo2MzJmX3pHTmJZcmZXWGhqUXZkNVQyMmhhNHdIMS1jbHF2MUFKSzRHcFNZNElmTW04OFVBUEItazVZUk1Nd0VVYg?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:01:40 GMT",
-      "source": "香港01"
+      "title": "世足》英格蘭、比利時瘋狂逆轉秀！16強有10隊出爐、5組對戰組合確定 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVmNZV0hKWlVzLVhrVU90SFhqLWxESEpPMURLVXI3d0ZrODJPUkp1VGEzd29lbVFBOW5OSVpTTVE5M2hLVE9CanlEU0pGRmNoanZDM0N0aGYwUE9zdVZRSdIBZkFVX3lxTE9BTklKWnJycUZYTTI0NjJ4ZXdUVms2d2FlOXdLZ0J3cVZabjUwWTR5SE56aExETllSekdCM2NWUVhwdGFOaDlSXzNULTZTNWtHU29wV3MzTGxQWEtEakRuRmNWN29jQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 02:10:00 GMT",
+      "source": "自由體育"
     },
     {
       "title": "世足／凱恩11分鐘狂轟2球！英格蘭2:1逆轉民主剛果闖16強 - 東森新聞",
@@ -2761,28 +2781,28 @@
       "source": "東森新聞"
     },
     {
-      "title": "2026世足／史上最大奇蹟！比利時3分鐘連進2球挺進延長 蒂勒曼斯罰球絕殺3：2逆轉塞內加爾 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNeWhyLVJqTVhQY0dWUXpvVVotRl8tUUF5ZVlmLXFLajZNV2RJQjVadHlLdzgzb01wX2ctUEpTYk94MmZZeC1sNnN1SFJmUk5taW5MX3BEMlNTUEpxMElXd0xkcHZXeURNUTBGVGxnc2NoYXN6czZ2TVk2OC04TUVpQ1ZYUFd4RFBhTVNyUW0yOW5neC1SNFJPcEc3WVdYZzdrQnRKcllrd3hYd0FEYktidTRKVS1JSnN2OWNsMTBIcHJqU3FYRVVsTlVCVlJUTWtOLXpCMmgzc3ZXOVZER3ZrcV8ya2dhalk2YVJtVDA1WGhtYWNna0ZVck5WWEREdTN1WUdlYlR4aVpHZ095N0pfWV9aaFhObmpTOGdTRUVQQWd2Rm5jMTN6emwzMW12MlFZRUh1NzU5Mzd1anpmUnd1Q0ZIa20yVnNKblBPSDh3Q2U5X1RCTkNTNjk5UjluZ3dBaENyempOYWF1OUgwWjdwZUZwY0lHQzJwOGN6UmtWRTIzMGV6NS0zWVlRMzFja0lSVGVpTVVPM2NMYi1acmd6VVgyOGdWUGRTek1pSkZiem1QSUlDUlFpSHBrc09uUQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 04:39:00 GMT",
-      "source": "Yahoo新聞"
-    },
-    {
-      "title": "世足》比利時球員內訌後再連線進球 教練談戲劇性逆轉秀 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2T2M1ak5yem1kb1dxY0lVWnl1WWkxTjdqY01IZzdHaEFFWGVNcVIwd0xOZHRMTGg5N2hpUjFVMFBlTDhMOHhDT2x6Zzc3WWoxTmJtOGVvZnZqcVc4Y3B2NlZHZDFWX2lRVmlaONIBZkFVX3lxTE1pOXdmTmxwczFlaU5fODhTMGJET0ZSYUJNem0xRVE0V1dXYXNxLUhTWC0tQjVJYUFIWWk1cDN4UDIwZ0UxSGlfQ2M5MkdLYV9BZW12U3MyU0FyX2NvUlB1ZDY5ZkctUQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:35:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "2026 世界盃足球賽 07/02【比利時 vs 塞內加爾】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NVkJYeFl2cVdOWFVtVjAxaThpZGpQNFF4bXpqZ0NGWTNTQWsycHl5UWpiSTE1LXR4NU91OGs3SFRHYkNUZGhyQjN0RHk?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:03:37 GMT",
-      "source": "蘋果仁"
-    },
-    {
       "title": "世界盃足球美國2比0退波赫 展現地主優勢晉級16強 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YTBYd0t0QmhMVVRJUnkyQldxeW9DVDEzcnJpLXFxN082b2VGM2ZKang2M0dtV1ZlazhSckh6eHd3VFBJMEoxZkpSX0FPaXNQUXAyV3NaTDlyOXd2UDNF?oc=5",
       "pubDate": "Thu, 02 Jul 2026 07:52:00 GMT",
       "source": "中央社 CNA"
+    },
+    {
+      "title": "世足》美國前鋒進球又吞紅牌 「席丹頭槌」後首見尷尬紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNFc0c1BibEpfcVczYnpIZU53ZXcwcE9ONGQyaEZIdDBOeVJYd1ZIUVZKNjNHc0JodWpGNW1SQko2SzgzTkJXMjQ3dkUwUklfRmdrZVdrUF9PNkh1MHV4RU1vdzhTSm5ZeEloTtIBZkFVX3lxTE5MUno3R19kTFFrdmRlVldvTjRjVDF4SEV4ajNFTHIya3RveGNZOU9qbWZ3dVBXSV9JUEVMbHdSMzlyOUdGMGlFSzIxME81WXhlbTZYRWFvY3RtT0FPRXo2bVdyWDVMQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 03:50:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "美國波赫直播線上看｜世界盃32強美國vs波赫7/2轉播LIVE - Marie Claire 美麗佳人",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWVh1WllRUy1OSGFzT3Bia0VXemhpak5iNkRnR1hXN3NBTkl6cXFmWWNMZy1sMW90Nl8xT091ajlpd1ZKUmZERGxUQ1VWM1c2WVY0SG5zQjhxd2tqa2hSUA?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:15:38 GMT",
+      "source": "Marie Claire 美麗佳人"
+    },
+    {
+      "title": "世界盃運彩分析》7/3 葡萄牙體系隱憂強碰格子軍團 克羅埃西亞受讓利多？ - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPenRxVnpTVEZRTFBwMG83R3psOW9zaHA4bFU1WVhtdVZlNXdndTZWQm1BTmRoQUpTRWh5UlcyTTNxcnFsU0pmVy1RYUdPbkZwNnhRSWhjMXJIWkhNdHJyWV85eUxrTm1qbURKQXM1dGVua21WS2lxR3p0SUFqM3ZVUzlVR3IxeHFKbmhtNE81b2hlUnlneHh4MkhGWXpMTVRzRXM4MGVFalQwbnVEYUlYaWtOVTRvVWl6YUlrV05TUVB2OWRVX0dqOVpxM2VwNmJnVHFUencwdzBaYmFFSUx5dmVlNVVlSXJzZ2N4RW5XRVV0TlRnTlJkTGNPandZNUZkZDRIV2NUbHZyczJjbWZNblczOTBxZlVpLTVhYkMxYlB6bmJJeUs4ZGdFUVppWk50T3BWWlRMeTJDaXJEdFYwVFBzOTZWMHlLWXlpdzhia1hYdjg0ZkE0anpGSUVERmlRNWh1cDl5bW9OODFFbmFhd3RQSE1kMmNsbXEyN25jSzAzejdZSlpSaU5EWTc5aGNLc196UmN3cmJHRVFEMGNBVXB1QllVZVFOS19INTVaT0dmRHU1UVVZSjl1OU5Vc0pjajhBZkdLT1J2ZVFGVVJ4ZGZVWUFOUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 08:36:05 GMT",
+      "source": "Yahoo運動"
     }
   ],
   "odds": [
