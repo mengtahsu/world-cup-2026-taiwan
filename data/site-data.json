@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T06:10:52.619Z",
+  "updatedAt": "2026-07-02T09:34:20.388Z",
   "matches": [
     {
       "number": 1,
@@ -1226,7 +1226,7 @@
       "date": "2026-07-05",
       "kickoff": "2026-07-06T00:00:00.000Z",
       "team1": "Mexico",
-      "team2": "W80",
+      "team2": "England",
       "ground": "Mexico City"
     },
     {
@@ -1243,8 +1243,8 @@
       "round": "Round of 16",
       "date": "2026-07-06",
       "kickoff": "2026-07-07T00:00:00.000Z",
-      "team1": "W81",
-      "team2": "W82",
+      "team1": "USA",
+      "team2": "Belgium",
       "ground": "Seattle"
     },
     {
@@ -2273,8 +2273,8 @@
         }
       ],
       "profile": {
-        "photo": "",
-        "bio": "Germany國家隊球員，本屆世界盃目前攻進 3 球。"
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Deniz_undav.jpg/500px-Deniz_undav.jpg",
+        "bio": "German footballer (born 1996)"
       }
     },
     {
@@ -2383,8 +2383,8 @@
         }
       ],
       "profile": {
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/500px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
-        "bio": "Moroccan footballer (born 2001)"
+        "photo": "",
+        "bio": "Morocco國家隊球員，本屆世界盃目前攻進 3 球。"
       }
     },
     {
@@ -2731,81 +2731,81 @@
   ],
   "news": [
     {
+      "title": "世足賽／為何「捂嘴」會領到紅牌？與巴西巨星遭種族歧視有關 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwSmZnTTJZSlV4X3dqVXlnUG1XcnpES0hHNGNnbGRRcURsV1FtNDVLaGNPYUxiNTJUVXJqdldqN2dycVZER2RFbUkwM21ONmRzUzNn0gFYQVVfeXFMTlpBbVUzX3JpRkMyVjVKcU1HYVVld2VaUkNYQnRNODd1S2RCMGFLQzVsMW1nazZ2T0JURmhtazUwTzJuRFVSOUpxODJTOHR3TXN0SkxncDROTA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 08:29:04 GMT",
+      "source": "UDN"
+    },
+    {
+      "title": "世足》世界盃最美風景！日本神級正妹主播爆紅 球迷全戀愛狂問她是誰 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XdEk5cl9BZmpiMGUxSG9MVlRMZ1dUV0k3amxGOUtwSHl5MDc0MXdfUmpiMUotdlZTTkdmSUFhaWVlQ1JlMnNQTkhyUjA1a3RTOFV3akY2WHNMWUNNcHVpNHViVTNpYkM1OWQ1dtIBZkFVX3lxTE5hT2VGcUtSNzExc18yalBObnpWZGxjWHM3SHJwSVhiUjY1NjZVMXBMc0lNNW5LTkFyVUpoR2lmcDd3OHVRcUpnSnllZ0RFeWNuLXhoWjdJa1FibGlPZHNpc2oyZ1dOZw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:16:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "豪賭世界盃翻車！神秘玩家重押2大國「1.33億元蒸發」 只因兩場都踢平 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQMmtPNzVZcUlfZEJ4eG9uV2R0VXo1QzBOSC1KanZ1Y3Z5bWM1ZzF4RWlIR0dpNDJlc0I4NkowdEYwNVJEN1BsbVgtY1N5RUEtVjZiOXZRNGtLdVFNd0d2Y1EzTFlHcmE2ak1KXzFGVTRrazJkWEtXT3JreXhKbzUtLW5IdTJNOF9KZWkxTXpjNjZHdVUxcnRmUE0zSmRtWERLR1BOMkVNVFpiWWNlX19oSTQ1VGlyUzdyZWE4U2lVb1pJX2Nacmd6S2twQWttUHhHSVdmbmZyZDkxOWJXbUE0ZllTNjVTXzhzR1lQYkV1di14SzZmNUYyYllMNWtpSEJ0SjF5Y1lEUlBFaEt2RmlOMEZxelV2Q1Vka2c0ZlJvbXcwd1Q1SjczSFhiYTN1d21iT2tRa19oYnpfTENrcXlXOFpxVFExYk5wZUt3Ym1JdmMwNGxPcW9DYjFMUkpjZVFacUpRUFBzRzhnRnhhd1ZnT0d1NXNsbVdmRE5scWJadjR6anpMN1QyQW5zclJNbkRucTdSZU9lUDI4bFBJTUQ4?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 06:05:58 GMT",
+      "source": "Yahoo運動"
+    },
+    {
       "title": "2026世足／巴洛根進球又吞紅牌！蒂爾曼自由球破門 美國「10打11」仍2：0擊敗波赫 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPUE9yTUV6UWpjU1E0T2h6VkdDLW5BQU5rZXcwQW1oVWRjNGk1X2x1SHIycnJfUm95NnBJOVd4UGtiRjh4ejd2T2RpWFBabFdQbmxSQnJpbHEwOGp6MHdLVzRVazhPUjl5XzcxaEV2eTlya3ZTcU1HVVhNdWR6UElJQzdzTnhhVnU3ZjgyU041V0t6TTQxd3BHUUZ6VnpaaFJXeXBBYU5YZEU5R2daRHhEZjY1aDNNR0xUenRLZk1NUWM3eE1yc2RxSFV4MjVZQW5sTVN4OG8yV21tbVpaTjN1djY0Z0EwSTE3UlRkaThLOHgta0NBUVg2dHBvRHJsUUtFcmh4cU5iTzBfSkktMEtSQmdPdDNQenVzZk54YzQ2TnVjcE5IaTFpSnhVUzNEN0p3SktEVGYyVjNMckVCT25Cb3lEaTc4czJCRHBjX20yVjZwWnlOUDVUT1RISDlsb3JLb3ZRX042Zmp6djVuT05UajV1cDJJbkU3Nmtxa0lHTndDMTJ4SWhyMVdpYXI?oc=5",
       "pubDate": "Thu, 02 Jul 2026 02:44:15 GMT",
       "source": "Yahoo新聞"
     },
     {
-      "title": "世足》為什麼會有「捂嘴紅牌」？ 新規主角竟是巴西進球機器 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qdEdBcXJJVllqRlFPdUFDcWJ0OFBWdTkwYmRLUGppeGZhMlpUOXFQbGtvZy1SMjZKMEluSzAxazJsSzVXME15OFd0MVRqcnBHZUphVDJlX3d1VnROcFpTUk9QcDJDeUJyVVJRStIBZkFVX3lxTE44UlZNMGtXTjRzb2M4U21TR0V3Zklad3phNXZ1OENoZncyRlRhSjkwQ3FmUDhQZTJfa0Nad0dPa2taS09oNmlKS0hBT3ZjWm45UHRWazc3dUZzWHptNUZEb2RBSDdtdw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 01:55:00 GMT",
+      "title": "世足》美國前鋒進球又吞紅牌 「席丹頭槌」後首見尷尬紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNFc0c1BibEpfcVczYnpIZU53ZXcwcE9ONGQyaEZIdDBOeVJYd1ZIUVZKNjNHc0JodWpGNW1SQko2SzgzTkJXMjQ3dkUwUklfRmdrZVdrUF9PNkh1MHV4RU1vdzhTSm5ZeEloTtIBZkFVX3lxTE5MUno3R19kTFFrdmRlVldvTjRjVDF4SEV4ajNFTHIya3RveGNZOU9qbWZ3dVBXSV9JUEVMbHdSMzlyOUdGMGlFSzIxME81WXhlbTZYRWFvY3RtT0FPRXo2bVdyWDVMQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 03:50:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "2026世足／辣模「臉部彩繪+各國球衣」爆紅！ 自製「世界盃國家隊圖鑑」球星動作神模仿| 鏡週刊 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcUFsbkRuWmdtQ3otWUlEeXAxdm82eGVVX3hwN3ZsaTJfTC1Xako4LTNWdFlrNS05SlNtRV85MWExbTJUM2tkUEhUZ0NFZlpwOXBpX1ZB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 04:47:44 GMT",
-      "source": "LINE TODAY"
-    },
-    {
-      "title": "2026世界盃32強-巴西2-1日本-安切在戰術上做了什麼變化導致絕殺?? - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBILTVoYTdRVUs0U1ROSF9CcVBIVWlXMFc3Sl9kQlp3dnNYQkNMSWFaZ3BNUXBGT2JNOUFZNC1UQXdKMEJVb0ZIRDRjcFVRek5u?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 02:48:18 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
-      "title": "日本巴西直播線上看｜世界盃32強日本vs巴西比賽時間、轉播平台 - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdkVVTWJmcDZrWXo0azVYVlZwQ2QyM3p0TTJjZzRFZWNFTGZlc3ZvTjJtYnNXZWx6NU9QWm4taTJHWXlFcWJzQTlCU1hqdnRBN3lqRnNlVEN4ekR0VGx0UQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 19:27:59 GMT",
-      "source": "Marie Claire 美麗佳人"
-    },
-    {
-      "title": "世界盃傷停補時遭巴西絕殺日本球員倒地痛哭| 運動 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfMFBWZzk2ejUzb25PWHZVQkVjWlVJd1IzM2pudVVWdlZZclJ3V3VlU0pVVkVHRGF3UXlvenBPT1hLb1B5dXlFZFdBY280MEd1RGFIM01QVnZoMGd2cUxv?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 00:31:00 GMT",
-      "source": "中央社 CNA"
-    },
-    {
-      "title": "世足／世界盃「真．死亡之組」！F組全打包回家 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95MTBaaXEtLUNyRFlrY0xPUTZLNWNKbEM0ejNaVXk3WGp0SjFnekwxVUsySnd4SHAwSUdYVDJjVkNNNHV3R01Dekg2eC1JSmlDXzVz?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 12:53:00 GMT",
+      "title": "世足／他破門又領紅牌創紀錄！10人美國2:0完封波赫闖16強 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqcWFmVGh4ZlFtYkRnM2tCUkpEblpMZ3ItM2tHN2lVLUdsdGx6T25TVDVXOGliN2I5RmlIeF9qcDZqOFhLN1R6bmN1WjFobFBmbElj?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 02:41:00 GMT",
       "source": "東森新聞"
     },
     {
-      "title": "世界盃7/3西班牙VS奧地利32強淘汰賽懶人包》戰力分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlVGtGQjZBNWFINzZmUU9GYy0xRUZlY2dDdVQ2eTdid3ZRTkxWU3NBYUNJZGw4dXljSUdPQldyRmZfTy1fRmpJZDM4cFLSAVJBVV95cUxPb1hjaGF0WEd3RmRYYkliNmhNWHUxam1KUEdTZE9rMEF6RjZObjZxZXlSTVBESnNPUnRWSDYtUW1IeDBTUWNZNWJ4LXVGWW9sT2N3?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "2026 世界盃足球賽 07/02【英格蘭 vs 剛果民主共和國】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PQzZRZ20yYkxBamo5MlY5M0VZY0hjQ3RWSm9FRkcxLWlfSHRMX3ZNNDRsVWZBLU53UEtvSDNaS0lfZVpGSldvcXA5cV8?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 19:56:23 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "美國波赫直播線上看｜世界盃32強美國vs波赫7/2轉播LIVE - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWVh1WllRUy1OSGFzT3Bia0VXemhpak5iNkRnR1hXN3NBTkl6cXFmWWNMZy1sMW90Nl8xT091ajlpd1ZKUmZERGxUQ1VWM1c2WVY0SG5zQjhxd2tqa2hSUA?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:15:38 GMT",
-      "source": "Marie Claire 美麗佳人"
+      "title": "世足》英格蘭、比利時瘋狂逆轉秀！16強有10隊出爐、5組對戰組合確定 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVmNZV0hKWlVzLVhrVU90SFhqLWxESEpPMURLVXI3d0ZrODJPUkp1VGEzd29lbVFBOW5OSVpTTVE5M2hLVE9CanlEU0pGRmNoanZDM0N0aGYwUE9zdVZRSdIBZkFVX3lxTE9BTklKWnJycUZYTTI0NjJ4ZXdUVms2d2FlOXdLZ0J3cVZabjUwWTR5SE56aExETllSekdCM2NWUVhwdGFOaDlSXzNULTZTNWtHU29wV3MzTGxQWEtEakRuRmNWN29jQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 02:10:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "世足／凱恩11分鐘狂轟2球！英格蘭2:1逆轉民主剛果闖16強 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSkpWb0o5M0JlaHk2YnlaNy1WU29uMFNPcnpIbFJtNUlNZW15MVY5LWxLZkExSmhkUkVETkRlZEllUXU1RjJ5Z2dvZHdIUkhRQWxV?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 23:10:00 GMT",
+      "source": "東森新聞"
     }
   ],
   "odds": [
     {
       "home": "Spain",
       "away": "Austria",
-      "homePrice": 1.32,
-      "drawPrice": 5.6,
-      "awayPrice": 9.5
+      "homePrice": 1.33,
+      "drawPrice": 5.3,
+      "awayPrice": 10
     },
     {
       "home": "Portugal",
       "away": "Croatia",
-      "homePrice": 1.7,
-      "drawPrice": 3.85,
-      "awayPrice": 4.7
+      "homePrice": 1.72,
+      "drawPrice": 3.8,
+      "awayPrice": 4.9
     },
     {
       "home": "Switzerland",
       "away": "Algeria",
       "homePrice": 2.02,
       "drawPrice": 3.15,
-      "awayPrice": 4.1
+      "awayPrice": 4.25
     },
     {
       "home": "Australia",
@@ -2819,69 +2819,69 @@
       "away": "Cape Verde",
       "homePrice": 1.17,
       "drawPrice": 8,
-      "awayPrice": 20
+      "awayPrice": 21
     },
     {
       "home": "Colombia",
       "away": "Ghana",
-      "homePrice": 1.5,
+      "homePrice": 1.51,
       "drawPrice": 3.85,
       "awayPrice": 7.5
     },
     {
       "home": "Canada",
       "away": "Morocco",
-      "homePrice": 4.9,
+      "homePrice": 5.1,
       "drawPrice": 3.3,
-      "awayPrice": 1.77
+      "awayPrice": 1.75
     },
     {
       "home": "Paraguay",
       "away": "France",
-      "homePrice": 21,
+      "homePrice": 20,
       "drawPrice": 7.5,
-      "awayPrice": 1.17
+      "awayPrice": 1.18
     },
     {
       "home": "Brazil",
       "away": "Norway",
-      "homePrice": 1.85,
-      "drawPrice": 3.7,
-      "awayPrice": 4.2
+      "homePrice": 1.87,
+      "drawPrice": 3.8,
+      "awayPrice": 4
     },
     {
       "home": "Mexico",
       "away": "England",
-      "homePrice": 3,
-      "drawPrice": 3.2,
-      "awayPrice": 2.6
+      "homePrice": 3.15,
+      "drawPrice": 3.15,
+      "awayPrice": 2.5
     },
     {
       "home": "USA",
       "away": "Belgium",
-      "homePrice": 2.55,
+      "homePrice": 2.5,
       "drawPrice": 3.55,
-      "awayPrice": 2.65
+      "awayPrice": 2.7
     }
   ],
   "videos": [
     {
-      "id": "wPKk36Y2YtM",
-      "title": "【全場精華】 比利時 VS 塞內加爾 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "Wsk4GnIVycY",
+      "title": "【2026 FIFA世界盃™】波切蒂諾直言感動 美國展現團隊精神！/愛爾達電視20260702",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=wPKk36Y2YtM"
+      "url": "https://www.youtube.com/watch?v=Wsk4GnIVycY"
     },
     {
-      "id": "6Z48B-lXwX8",
-      "title": "【2026 FIFA世界盃™】蒂勒門斯關鍵12碼 比利時神奇逆轉晉級/愛爾達電視20260702",
+      "id": "HFqpYf49hmg",
+      "title": "【全場精華】美國 VS 波赫 32強 ｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=6Z48B-lXwX8"
+      "url": "https://www.youtube.com/watch?v=HFqpYf49hmg"
     },
     {
-      "id": "fYWwm36Js_U",
-      "title": "【2026 FIFA世界盃™】英格蘭隊長肯恩 晉16強賽後喊話好好享受/愛爾達電視20260702",
+      "id": "wYla6B8a35I",
+      "title": "【2026 FIFA世界盃™】地主美國10人勇敢奮戰　2：0淘汰波赫！/愛爾達電視20260702",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=fYWwm36Js_U"
+      "url": "https://www.youtube.com/watch?v=wYla6B8a35I"
     }
   ]
 }
