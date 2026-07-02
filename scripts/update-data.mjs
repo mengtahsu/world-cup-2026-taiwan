@@ -48,6 +48,12 @@ function computeScorers(raw){
 async function addPlayerProfiles(scorers){
   return Promise.all(scorers.map(async player=>{
     try{
+      const sports=await fetch(`https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p=${encodeURIComponent(player.name)}`).then(r=>{if(!r.ok)throw Error(r.status);return r.json()});
+      const athlete=(sports.player||[]).find(x=>x.strSport==='Soccer')||(sports.player||[])[0];
+      if(athlete?.strThumb||athlete?.strCutout){
+        const details=[athlete.strPosition,athlete.strNationality,athlete.dateBorn?`生於 ${athlete.dateBorn}`:''].filter(Boolean).join('・');
+        return {...player,profile:{photo:athlete.strCutout||athlete.strThumb,bio:athlete.strDescriptionZH||details||`${player.team}國家隊球員`}};
+      }
       const exact=async lang=>{
         const params=new URLSearchParams({action:'query',titles:player.name,redirects:'1',prop:'pageimages|description',piprop:'thumbnail',pithumbsize:'360',format:'json',origin:'*'});
         const json=await fetch(`https://${lang}.wikipedia.org/w/api.php?${params}`).then(r=>{if(!r.ok)throw Error(r.status);return r.json()});
@@ -82,7 +88,7 @@ async function getVideos(){
 }
 
 const raw=await fetch(FIXTURES).then(r=>{if(!r.ok)throw Error(`Fixtures ${r.status}`);return r.json()});
-const matches=raw.matches.map((m,i)=>({number:i+1,round:m.round,date:m.date,kickoff:kickoff(m.date,m.time),team1:m.team1||'待定',team2:m.team2||'待定',score:m.score?.ft,group:m.group,ground:m.ground}));
+const matches=raw.matches.map((m,i)=>({number:i+1,round:m.round,date:m.date,kickoff:kickoff(m.date,m.time),team1:m.team1||'待定',team2:m.team2||'待定',score:m.score?.ft,extraTime:m.score?.et,penalties:m.score?.p,group:m.group,ground:m.ground}));
 const scorers=await addPlayerProfiles(computeScorers(raw.matches).slice(0,24));
 const output={updatedAt:new Date().toISOString(),matches,groups:computeGroups(raw.matches),scorers,news:await getNews(),odds:await getOdds(),videos:await getVideos()};
 await fs.mkdir('data',{recursive:true});await fs.writeFile('data/site-data.json',JSON.stringify(output,null,2)+'\n');console.log(`Updated ${matches.length} matches, ${output.news.length} news, ${output.scorers.length} scorers.`);
