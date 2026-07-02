@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T18:03:15.263Z",
+  "updatedAt": "2026-07-02T21:34:55.395Z",
   "matches": [
     {
       "number": 1,
@@ -1175,6 +1175,10 @@
       "kickoff": "2026-07-02T19:00:00.000Z",
       "team1": "Spain",
       "team2": "Austria",
+      "score": [
+        3,
+        0
+      ],
       "ground": "Los Angeles (Inglewood)"
     },
     {
@@ -2122,6 +2126,39 @@
       }
     },
     {
+      "name": "Mikel Oyarzabal",
+      "team": "Spain",
+      "goals": 4,
+      "matches": [
+        {
+          "number": 45,
+          "opponent": "Saudi Arabia",
+          "date": "2026-06-21",
+          "kickoff": "2026-06-21T16:00:00.000Z",
+          "score": [
+            4,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 84,
+          "opponent": "Austria",
+          "date": "2026-07-02",
+          "kickoff": "2026-07-02T19:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9apeaz1762709253.png",
+        "bio": "Left Wing・Spain・生於 1997-04-21"
+      }
+    },
+    {
       "name": "Ousmane Dembélé",
       "team": "France",
       "goals": 4,
@@ -2725,47 +2762,37 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png",
         "bio": "Left Wing・France・生於 2002-09-02"
       }
-    },
-    {
-      "name": "Cristiano Ronaldo",
-      "team": "Portugal",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 63,
-          "opponent": "Uzbekistan",
-          "date": "2026-06-23",
-          "kickoff": "2026-06-23T17:00:00.000Z",
-          "score": [
-            5,
-            0
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
-        "bio": "Centre-Forward・Portugal・生於 1985-02-05"
-      }
     }
   ],
   "news": [
     {
-      "title": "世足》凱恩再度成為英格蘭救世主 神勇表現寫一堆狂紀錄 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FakpRcUJycHdtdlBsQ3lnb1ZBWkc1d2daWHl0Rm5kX3c1Rl9iRm1lLTRFXzc4SFM4WEZNT1FpLU0xM0FnN1NibGhOcVRvbHpHYlBQS29FZ09VbURtT2dadzNneFljZnl3ZV9uQdIBZkFVX3lxTE9UQzI0cm5mT3ZNM2Q1VjVra0V5c3JSd2Vjams4b1RTTVI0Z21FQVBCalF0YlhlZUZnUW5CR1dSQy1IZ2VCeHdHMEpIRHd3QW1VNHpiZExKemktaHhiNDgtOHhHUV9LQQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:42:00 GMT",
-      "source": "自由體育"
+      "title": "2026 世界盃足球賽 07/03【西班牙 vs 奧地利】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RTFdMcDM5ejJNZEhKZzVCUWdNVUVtOWFCTnJLSklmLXZpdlMySnBxWDA4dktRMFE5NVNDZlliNlBlampfWU9QQ004aU0?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:08:58 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "世足／凱恩11分鐘狂轟2球！英格蘭2:1逆轉民主剛果闖16強 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSkpWb0o5M0JlaHk2YnlaNy1WU29uMFNPcnpIbFJtNUlNZW15MVY5LWxLZkExSmhkUkVETkRlZEllUXU1RjJ5Z2dvZHdIUkhRQWxV?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:10:00 GMT",
+      "title": "世界盃7/3西班牙VS奧地利32強淘汰賽懶人包》戰力分析、預測先發 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlVGtGQjZBNWFINzZmUU9GYy0xRUZlY2dDdVQ2eTdid3ZRTkxWU3NBYUNJZGw4dXljSUdPQldyRmZfTy1fRmpJZDM4cFLSAVJBVV95cUxPb1hjaGF0WEd3RmRYYkliNmhNWHUxam1KUEdTZE9rMEF6RjZObjZxZXlSTVBESnNPUnRWSDYtUW1IeDBTUWNZNWJ4LXVGWW9sT2N3?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 22:00:00 GMT",
+      "source": "NOWnews今日新聞"
+    },
+    {
+      "title": "世足／終結16年首輪魔咒？西班牙兩大邊鋒傷退強碰奧地利 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QdU91UmFfaHNUZzlUYl8tZmpwSWlkYnA0cjZsQm1abGVDTzlMREhoZkhRS0ZrQktadjYtVktsdENrVkJ4Ry1MOTcyQnFwWjZWU213?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 23:35:00 GMT",
       "source": "東森新聞"
     },
     {
-      "title": "2026 世界盃足球賽 07/02【英格蘭 vs 剛果民主共和國】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PQzZRZ20yYkxBamo5MlY5M0VZY0hjQ3RWSm9FRkcxLWlfSHRMX3ZNNDRsVWZBLU53UEtvSDNaS0lfZVpGSldvcXA5cV8?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 19:56:23 GMT",
+      "title": "《2026世界盃》32強葡萄牙對上克羅埃西亞：格子軍團會趁勢擊潰五盾軍團嗎？ - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45aXQwa2dvY1pSS3NDRnVhVUdXNTladS1BVE5ZOFZlYXNFdUFDemVYR2VjaDJUdmRtUElUcXlUV3piUnhBdHVPLUZMU1BJdXZY?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:47:23 GMT",
+      "source": "運動視界Sports Vision"
+    },
+    {
+      "title": "2026 世界盃足球賽程：7/3 世足 32 強賽程時間、轉播直播線上看（西班牙/葡萄牙/瑞士） - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aYm5hQlV1bVJneWJKRzZ2eWdWQmE1bkU1NXZCNkFCUzh2QWh1cUVJcThxaU9vUXg2ZzlPRk5odDVKaWkxRGVreS12M24?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:03:37 GMT",
       "source": "蘋果仁"
     },
     {
@@ -2775,62 +2802,43 @@
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "葡萄牙克羅埃西亞直播線上看｜世界盃32強葡萄牙vs克羅埃西亞7/3轉播LIVE - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02bzhzd3RDR3I0dDN5WEtUWXhLR29GUDdzLV9iOVRRQi10Y1RHczViYkR0Zm9kdmo3SzRPMDZnN1dBX0R2U0dfSjhIenFVZ2d6RWdSTjVRYWI1SlVTT2Jydw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:10:46 GMT",
-      "source": "Marie Claire 美麗佳人"
-    },
-    {
-      "title": "世足賽》32強7隊晉級 美加墨世界盃戰績更新 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQUtsT214OC1pS2VGbmY3aVlCTEdPdTczVVlZRk9jeDdZaEJNdWY2S1ZSNV9IcFNQM0F2R21JVl9NSVJLRUUwZ2FGcGd0a2hULWFfZDl2M1NRYjE5ejQzMk9MOUxKbmJGZTFRcDJsOXVSNWw1a0hVWDJ1aDVkbXZHc1p3V0FacW9uNC1FQlRaOG1xeWdqRl84YzlyZ1kwOEU3M3AzaDBmMUFLNS1nWXBycElUXzBYRFdmZkJrbWdMMWtBWTBOVUpraW4teDBLQVlRSE1FcmV4aVJNQlZPRVg2ZlBMZXJIblQ5UXh4by1rWlpPbENveWE1TDVzcU9GWXZVQXZzRVNTbDJtcnZBeVdRZzkwLVRTRmFsY0YtU0h4anBzaVktODJkX0hFRU9XV2s?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:04:26 GMT",
-      "source": "Yahoo運動"
-    },
-    {
-      "title": "世界盃足球美國2比0退波赫 展現地主優勢晉級16強 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YTBYd0t0QmhMVVRJUnkyQldxeW9DVDEzcnJpLXFxN082b2VGM2ZKang2M0dtV1ZlazhSckh6eHd3VFBJMEoxZkpSX0FPaXNQUXAyV3NaTDlyOXd2UDNF?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 07:52:00 GMT",
-      "source": "中央社 CNA"
-    },
-    {
-      "title": "世足》美國前鋒進球又吞紅牌 「席丹頭槌」後首見尷尬紀錄 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNFc0c1BibEpfcVczYnpIZU53ZXcwcE9ONGQyaEZIdDBOeVJYd1ZIUVZKNjNHc0JodWpGNW1SQko2SzgzTkJXMjQ3dkUwUklfRmdrZVdrUF9PNkh1MHV4RU1vdzhTSm5ZeEloTtIBZkFVX3lxTE5MUno3R19kTFFrdmRlVldvTjRjVDF4SEV4ajNFTHIya3RveGNZOU9qbWZ3dVBXSV9JUEVMbHdSMzlyOUdGMGlFSzIxME81WXhlbTZYRWFvY3RtT0FPRXo2bVdyWDVMQQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 03:50:00 GMT",
+      "title": "世足》勇闖墨西哥「地獄主場」 英格蘭主帥直言1巨大劣勢 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcE84U3pQSjVGNmg2aFJOWTk4V2J1LXJSY2M3aEQwNFo1VXNqYlJWQzF5eHg2dTdmQVFtUXNQUFJZLTdiZXFOSFgxeENCdUhtN2ZpSGJBcm5jaXVVQ1F4TFV3RTQzZ29Cb1RuNNIBZkFVX3lxTFBwenF0TFI3cE03cVlUcXFzTFBKV3RBWGNZMzI2VFhpUnlpN1pfZTVrLWY5eEp4bEpPbC1HdENDcV93UEhSVERSZm1rNkhmQXhKczBiYnJVT2UwNXl1NkVmQ1RUaXRPdw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 01:10:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "美國波赫直播線上看｜世界盃32強美國vs波赫7/2轉播LIVE - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWVh1WllRUy1OSGFzT3Bia0VXemhpak5iNkRnR1hXN3NBTkl6cXFmWWNMZy1sMW90Nl8xT091ajlpd1ZKUmZERGxUQ1VWM1c2WVY0SG5zQjhxd2tqa2hSUA?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:15:38 GMT",
-      "source": "Marie Claire 美麗佳人"
+      "title": "世足／凱恩11分鐘狂轟2球！英格蘭2:1逆轉民主剛果闖16強 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSkpWb0o5M0JlaHk2YnlaNy1WU29uMFNPcnpIbFJtNUlNZW15MVY5LWxLZkExSmhkUkVETkRlZEllUXU1RjJ5Z2dvZHdIUkhRQWxV?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 23:10:00 GMT",
+      "source": "東森新聞"
+    },
+    {
+      "title": "世界盃7/2英格蘭VS民主剛果32強淘汰賽懶人包》全分析、預測先發 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UTnl4cm1RVnNic1d2bWJwcVE0bzRTYnQ0eWNwTmJLaW8zZ2N4cm1vc2dOSWZIMkgwQ2I3bWRVd2tPZmpjRmdtT0lmclDSAVJBVV95cUxPdThxV1gtaFVCemxoQ2lCWDR0Snc2MjBvamllSll4Tk4yVldNV2ZEcnQtQ0VEX0dNVXVoX2lxc1lnVndsZjRyLVh1ODM4YW90RlRn?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 22:00:00 GMT",
+      "source": "NOWnews今日新聞"
     }
   ],
   "odds": [
     {
-      "home": "Spain",
-      "away": "Austria",
-      "homePrice": 1.28,
-      "drawPrice": 5.8,
-      "awayPrice": 11
-    },
-    {
       "home": "Portugal",
       "away": "Croatia",
       "homePrice": 1.68,
-      "drawPrice": 3.8,
-      "awayPrice": 5.3
+      "drawPrice": 3.75,
+      "awayPrice": 5.5
     },
     {
       "home": "Switzerland",
       "away": "Algeria",
-      "homePrice": 1.92,
-      "drawPrice": 3.3,
-      "awayPrice": 4.4
+      "homePrice": 1.94,
+      "drawPrice": 3.25,
+      "awayPrice": 4.35
     },
     {
       "home": "Australia",
       "away": "Egypt",
-      "homePrice": 3.45,
+      "homePrice": 3.55,
       "drawPrice": 2.88,
       "awayPrice": 2.55
     },
@@ -2838,15 +2846,15 @@
       "home": "Argentina",
       "away": "Cape Verde",
       "homePrice": 1.15,
-      "drawPrice": 8.5,
+      "drawPrice": 9,
       "awayPrice": 21
     },
     {
       "home": "Colombia",
       "away": "Ghana",
-      "homePrice": 1.5,
-      "drawPrice": 3.95,
-      "awayPrice": 7.5
+      "homePrice": 1.45,
+      "drawPrice": 4.1,
+      "awayPrice": 8
     },
     {
       "home": "Canada",
@@ -2858,8 +2866,8 @@
     {
       "home": "Paraguay",
       "away": "France",
-      "homePrice": 19,
-      "drawPrice": 7,
+      "homePrice": 21,
+      "drawPrice": 7.5,
       "awayPrice": 1.19
     },
     {
@@ -2886,6 +2894,12 @@
   ],
   "videos": [
     {
+      "id": "gtmSL_a4umU",
+      "title": "【全場精華】西班牙 VS 奧地利 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=gtmSL_a4umU"
+    },
+    {
       "id": "Wsk4GnIVycY",
       "title": "【2026 FIFA世界盃™】波切蒂諾直言感動 美國展現團隊精神！/愛爾達電視20260702",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
@@ -2896,12 +2910,6 @@
       "title": "【全場精華】美國 VS 波赫 32強 ｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=HFqpYf49hmg"
-    },
-    {
-      "id": "wYla6B8a35I",
-      "title": "【2026 FIFA世界盃™】地主美國10人勇敢奮戰　2：0淘汰波赫！/愛爾達電視20260702",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=wYla6B8a35I"
     }
   ]
 }
