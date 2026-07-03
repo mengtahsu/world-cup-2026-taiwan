@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T04:10:56.042Z",
+  "updatedAt": "2026-07-03T07:40:11.427Z",
   "matches": [
     {
       "number": 1,
@@ -1192,6 +1192,10 @@
       "kickoff": "2026-07-03T03:00:00.000Z",
       "team1": "Switzerland",
       "team2": "Algeria",
+      "score": [
+        2,
+        0
+      ],
       "ground": "Vancouver"
     },
     {
@@ -2770,22 +2774,10 @@
   ],
   "news": [
     {
-      "title": "世足／200元賭4場世界盃比分全中 抱走854萬獎金網全跪了 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWaHBtN005bm9hdkdhQ3RuSlF3LW83ZV8xeWg4cFk0MU5VNFVQNGpiT1RoMEI3MlI3MnQxQjhlT1RXYVhWZ25SVzJfN1gwWi1pZEpN?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 02:07:00 GMT",
-      "source": "東森新聞"
-    },
-    {
-      "title": "世足賽／笑容好甜！墨西哥籍美女裁判撞臉蔡依林超優背景曝| 2026美加墨世足| 運動 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ka2pwUUJFX3JIa25HblJYcVltNGxtX3lZdF9Sc0l5MVlqXzRmWTRscFB2NGN2eEVXcERCU09wZS13cmthT25XclZjMkNBdkQwZ3M4?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 01:02:41 GMT",
-      "source": "UDN"
-    },
-    {
-      "title": "葡萄牙對克羅地亞2026世界盃32強｜賽果出爐+時間+國家足球隊球員 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNY0RWcmVSNTA3SUFPOHRQNExpQ1paWEt5eUd0amhxcWREemVST1BMVzkyYmVvSGpnNW9BbDBpY2JXbkdNcElEM0tKWUVCY3FJWG1DTGd1RXFiXzFWa3FHcERMc2g2WGVEbEU1dzhYVXN0WGJKSWt4VFlJSmZDb1BZcWstWkZzZDNHeFF6LVVPd012alR0STRnVkM5cUNfY3JZcEpxMUJBc05Uc0s3YURlX2RIZTN5cXFNTzZ0UlB2d2ZQZjZOOWNHT3dvZHZwYkJQeWhOYjJUTXhuLUFZbloycXVUeUhlQjJLNC1EZ2xWWFJzajh0WkhYc1hNVzJzWVB4YzB3ckNJVExOMVpEdnlINi1xNG51bHF4X0FIVmV6UHd0Vk9XZTVNYTRRdXR2aU5lVGw4eHFrQWRGQ1hfekdjOWV6VzVhaXlYbDVNUGkzU25Camh0c3Vzb2NtVGdUdzBnN0g4Y3NSUERMeDYtU2JKTUZGT1F1MUQ3WXNReHBiVU4zNEsyR20xclBvTzRDTjhBZmZ0Y0hvSm9Pcmg4c3ZzNmdwYmN4ZDA5VDQ0ZHZ3?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 01:34:22 GMT",
-      "source": "香港01"
+      "title": "葡萄牙對克羅埃西亞2026世界盃直播線上看！C羅對莫德里奇，世足最後一舞誰會贏？ - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1FbElPdXlrd3VDUzJ4dDQ1SzNTMnNrWHJvTlkxNHJ2bkRHaWVQTlozMXlUcWJ5Wkg0X0d3b3ZmbFRkcFZmSVVqbU8xa1F1ZHJnenFKZDZuSmFMVmVMUkZxRTA4bGFFQXAwTlVBeFlhdGdVZ2lMS0NFS2lHanE4cjJnWi1ndTVtTmtFVjNLRWdDMU5DMURkcUdfa2VHRllzd1VMZWZ5ZEo1dkk?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:07:58 GMT",
+      "source": "Harper's BAZAAR"
     },
     {
       "title": "2026 世界盃足球賽 07/03【葡萄牙 vs 克羅埃西亞】直播、轉播 LIVE 線上看 - 蘋果仁",
@@ -2794,44 +2786,49 @@
       "source": "蘋果仁"
     },
     {
-      "title": "世足》C羅世界盃最後一舞還在延續 葡萄牙補時關鍵頭槌2比1淘汰克羅埃西亞 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQZzhNbGp6aVUyVW1HVVdjdi1wRWtISjBvb3JBdHRaRlNoMDZORzhMeUZ5Q1hnZFBBXzVBZHpwM01yMzZMekZCczVYQ3FXZEkzZmVhNFRzOW4zM2trc053UGQ4eGkwb1VsRWhkbkFtOEZodmJqbTRmLVlobEV3M1duRVZ0NlR6MkdOVDhIQ3dOWFBmWnZkNWotX0V5TmwwTFdOSkk1T1R1MjdmaVhVRGc1WjZaMkZFRTA4NG9wc2JvdnZvZDU0ZFNSQmRNcEI3cWZUdEFTc05WVDM4THR6cS1DemVxTGdDX29IQU05UjEtYUI4Mjhfa2pKMHJTS2dXdXdBNWw1ckZZRGFLMXZtcnF0bkRkbDEwcFEwVV9QZW1PN2JlT1psYVRDSE5pcDJJbFVZWFE2TDYwcnV3TGIxZ1hqZGtUTUtaSV9FNG9XLUNabUlBcWxXR2ZYbTJaUjN5VnNmUE1GXzNZakVxbEpYOFVVeWJUT01kWWV4NVJWS0ZSa1dSOVlOQlJpY1g1LVRWTjNWVzd6Smt2WDNlSkphVVNITXZsbVBfZ2U4YlZ4YzdRVUZqYmhNV0RiamVRTWJyS3RLdnNMVzFjWWVrNmVmVG5tZWY0aW1Lb3VVaF9YcUE0S0hJZw?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 01:13:06 GMT",
-      "source": "Yahoo運動"
+      "title": "2026世足／英雄惜英雄！「魔笛」最後一舞惜敗葡萄牙 戰友C羅賽後獻深情擁抱 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRGV2Z1U1RlFhMjQ4S1VZWG0zenhfZ1h5emYtZWRjX1dBOWFYX05ON294UnppMDMzLUNPU2VXdGI0NGRMcWdkcmdNX0szUmh5cWRXQ0pUUk5WUllmeHVHTTZJOXlVX3lnNDRwR3RyUmEwelAzbHJfamVZRXZ4TlFxS2tod2tmdTJNcHZfWC1TNE1wTkZsNXFwcEdLNnpndUQ4WmV2aFhRbkZtd25OendfMWNsZzlJWXo2SlF5VW96ZTRnWGFtVExDNEJzZ0lxQU9PUllJYjJxajNmQTZxNFg1U3NxaTZMYWZXSmEzVl9JTWxNNzR4dW4taUM0aXJRRmFNMmZhdmRXX3RVaVBWbUkzZjZwZGluazBOZWNraWZ5aUlXRlpVMUk3UHlB?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 03:23:55 GMT",
+      "source": "Yahoo新聞"
     },
     {
-      "title": "世界盃7/4阿根廷VS維德角32強淘汰賽懶人包》完整分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWGR5YVMzSExrM25hb001T2U3dkZtWk9HdkpHOGU1T0FqVmNFUlVYUm5zbjA1M1V0UDMtR0NtUzNjcHl0dkdHNWlLZlnSAVJBVV95cUxQWjdKZlFPOWhmMHJ2ekxhMXhHaGotSmxZNDJURXJrMUp1UnEyLUwteXV2ZUZTNmhXUkxZRjlTX0p5TkFXRXZ1LVpDTEgwVk1UWG9B?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 22:50:00 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "2026 世界盃足球賽 07/03【西班牙 vs 奧地利】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RTFdMcDM5ejJNZEhKZzVCUWdNVUVtOWFCTnJLSklmLXZpdlMySnBxWDA4dktRMFE5NVNDZlliNlBlampfWU9QQ004aU0?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:08:58 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "2026世界盃運彩分析》終極死守！ 阿根廷能否突破維德角鐵桶高牆順利晉級？ | 麗台運動 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EdnRrNlJ6akp4aVpnRjdUV0pRSHZnelF4ZEhZSy1YYV9WZ0lfVTl0YnhjTl9tbVF1TFBvalE3TkgzemhKOWxNWi02QmFjQUpoenZsWmFB?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 03:59:12 GMT",
-      "source": "LINE TODAY"
-    },
-    {
-      "title": "世足》維德角總統放話會贏阿根廷 但賽前要先送梅西禮物 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xaTQ3SEJCdnUxd3dEYkFOUkFtaTlkdEtpV1RWSWk0VENGa2g1eVVRdDgyTXYtd1R3enduMlFXSTZvbTRjWndOZlZObXVRdHhMZ3ZSckdPZzFIbXUtbm1IZUJJUlhfdW9FcnFXWNIBZkFVX3lxTFBhUGs0N0ZwbExLU3lUNVgzMVVXZzNOajNETGItWlBJeGJUWW5PeDdvREdEazBvUkJ3bGV4cnRFNEg2a1kwOEsxVW9POXRpaWJQTjJRU2tNVk5QZGNyRFZpV3o0dmFMdw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 05:16:00 GMT",
+      "title": "世足》西班牙天才亞馬爾超越姆巴佩 狂刷多項最年輕紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNzdaNUxTMkM1XzFxenhtUEJfckV3aUtMTU4yaFdaT2dZVmpTclo2UFhiQUdBd0R1VGFBZ1E5U1MxWnVkQzRzenA0WEFHLWpZZnJtdlo4Y3o5aXUxQl9YS9IBZkFVX3lxTFBrNEw1VUgtYjUyY01MdWh3M0xhWTJqNHdVeXhvR0RtcC1qV0J5VnNiR2ZkNHZmOXRYZkNnWnFZbWhHRnBubURmY2NxcElsUkoxMVlrVlNaYWNTZFV2NUsxM3BuLVFvUQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 00:11:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "世足》姆巴佩梅開二度 法國寫史上第一紀錄大勝瑞典闖16強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDaXJraW5aRW9YcGU2UGhqcTVudnpjZks3RldjVnljS0hTRVYtTVpRUDR2R1JpMHFhZ0lybnVjOG16SXRWNl80SG8zVHpxWUgtNmhwRENwNFFTSEtsU0h5TXdKcjhhNG9nblZTNNIBZkFVX3lxTE05VElZeTVXcFhpRWRMN3RRdmZBQ3gtSF9fNGhnd29TYVFUVFZKei0yWlpDcTV1VU5GNmxuSmUtakNDdFVJVzlkWFhLNzFLMkF6alE0Vk52U0Qtd3lBaEQwY2lMaU9idw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 23:01:00 GMT",
-      "source": "自由體育"
+      "title": "【2026世界盃】奧亞薩瓦爾獨進兩球 西班牙3比0完勝奧地利 - 生活新聞 - PChome Online 新聞 - news.pchome.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckEtam03Q1RSakQ0WEJhY0hpbHZPT1NkUm5TWnNSeVMwYWViVGFHTDZNQnQxZ2kzWmhjbnJXN09yT0FNWXQyZjEtTzZoWktQVXNPdjViWHFfUlVvVmdTRUp0QXQyVHVCZDFQRjVNV0lqWXp3U3NzYjlKcXY4N3R2ZUFFRG1PZ0JS?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 01:41:00 GMT",
+      "source": "news.pchome.com.tw"
+    },
+    {
+      "title": "2026世足／瑞士2：0完封阿爾及利亞！打破88年魔咒 挺進16強 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPUGVGZWpzNkpMby0ybGFQckdOd29mY0RnR0cxcGh1NW4zbDBWLXhIMmtQN2dsWnpJSUJVOEVhNDZManlGc2JrVTd0OVpSUjZvLTNrcldsMFk3b2hCbHJGcV9uZEF5aEJ6QVctb29Fbi0tUkRHMmJFMUxzbFBCdHJBNnp2UXZickZ5elBWVlJ5d0ppMlVwRDBxU0RTVnEweFJxM1JZWGdLX1V5OTZ1ekhzM2R4d1Mzb2RONkJDMFZGSkcwbDJVdnd0U1E5WGZpNVFURjJlRUt4YkgyZnJkdWpvZ1NyVHNmY05BMkVhRWhrVEhHSDBwaHJXck84LVljZkwxdU0zWS0xZVZMekcweWpXU1pfcElBR2l1THVVX09JeThjZ29MWWhkMVpfeDFycXJjeUE0QXJESWp5UlhwbEhJNWhMRk9NeUhkUXc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 06:54:32 GMT",
+      "source": "Yahoo新聞"
+    },
+    {
+      "title": "2026 世界盃足球賽 07/03【瑞士 vs 阿爾及利亞】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51QWItVWtPWjh4NGJqVHpvaE9oalVOeXN4bkQyQU0wb1ZNa0EzeHZHQnh6VVhDQUtNX1dvWFlsbFFuNDF5WkdTM3lYalA?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 05:55:31 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足賽／曼贊比再秀出色身手 瑞士2：0踢落阿爾及利亞連4屆闖16強 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WOEs3Y3VDRkQzQ0hITURKTE9qeVBlZmdab3REaXVuMVJnUldvcmU3X0U2U2c2amcySjVpRzlVUEJZSlYtNzN0T0tiVFpFRHJjaUUw0gFYQVVfeXFMUHBpWlpxSjFkVzMxcUg0dDRUXzlrcHUyanAtUDZFMnVhU3VqR01mQXdDSjFOUXdTcTNCX1h0NmQySDhXcDZUbXlKcnRRcnZvcERzd0ZCUHFzNQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 05:11:59 GMT",
+      "source": "UDN"
     }
   ],
   "odds": [
-    {
-      "home": "Switzerland",
-      "away": "Algeria",
-      "homePrice": 1.02,
-      "drawPrice": 10.5,
-      "awayPrice": 34
-    },
     {
       "home": "Australia",
       "away": "Egypt",
@@ -2842,30 +2839,30 @@
     {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.14,
-      "drawPrice": 9.5,
-      "awayPrice": 23
+      "homePrice": 1.15,
+      "drawPrice": 9,
+      "awayPrice": 21
     },
     {
       "home": "Colombia",
       "away": "Ghana",
-      "homePrice": 1.43,
-      "drawPrice": 4.25,
-      "awayPrice": 8.5
+      "homePrice": 1.4,
+      "drawPrice": 4.4,
+      "awayPrice": 9
     },
     {
       "home": "Canada",
       "away": "Morocco",
-      "homePrice": 5.2,
-      "drawPrice": 3.3,
-      "awayPrice": 1.74
+      "homePrice": 5.4,
+      "drawPrice": 3.35,
+      "awayPrice": 1.7
     },
     {
       "home": "Paraguay",
       "away": "France",
       "homePrice": 21,
-      "drawPrice": 7.5,
-      "awayPrice": 1.19
+      "drawPrice": 7,
+      "awayPrice": 1.2
     },
     {
       "home": "Brazil",
@@ -2877,16 +2874,16 @@
     {
       "home": "Mexico",
       "away": "England",
-      "homePrice": 3.05,
-      "drawPrice": 3.25,
+      "homePrice": 3.1,
+      "drawPrice": 3.2,
       "awayPrice": 2.5
     },
     {
       "home": "Portugal",
       "away": "Spain",
-      "homePrice": 4.2,
-      "drawPrice": 3.4,
-      "awayPrice": 1.85
+      "homePrice": 4,
+      "drawPrice": 3.45,
+      "awayPrice": 1.88
     },
     {
       "home": "USA",
@@ -2898,22 +2895,22 @@
   ],
   "videos": [
     {
-      "id": "9irTa5-p1_w",
-      "title": "【全場精華】葡萄牙 VS 克羅埃西亞 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "VTcqQtTPj9g",
+      "title": "【2026 FIFA世界盃™】進球來得及時 瑞士睽違88年淘汰賽奪勝/愛爾達電視20260703",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=9irTa5-p1_w"
+      "url": "https://www.youtube.com/watch?v=VTcqQtTPj9g"
     },
     {
-      "id": "kWPzKSI3918",
-      "title": "【2026 FIFA世界盃™】C羅點球+拉莫斯頭錘 葡萄牙2：1晉16強/愛爾達電視20260703",
+      "id": "3oQUiANsIuA",
+      "title": "【2026 FIFA世界盃™】曼贊比神助攻 瑞士2：0勝阿爾及利亞/愛爾達電視20260703",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=kWPzKSI3918"
+      "url": "https://www.youtube.com/watch?v=3oQUiANsIuA"
     },
     {
-      "id": "4Aae8EOqOXo",
-      "title": "【2026 FIFA世界盃™】西班牙三球完勝 教頭大讚團隊完美發揮/愛爾達電視20260703",
+      "id": "20FrnTT9gBk",
+      "title": "【全場精華】瑞士 VS 阿爾及利亞 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=4Aae8EOqOXo"
+      "url": "https://www.youtube.com/watch?v=20FrnTT9gBk"
     }
   ]
 }
