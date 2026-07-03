@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:51:42.462Z",
+  "updatedAt": "2026-07-03T23:19:33.071Z",
   "matches": [
     {
       "number": 1,
@@ -1223,6 +1223,18 @@
       "kickoff": "2026-07-03T18:00:00.000Z",
       "team1": "Australia",
       "team2": "Egypt",
+      "score": [
+        1,
+        1
+      ],
+      "extraTime": [
+        1,
+        1
+      ],
+      "penalties": [
+        2,
+        4
+      ],
       "ground": "Dallas (Arlington)"
     },
     {
@@ -2774,22 +2786,16 @@
   ],
   "news": [
     {
-      "title": "世足葡萄牙大戰克羅埃西亞、台灣男籃戰南韓 今日賽事預告與轉播 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZ0dkZWJ1TmxWX1d0ai1GbXVibEVKYW92SEVpdUFvZlZVRU1LMHoxa3BLZVVpV3gwVVBXSG1TSG1obUY5M0hnTjdqODA0WHE1V1ppRTBUemtYbGJ4ckNQLQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 23:08:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "葡萄牙對克羅埃西亞2026世界盃直播線上看！C羅對莫德里奇，世足最後一舞誰會贏？ - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1FbElPdXlrd3VDUzJ4dDQ1SzNTMnNrWHJvTlkxNHJ2bkRHaWVQTlozMXlUcWJ5Wkg0X0d3b3ZmbFRkcFZmSVVqbU8xa1F1ZHJnenFKZDZuSmFMVmVMUkZxRTA4bGFFQXAwTlVBeFlhdGdVZ2lMS0NFS2lHanE4cjJnWi1ndTVtTmtFVjNLRWdDMU5DMURkcUdfa2VHRllzd1VMZWZ5ZEo1dkk?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 21:07:58 GMT",
-      "source": "Harper's BAZAAR"
-    },
-    {
-      "title": "2026 世界盃足球賽程：7/3 世足 32 強賽程時間、轉播直播線上看（西班牙/葡萄牙/瑞士） - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aYm5hQlV1bVJneWJKRzZ2eWdWQmE1bkU1NXZCNkFCUzh2QWh1cUVJcThxaU9vUXg2ZzlPRk5odDVKaWkxRGVreS12M24?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 09:03:37 GMT",
+      "title": "2026 世界盃足球賽 07/04【阿根廷 vs 維德角】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wNXFQbW4yd2tYU0VEUWlrbi10RjA0QTJyYnd2R0ozcHBvVTFTZ3dBVjlHY1NVNElfSUpaWUVxWEZ0WFRzeFFLV181bHQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 20:02:15 GMT",
       "source": "蘋果仁"
+    },
+    {
+      "title": "世界盃2026即時比分｜阿根廷對維德角1:0：梅西率先破門（不斷更新） - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTR3NWtDYXZwbkJjLWR4SVd6Y29vTGRXMWVtSnNDWU84bDl1UFZsYmFXY2ZKeVZFSjRHbVVJRXJ6dzVsTUdHT1M1YWROclpsaFZFS05kWWVwSnFxRllqcXl1dy1xbU5ndjhDUDdfaHFNVHpqZUlucF9pQkJwYkhKaU5saDZsSWFuSjBERjg2T2JmZHdzYkJaWU1zSFd6R0NESHQyb0c0U3ZCMnhoQTFZ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 22:32:42 GMT",
+      "source": "Harper's BAZAAR"
     },
     {
       "title": "2026世界盃運彩分析》終極死守！ 阿根廷能否突破維德角鐵桶高牆順利晉級？ - Yahoo運動",
@@ -2798,16 +2804,16 @@
       "source": "Yahoo運動"
     },
     {
-      "title": "2026 世界盃足球賽程：7/4 世足 32 強賽程時間、轉播直播線上看（阿根廷/澳洲/哥倫比亞） - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5YkpnMmJ0T1AzeDN4Y0FIUkRZT1VxUkpfTVBfQ090SDRWT3JzN0VsQVlNaThoRTI4Vks0U2pDaUY3X1ljLTc0R2lIX08?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 09:03:44 GMT",
-      "source": "蘋果仁"
+      "title": "世足》埃及PK大戰擊敗澳洲 收下歷史性一勝挺進16強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZ2Jva0JZaDlNUHJDN0U5MWc1eEw1Q2oweFNqN1dkTktJa1VWMXhlMnVTNUUxaTc4M1BWbG5zcTFRQVByYzF5QTdvVXpoUGtSNzd2RHFBdmZMSWo2RXRVctIBZkFVX3lxTFBoMjVWd1M4RzI4aUg5N2EtalpCa0IzdDVkaVhvZjNCbE5ldktBZ0NOZzJzZTRmNE1Fa0QwTEtNekpLcE5ZcVVsX09hU3JMbG9LUTJySlB3SmFCd0RvWDllUFI4ZzRQZw?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 21:03:00 GMT",
+      "source": "自由體育"
     },
     {
-      "title": "世界盃阿根廷對佛得角直播連結｜澳洲對埃及Viu免費播｜數碼生活 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNajd5azQxVng1cDZlcmJYS2NuaFVzdnNKSUlBWHR6NElIdkZteTJxaWlOQzd0ZlJKTk5VcWpiSXZaLXlVM2FUQnBaZFN4NnJqaVpmTTRVMzRGX0lGQnVKUllJZzZfa2lUSmdEbDltenk2dTNtRkhYOFoxbWJlVzFHUEg3Vk94OWg3Ry1obFRQY0NfUTVJNEJ3dGxKYnZObFVnSzIyenlzMmdHc1lQb3FXVmNWMVp4UzJhNi1uZkVsX0w3RXJxZEw3OC0xVGlUcVBCczNQc0FZTWtfSF93eTFFTkhOWjE2dm1kTlIwVThCRWl6STI1MkFtT0VoTzRfUjgyT0VRYmN4NlMxTWlma05uZVp0ZUc2WHF0NE1ObVVmTU5YZDlUQlYyWWpVVEdWTDRXVURqX2d1QkNFZ2tYUXdkR185UXpQNUptTWUtLTBDWDBLRHNoX095RXRqellhSG1iaVM4UEdfdWx2VzBRWG5ueW1xcEtQUkxza1hlUGlVNFVRZGs?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 19:17:51 GMT",
-      "source": "香港01"
+      "title": "2026 世界盃足球賽 07/04【澳洲 vs 埃及】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nU2N2QnBYUDVwWmVtWE94dkY2eVliRnlUMENoNmF3RWxVNnU4b2ZBWkkwb1dQZHN2MFptRkRhZ1RDX3UzQThST3Z1b3c?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 21:56:15 GMT",
+      "source": "蘋果仁"
     },
     {
       "title": "世界盃7/4澳洲VS埃及32強淘汰賽懶人包》完整分析、預測先發名單 - NOWnews今日新聞",
@@ -2816,46 +2822,45 @@
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "世界盃運彩分析》7/4 埃及前場有一定火力 澳洲防線穩固對抗強 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQWlpNSm5DUGloMXVDUGdMdFo5TlkwQl9pUGhWeVdhVnlSZDhabXUyLWU5cDF3T3Fud3J0U3hscXdHLTZfS3RHcmFWTGxVWlJXQkVEellYT0l0VnlsV2Q0dTgtTEFjekZkbjFVNjU0OWEyazhsNTRwd1V0bzQ2TC01V2RWRHlVRXUwTzN2YlItdEFWdHNmdVF4a1A3dXFST1hWZHozUXBNUWJaNzlyYm52R1lwRUhUeS1nNWlvZUxDYll5ZG9uTGlIX1dMXzV4SDlKZm9yNExqc21ZZkwyaXBkbzNmTUEzOGh5eHVsUmp5X1hUcFFwN0Vmcks4dkF3LXdYZ0RBR0JGdTVfcUtEVmwxYjVpWkZod3NOVXNnbTBfV0RXSmZ6UVRja1RtT180b2RUTmN4VHgxQi04YjdmZVpDdmUzVm9hU1R4QkpBTlQxNHJVenRJcVdYN3dvSFpTTGw3TDJ6QzZ1QnE1SkRGT2NxOGdqN2pGZFNNeWNvbDUybU55SktFTi1EREQ0R3BnSHlPMU95WnFoZkdzUQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 07:52:18 GMT",
+      "title": "葡萄牙對克羅埃西亞2026世界盃直播線上看！C羅對莫德里奇，世足最後一舞誰會贏？ - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1FbElPdXlrd3VDUzJ4dDQ1SzNTMnNrWHJvTlkxNHJ2bkRHaWVQTlozMXlUcWJ5Wkg0X0d3b3ZmbFRkcFZmSVVqbU8xa1F1ZHJnenFKZDZuSmFMVmVMUkZxRTA4bGFFQXAwTlVBeFlhdGdVZ2lMS0NFS2lHanE4cjJnWi1ndTVtTmtFVjNLRWdDMU5DMURkcUdfa2VHRllzd1VMZWZ5ZEo1dkk?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:07:58 GMT",
+      "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "世足》C羅世界盃最後一舞還在延續 葡萄牙補時關鍵頭槌2比1淘汰克羅埃西亞 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQZzhNbGp6aVUyVW1HVVdjdi1wRWtISjBvb3JBdHRaRlNoMDZORzhMeUZ5Q1hnZFBBXzVBZHpwM01yMzZMekZCczVYQ3FXZEkzZmVhNFRzOW4zM2trc053UGQ4eGkwb1VsRWhkbkFtOEZodmJqbTRmLVlobEV3M1duRVZ0NlR6MkdOVDhIQ3dOWFBmWnZkNWotX0V5TmwwTFdOSkk1T1R1MjdmaVhVRGc1WjZaMkZFRTA4NG9wc2JvdnZvZDU0ZFNSQmRNcEI3cWZUdEFTc05WVDM4THR6cS1DemVxTGdDX29IQU05UjEtYUI4Mjhfa2pKMHJTS2dXdXdBNWw1ckZZRGFLMXZtcnF0bkRkbDEwcFEwVV9QZW1PN2JlT1psYVRDSE5pcDJJbFVZWFE2TDYwcnV3TGIxZ1hqZGtUTUtaSV9FNG9XLUNabUlBcWxXR2ZYbTJaUjN5VnNmUE1GXzNZakVxbEpYOFVVeWJUT01kWWV4NVJWS0ZSa1dSOVlOQlJpY1g1LVRWTjNWVzd6Smt2WDNlSkphVVNITXZsbVBfZ2U4YlZ4YzdRVUZqYmhNV0RiamVRTWJyS3RLdnNMVzFjWWVrNmVmVG5tZWY0aW1Lb3VVaF9YcUE0S0hJZw?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 07:13:48 GMT",
       "source": "Yahoo運動"
     },
     {
-      "title": "澳洲 vs 埃及賽前戰術分析：防守反擊與高位壓迫的正面對決- 足球 - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yYjk3cV84dmd0dWZESWJiQXZTRC1mQnZDcVZhNVVkLXNvQUpHaGlwNVlHeVNxR3lRWWhUenNRMjRTZmZod05FcGJHbDJNN3k2?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 09:09:39 GMT",
-      "source": "運動視界Sports Vision"
+      "title": "世足》為何克羅埃西亞關鍵追平球不算？SI詳解越位爭議 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MalZXSWFobFNTMmoyNHgtWmFsSVAyVGludWRfU1JkWkVadDBVSzNLSGo4cXhGLWk2MkZNdmMzYUp3SFFLWnNQOVkwX1FmWEtlaWNQVHVmVEJQOTdQeTd2TVFnZE9Ud2ZpRUZSbtIBZkFVX3lxTE5ESmE0elI2ejVDN2tNRmJrT0dpaVY1RWFjMU0yT3p6TmNhcFFfN2lGREg5bDJTU3hnVmZTVVA5VGRQakxzaE83ai1WVEtyTjV6MTJleXY5YUxmVzZKaTZ5aENDQTFVUQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 04:44:00 GMT",
+      "source": "自由體育"
     }
   ],
   "odds": [
     {
-      "home": "Australia",
-      "away": "Egypt",
-      "homePrice": 7.5,
-      "drawPrice": 1.24,
-      "awayPrice": 7.5
-    },
-    {
       "home": "Argentina",
       "away": "Cape Verde",
-      "homePrice": 1.15,
-      "drawPrice": 8.5,
-      "awayPrice": 25
+      "homePrice": 1.04,
+      "drawPrice": 13,
+      "awayPrice": 41
     },
     {
       "home": "Colombia",
       "away": "Ghana",
-      "homePrice": 1.43,
-      "drawPrice": 4.35,
+      "homePrice": 1.41,
+      "drawPrice": 4.4,
       "awayPrice": 8.5
     },
     {
       "home": "Canada",
       "away": "Morocco",
-      "homePrice": 4.9,
-      "drawPrice": 3.35,
-      "awayPrice": 1.76
+      "homePrice": 4.75,
+      "drawPrice": 3.25,
+      "awayPrice": 1.8
     },
     {
       "home": "Paraguay",
@@ -2888,29 +2893,29 @@
     {
       "home": "USA",
       "away": "Belgium",
-      "homePrice": 2.7,
+      "homePrice": 2.8,
       "drawPrice": 3.25,
-      "awayPrice": 2.7
+      "awayPrice": 2.6
     }
   ],
   "videos": [
     {
-      "id": "uecRPtNTfF8",
-      "title": "【全場精華】7/3 統一獅 vs. 台鋼雄鷹 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "_6_Sm_NdrQg",
+      "title": "【2026 FIFA世界盃™】睽違92年再進16強 埃及法老肯定隊友/愛爾達電視20260704",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=uecRPtNTfF8"
+      "url": "https://www.youtube.com/watch?v=_6_Sm_NdrQg"
     },
     {
-      "id": "bo72LQvMews",
-      "title": "【全場精華】7/3 富邦悍將 vs. 味全龍 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "xf0cFC1KBfE",
+      "title": "【2026 FIFA世界盃™】埃及PK大戰破袋鼠軍 淘汰賽首勝進16強/愛爾達電視20260704",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=bo72LQvMews"
+      "url": "https://www.youtube.com/watch?v=xf0cFC1KBfE"
     },
     {
-      "id": "VTcqQtTPj9g",
-      "title": "【2026 FIFA世界盃™】進球來得及時 瑞士睽違88年淘汰賽奪勝/愛爾達電視20260703",
+      "id": "h_aUNMigejo",
+      "title": "【全場精華】澳大利亞 VS 埃及 32強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=VTcqQtTPj9g"
+      "url": "https://www.youtube.com/watch?v=h_aUNMigejo"
     }
   ]
 }
