@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="環法、F1、世界盃、道奇與各大季後賽台灣時間及 MOD 轉播頻道。">
+  <meta property="og:title" content="台灣體育賽事日曆｜開賽時間與 MOD 轉播">
+  <meta property="og:description" content="跨運動賽程整合：全部換算台灣時間，附 MOD 頻道號碼。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mengtahsu.github.io/world-cup-2026-taiwan/sports-calendar/">
+  <title>台灣體育賽事日曆｜開賽時間與 MOD 轉播</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav><a href="#top" class="brand"><i></i>TAIWAN SPORTS GRID</a><span id="updated">讀取資料中</span></nav>
+    <div class="hero" id="top"><p>ONE CALENDAR · EVERY GAME</p><h1>今晚<br><em>看哪一場？</em></h1><div class="hero-note">跨聯盟賽程・台灣時間・MOD 頻道</div></div>
+  </header>
+  <main>
+    <section class="control-panel">
+      <div class="range-tabs"><button data-days="7" class="active">未來 7 天</button><button data-days="30">未來 30 天</button><button data-days="370">全部賽季</button></div>
+      <div id="sport-filters" class="filters"></div>
+    </section>
+    <section class="calendar" id="calendar"><p class="loading">正在整理賽程…</p></section>
+    <section class="waiting"><div><p>尚未公布</p><h2>季後賽等待區</h2></div><div id="pending-grid" class="pending-grid"></div></section>
+    <section class="channel-guide"><div><p>MOD QUICK GUIDE</p><h2>常用運動頻道</h2></div><div class="channel-list"><span><b>200</b> 愛爾達體育 1</span><span><b>201</b> 愛爾達體育 2</span><span><b>202</b> 愛爾達體育 3</span><span><b>205</b> DAZN 1</span><span><b>206</b> DAZN 2</span></div><small>實際分流以中華電信 MOD 當日 EPG 為準；網站不會把尚未指定的頻道假裝成已確認。</small></section>
+  </main>
+  <footer>非官方觀賽工具｜所有日期與時間均為 Asia/Taipei（UTC+8）</footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

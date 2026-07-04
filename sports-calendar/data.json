@@ -1,0 +1,1044 @@
+{
+  "updatedAt": "2026-07-04T15:41:46.928Z",
+  "events": [
+    {
+      "sport": "世界盃",
+      "title": "Mexico vs South Africa",
+      "subtitle": "Matchday 1",
+      "start": "2026-06-11T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "South Korea vs Czech Republic",
+      "subtitle": "Matchday 1",
+      "start": "2026-06-12T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Canada vs Bosnia & Herzegovina",
+      "subtitle": "Matchday 2",
+      "start": "2026-06-12T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "USA vs Paraguay",
+      "subtitle": "Matchday 2",
+      "start": "2026-06-13T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Qatar vs Switzerland",
+      "subtitle": "Matchday 3",
+      "start": "2026-06-13T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Brazil vs Morocco",
+      "subtitle": "Matchday 3",
+      "start": "2026-06-13T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Haiti vs Scotland",
+      "subtitle": "Matchday 3",
+      "start": "2026-06-14T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Australia vs Turkey",
+      "subtitle": "Matchday 3",
+      "start": "2026-06-14T04:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Germany vs Curaçao",
+      "subtitle": "Matchday 4",
+      "start": "2026-06-14T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Netherlands vs Japan",
+      "subtitle": "Matchday 4",
+      "start": "2026-06-14T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Ivory Coast vs Ecuador",
+      "subtitle": "Matchday 4",
+      "start": "2026-06-14T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Sweden vs Tunisia",
+      "subtitle": "Matchday 4",
+      "start": "2026-06-15T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Spain vs Cape Verde",
+      "subtitle": "Matchday 5",
+      "start": "2026-06-15T16:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Belgium vs Egypt",
+      "subtitle": "Matchday 5",
+      "start": "2026-06-15T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Saudi Arabia vs Uruguay",
+      "subtitle": "Matchday 5",
+      "start": "2026-06-15T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Iran vs New Zealand",
+      "subtitle": "Matchday 5",
+      "start": "2026-06-16T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "France vs Senegal",
+      "subtitle": "Matchday 6",
+      "start": "2026-06-16T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Iraq vs Norway",
+      "subtitle": "Matchday 6",
+      "start": "2026-06-16T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Argentina vs Algeria",
+      "subtitle": "Matchday 6",
+      "start": "2026-06-17T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Austria vs Jordan",
+      "subtitle": "Matchday 6",
+      "start": "2026-06-17T04:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Portugal vs DR Congo",
+      "subtitle": "Matchday 7",
+      "start": "2026-06-17T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "England vs Croatia",
+      "subtitle": "Matchday 7",
+      "start": "2026-06-17T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Ghana vs Panama",
+      "subtitle": "Matchday 7",
+      "start": "2026-06-17T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Uzbekistan vs Colombia",
+      "subtitle": "Matchday 7",
+      "start": "2026-06-18T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Czech Republic vs South Africa",
+      "subtitle": "Matchday 8",
+      "start": "2026-06-18T16:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Switzerland vs Bosnia & Herzegovina",
+      "subtitle": "Matchday 8",
+      "start": "2026-06-18T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Canada vs Qatar",
+      "subtitle": "Matchday 8",
+      "start": "2026-06-18T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Mexico vs South Korea",
+      "subtitle": "Matchday 8",
+      "start": "2026-06-19T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "USA vs Australia",
+      "subtitle": "Matchday 9",
+      "start": "2026-06-19T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Scotland vs Morocco",
+      "subtitle": "Matchday 9",
+      "start": "2026-06-19T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Brazil vs Haiti",
+      "subtitle": "Matchday 9",
+      "start": "2026-06-20T00:30:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Turkey vs Paraguay",
+      "subtitle": "Matchday 9",
+      "start": "2026-06-20T03:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Netherlands vs Sweden",
+      "subtitle": "Matchday 10",
+      "start": "2026-06-20T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Germany vs Ivory Coast",
+      "subtitle": "Matchday 10",
+      "start": "2026-06-20T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Ecuador vs Curaçao",
+      "subtitle": "Matchday 10",
+      "start": "2026-06-21T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Tunisia vs Japan",
+      "subtitle": "Matchday 10",
+      "start": "2026-06-21T04:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Spain vs Saudi Arabia",
+      "subtitle": "Matchday 11",
+      "start": "2026-06-21T16:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Belgium vs Iran",
+      "subtitle": "Matchday 11",
+      "start": "2026-06-21T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Uruguay vs Cape Verde",
+      "subtitle": "Matchday 11",
+      "start": "2026-06-21T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "New Zealand vs Egypt",
+      "subtitle": "Matchday 11",
+      "start": "2026-06-22T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Argentina vs Austria",
+      "subtitle": "Matchday 12",
+      "start": "2026-06-22T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "France vs Iraq",
+      "subtitle": "Matchday 12",
+      "start": "2026-06-22T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Norway vs Senegal",
+      "subtitle": "Matchday 12",
+      "start": "2026-06-23T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Jordan vs Algeria",
+      "subtitle": "Matchday 12",
+      "start": "2026-06-23T03:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Portugal vs Uzbekistan",
+      "subtitle": "Matchday 13",
+      "start": "2026-06-23T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "England vs Ghana",
+      "subtitle": "Matchday 13",
+      "start": "2026-06-23T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Panama vs Croatia",
+      "subtitle": "Matchday 13",
+      "start": "2026-06-23T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Colombia vs DR Congo",
+      "subtitle": "Matchday 13",
+      "start": "2026-06-24T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Switzerland vs Canada",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-24T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Bosnia & Herzegovina vs Qatar",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-24T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Scotland vs Brazil",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-24T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Morocco vs Haiti",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-24T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Czech Republic vs Mexico",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-25T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "South Africa vs South Korea",
+      "subtitle": "Matchday 14",
+      "start": "2026-06-25T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Curaçao vs Ivory Coast",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-25T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Ecuador vs Germany",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-25T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Japan vs Sweden",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-25T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Tunisia vs Netherlands",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-25T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Turkey vs USA",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-26T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Paraguay vs Australia",
+      "subtitle": "Matchday 15",
+      "start": "2026-06-26T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Norway vs France",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-26T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Senegal vs Iraq",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-26T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Cape Verde vs Saudi Arabia",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-27T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Uruguay vs Spain",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-27T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Egypt vs Iran",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-27T03:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "New Zealand vs Belgium",
+      "subtitle": "Matchday 16",
+      "start": "2026-06-27T03:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Panama vs England",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-27T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Croatia vs Ghana",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-27T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Colombia vs Portugal",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-27T23:30:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "DR Congo vs Uzbekistan",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-27T23:30:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Algeria vs Austria",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-28T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Jordan vs Argentina",
+      "subtitle": "Matchday 17",
+      "start": "2026-06-28T02:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "South Africa vs Canada",
+      "subtitle": "Round of 32",
+      "start": "2026-06-28T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Brazil vs Japan",
+      "subtitle": "Round of 32",
+      "start": "2026-06-29T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Germany vs Paraguay",
+      "subtitle": "Round of 32",
+      "start": "2026-06-29T20:30:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Netherlands vs Morocco",
+      "subtitle": "Round of 32",
+      "start": "2026-06-30T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Ivory Coast vs Norway",
+      "subtitle": "Round of 32",
+      "start": "2026-06-30T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "France vs Sweden",
+      "subtitle": "Round of 32",
+      "start": "2026-06-30T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Mexico vs Ecuador",
+      "subtitle": "Round of 32",
+      "start": "2026-07-01T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "England vs DR Congo",
+      "subtitle": "Round of 32",
+      "start": "2026-07-01T16:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Belgium vs Senegal",
+      "subtitle": "Round of 32",
+      "start": "2026-07-01T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "USA vs Bosnia & Herzegovina",
+      "subtitle": "Round of 32",
+      "start": "2026-07-02T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Spain vs Austria",
+      "subtitle": "Round of 32",
+      "start": "2026-07-02T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Portugal vs Croatia",
+      "subtitle": "Round of 32",
+      "start": "2026-07-02T23:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Switzerland vs Algeria",
+      "subtitle": "Round of 32",
+      "start": "2026-07-03T03:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Australia vs Egypt",
+      "subtitle": "Round of 32",
+      "start": "2026-07-03T18:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Argentina vs Cape Verde",
+      "subtitle": "Round of 32",
+      "start": "2026-07-03T22:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Colombia vs Ghana",
+      "subtitle": "Round of 32",
+      "start": "2026-07-04T01:30:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 1 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-04T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "Canada vs Morocco",
+      "subtitle": "Round of 16",
+      "start": "2026-07-04T17:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Paraguay vs France",
+      "subtitle": "Round of 16",
+      "start": "2026-07-04T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 2 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-05T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "Brazil vs Norway",
+      "subtitle": "Round of 16",
+      "start": "2026-07-05T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Mexico vs England",
+      "subtitle": "Round of 16",
+      "start": "2026-07-06T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 3 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-06T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "Portugal vs Spain",
+      "subtitle": "Round of 16",
+      "start": "2026-07-06T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "USA vs Belgium",
+      "subtitle": "Round of 16",
+      "start": "2026-07-07T00:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 4 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-07T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W86 vs W88",
+      "subtitle": "Round of 16",
+      "start": "2026-07-07T16:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "Switzerland vs W87",
+      "subtitle": "Round of 16",
+      "start": "2026-07-07T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 5 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-08T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 6 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-09T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W89 vs W90",
+      "subtitle": "Quarter-final",
+      "start": "2026-07-09T20:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 7 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-10T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W93 vs W94",
+      "subtitle": "Quarter-final",
+      "start": "2026-07-10T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 8 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-11T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W91 vs W92",
+      "subtitle": "Quarter-final",
+      "start": "2026-07-11T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "世界盃",
+      "title": "W95 vs W96",
+      "subtitle": "Quarter-final",
+      "start": "2026-07-12T01:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 9 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-12T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 10 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-14T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W97 vs W98",
+      "subtitle": "Semi-final",
+      "start": "2026-07-14T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-15T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W99 vs W100",
+      "subtitle": "Semi-final",
+      "start": "2026-07-15T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 12 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-16T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 13 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-17T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 14 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-18T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "L101 vs L102",
+      "subtitle": "Match for third place",
+      "start": "2026-07-18T21:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 15 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-19T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W101 vs W102",
+      "subtitle": "Final",
+      "start": "2026-07-19T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 16 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-21T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 17 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-22T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 18 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-23T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 19 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-24T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 20 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-25T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 21 站",
+      "subtitle": "起終點與精確時間依官方公告",
+      "start": "2026-07-26T10:00:00Z",
+      "channel": "待定",
+      "channelStatus": "MOD EPG 尚未確認",
+      "timeTbd": true
+    }
+  ],
+  "pending": [
+    {
+      "sport": "NBA 季後賽",
+      "note": "2027 季後賽對戰與時間尚未公布"
+    },
+    {
+      "sport": "MLB 季後賽",
+      "note": "2026 季後賽對戰與時間尚未公布"
+    },
+    {
+      "sport": "NFL 季後賽",
+      "note": "2026–27 季後賽對戰與時間尚未公布"
+    },
+    {
+      "sport": "中華職棒季後賽",
+      "note": "2026 對戰與 MOD 分流尚未公布"
+    }
+  ]
+}
