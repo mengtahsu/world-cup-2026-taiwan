@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:14:11.840Z",
+  "updatedAt": "2026-07-05T05:09:18.128Z",
   "matches": [
     {
       "number": 1,
@@ -1256,6 +1256,10 @@
       "kickoff": "2026-07-04T21:00:00.000Z",
       "team1": "Paraguay",
       "team2": "France",
+      "score": [
+        0,
+        1
+      ],
       "ground": "Philadelphia"
     },
     {
@@ -1942,6 +1946,61 @@
   ],
   "scorers": [
     {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "goals": 7,
+      "matches": [
+        {
+          "number": 49,
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T19:00:00.000Z",
+          "score": [
+            3,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 77,
+          "opponent": "Sweden",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 89,
+          "opponent": "Paraguay",
+          "date": "2026-07-04",
+          "kickoff": "2026-07-04T21:00:00.000Z",
+          "score": [
+            0,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+        "bio": "Centre-Forward・France・生於 1998-12-20"
+      }
+    },
+    {
       "name": "Lionel Messi",
       "team": "Argentina",
       "goals": 7,
@@ -1994,50 +2053,6 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
         "bio": "Right Winger・Argentina・生於 1987-06-24"
-      }
-    },
-    {
-      "name": "Kylian Mbappé",
-      "team": "France",
-      "goals": 6,
-      "matches": [
-        {
-          "number": 49,
-          "opponent": "Senegal",
-          "date": "2026-06-16",
-          "kickoff": "2026-06-16T19:00:00.000Z",
-          "score": [
-            3,
-            1
-          ],
-          "goals": 2
-        },
-        {
-          "number": 51,
-          "opponent": "Iraq",
-          "date": "2026-06-22",
-          "kickoff": "2026-06-22T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 2
-        },
-        {
-          "number": 77,
-          "opponent": "Sweden",
-          "date": "2026-06-30",
-          "kickoff": "2026-06-30T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
-        "bio": "Centre-Forward・France・生於 1998-12-20"
       }
     },
     {
@@ -2813,74 +2828,67 @@
   ],
   "news": [
     {
-      "title": "世界盃2026直播賽程時間表 7.5凌晨1時加拿大對摩洛哥免費播5點巴拉圭對法國 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQjg5R19JZzZQZW9nNC1IU1FnUHhGMy1vUzV1Z3ZEanYzUHItYVh6S2RnTDhfOWR3dGxKSDhsNGwxVU53ZXdBN0RlaVUzNHczTlpINi1EUFl0N1J5N3JoV3cwVHhUMzNRbnYxMjg4WFJrY2ozWGdhYVdOdG5RWEl2clhCclFpb3c1U3dNdmF1WHNreVZ2WU5hNzY1Q3dZd1VvUDRoUHY1ZC1RMjJWVjlxdzdVc1pjVGRGUjJCRlk0TW1xWldrOHp3Z2RkTVpySF9rLS1VS2YzQ3F5cW9RQk1TZXJ5akNNWU1yYURTN1htSm5ObjJONmRlY3lXb1k2U0NxSXZVQVZhR1BrOHZIRXBPdGk0LW1CcEIxMXhINVNobGstNFc3aC1HYmxvbExFQWpTamIwYUFTQ0dWdUVUTTZMY1QxVThMM2hmdFByenRpNlJNOWctVnlEcWFBOXBZbGpNTFVFblZsRFZTX0FnbDBIcTZRUHFQcDR3bmE2UA?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 13:38:04 GMT",
+      "title": "2026世界盃／吃「威而鋼」抗墨西哥高海拔球場？英格蘭總教練駁斥 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nLU1JdDktSGJGeXlNZDBWRy16bWtzd2dlSmZHMjVJMWZaVGJzWFJyOVJPWjhkOHNQcm81Q0NHRVdmd29XYnpOTXFpdzN5MThS?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 03:35:00 GMT",
+      "source": "TVBS新聞網"
+    },
+    {
+      "title": "《2026世界盃》16強巴西對上挪威：挪威海盜能抵擋森巴軍團嗎？ - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FeWFnOW5pR0E4UWNGN3BtMU9LdWNZaExlN29JMy1qdE9NMDZXS29uNy1uWU9YcFpsYnhoanpfSTEzNHJqcnhuYlJRdnBueWZq?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 02:54:54 GMT",
+      "source": "運動視界Sports Vision"
+    },
+    {
+      "title": "世足》維德角下半場1：1扳平 把阿根廷逼入延長賽 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zOTdOT1V0eXBtQjZrZzRvdGd0cURiY0ZlTF8zMGplMjBGMWxvTlg3bzdIZklJOG9OM0lFOWFjUUo4dmVnZHVrREliR2lOTTdIZWZvNEVwTFRSUDlKQnFuX2lFb0w3a3ItY0RCWtIBZkFVX3lxTE9uNExQTlZZWjQ1YWE4MkJzZjFfQTh5WEZMeGhoZDZSSGduSmNfR19LWUJUZFVhM3BwN29XeDVkd0w1cExOZ1dsam5rcXhvRjljY09xaGhfOGpMNVBaNUxUUlgyNkhZUQ?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 00:06:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "世足賽／梅西創多項第1紀錄！外媒卻揪致命弱點：16強恐提前打包回家 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOMzBfVGllWUREdW5mdmJ4M0k3bXFXMEpMaTlKVUFDMk1nLUxJLTlva0h4cDVNUDZFcW9fRE53b3dTclhJN2FOR24wNFZRUjQ2UUpGVmYyb2pxS0lZdFQ4ZmQ3UTl4dDVjSlFXUjBRQ0Y4RTJfb3ZpT0xreWRhaDIyZjU1NnFuUVlBMUtjb3B6bENHYnFiMGlMd0pwaGd5S2ppVlhEN3kxODlkQlI5SkVCSUFvRVBHOF9vSGtZVm5rclNqRF8wYW5QSXg0TXpDXzY2eE9GYnFKYkwxTl9ET1hFYTlDTnpWb2lWV0xONDh3clY1YzhwVTVDR1pLNW1Zc2pidS0wa2Rsblc5S25uR29rTnNPaWN2S19kNTUtb3dPWFZfRTdrR25BN2k0Nk45bVM1UjMxUjBUS2pMMllkYVhXMDVVSGZUME1ON1JFbU9tZ1hwQ3F5Y3pNY0hVTHZzYUlVRkhMRkR1Ti1GbUF2REl6YnpsVnQxNUdOUVgyck9TdTFJSWoyQk1yampEYVFBTU9Tb1FkVGNXRHl3bi1XM3czNWZidHRFN3M5?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 20:04:18 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世足差點扳倒阿根廷維德角爆紅門將：我們能昂首離開| 運動 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92YVF3RTVsY3NYVUZhYlAwSDhRZ2d2UGhKRDQ1dTg5MWZOYUdXel9lV25aU3NOOUkzLVc2eTBWVWNDd01xNFh0WEZObmtmblZ2VnZuRURreGk4eHZzUUkw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 04:23:00 GMT",
+      "source": "中央社 CNA"
+    },
+    {
+      "title": "2026 世界盃足球賽 07/05【巴拉圭 vs 法國】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MX3YtZEtuZ2tsNURHU0x0WnRXLWpxWEpfTnVydlUwY2lHLWNKWHQ1TjBLbjAxMk0tZUdTdHJWdkQ3QnlVeG1qajVtSW4?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 00:04:48 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世界盃2026｜法國1：0勝巴拉圭 杜伊博犯規麥巴比十二碼破門 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQNTdzSmJUT0ZTSGVzVmhxRGZ5UnFOcTVJYU9VWlZYN2FkbjZQT29fUHU1TmFodUgyb3JLVklvZy1rdFhXcEJCMFhpTUxVaXFpY2Z0eVE2TFhqc19HdkNkY05PWlBOSC1ucnEwU195Rk1NY2l0VTFCa1NWOWRuNFNjWUlWOFRJa3NkeHBiNERLT1pIUXloNkp0VWIxVXo3am91N0lMYjdpZmxqUW9Rb1BNTEVjbjhNQlJnVUZJZkdCNlA4ZS1SamkxMEg5eld5UF92YlVPZl9EbTRSSG9STXJyVFBmRGZwVi1yRS0xWVY1RGxwUWoxaHZQaHBoeFNiYWJjanVWSzNxUmxYMHI2ZGhhZ0t5VnB6UnBkcWtJcTdaZ2VSaS1fRk94ZllDMGp3V3Vkb213c2RKeFQ2VXBBRUQzSGt3Zk02bnltU3pxNnY0QWpMSWVUWGV0MGF3c21QLTRYR0YzVUFGT3RaYzhMVUxBc09nWENLdTQ1WmoyWkNpemU2SG1fS19xRjFn?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 22:06:42 GMT",
       "source": "香港01"
+    },
+    {
+      "title": "2026世界盃／姆巴佩關鍵12碼建功！法國1比0險勝巴拉圭晉級8強 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vZlg5a1FBUnVjTlJRd0dGZlJ6V0lpb1laRnZISUNRd056OFNUdEoxVDNvUXlkLW5rS09SaVBxNC1SbUpfdlQ5ZmFnMjNtaEcz?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 00:43:00 GMT",
+      "source": "TVBS新聞網"
     },
     {
       "title": "世界盃／摩洛哥高效攻勢三度破網 3比0完封加拿大挺進8強 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40VzJidVZUVHRHOGpvcXNaby1CdE1qcU5GUlBwQWpwRkdSQmhXbzJTalU2RndzMjJ5ZlM1OUJJNHNkN1dEcDk4eDlJT2hTZS1Vd040?oc=5",
       "pubDate": "Sat, 04 Jul 2026 19:19:33 GMT",
       "source": "UDN"
-    },
-    {
-      "title": "2026 世界盃足球賽 07/05【巴拉圭 vs 法國】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MX3YtZEtuZ2tsNURHU0x0WnRXLWpxWEpfTnVydlUwY2lHLWNKWHQ1TjBLbjAxMk0tZUdTdHJWdkQ3QnlVeG1qajVtSW4?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 19:03:50 GMT",
-      "source": "蘋果仁"
-    },
-    {
-      "title": "世足》黃牌滿天飛！歐納希梅開二度 摩洛哥淘汰加拿大晉8強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BY2U2ZWVZZXhJNDJZTHBvckpjXy12M1ZWQmk0YkxwN2NZNjNpVVBaTXUxWWxpcEU0ZXJPcXU0TGJ2dUM2Nl9zY1RkRFY0aXd0TFFEQWxaWjJMeFRTSldyd9IBZkFVX3lxTE54ZmxSUks5eGN5VWh3c0dNNEdEQXZhazFkdVRNVm1oU3NkVU9RWjNtSnprSFcyYVdCZmhiMUZIYzVMREVMS0V3UWVUVU5VR3hMVDVmdUtJQXlhekFYWlZBWUNqbEV4QQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 19:07:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "2026 世界盃足球賽 07/04【阿根廷 vs 維德角】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wNXFQbW4yd2tYU0VEUWlrbi10RjA0QTJyYnd2R0ozcHBvVTFTZ3dBVjlHY1NVNElfSUpaWUVxWEZ0WFRzeFFLV181bHQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:22:16 GMT",
-      "source": "蘋果仁"
-    },
-    {
-      "title": "世足》16強隊伍全數出爐 對戰組合、比賽時間一次看 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UHZOX2NTUHpsNHRaaWx1cW5ZUnlMWUVHUzloUFdGeVBicGxUdmgwNC1ldkJOR2ZPa2dSd3dVc3JZTnVaQkNGSWJuVzdqQjRKRXJUeFF4b0VHbVFYcnRhONIBZkFVX3lxTE5SWEQwU1FtTmlIbW5lSjZGM3l3bDNGenJhd2xZa2hGOVJvRDNSa29EeTU0LWpNclludzhnQjAzbnkzV1ZnVUN2c21OUHhCN1g2U3pmNW1XVjZhbzVQVnpIeVJYYzdxZw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 03:32:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "2026世界盃》50萬人口小國寫世足傳奇 國腳：現在沒人會問維德角在哪了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNb294Z1hPWmM2d0Myc083RnF3eDF0VndqRGhGdHR5U2FRa0M1MjNSdXVaZ2lTRXBHWG5wN1ltdmZjb2dPdmFmZEdmMk92Y2NsaFpkSVlfeEczXzhUU0Nsejc0Rm9OeHZkMVFsY3RXX0M4ZG5aUGt0YXNjT1psamN3Ty1aalVZVllRUVlkclA5a2lZaFV5T3R4cU1PVlltbmlwUV9VeXRlTUpRQ3hWc3RhbllLWnJOQjlWVHlkTVNFcWFfTG1IZzZoWHc2MWF4SmNGOFY1Vm13akhZVE1XbUw2Z0pOSzVyZjJWLWI2X3BfX2ktdkVHUW8xSHZ4TERVcDg1Mm55aEI4SW5vcTU4aVRDNHJSb0drZ2tGaklmaDNMN0ttSzFmSG5nakoxdzJxNklFSHZaV1pkMDlmcFBvSUN3VVBMWFdWMTBkUUVtMmZaRXY1UDZmNTZyZ2M1aDBXdWF1MHpWeEtpR3RlRGhpMVNJUE1JT2taS0RyZEp2RmgyU3hXSE9zOUllQlRnUHpKYXhMS0VuZHF0WjlWWWFpNUNhVzRrZw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 10:15:48 GMT",
-      "source": "Yahoo新聞"
-    },
-    {
-      "title": "【2026世界盃】埃及PK大戰擊敗澳洲 爆冷挺進16強 - 蕃新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnUVU0RVR1QzExQ0ZNTjBvSDZpOWFNa2V6YWg0TmhHTEszaF9QQnc0UEI0VF9RaklrR1hZbUw4dF9xaC1yV0NXWTludWxFQmpxNlE?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 00:17:00 GMT",
-      "source": "蕃新聞"
-    },
-    {
-      "title": "世足》日本、澳洲無緣晉級16強 9支亞洲球隊全數打包出局 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xLVNnWGU4Vk1ybXBMNFJNUFQ1WnExV2ZOWDJ0clF5LW4wZ1lyVmNiaUZZSDc2ajA5eFlibkgxbTNnbGJaZTF2eWdBVHY0dFF6MFQtSTJESFpvTWt6eHNJVtIBZkFVX3lxTE5ONjYzQ0VZUzFxSjU0Vi1WTUxaNlJVUnZnVWQ0ZGhEMjJoaFFaLTYyT3NQQm04alRCa1lRbW5HRFZuWkNKTWNXUVR6bThwWFJZQXVKaDB5WUVsZHFrSUtiRml2RnJBUQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 23:01:00 GMT",
-      "source": "自由體育"
     }
   ],
   "odds": [
     {
-      "home": "Paraguay",
-      "away": "France",
-      "homePrice": 14,
-      "drawPrice": 3.45,
-      "awayPrice": 1.41
-    },
-    {
       "home": "Brazil",
       "away": "Norway",
-      "homePrice": 1.77,
+      "homePrice": 1.75,
       "drawPrice": 3.8,
-      "awayPrice": 4.5
+      "awayPrice": 4.6
     },
     {
       "home": "Mexico",
@@ -2892,8 +2900,8 @@
     {
       "home": "Portugal",
       "away": "Spain",
-      "homePrice": 4,
-      "drawPrice": 3.4,
+      "homePrice": 4.1,
+      "drawPrice": 3.35,
       "awayPrice": 1.88
     },
     {
@@ -2901,13 +2909,13 @@
       "away": "Belgium",
       "homePrice": 2.8,
       "drawPrice": 3.15,
-      "awayPrice": 2.7
+      "awayPrice": 2.65
     },
     {
       "home": "Argentina",
       "away": "Egypt",
-      "homePrice": 1.38,
-      "drawPrice": 4.9,
+      "homePrice": 1.36,
+      "drawPrice": 5,
       "awayPrice": 10.5
     },
     {
@@ -2916,26 +2924,33 @@
       "homePrice": 3.55,
       "drawPrice": 3.05,
       "awayPrice": 2.25
+    },
+    {
+      "home": "France",
+      "away": "Morocco",
+      "homePrice": 1.56,
+      "drawPrice": 3.9,
+      "awayPrice": 5.3
     }
   ],
   "videos": [
+    {
+      "id": "39kZ9Loun7Q",
+      "title": "【2026 FIFA世界盃™】姆巴佩第七球追平梅西 法國1：0晉八強/愛爾達電視20260705",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=39kZ9Loun7Q"
+    },
+    {
+      "id": "GuMEghdbT7U",
+      "title": "【全場精華】巴拉圭 VS 法國 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=GuMEghdbT7U"
+    },
     {
       "id": "fLT_UmEO-n8",
       "title": "【2026 FIFA世界盃™】摩洛哥收首張八強門票 加拿大遺憾美中不足/愛爾達電視20260705",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=fLT_UmEO-n8"
-    },
-    {
-      "id": "jB3aKHfqzYc",
-      "title": "【2026 FIFA世界盃™】摩洛哥3：0加拿大！連兩屆晉八強創紀錄/愛爾達電視20260705",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=jB3aKHfqzYc"
-    },
-    {
-      "id": "U-bZz7nmnN0",
-      "title": "【全場精華】加拿大 VS 摩洛哥 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=U-bZz7nmnN0"
     }
   ]
 }
