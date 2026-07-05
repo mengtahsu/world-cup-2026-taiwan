@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:17:28.269Z",
+  "updatedAt": "2026-07-05T22:14:49.436Z",
   "matches": [
     {
       "number": 1,
@@ -1282,6 +1282,10 @@
       "kickoff": "2026-07-05T20:00:00.000Z",
       "team1": "Brazil",
       "team2": "Norway",
+      "score": [
+        1,
+        2
+      ],
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
@@ -1334,8 +1338,8 @@
       "round": "Quarter-final",
       "date": "2026-07-09",
       "kickoff": "2026-07-09T20:00:00.000Z",
-      "team1": "W89",
-      "team2": "W90",
+      "team1": "France",
+      "team2": "Morocco",
       "ground": "Boston (Foxborough)"
     },
     {
@@ -1946,6 +1950,61 @@
   ],
   "scorers": [
     {
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "goals": 7,
+      "matches": [
+        {
+          "number": 50,
+          "opponent": "Iraq",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T22:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 2
+        },
+        {
+          "number": 52,
+          "opponent": "Senegal",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-23T00:00:00.000Z",
+          "score": [
+            3,
+            2
+          ],
+          "goals": 2
+        },
+        {
+          "number": 78,
+          "opponent": "Ivory Coast",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T17:00:00.000Z",
+          "score": [
+            1,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 91,
+          "opponent": "Brazil",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-05T20:00:00.000Z",
+          "score": [
+            1,
+            2
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
+        "bio": "Forward・Norway・生於 2000-07-21"
+      }
+    },
+    {
       "name": "Kylian Mbappé",
       "team": "France",
       "goals": 7,
@@ -2053,50 +2112,6 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
         "bio": "Right Winger・Argentina・生於 1987-06-24"
-      }
-    },
-    {
-      "name": "Erling Haaland",
-      "team": "Norway",
-      "goals": 5,
-      "matches": [
-        {
-          "number": 50,
-          "opponent": "Iraq",
-          "date": "2026-06-16",
-          "kickoff": "2026-06-16T22:00:00.000Z",
-          "score": [
-            1,
-            4
-          ],
-          "goals": 2
-        },
-        {
-          "number": 52,
-          "opponent": "Senegal",
-          "date": "2026-06-22",
-          "kickoff": "2026-06-23T00:00:00.000Z",
-          "score": [
-            3,
-            2
-          ],
-          "goals": 2
-        },
-        {
-          "number": 78,
-          "opponent": "Ivory Coast",
-          "date": "2026-06-30",
-          "kickoff": "2026-06-30T17:00:00.000Z",
-          "score": [
-            1,
-            2
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
-        "bio": "Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -2828,22 +2843,34 @@
   ],
   "news": [
     {
-      "title": "世界盃7/6巴西VS挪威16強淘汰賽懶人包》完整戰力分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EOTJlajc3WmJxY0lremVEeFBLV1VPMkF6UjFfWWswd3BHU0Vha2VHVXczVzZXaHB0NXU1cF9JMUZkMXh5VVlkVkZibDHSAVJBVV95cUxOdUFQalpOZS05ck90UnNlbXJDTkJ0aG1Ncy1IZmRHU3NlQUF2bnpPTEpyeTJWYk5sbkY0ZXhBcXp2dEtXRGR0RjBvUmxNS0V5dE5n?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 01:52:28 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "世界盃2026直播賽程時間表 7.6凌晨4時巴西對挪威免費直播8點墨西哥對英格蘭 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWnA1OENyZW5JSzRHT2picWNKZnkyaG5DbHhpNldHRzNMb2txLXhtR0hicTJxVUprNnh5Z0pGdkl1SEpzUlJ4ZGlpWllGOS14aHU3QUNqalJxNmtpWWQ2STRwdkozQUw2elctN2x3Ujd1bTgxb3FyelBhMnVaOHJMb1VLOEpoeEJzbEVqYkZySVY0Y1lOT2NEX2JXUHI0Z0Q1UDRIWHoyZUV0dzRXQy1hRkNBU01sdHpXS0MxSFhLQjBDZmdacEw4d0RaT0VYYVNUeXRSalRyNkZ6UGZRMUxVOUpZNzRSbjg3LTJmWlNzWDIyb09ValFVTEF1bFlwd1FBNmdqb3NPdTZTZjJoOTlwS3JDZXlzdFBoc3hRa09pdnJmaTBZTm9HRHhZOUFSeDB6WEJtNm42RVhyWm9QdGJaTXdmTHpsa0w4Qm56dlJZcTRVZnAzNno5dnE3TWkyMGEtckZYcEhPSHhqRHJTVXhWYVdrRmdmYld2R1RBdw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 16:37:01 GMT",
+      "source": "香港01"
     },
     {
-      "title": "《2026世界盃》16強巴西對上挪威：挪威海盜能抵擋森巴軍團嗎？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FeWFnOW5pR0E4UWNGN3BtMU9LdWNZaExlN29JMy1qdE9NMDZXS29uNy1uWU9YcFpsYnhoanpfSTEzNHJqcnhuYlJRdnBueWZq?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 02:54:54 GMT",
-      "source": "運動視界Sports Vision"
+      "title": "2026世界盃／國際足總暫緩執行禁賽 美國主力前鋒巴洛根將出戰比利時 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbWpmTWdBcVluYm13NXlrWXY5MWU2azQweGNtd3ZuRGRPanVKS3JYYTdLcEZQV1BDRDdiUFEyaEZJRTFaSktXM080enVmQ0hs?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 20:12:00 GMT",
+      "source": "TVBS新聞網"
     },
     {
-      "title": "世足／森巴軍團被看扁？巴西4次碰挪威「沒贏過」 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sSDdMdjB2T2FCUTNYd2VlWENTQTNrTHl2OGVEZy1GVmJTdDRNR3NDU3F2MmxrWFdiNERNY0lJdDh3enJRMXh2QVdHU2NqTklQdzBr?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 14:00:00 GMT",
-      "source": "東森新聞"
+      "title": "2026 世界盃足球賽 07/06【巴西 vs 挪威】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3VHRFYmhudThma3ptODdIYWU3Uk5QRDFpOVA2ZG9Dc2FkblVQdDNTS3F4RVRIdmdnRURzMENzTV9OS0UwMy1fdjluZnY?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 18:03:50 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足》巴拉圭想激怒姆巴佩 德尚想到2018年比賽有對手想毀了他 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TGw3TlI2dEtxMnZTdUZVX0VNR21xNEVocUZwT1Q5bnE0ZnVIUm5NeGpzbFJhTG1uT3pBX1lteXNrWjZlRTVDaGhjcV9VZnhSblNUSHZUdkgydUoxUV9YZFpmbjJIeUFrY0JKV9IBZkFVX3lxTE1WRlVkd0E4RUs0bWl6cTBQclpSQXB1M19IMWVBRjlPUW5tNnBpdnZPWW45dTgzTzJaaUdKQkpsRDBnMk5UQ0pBOWtQeTJmZXE2WkRwWjlWZHh3QmFRMmY3MXdJajFzUQ?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 08:02:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "世界盃足球賽 法國、摩洛哥 率先闖進8強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83R3ZGb2pOZ0dQSlN4Vm45WUVJSi0zeWtaRzE5TFBEa1hWek5Md2hDbm1ybUlVNDlySWdSNWtaZlFQUm1nUkxhLWkwdExvRF9WbnZhVkJMUdIBXEFVX3lxTFA2NGJBYjlub2FzUm1SV1BnQnBkX0doUkdhUDBZb1RLTkdWNG8wMUg3UTRJb1Y4Ykd3Zkh5N1ZaZVU4M3FIMktsbzJPUElDRE4xRFg0RGRGS2NlWS05?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 21:30:00 GMT",
+      "source": "自由體育"
     },
     {
       "title": "法國隊長姆巴佩1:0完封巴拉圭【2026世界盃16強賽程表】16強戰績排名、16強名單、晉級名單(不斷更新) - Cosmopolitan",
@@ -2852,28 +2879,16 @@
       "source": "Cosmopolitan"
     },
     {
-      "title": "2026世足／12碼罰球突破鐵桶陣！法國1：0巴拉圭晉8強 姆巴佩開噴：踢髒的我們也會 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMmxoVVA4X0JlRWdlekx3N2Y4dmV2ZFI3d0Mwc2prOFZpSEhWU0NSR1ZqTGNWVmtudFhXWmlGQUhPNlBJM2RkcUd4LWE1OG5BTzZ0S3YzYmZsUGotU2NaaVlNbXlKX19DUi1sbDlKR2ZGaFN3VUdwNXZNdFlpajVVdnQ3NzhrR2NjLU1aMjdjNjBQak5tTXhWVkZZdGpmb05OZjM2VTVxMmg1aWVMc0kwc3FLOEE3bkVKVFNKaFdReFB6U3FxRFpVQklMQTlUTXBJYi1qaG1hOWNfQlNvMmc0UkJTX0NxVHU4WGUteGFnZ1lxY05tWW9YOVFkdlZFOFBHSUhLMjBsODRoRFdaTVJFOXljRUlvNGN0cExPVlI5X09iTnZUekxDWEhzTnEzaFV0eHBIRjNNRzNIQVAxNHFZV3FFSE53Ump4aHk3OFp0aG9Fc0puVVppM1B4cUdQeXF6c2ZuMzVNc1JNamZn?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 01:44:33 GMT",
-      "source": "Yahoo新聞"
-    },
-    {
-      "title": "2026世界盃16強-法國1-0巴拉圭-法國拿下八強席位- 足球 - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2bWJLU2JWUkdUOXJDNE1Sa0Ixd1FNOHl6R3NBRW9GWVU3akdORTZuU25sb0hfaVFPb2l6bHkxa0s2a1NHTmdRSjZBYnBKZVNY?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 11:43:41 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
       "title": "英格蘭重遊噩夢之地 墨西哥最強堡壘至今10戰不敗︱世界盃2026 - 香港01",
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQNlZGU0hmMnMwS3dFMUw1Nnd1bHd4SktieUowVmE0a19TMHl5WHNvSW5kSUJNTVVlOFFlR21fWjduT2RRTmUwZTRZNVlhYlM1SGMwLUtFT1g4UHdEZEVQUjVXUlFJcmlmSnBMbXlfR092cFVZdDZpcXlOXzdOSmZEWVlTWnE5MzhTcTJSWnJXYjAwc2JIT3pzZmluVzlvRDl5SE1kaXNLakNUMHNDYVhfMHdqd1V4S2VjTks0TEhWejI4VU5xVHJGSUVwYndYTmtMa2pRR1J0T3ROM0R6a2N5TVlkeEh0TlFkUkNvN0htQThFVC00a2JNN00zdVlNYmVHbzRucGQ4X185MDJydW4zeXdzblQ1WmJ1WTZZSmo5Ty1iOVdfamIzcWliS2tRaGM3bk04anNSTVVXdktIVHczOWlHbDh5V2RZaDVfRFZNYzE3VlVaaUpGR3g5V1doOEc2TWg4Ny1TZnpFalhzcWEwcHJCVThLRURsZnJSWUZmUmhCWW9ZR0xCMjBjN0RoRkotYkFfRlNfSU5fZUtrMUFWWGt2aGxVNTdUalpPVzJoZmFWZkk?oc=5",
       "pubDate": "Sun, 05 Jul 2026 10:18:45 GMT",
       "source": "香港01"
     },
     {
-      "title": "英格蘭墨西哥16強直播線上看｜7/6世界盃比賽時間、戰績分析 - Marie Claire 美麗佳人",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XWjFHMGJIN0laU2pWQ3M1V0FvTVFFYllSNzZxSHlkRVBUaFFyYkxfQXZZamdGcm4tS2N0U2R4UUc0RWw3dl9NU3VuY3FMTllZMXVEbTQ3R3JiYjhhQVJSYg?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 17:01:18 GMT",
-      "source": "Marie Claire 美麗佳人"
+      "title": "世界盃7/6墨西哥VS英格蘭16強淘汰賽懶人包》完整分析、預測先發 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wbUV0OUticTRqTmwwQWo3LWFxQ3lZSWNyZUVLOGxkcVVLXy1YbjJTekluTTZTLUhZLXRPTXJBa01nTnFJSVlNX29wakjSAVJBVV95cUxQRzE4SmQ3SWoxYWVoLVVodUkyaVJib3UwcnJRMS0wblpBZGwzWHZhZjhYa1NRSFE5T1p4ZkZHZU5OLVd6cXQzRWpWaC1MMHBjcGNR?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 22:00:00 GMT",
+      "source": "NOWnews今日新聞"
     },
     {
       "title": "墨西哥 vs 英格蘭賽前戰術分析：高強度壓迫對決世界級進攻火力- 足球 - 運動視界Sports Vision",
@@ -2884,46 +2899,39 @@
   ],
   "odds": [
     {
-      "home": "Brazil",
-      "away": "Norway",
-      "homePrice": 1.75,
-      "drawPrice": 3.8,
-      "awayPrice": 4.6
-    },
-    {
       "home": "Mexico",
       "away": "England",
-      "homePrice": 3.15,
-      "drawPrice": 3.15,
+      "homePrice": 3.2,
+      "drawPrice": 3.1,
       "awayPrice": 2.55
     },
     {
       "home": "Portugal",
       "away": "Spain",
-      "homePrice": 3.95,
-      "drawPrice": 3.5,
-      "awayPrice": 1.88
+      "homePrice": 4,
+      "drawPrice": 3.65,
+      "awayPrice": 1.94
     },
     {
       "home": "USA",
       "away": "Belgium",
-      "homePrice": 2.55,
+      "homePrice": 2.65,
       "drawPrice": 3.4,
-      "awayPrice": 2.75
+      "awayPrice": 2.6
     },
     {
       "home": "Argentina",
       "away": "Egypt",
-      "homePrice": 1.36,
+      "homePrice": 1.38,
       "drawPrice": 5,
       "awayPrice": 10.5
     },
     {
       "home": "Switzerland",
       "away": "Colombia",
-      "homePrice": 3.6,
-      "drawPrice": 3.05,
-      "awayPrice": 2.25
+      "homePrice": 3.7,
+      "drawPrice": 3.1,
+      "awayPrice": 2.2
     },
     {
       "home": "France",
