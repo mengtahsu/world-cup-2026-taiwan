@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T11:16:34.093Z",
+  "updatedAt": "2026-07-06T16:05:39.008Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3898,18 +3898,18 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T10:00:00Z",
+      "start": "2026-07-11T19:00:00+08:00",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
-      "title": "W91 vs W92",
+      "title": "Norway vs England",
       "subtitle": "Quarter-final",
       "start": "2026-07-11T21:00:00.000Z",
       "channel": "200–202",
