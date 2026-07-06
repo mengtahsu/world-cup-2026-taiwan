@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T04:59:04.779Z",
+  "updatedAt": "2026-07-06T10:36:05.816Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3660,8 +3660,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 1 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Barcelone > Barcelone",
       "start": "2026-07-04T10:00:00Z",
+      "distance": "19.6 km",
+      "climb": "團體計時賽",
+      "mapUrl": "https://www.letour.fr/en/stage-1",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3702,8 +3705,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 2 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Tarragone > Barcelone",
       "start": "2026-07-05T10:00:00Z",
+      "distance": "168.5 km",
+      "climb": "丘陵站",
+      "mapUrl": "https://www.letour.fr/en/stage-2",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3744,8 +3750,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 3 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Granollers > Les Angles",
       "start": "2026-07-06T10:00:00Z",
+      "distance": "195.9 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-3",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3777,8 +3786,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 4 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Carcassonne > Foix",
       "start": "2026-07-07T10:00:00Z",
+      "distance": "181.9 km",
+      "climb": "丘陵站",
+      "mapUrl": "https://www.letour.fr/en/stage-4",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3810,8 +3822,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 5 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Lannemezan > Pau",
       "start": "2026-07-08T10:00:00Z",
+      "distance": "158.3 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-5",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3827,8 +3842,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 6 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Pau > Gavarnie-Gèdre",
       "start": "2026-07-09T10:00:00Z",
+      "distance": "186.2 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-6",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3844,8 +3862,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 7 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Hagetmau > Bordeaux",
       "start": "2026-07-10T10:00:00Z",
+      "distance": "175.1 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-7",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3869,8 +3890,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Périgueux > Bergerac",
       "start": "2026-07-11T10:00:00Z",
+      "distance": "180.4 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-8",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3902,8 +3926,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 9 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Malemort > Ussel",
       "start": "2026-07-12T10:00:00Z",
+      "distance": "185.5 km",
+      "climb": "丘陵站",
+      "mapUrl": "https://www.letour.fr/en/stage-9",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3919,8 +3946,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 10 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Aurillac > Le Lioran",
       "start": "2026-07-14T10:00:00Z",
+      "distance": "166.6 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-10",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3936,8 +3966,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 11 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Vichy > Nevers",
       "start": "2026-07-15T10:00:00Z",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-11",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3953,8 +3986,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 12 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Circuit Nevers Magny-Cours > Chalon-sur-Saône",
       "start": "2026-07-16T10:00:00Z",
+      "distance": "179.1 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-12",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3962,8 +3998,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 13 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Dole > Belfort",
       "start": "2026-07-17T10:00:00Z",
+      "distance": "205.8 km",
+      "climb": "丘陵站",
+      "mapUrl": "https://www.letour.fr/en/stage-13",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -3979,8 +4018,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 14 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Mulhouse > Le Markstein Fellering",
       "start": "2026-07-18T10:00:00Z",
+      "distance": "155.3 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-14",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4013,8 +4055,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 15 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Champagnole > Plateau de Solaison",
       "start": "2026-07-19T10:00:00Z",
+      "distance": "183.9 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-15",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4055,8 +4100,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 16 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Évian-les-Bains > Thonon-les-Bains",
       "start": "2026-07-21T10:00:00Z",
+      "distance": "26.1 km",
+      "climb": "個人計時賽",
+      "mapUrl": "https://www.letour.fr/en/stage-16",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4072,8 +4120,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 17 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Chambéry > Voiron",
       "start": "2026-07-22T10:00:00Z",
+      "distance": "174.7 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-17",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4089,8 +4140,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 18 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Voiron > Orcières-Merlette",
       "start": "2026-07-23T10:00:00Z",
+      "distance": "185.2 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-18",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4098,8 +4152,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 19 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Gap > Alpe d'Huez",
       "start": "2026-07-24T10:00:00Z",
+      "distance": "127.9 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-19",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4115,8 +4172,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 20 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Le Bourg d'Oisans > Alpe d'Huez",
       "start": "2026-07-25T10:00:00Z",
+      "distance": "170.9 km",
+      "climb": "山地站",
+      "mapUrl": "https://www.letour.fr/en/stage-20",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
@@ -4141,8 +4201,11 @@
     {
       "sport": "環法",
       "title": "環法自行車賽・第 21 站",
-      "subtitle": "起終點與精確時間依官方公告",
+      "subtitle": "Thoiry > Paris Champs-Élysées",
       "start": "2026-07-26T10:00:00Z",
+      "distance": "133 km",
+      "climb": "平路站",
+      "mapUrl": "https://www.letour.fr/en/stage-21",
       "channel": "待定",
       "channelStatus": "MOD EPG 尚未確認",
       "timeTbd": true
