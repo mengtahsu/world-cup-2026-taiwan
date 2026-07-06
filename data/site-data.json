@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:14:49.436Z",
+  "updatedAt": "2026-07-06T04:41:17.502Z",
   "matches": [
     {
       "number": 1,
@@ -1295,6 +1295,10 @@
       "kickoff": "2026-07-06T00:00:00.000Z",
       "team1": "Mexico",
       "team2": "England",
+      "score": [
+        2,
+        3
+      ],
       "ground": "Mexico City"
     },
     {
@@ -2117,7 +2121,7 @@
     {
       "name": "Harry Kane",
       "team": "England",
-      "goals": 5,
+      "goals": 6,
       "matches": [
         {
           "number": 67,
@@ -2151,6 +2155,17 @@
             1
           ],
           "goals": 2
+        },
+        {
+          "number": 92,
+          "opponent": "Mexico",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 1
         }
       ],
       "profile": {
@@ -2200,6 +2215,105 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
         "bio": "Left Wing・Senegal・生於 1998-02-25"
+      }
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "goals": 4,
+      "matches": [
+        {
+          "number": 67,
+          "opponent": "Croatia",
+          "date": "2026-06-17",
+          "kickoff": "2026-06-17T20:00:00.000Z",
+          "score": [
+            4,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 71,
+          "opponent": "Panama",
+          "date": "2026-06-27",
+          "kickoff": "2026-06-27T21:00:00.000Z",
+          "score": [
+            0,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 92,
+          "opponent": "Mexico",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
+        "bio": "Attacking Midfield・England・生於 2003-06-29"
+      }
+    },
+    {
+      "name": "Julián Quiñones",
+      "team": "Mexico",
+      "goals": 4,
+      "matches": [
+        {
+          "number": 1,
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "kickoff": "2026-06-11T19:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 5,
+          "opponent": "Czech Republic",
+          "date": "2026-06-24",
+          "kickoff": "2026-06-25T01:00:00.000Z",
+          "score": [
+            0,
+            3
+          ],
+          "goals": 1
+        },
+        {
+          "number": 79,
+          "opponent": "Ecuador",
+          "date": "2026-06-30",
+          "kickoff": "2026-07-01T01:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 92,
+          "opponent": "England",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwg6ps1781248412.png",
+        "bio": "Centre-Forward・Mexico・生於 1997-03-24"
       }
     },
     {
@@ -2610,50 +2724,6 @@
       }
     },
     {
-      "name": "Julián Quiñones",
-      "team": "Mexico",
-      "goals": 3,
-      "matches": [
-        {
-          "number": 1,
-          "opponent": "South Africa",
-          "date": "2026-06-11",
-          "kickoff": "2026-06-11T19:00:00.000Z",
-          "score": [
-            2,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 5,
-          "opponent": "Czech Republic",
-          "date": "2026-06-24",
-          "kickoff": "2026-06-25T01:00:00.000Z",
-          "score": [
-            0,
-            3
-          ],
-          "goals": 1
-        },
-        {
-          "number": 79,
-          "opponent": "Ecuador",
-          "date": "2026-06-30",
-          "kickoff": "2026-07-01T01:00:00.000Z",
-          "score": [
-            2,
-            0
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwg6ps1781248412.png",
-        "bio": "Centre-Forward・Mexico・生於 1997-03-24"
-      }
-    },
-    {
       "name": "Kai Havertz",
       "team": "Germany",
       "goals": 3,
@@ -2717,6 +2787,50 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png",
         "bio": "Centre-Forward・Brazil・生於 1999-05-27"
+      }
+    },
+    {
+      "name": "Raúl Jiménez",
+      "team": "Mexico",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 1,
+          "opponent": "South Africa",
+          "date": "2026-06-11",
+          "kickoff": "2026-06-11T19:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 79,
+          "opponent": "Ecuador",
+          "date": "2026-06-30",
+          "kickoff": "2026-07-01T01:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 92,
+          "opponent": "England",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjepmh1781348889.png",
+        "bio": "Centre-Forward・Mexico・生於 1991-05-05"
       }
     },
     {
@@ -2784,140 +2898,78 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png",
         "bio": "Right Winger・Ivory Coast・生於 2002-07-11"
       }
-    },
-    {
-      "name": "Anthony Elanga",
-      "team": "Sweden",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 33,
-          "opponent": "Netherlands",
-          "date": "2026-06-20",
-          "kickoff": "2026-06-20T17:00:00.000Z",
-          "score": [
-            5,
-            1
-          ],
-          "goals": 1
-        },
-        {
-          "number": 35,
-          "opponent": "Japan",
-          "date": "2026-06-25",
-          "kickoff": "2026-06-25T23:00:00.000Z",
-          "score": [
-            1,
-            1
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zptapf1770796138.png",
-        "bio": "Left Wing・Sweden・生於 2002-04-27"
-      }
-    },
-    {
-      "name": "Ayase Ueda",
-      "team": "Japan",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 34,
-          "opponent": "Tunisia",
-          "date": "2026-06-20",
-          "kickoff": "2026-06-21T04:00:00.000Z",
-          "score": [
-            0,
-            4
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png",
-        "bio": "Centre-Forward・Japan・生於 1998-08-28"
-      }
     }
   ],
   "news": [
     {
-      "title": "世界盃2026直播賽程時間表 7.6凌晨4時巴西對挪威免費直播8點墨西哥對英格蘭 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWnA1OENyZW5JSzRHT2picWNKZnkyaG5DbHhpNldHRzNMb2txLXhtR0hicTJxVUprNnh5Z0pGdkl1SEpzUlJ4ZGlpWllGOS14aHU3QUNqalJxNmtpWWQ2STRwdkozQUw2elctN2x3Ujd1bTgxb3FyelBhMnVaOHJMb1VLOEpoeEJzbEVqYkZySVY0Y1lOT2NEX2JXUHI0Z0Q1UDRIWHoyZUV0dzRXQy1hRkNBU01sdHpXS0MxSFhLQjBDZmdacEw4d0RaT0VYYVNUeXRSalRyNkZ6UGZRMUxVOUpZNzRSbjg3LTJmWlNzWDIyb09ValFVTEF1bFlwd1FBNmdqb3NPdTZTZjJoOTlwS3JDZXlzdFBoc3hRa09pdnJmaTBZTm9HRHhZOUFSeDB6WEJtNm42RVhyWm9QdGJaTXdmTHpsa0w4Qm56dlJZcTRVZnAzNno5dnE3TWkyMGEtckZYcEhPSHhqRHJTVXhWYVdrRmdmYld2R1RBdw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 16:37:01 GMT",
+      "title": "世界盃2026｜挪威2：1勝巴西 夏蘭特梅開二度助晉級8強 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWW5wSndIODhXMjRTaHU1MEFLMzhKQmprZ3BDVVZGZVBwVFJXaGtBblRZN1BHbS01ZGpreUg1aVBFaUt3VURfUTlLQUwtV3Zpczl2cm1VaHlOM0diRVJoWXlIOHYxS3FPRGJVSHNGNVZ5TnMtVkYydUxmQm9EN3NwUWNPRGpmdE5lazBaRXVqSk84ckNSc0o0N0tZVlBPZDdzSVpiMkViclYyRzREaEp2MGhQV2FlN1RpSXAwRTNiU202YWxURHlOc0Q2XzBmZkFlODVBUlQ0ZWdOb1J1bjJBbXVuSV9STm1iR0g4MEJBT0I1UXJveno3M3pCbFF3TGdzR0hyRjBXT1oxVjBVYl80R2Z5U1p3OWkySjlLTXVvTm0wRmZJakJOaU5OQzhxd2VOd2tWTTRHYU9mZXZ5YU5EeG40M3R4Ykc2N1Nlc3RZTXZocjEyREljWWx0cVBYX0ZTYVZZcFMtbw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 22:09:08 GMT",
       "source": "香港01"
-    },
-    {
-      "title": "2026世界盃／國際足總暫緩執行禁賽 美國主力前鋒巴洛根將出戰比利時 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbWpmTWdBcVluYm13NXlrWXY5MWU2azQweGNtd3ZuRGRPanVKS3JYYTdLcEZQV1BDRDdiUFEyaEZJRTFaSktXM080enVmQ0hs?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 20:12:00 GMT",
-      "source": "TVBS新聞網"
     },
     {
       "title": "2026 世界盃足球賽 07/06【巴西 vs 挪威】直播、轉播 LIVE 線上看 - 蘋果仁",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3VHRFYmhudThma3ptODdIYWU3Uk5QRDFpOVA2ZG9Dc2FkblVQdDNTS3F4RVRIdmdnRURzMENzTV9OS0UwMy1fdjluZnY?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 18:03:50 GMT",
+      "pubDate": "Sun, 05 Jul 2026 23:04:08 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "世足》巴拉圭想激怒姆巴佩 德尚想到2018年比賽有對手想毀了他 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TGw3TlI2dEtxMnZTdUZVX0VNR21xNEVocUZwT1Q5bnE0ZnVIUm5NeGpzbFJhTG1uT3pBX1lteXNrWjZlRTVDaGhjcV9VZnhSblNUSHZUdkgydUoxUV9YZFpmbjJIeUFrY0JKV9IBZkFVX3lxTE1WRlVkd0E4RUs0bWl6cTBQclpSQXB1M19IMWVBRjlPUW5tNnBpdnZPWW45dTgzTzJaaUdKQkpsRDBnMk5UQ0pBOWtQeTJmZXE2WkRwWjlWZHh3QmFRMmY3MXdJajFzUQ?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 08:02:00 GMT",
+      "title": "世足／內馬爾含淚退出國家隊！巴西媒體崩潰：歷史最大絕望 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43OXEweUYzYlVvWWluUm02MTlPbVJUQmJUNGF3Tlk4Y05pTFFjS2gtZjBmaVRVMURadHN5NkhDZkpkNHAwOURCV2VSQUZBOGZOWG1N?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 00:28:00 GMT",
+      "source": "東森新聞"
+    },
+    {
+      "title": "2026 世界盃足球賽 07/06【墨西哥 vs 英格蘭】直播、轉播 LIVE 線上看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsWmtnMkE1anZLTU5XUEU4S0l3RlZfOTRUQXAwU2xzZWgwcmxxWVp4X1hqQUw2WlFqYnFXeWtnQlVnR0NGOVI4bWNnalo?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:56:15 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足》英格蘭、墨西哥上半場雙方互破防線 三獅軍團2比1暫時領先 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQWmx0YXJiS3BTWlRxbWtrT3UxckFnSVQwdE1UWGJwaFAwTUpwNW5STWFPbl9pYXdMZW5NRXZrd012aFB5aEh1SUtwZDZHV293UDNpaXpOX2JvVnR0ZnNWZnAtX2hDTFR2Q3M3Z1docVdjWXJXa3dRT19wOFNTeHA3bERVSjNUVDNqeG9CY2d4bVJHcWNTZ1hLaEFMRnFtb2Fua2IxTVE3REx6WXhDbmVhLWVKY1JXSnJXTUJ5MDRLQkVJaExhMG40aUI2VWExRWZpSXdfT3FhS21Vdmh4SXJmUUJwcDJTblhzNGF5WEJjOFB5bHhTMXdIdUZsdzYtUWQ0czlYcEVjcEoxUTFSYVkyakNLWWdSUjdZbWZjOTNzSEdjY3RzTVZlRlRGN1dYUHlGUHF1cHhlRExfcmg4OFVRbXRGdW5HdF9DeDRYYTZjWHVMcTdEQk4zNTBQVXF0QVlEQkUwd3A2MDBNVG1EcVBwc1FJNTd4ZVJrXzNOdklpaThaSlBnWEZEX0p3cVVnTm1oOHFpWmpTLVNFWk5xeUFXdkFMUnlUTW1haHBCV3A2NXg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 01:52:50 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世足》凱恩在世界盃7次操刀12碼罰球 追平梅西！ - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtcktTcmdtWmRFYXRiZmFPSkxWS19WT3NRTHBSM1FDY2dXVGV2OERvU0dFd0xsZkdkdFVSR1MtT1l5alFfYkxuV1NTVXhIRDhuV1owX1dueVBYRml4OXpHcdIBZkFVX3lxTE5vcXF3VzRGU1RkVHRCX2lqdVEyeWh6cTlReTFmZExtanBOLTM3cmJCbm5OcmNWSHBnLUE0a2FzcnozRkY3ci1Pc3NBRTdmekFiRXo1T05FT3FYZ3lLNXgzNHNoSjA4dw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:19:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "世界盃足球賽 法國、摩洛哥 率先闖進8強 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83R3ZGb2pOZ0dQSlN4Vm45WUVJSi0zeWtaRzE5TFBEa1hWek5Md2hDbm1ybUlVNDlySWdSNWtaZlFQUm1nUkxhLWkwdExvRF9WbnZhVkJMUdIBXEFVX3lxTFA2NGJBYjlub2FzUm1SV1BnQnBkX0doUkdhUDBZb1RLTkdWNG8wMUg3UTRJb1Y4Ykd3Zkh5N1ZaZVU4M3FIMktsbzJPUElDRE4xRFg0RGRGS2NlWS05?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 21:30:00 GMT",
+      "title": "2026世足／維德角門神沃齊尼亞一戰成名！傳貝克漢有意簽下 與梅西同隊有望成真 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQVl9SQzJlemNzVXBFaE9rVkgtWDFjenpGdU81UVJqTl9wSDhfUGtjVG4ySHR6b1lfSl9xYUxSc2M0MURlNGpVWU0tWkx2amxlcUZ5T0YtdG9Nei1WSThuYlZITDFROHV2T0kwNWxQOUY5eE5XMDgwT2VrZmFpRmdGV0haaVhqVUc5aTh4MFNBb3hvSVl3U3U3YnhLNjR2cXVobHZTbXl1R200QkloNWVoOUpVVGJ1QXJvRmJmQ3ZXRUZfVVFIaHZQeFpKbThaRzl2VTVpb0ltbEEtX3B3TTJ1dGNqYjQ2YnVoODBZTkY3Slo3eXgtS05teWdVWTVuWGFrblRsb1k1RzdxYmtLWGl2eEY1UTM4eUhMR3pBYVU2dkxOTkpMeGhzOUdFSXpFaU5TMnpPZ0w4T2RhbGV3ZkFpZjl6WXRKbWhyd2ZfSHFfT0NZWkxWdXJzeU1RNzJhbVp3czVXZmRFRUNOUVBNLXF1ZGJ0ODAybkVqVFZSYVdON0NmVWpjaXU1Y25MY3dZM3hNZG91TEZqTEdPWnpJRHp3c0JldGxFaHpMM0VnWWtjaXVjMnBQM2JZMHVUaEVuUmZCVGNQRGEtdTFHMFRPRXBia0pR?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 01:40:58 GMT",
+      "source": "Yahoo新聞"
+    },
+    {
+      "title": "世足》維德角首次參加世界盃 連續4場在正規90分鐘不敗 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VeWVWaXpKQkFWQzhqOU0ySjJra0l6YW1aY3g1TS1tS3F3ZDZ2ZHpMcDFySXV0V3NsZEVpc0pnc3BQWHhnZGJjZEJRZFJkaDNFbjVERW10dGtoTDVHaDZmQtIBZkFVX3lxTFBJa0REWHJsdWJjTXpzVFlRSzdHQWdoRUZteU5laHRtYS1pNzFlM0VlX0lmTGR3bG1nTVctTGxsM2N1NlhDS0thdHotU2tuX1NKVmMtS0lQZkdEYTExM3VtUkJSWjNiZw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 02:07:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "法國隊長姆巴佩1:0完封巴拉圭【2026世界盃16強賽程表】16強戰績排名、16強名單、晉級名單(不斷更新) - Cosmopolitan",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3Q2aHpfZXUyWkNRNkg3a1Ztd29SWUxLLWZULVBqUU9raTRxNDRaT1cyamJnMFFTVHd4LUxvQ0ladUJ1SEhYWFFDTmNndGNUNzhiWTN2UkFiMU9FY2RDMUJpOVQ4ZmNOWnNldWI4VjlRUzQ4Q3ZqcEpxVFR5MlpBQlBzS09UVlU3ZGpva0c1QQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 21:47:21 GMT",
-      "source": "Cosmopolitan"
-    },
-    {
-      "title": "英格蘭重遊噩夢之地 墨西哥最強堡壘至今10戰不敗︱世界盃2026 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQNlZGU0hmMnMwS3dFMUw1Nnd1bHd4SktieUowVmE0a19TMHl5WHNvSW5kSUJNTVVlOFFlR21fWjduT2RRTmUwZTRZNVlhYlM1SGMwLUtFT1g4UHdEZEVQUjVXUlFJcmlmSnBMbXlfR092cFVZdDZpcXlOXzdOSmZEWVlTWnE5MzhTcTJSWnJXYjAwc2JIT3pzZmluVzlvRDl5SE1kaXNLakNUMHNDYVhfMHdqd1V4S2VjTks0TEhWejI4VU5xVHJGSUVwYndYTmtMa2pRR1J0T3ROM0R6a2N5TVlkeEh0TlFkUkNvN0htQThFVC00a2JNN00zdVlNYmVHbzRucGQ4X185MDJydW4zeXdzblQ1WmJ1WTZZSmo5Ty1iOVdfamIzcWliS2tRaGM3bk04anNSTVVXdktIVHczOWlHbDh5V2RZaDVfRFZNYzE3VlVaaUpGR3g5V1doOEc2TWg4Ny1TZnpFalhzcWEwcHJCVThLRURsZnJSWUZmUmhCWW9ZR0xCMjBjN0RoRkotYkFfRlNfSU5fZUtrMUFWWGt2aGxVNTdUalpPVzJoZmFWZkk?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:18:45 GMT",
-      "source": "香港01"
-    },
-    {
-      "title": "世界盃7/6墨西哥VS英格蘭16強淘汰賽懶人包》完整分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wbUV0OUticTRqTmwwQWo3LWFxQ3lZSWNyZUVLOGxkcVVLXy1YbjJTekluTTZTLUhZLXRPTXJBa01nTnFJSVlNX29wakjSAVJBVV95cUxQRzE4SmQ3SWoxYWVoLVVodUkyaVJib3UwcnJRMS0wblpBZGwzWHZhZjhYa1NRSFE5T1p4ZkZHZU5OLVd6cXQzRWpWaC1MMHBjcGNR?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
-    },
-    {
-      "title": "墨西哥 vs 英格蘭賽前戰術分析：高強度壓迫對決世界級進攻火力- 足球 - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKS2JGazlrR2xtaG9NazJHRDZXd3h5UEVkREpUVkdKVUFiSFVCRzBHRmRjSGJzemxNUEQ0Q24xV0c2b05PSjhfakg1UU9yaEFC?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 05:20:03 GMT",
+      "title": "《2026世足賽》維德角沒有示弱的正面對決，阿根廷延長取勝卻雙方都值得挺胸驕傲- 足球 - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MWVVnZS0tZjFIMEwxZFpHM0gzNllPYkZSX1BCZnowSEdrUGJPdUthdVhJZEUxSkdBaFE5LXNRMmxQR24tUjEyQVk5UVd3dXBR?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 05:28:07 GMT",
       "source": "運動視界Sports Vision"
     }
   ],
   "odds": [
     {
-      "home": "Mexico",
-      "away": "England",
-      "homePrice": 3.2,
-      "drawPrice": 3.1,
-      "awayPrice": 2.55
-    },
-    {
       "home": "Portugal",
       "away": "Spain",
-      "homePrice": 4,
+      "homePrice": 4.1,
       "drawPrice": 3.65,
-      "awayPrice": 1.94
+      "awayPrice": 1.93
     },
     {
       "home": "USA",
       "away": "Belgium",
-      "homePrice": 2.65,
+      "homePrice": 2.63,
       "drawPrice": 3.4,
-      "awayPrice": 2.6
+      "awayPrice": 2.65
     },
     {
       "home": "Argentina",
@@ -2929,36 +2981,43 @@
     {
       "home": "Switzerland",
       "away": "Colombia",
-      "homePrice": 3.7,
+      "homePrice": 3.65,
       "drawPrice": 3.1,
       "awayPrice": 2.2
     },
     {
       "home": "France",
       "away": "Morocco",
-      "homePrice": 1.54,
-      "drawPrice": 3.95,
+      "homePrice": 1.56,
+      "drawPrice": 3.8,
       "awayPrice": 6
+    },
+    {
+      "home": "Norway",
+      "away": "England",
+      "homePrice": 3.25,
+      "drawPrice": 3.15,
+      "awayPrice": 1.8
     }
   ],
   "videos": [
     {
-      "id": "Q3P1vCByTHA",
-      "title": "【全場精華】7/5 統一獅 vs. 台鋼雄鷹 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "CFogwlAUm_Y",
+      "title": "【全場精華】墨西哥 VS 英格蘭 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Q3P1vCByTHA"
+      "url": "https://www.youtube.com/watch?v=CFogwlAUm_Y"
     },
     {
-      "id": "5gccq_cRWv4",
-      "title": "【全場精華】7/5 富邦悍將 vs. 味全龍 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "7LGHttT3CjA",
+      "title": "【2026 FIFA世界盃™】哈蘭德要塑造挪威驕傲 內馬爾賽後痛哭/愛爾達電視20260706",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=5gccq_cRWv4"
+      "url": "https://www.youtube.com/watch?v=7LGHttT3CjA"
     },
     {
-      "id": "4InnojEMIyg",
-      "title": "【2026 FIFA世界盃™】 巴拉圭防守動作大 吹判尺度成討論焦點/愛爾達電視20260705新聞",
+      "id": "cZo5FFUD9gI",
+      "title": "【2026 FIFA世界盃™】內馬爾進球無用 哈蘭德梅開二度射下五星巴西/愛爾達電視20260706",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=4InnojEMIyg"
+      "url": "https://www.youtube.com/watch?v=cZo5FFUD9gI"
     }
   ]
 }
