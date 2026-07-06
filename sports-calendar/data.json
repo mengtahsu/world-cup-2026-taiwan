@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T10:36:43.695Z",
+  "updatedAt": "2026-07-06T11:13:32.000Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3664,9 +3664,10 @@
       "start": "2026-07-04T10:00:00Z",
       "distance": "19.6 km",
       "climb": "團體計時賽",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-1",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -3709,9 +3710,10 @@
       "start": "2026-07-05T10:00:00Z",
       "distance": "168.5 km",
       "climb": "丘陵站",
+      "elevation": 2500,
       "mapUrl": "https://www.letour.fr/en/stage-2",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -3751,13 +3753,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 3 站",
       "subtitle": "Granollers > Les Angles",
-      "start": "2026-07-06T10:00:00Z",
+      "start": "2026-07-06T18:00:00+08:00",
       "distance": "195.9 km",
       "climb": "山地站",
+      "elevation": 3850,
       "mapUrl": "https://www.letour.fr/en/stage-3",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3784,24 +3787,25 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 4 站",
-      "subtitle": "Carcassonne > Foix",
-      "start": "2026-07-07T10:00:00Z",
-      "distance": "181.9 km",
-      "climb": "丘陵站",
-      "mapUrl": "https://www.letour.fr/en/stage-4",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "Argentina vs Egypt",
       "subtitle": "Round of 16",
       "start": "2026-07-07T16:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 4 站",
+      "subtitle": "Carcassonne > Foix",
+      "start": "2026-07-07T19:00:00+08:00",
+      "distance": "181.9 km",
+      "climb": "丘陵站",
+      "elevation": 2800,
+      "mapUrl": "https://www.letour.fr/en/stage-4",
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3823,13 +3827,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 5 站",
       "subtitle": "Lannemezan > Pau",
-      "start": "2026-07-08T10:00:00Z",
+      "start": "2026-07-08T22:00:00+08:00",
       "distance": "158.3 km",
       "climb": "平路站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-5",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -3843,13 +3848,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 6 站",
       "subtitle": "Pau > Gavarnie-Gèdre",
-      "start": "2026-07-09T10:00:00Z",
+      "start": "2026-07-09T18:15:00+08:00",
       "distance": "186.2 km",
       "climb": "山地站",
+      "elevation": 4100,
       "mapUrl": "https://www.letour.fr/en/stage-6",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3860,24 +3866,25 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 7 站",
-      "subtitle": "Hagetmau > Bordeaux",
-      "start": "2026-07-10T10:00:00Z",
-      "distance": "175.1 km",
-      "climb": "平路站",
-      "mapUrl": "https://www.letour.fr/en/stage-7",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "W93 vs W94",
       "subtitle": "Quarter-final",
       "start": "2026-07-10T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 7 站",
+      "subtitle": "Hagetmau > Bordeaux",
+      "start": "2026-07-10T19:05:00+08:00",
+      "distance": "175.1 km",
+      "climb": "平路站",
+      "elevation": null,
+      "mapUrl": "https://www.letour.fr/en/stage-7",
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -3894,9 +3901,10 @@
       "start": "2026-07-11T10:00:00Z",
       "distance": "180.4 km",
       "climb": "平路站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -3927,13 +3935,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 9 站",
       "subtitle": "Malemort > Ussel",
-      "start": "2026-07-12T10:00:00Z",
+      "start": "2026-07-12T19:30:00+08:00",
       "distance": "185.5 km",
       "climb": "丘陵站",
+      "elevation": 3300,
       "mapUrl": "https://www.letour.fr/en/stage-9",
-      "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
-      "timeTbd": true
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -3950,9 +3959,10 @@
       "start": "2026-07-14T10:00:00Z",
       "distance": "166.6 km",
       "climb": "山地站",
+      "elevation": 3900,
       "mapUrl": "https://www.letour.fr/en/stage-10",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -3970,9 +3980,10 @@
       "start": "2026-07-15T10:00:00Z",
       "distance": "161.3 km",
       "climb": "平路站",
+      "elevation": 1800,
       "mapUrl": "https://www.letour.fr/en/stage-11",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -3990,9 +4001,10 @@
       "start": "2026-07-16T10:00:00Z",
       "distance": "179.1 km",
       "climb": "平路站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-12",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4002,9 +4014,10 @@
       "start": "2026-07-17T10:00:00Z",
       "distance": "205.8 km",
       "climb": "丘陵站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-13",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4022,9 +4035,10 @@
       "start": "2026-07-18T10:00:00Z",
       "distance": "155.3 km",
       "climb": "山地站",
+      "elevation": 3800,
       "mapUrl": "https://www.letour.fr/en/stage-14",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4059,9 +4073,10 @@
       "start": "2026-07-19T10:00:00Z",
       "distance": "183.9 km",
       "climb": "山地站",
+      "elevation": 4700,
       "mapUrl": "https://www.letour.fr/en/stage-15",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4104,9 +4119,10 @@
       "start": "2026-07-21T10:00:00Z",
       "distance": "26.1 km",
       "climb": "個人計時賽",
+      "elevation": 500,
       "mapUrl": "https://www.letour.fr/en/stage-16",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4124,9 +4140,10 @@
       "start": "2026-07-22T10:00:00Z",
       "distance": "174.7 km",
       "climb": "平路站",
+      "elevation": 2400,
       "mapUrl": "https://www.letour.fr/en/stage-17",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4144,9 +4161,10 @@
       "start": "2026-07-23T10:00:00Z",
       "distance": "185.2 km",
       "climb": "山地站",
+      "elevation": 3900,
       "mapUrl": "https://www.letour.fr/en/stage-18",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4156,9 +4174,10 @@
       "start": "2026-07-24T10:00:00Z",
       "distance": "127.9 km",
       "climb": "山地站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-19",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4176,9 +4195,10 @@
       "start": "2026-07-25T10:00:00Z",
       "distance": "170.9 km",
       "climb": "山地站",
+      "elevation": 5450,
       "mapUrl": "https://www.letour.fr/en/stage-20",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
@@ -4205,9 +4225,10 @@
       "start": "2026-07-26T10:00:00Z",
       "distance": "133 km",
       "climb": "平路站",
+      "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-21",
       "channel": "待定",
-      "channelStatus": "MOD EPG 尚未確認",
+      "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
     },
     {
