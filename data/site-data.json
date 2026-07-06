@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T19:06:18.011Z",
+  "updatedAt": "2026-07-06T22:39:32.958Z",
   "matches": [
     {
       "number": 1,
@@ -1308,6 +1308,10 @@
       "kickoff": "2026-07-06T19:00:00.000Z",
       "team1": "Portugal",
       "team2": "Spain",
+      "score": [
+        0,
+        1
+      ],
       "ground": "Dallas (Arlington)"
     },
     {
@@ -2908,34 +2912,16 @@
       "source": "Yahoo新聞"
     },
     {
-      "title": "【世界盃足球賽】哈蘭德梅開二度 挪威2：1踢走巴西 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNNjRhakh6ejJTMDRlUTJibTJuM3NYQ1FQdEFhT2dtRlRjZDJvMmJSM0ZCTHlWeGlja0N1cjRwbU5lb3N6b3lvQVYzZTJSNzVZeWtGOWFUOWsySy1lcUQzWHNFR09TWF9yNkNhRXVqbE1odGotUDdiWDJzUnFNZkRGNF9qQUtMUkgyUXBRNmoybzJkaVpXbk9TRnlndDBfRkpFYVBNdERuejBUamZFblZqcGhkRFl4c0Y3aHQ1YzBPRjVpSzFVcG5ucFhTTlZPcHpEQ2JKOF91andHcW1aNjcxWEhGTnZNRUl3UkhjWlBxRDdMQkNpMVh5OFlTT3NIanVOVG5sLXh1SnVRODFmR0FhSkxfRlVDY3ZnbGpzSmQxc1NMLVUta3d5MmdDUDZjdEJlVl9GNlJmN1ZMc0RmcGc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 16:00:00 GMT",
-      "source": "Yahoo新聞"
+      "title": "2026世足》內馬爾貝克漢都輸了！網評「世界最強足球員」TOP10冠軍是他： 今後要出現比他厲害的人真的太難 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uNnF4Z0RueTNRdEJxQ3A2MGlCR2ZCZ2pBbUU4dC14V1d6SjZmN0N1Y1JXWndISnJsMm9LSmlFbUtXQU5haEtIQndmTU4zX0xF?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:13:02 GMT",
+      "source": "風傳媒"
     },
     {
-      "title": "《2026世界盃》從防線不穩到守住巴西 挪威做了什麼改善才拿下漂亮的一勝？ _p.2 - 足球 - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUlNUVEJZYWhaZWNqNm9qaHpnelh4ZEI2SFZYSHByR0xsdUVJY0NoTHVITXJFblZSbDRWMFloc1RZODVVX0tta1BhSTY1aVlsS3dKalBfZksxUQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 04:52:01 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
-      "title": "世足賽／爆驚人爭議！川普致電FIFA主席 1句話後美前鋒免禁賽 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTXhGQjlQYlpYXzc3cmRxWDBaQmxuUlBKdjZyRDhnLWdQVFpYaV80TkJlQ3FGQjc1QVNaV2c4RXoxVm83cG9XX2pFOUZ1ZzNFeERr0gFYQVVfeXFMTWZQSzhuWU5jaTlQRW5McWdVeV9zVUUyX05rUVUzV2Z0VEM3N2w3NU5ueUZISWJJOW1vR1lkQkJBYjJIQVpVbXUwOXV3c21kendKbHpFdUp3dg?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 23:59:01 GMT",
-      "source": "UDN"
-    },
-    {
-      "title": "2026世界盃 / FIFA允吃紅牌巴洛根出賽 歐洲足總批「毫無正當性」 | 中央廣播電臺 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DSHNtZGlNLWFkcjR4Tm96Qmp5THowc2VEOC05VkM3X1dzbFNpQzBldUlnc3diUkdGczVkWklWNFNMM0Q5X2V3TG12MDczTHpVOG1uUS1R?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 14:26:02 GMT",
-      "source": "LINE TODAY"
-    },
-    {
-      "title": "世足》CNN：川普介入巴洛根紅牌案 世界盃掀政治風暴 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUWJWX01lOEFXc2tJQ0E5LWVzMkMyTjlQeGhtek9OSzEwanZGZ2tXV3phMEg1SXVGd1FmWnBvT21zbExDZUxyQ1loSWd5MEJMc0dWS0ZGVlNreGdzRnhYS3NybzBGcmdMQjc1MdIBZkFVX3lxTFByeVQxRWlQOGRnRFpUWGI2dG1GYk1UOWZxbFlKWWl4OFUweU1zN0RDeF94Q3hraENLcGhnU1lZZVJNZ1RQOVpzeUotajUzOElSZl9ETWxOWkViRTZ2b2x1X25JTzdzQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 05:15:00 GMT",
-      "source": "自由體育"
+      "title": "2026世界盃「16強淘汰賽」即時亮點：哈蘭德發威、內馬爾淚灑球場，地主墨西哥無緣晉級 - GQ Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0pwVE5ZYTNSMlBqaTB6VjIzc3drT2M5aUxKSFI5ajcwMXJKNm1NTklRVzBaWnV6SnNnckpVYmtQMWc4MGVpU3U4UDN0R0lFSThBdHhHS2tsbWFQSHN1WlpZaGFaTjNBVlNNMzM4aXdYaGVfdWJiUnlsTWlNSzNxZlhReXFRRERNelJVNWZnRkRJRnFiQ0JNN1FBNzBNZkxodXAtMkxNOA?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:17:31 GMT",
+      "source": "GQ Taiwan"
     },
     {
       "title": "《2026世界盃》16強葡萄牙對上西班牙：C羅與Yamal新老世代之戰，誰能贏下伊比利半島的重磅對決？ - 運動視界Sports Vision",
@@ -2946,44 +2932,55 @@
     {
       "title": "2026 世界盃足球賽 07/07【葡萄牙 vs 西班牙】直播、轉播 LIVE 線上看 - 蘋果仁",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPcWM1aDZUQUo4ekFrYVZ4WVowTlJQUXNTQkpkRVdWV0Q3NEVPMjVfOUxWaElleFdjNWdFN1EtNDd2UkVrUUFPVWJTWHg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:03:50 GMT",
+      "pubDate": "Mon, 06 Jul 2026 21:33:45 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "世界盃7/7西班牙VS葡萄牙16強淘汰賽懶人包》完整分析、預計先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xRVRXS09FRWQya2RkS0hEUVFRdWF4ckNlN0NUaTJTMVJ1emVGbnpxeW90cHZEQ3VweTZXMnp5T3o3eDVqWmVSTjlPcDfSAVJBVV95cUxNemc0WmZtdzIxaVB5Y3REdG5BVEhDejZaRlZqYjFua3ROQ0tqVDdnRlRQdDZuMVVERy1iMkFtX2treW9hRlB6c2RGT1l3M2dlakl3?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 22:06:00 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "世界盃2026即時比分｜葡萄牙對西班牙0:1：梅里諾關鍵時刻進球，C羅含淚告別世界盃 - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUlzeGI1N1dkeWdTVmQtUjQwQlZJZmVSMDlIUWZTU3U3LVFtSDNNdFBidWlNdnkzb1FITTM4b3JaMVh6OU80ZTc1bkdUR0RpNU5qQk41QnpWNDZQTG5FcmpIMUZVQ0cxWTlXTGNEc0pjVkNNQnBQNTBGa2RxWHZlbXZsUVoxVThYcnRpb0xvYzVrQXJiaXB3OVk1OGJoTEVEWGc2Yy1TYUk?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 20:08:18 GMT",
+      "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "世足賽／爆驚人爭議！川普致電FIFA主席 1句話後美前鋒免禁賽 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTXhGQjlQYlpYXzc3cmRxWDBaQmxuUlBKdjZyRDhnLWdQVFpYaV80TkJlQ3FGQjc1QVNaV2c4RXoxVm83cG9XX2pFOUZ1ZzNFeERr0gFYQVVfeXFMTWZQSzhuWU5jaTlQRW5McWdVeV9zVUUyX05rUVUzV2Z0VEM3N2w3NU5ueUZISWJJOW1vR1lkQkJBYjJIQVpVbXUwOXV3c21kendKbHpFdUp3dg?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 23:59:01 GMT",
+      "source": "UDN"
+    },
+    {
+      "title": "2026世界盃／FIFA駁回比利時上訴 美前鋒巴洛根可踢世足16強 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TzNOdDF1YVJOVEFZeUFKcF8ya3JFdjNka0xIcFQxdEVsV1NQQUQ5R2NvbGl1dm82Njl1UHZSSk40UlBMVk82WUhPeXc3RlJI?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 22:04:00 GMT",
+      "source": "TVBS新聞網"
+    },
+    {
+      "title": "世足》CNN：川普介入巴洛根紅牌案 世界盃掀政治風暴 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUWJWX01lOEFXc2tJQ0E5LWVzMkMyTjlQeGhtek9OSzEwanZGZ2tXV3phMEg1SXVGd1FmWnBvT21zbExDZUxyQ1loSWd5MEJMc0dWS0ZGVlNreGdzRnhYS3NybzBGcmdMQjc1MdIBZkFVX3lxTFByeVQxRWlQOGRnRFpUWGI2dG1GYk1UOWZxbFlKWWl4OFUweU1zN0RDeF94Q3hraENLcGhnU1lZZVJNZ1RQOVpzeUotajUzOElSZl9ETWxOWkViRTZ2b2x1X25JTzdzQQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 05:15:00 GMT",
+      "source": "自由體育"
     }
   ],
   "odds": [
     {
-      "home": "Portugal",
-      "away": "Spain",
-      "homePrice": 3.65,
-      "drawPrice": 3.3,
-      "awayPrice": 1.97
-    },
-    {
       "home": "USA",
       "away": "Belgium",
-      "homePrice": 2.5,
-      "drawPrice": 3.4,
-      "awayPrice": 2.8
+      "homePrice": 2.55,
+      "drawPrice": 3.3,
+      "awayPrice": 2.85
     },
     {
       "home": "Argentina",
       "away": "Egypt",
-      "homePrice": 1.36,
-      "drawPrice": 5,
+      "homePrice": 1.35,
+      "drawPrice": 5.1,
       "awayPrice": 11
     },
     {
       "home": "Switzerland",
       "away": "Colombia",
       "homePrice": 3.65,
-      "drawPrice": 3,
-      "awayPrice": 2.25
+      "drawPrice": 3.05,
+      "awayPrice": 2.23
     },
     {
       "home": "France",
@@ -2995,29 +2992,29 @@
     {
       "home": "Norway",
       "away": "England",
-      "homePrice": 3.85,
-      "drawPrice": 3.65,
-      "awayPrice": 1.88
+      "homePrice": 3.8,
+      "drawPrice": 3.75,
+      "awayPrice": 1.86
     }
   ],
   "videos": [
+    {
+      "id": "UKJ5LbL0JJk",
+      "title": "【2026 FIFA世界盃™】西班牙1：0殺進八強 C羅最後一舞哭了！/愛爾達電視20260707",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=UKJ5LbL0JJk"
+    },
+    {
+      "id": "d-7JusJ12UQ",
+      "title": "【全場精華】葡萄牙 VS 西班牙 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=d-7JusJ12UQ"
+    },
     {
       "id": "4ebcp2y1qMo",
       "title": "【2026 FIFA世界盃™】英格蘭晉級八強 肯恩慶祝超嗨燒聲受訪/愛爾達電視20260706",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=4ebcp2y1qMo"
-    },
-    {
-      "id": "Bx5D_uxupyk",
-      "title": "【2026 FIFA世界盃™】貝林漢2分鐘進兩球！英格蘭苦戰勝墨西哥/愛爾達電視20260706",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Bx5D_uxupyk"
-    },
-    {
-      "id": "CFogwlAUm_Y",
-      "title": "【全場精華】墨西哥 VS 英格蘭 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=CFogwlAUm_Y"
     }
   ]
 }
