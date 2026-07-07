@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T22:47:16.588Z",
+  "updatedAt": "2026-07-07T04:38:07.661Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3974,25 +3974,25 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T10:00:00Z",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "W99 vs W100",
       "subtitle": "Semi-final",
       "start": "2026-07-15T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T19:40:00+08:00",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "環法",
