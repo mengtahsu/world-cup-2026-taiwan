@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T11:03:45.597Z",
+  "updatedAt": "2026-07-07T11:04:20.715Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3898,14 +3898,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T10:00:00Z",
+      "start": "2026-07-11T19:00:00+08:00",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3953,25 +3953,25 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 10 站",
-      "subtitle": "Aurillac > Le Lioran",
-      "start": "2026-07-14T10:00:00Z",
-      "distance": "166.6 km",
-      "climb": "山地站",
-      "elevation": 3900,
-      "mapUrl": "https://www.letour.fr/en/stage-10",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "W97 vs W98",
       "subtitle": "準決賽",
       "start": "2026-07-14T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 10 站",
+      "subtitle": "Aurillac > Le Lioran",
+      "start": "2026-07-14T19:00:00+08:00",
+      "distance": "166.6 km",
+      "climb": "山地站",
+      "elevation": 3900,
+      "mapUrl": "https://www.letour.fr/en/stage-10",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "環法",
