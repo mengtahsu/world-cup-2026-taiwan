@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:16:43.437Z",
+  "updatedAt": "2026-07-07T23:15:27.252Z",
   "matches": [
     {
       "number": 1,
@@ -1347,6 +1347,18 @@
       "kickoff": "2026-07-07T20:00:00.000Z",
       "team1": "Switzerland",
       "team2": "Colombia",
+      "score": [
+        0,
+        0
+      ],
+      "extraTime": [
+        0,
+        0
+      ],
+      "penalties": [
+        4,
+        3
+      ],
       "ground": "Vancouver"
     },
     {
@@ -2934,70 +2946,8 @@
       }
     }
   ],
-  "news": [
-    {
-      "title": "世界盃7/8阿根廷VS埃及16強賽程懶人包》總分析、名單、預計先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfUkc4YmxfNzhPaDFiN294bmJxOGlMTmYwSnIwLUxLalV2Vk1XU21iOC13Rmdvb2E2UTlQa19uRVcxNXUwRUhfV1ktT3nSAVJBVV95cUxNS3EwcFJTWmd6aEVBZVpNUWRvUFpMMi1yMXNnT2FGN2RSZHI3bXBqR1l5RVdYOEJ6YWlzUERsaG5kZFdvTWFfRGx6eTBMZnlOb2hR?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
-    },
-    {
-      "title": "世界盃賽程2026｜7.8直播線上看16強：阿根廷/埃及+7.7賽果重溫 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPWHVCQ1hMQklTbkNObV9WM01XVHRwNUh2dU45blN5cnRscHhsUHRkN3lCbXlrNV92NkVGQzF6WGxzbWJPbzY0R244YWU2UVhBTWY4TzR5REY5aVJ1N0VfaFlWWXZlWWtWMmxWRy1vY1NmUU94RUtjTzlBdGUteEFTZXdZa3gxUzhPV2ZGakw5TnBmRDVKS2JFazA2dFlBOHhfemNqZkFmS1JEcng2MzFkaW9UVlRUMk9ybWhGZFJITGMyQUlzb1MyVDlKZ2xPd0FpR1Ntdk0zWDRfWUxNV0lOUWtQa2tSNlVqS0tfWGVEaUtGM3ZUTU5PZVc3d3ZTczB6aktZNGhLZXU5SHZMc3g2T3ZQYmRpUm5sZTVjbzdyYU9oR1U0UUEzOHRjUjl0WmY3WlN6bG5YbWRudFYzbkZvaDNBNFk5TlllVllic01pdjJJTGtqVHc0OXBUdXRONTN5LUI1WVhuRmFmNTRkTjYzZDdXbzUtY216ZTBj?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 15:34:16 GMT",
-      "source": "香港01"
-    },
-    {
-      "title": "世足賽／落後2球起死回生！阿根廷13分鐘連進3球逆轉埃及闖8強 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FVTZGUHNZMmg4N1RWbUZ3T1ZPVXhyYThlclNnNXE1NjZjbVI4d3ZQWmk4aEtBWnQ5SEYyY1pfWFAwamYzdUhHc2tmUUZXY21WUjlN0gFYQVVfeXFMTnM2Q3dzb2I0TWxXMDZYWFFlVFlkX3hBeTlhdVRXNkQ0RFlINWlxWWhBbFIwZlJFSzZpSkJNMEphanY0RXhiOEJQcEp6UnVPeFMzQTk4elpMVg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:10:36 GMT",
-      "source": "UDN"
-    },
-    {
-      "title": "2026 世界盃足球賽 07/07【葡萄牙 vs 西班牙】直播、轉播 LIVE 線上看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPcWM1aDZUQUo4ekFrYVZ4WVowTlJQUXNTQkpkRVdWV0Q3NEVPMjVfOUxWaElleFdjNWdFN1EtNDd2UkVrUUFPVWJTWHg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:35:36 GMT",
-      "source": "蘋果仁"
-    },
-    {
-      "title": "《2026世界盃》16強葡萄牙對上西班牙：C羅與Yamal新老世代之戰，誰能贏下伊比利半島的重磅對決？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VYnFtQzExcE9UemoyclpTUE1jcnJsdEUtSHdhMzlldkp2LVpfUmxwYnhrdXpKdlV4R2QzTUY0QnRMTF9ibzJLX3ZuU1JPMEJv?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:48:10 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
-      "title": "世足》C羅告別世界盃！8強有6隊出爐 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TVzBjOWdyVm1wQUVRSTBVc3QyVFR6SUdRb3EzcTlUUUQ1VEJON3U5LVNYSzFFM3l4a3Z2MDZxNVBNS1Q1YUVJVVVFUGtEQzNOSU9CbklEOFpjdWthektyNdIBZkFVX3lxTFBhXzhhd0xCWF81enVqNVdPSjc2bjB6WFI2WjZReXNxZ1hoMDVaSGkzcFREaHo3ZTluMExKR1ZwY3ZrWmVSaU5fU3FtQmlOU2xoZHVHRFBsOUNOcmxpNHFYYnhydEh2QQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 02:02:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "世足／地主國全掰了！比利時9分鐘破網 4：1血洗美國晉級八強 - 台視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11RkZGcGhJRnpHWjE0MXRPVVRHV3J0blJhRV8tRTFHSlhrY0toNWNVNmxOdC1MWi00OHNteTZ1WmhaRHRRT0dGNmJVSjRUb2dEQklnQU1HWQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 02:00:58 GMT",
-      "source": "台視新聞網"
-    },
-    {
-      "title": "2026世界盃／主辦國全軍覆沒！美國遭比利時4：1淘汰 無緣晉級8強 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QblpJWE1IRGpFWE5keUtGd3BJczdSdHRZbEs4ZHZKaWVQVDNPN2NWYUloN2V3bUR0SnhXcTYwcVJRSEZNNS16emo1ZXc0LUV2?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 02:06:00 GMT",
-      "source": "TVBS新聞網"
-    },
-    {
-      "title": "世足》美國門將重大失誤 比利時3比1領先 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSU9xdzJVNXpwUlNkcUJnRmNEUW11dWNKRnRyRmpYRGM3RmhkZHRJczQ0aEVMMXdzZVBmWXo4a3Z5YmsyQ2h4TU1xNTZPajliekxOdndjX3JQZ2hYMmxtQVlFS1Z1NTNqWWhuU3FpcG11OW9ORWFRM2JhRm9SM2puQm5HbmthT1NDS1hwRlZRcm5NdHRlbTVFS0N1WUdhNzF3cHhxeVg2X0lYRnpvVU1mdWJpa1dpT1pETGVfVktZemVDRFozWHdKZHhSVV9acTlqWlA1d0NRa19haVNZWG9rRkZtVU5MTzdfZENxRWFXRWQ2UXo5T1RBOEVwcjZYLVFwbnZxOEZMdlh6a2ZTOXloaGlQY3lHemJXX05tYzFaXzQ4NWtZN3dZcTUtVEc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 01:24:46 GMT",
-      "source": "Yahoo運動"
-    }
-  ],
+  "news": [],
   "odds": [
-    {
-      "home": "Switzerland",
-      "away": "Colombia",
-      "homePrice": 3.55,
-      "drawPrice": 2.4,
-      "awayPrice": 2.28
-    },
     {
       "home": "France",
       "away": "Morocco",
@@ -3008,9 +2958,9 @@
     {
       "home": "Spain",
       "away": "Belgium",
-      "homePrice": 1.63,
-      "drawPrice": 4.01,
-      "awayPrice": 5.75
+      "homePrice": 1.64,
+      "drawPrice": 3.98,
+      "awayPrice": 5.65
     },
     {
       "home": "Norway",
@@ -3018,26 +2968,33 @@
       "homePrice": 3.95,
       "drawPrice": 3.7,
       "awayPrice": 1.84
+    },
+    {
+      "home": "Argentina",
+      "away": "Switzerland",
+      "homePrice": 1.74,
+      "drawPrice": 3.5,
+      "awayPrice": 5.75
     }
   ],
   "videos": [
+    {
+      "id": "zVvPoZbQZcU",
+      "title": "【全場精華】瑞士 VS 哥倫比亞 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=zVvPoZbQZcU"
+    },
+    {
+      "id": "UYRMWQei3Rs",
+      "title": "【2026 FIFA世界盃™】梅西強心臟助隊逆轉 賽後感動落淚/愛爾達電視20260707",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=UYRMWQei3Rs"
+    },
     {
       "id": "GdEc1q_QSvA",
       "title": "【2026 FIFA世界盃™】梅西1助攻1進球 阿根廷3：2逆轉擊敗埃及/愛爾達電視20260707",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=GdEc1q_QSvA"
-    },
-    {
-      "id": "ETJS7A1sB9U",
-      "title": "【全場精華】阿根廷 VS 埃及 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=ETJS7A1sB9U"
-    },
-    {
-      "id": "iA6wo00wIIU",
-      "title": "【全場精華】7/7 樂天桃猿 vs. 富邦悍將 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=iA6wo00wIIU"
     }
   ]
 }
