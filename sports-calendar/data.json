@@ -1,1826 +1,1826 @@
 {
-  "updatedAt": "2026-07-07T10:14:24.106Z",
+  "updatedAt": "2026-07-07T11:03:45.597Z",
   "events": [
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-01T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-02T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-02T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-02T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-02T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-03T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-03T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-03T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-03T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Orlando Magic",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 奧蘭多魔術",
+      "subtitle": "例行賽",
       "start": "2026-01-03T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Milwaukee Bucks vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "密爾瓦基公鹿 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-03T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New Orleans Pelicans vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "紐奧良鵜鶘 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-03T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Phoenix Suns vs Sacramento Kings",
-      "subtitle": "regular-season",
+      "title": "鳳凰城太陽 vs 沙加緬度國王",
+      "subtitle": "例行賽",
       "start": "2026-01-03T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-03T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Memphis Grizzlies",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 曼菲斯灰熊",
+      "subtitle": "例行賽",
       "start": "2026-01-03T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Carolina Panthers",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 卡羅萊納黑豹",
+      "subtitle": "例行賽",
       "start": "2026-01-03T21:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Miami Heat vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "邁阿密熱火 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-03T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-04T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Toronto Raptors vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "多倫多暴龍 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-04T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-04T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-04T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Seattle Seahawks",
-      "subtitle": "regular-season",
+      "title": "舊金山 49 人 vs 西雅圖海鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-04T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-04T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-04T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-04T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs New Orleans Saints",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大獵鷹 vs 紐奧良聖徒",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "辛辛那提孟加拉虎 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Minnesota Vikings vs Green Bay Packers",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達維京人 vs 綠灣包裝工",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs Dallas Cowboys",
-      "subtitle": "regular-season",
+      "title": "紐約巨人 vs 達拉斯牛仔",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Tennessee Titans",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 田納西泰坦",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "休士頓德州人 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Detroit Pistons",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 底特律活塞",
+      "subtitle": "例行賽",
       "start": "2026-01-04T19:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-04T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-04T20:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs New York Jets",
-      "subtitle": "regular-season",
+      "title": "水牛城比爾 vs 紐約噴射機",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Detroit Lions",
-      "subtitle": "regular-season",
+      "title": "芝加哥熊 vs 底特律雄獅",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Los Angeles Chargers",
-      "subtitle": "regular-season",
+      "title": "丹佛野馬 vs 洛杉磯電光",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Kansas City Chiefs",
-      "subtitle": "regular-season",
+      "title": "拉斯維加斯突襲者 vs 堪薩斯市酋長",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Miami Dolphins",
-      "subtitle": "regular-season",
+      "title": "新英格蘭愛國者 vs 邁阿密海豚",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Washington Commanders",
-      "subtitle": "regular-season",
+      "title": "費城老鷹 vs 華盛頓司令",
+      "subtitle": "例行賽",
       "start": "2026-01-04T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Miami Heat vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "邁阿密熱火 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-04T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-04T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Phoenix Suns vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "鳳凰城太陽 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-05T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "匹茲堡鋼人 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-01-05T01:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-05T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Memphis Grizzlies",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 曼菲斯灰熊",
+      "subtitle": "例行賽",
       "start": "2026-01-05T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-06T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs Chicago Bulls",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 芝加哥公牛",
+      "subtitle": "例行賽",
       "start": "2026-01-06T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Toronto Raptors vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "多倫多暴龍 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-06T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-06T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-06T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-06T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Golden State Warriors",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 金州勇士",
+      "subtitle": "例行賽",
       "start": "2026-01-06T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-06T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-07T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs Orlando Magic",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 奧蘭多魔術",
+      "subtitle": "例行賽",
       "start": "2026-01-07T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-07T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-07T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New Orleans Pelicans vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "紐奧良鵜鶘 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-07T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Dallas Mavericks",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 達拉斯獨行俠",
+      "subtitle": "例行賽",
       "start": "2026-01-07T04:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Charlotte Hornets vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "夏洛特黃蜂 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Chicago Bulls",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 芝加哥公牛",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Atlanta Hawks vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大老鷹 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Orlando Magic",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 奧蘭多魔術",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-08T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-08T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-08T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-08T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-08T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-08T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Charlotte Hornets vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "夏洛特黃蜂 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-09T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-09T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-09T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Utah Jazz vs Dallas Mavericks",
-      "subtitle": "regular-season",
+      "title": "猶他爵士 vs 達拉斯獨行俠",
+      "subtitle": "例行賽",
       "start": "2026-01-09T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-10T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-10T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-10T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-10T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-10T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Denver Nuggets vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "丹佛金塊 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-10T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Phoenix Suns vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "鳳凰城太陽 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-10T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Sacramento Kings",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 沙加緬度國王",
+      "subtitle": "例行賽",
       "start": "2026-01-10T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-10T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-10T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-10T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Carolina Panthers vs Los Angeles Rams",
-      "subtitle": "post-season",
+      "title": "卡羅萊納黑豹 vs 洛杉磯公羊",
+      "subtitle": "季後賽",
       "start": "2026-01-10T21:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-11T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-11T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-11T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Dallas Mavericks",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 達拉斯獨行俠",
+      "subtitle": "例行賽",
       "start": "2026-01-11T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Green Bay Packers",
-      "subtitle": "post-season",
+      "title": "芝加哥熊 vs 綠灣包裝工",
+      "subtitle": "季後賽",
       "start": "2026-01-11T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Utah Jazz vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "猶他爵士 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-11T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Buffalo Bills",
-      "subtitle": "post-season",
+      "title": "傑克森維爾美洲虎 vs 水牛城比爾",
+      "subtitle": "季後賽",
       "start": "2026-01-11T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-11T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-11T20:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs San Francisco 49ers",
-      "subtitle": "post-season",
+      "title": "費城老鷹 vs 舊金山 49 人",
+      "subtitle": "季後賽",
       "start": "2026-01-11T21:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Toronto Raptors vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "多倫多暴龍 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-11T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-11T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-12T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-12T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Denver Nuggets vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "丹佛金塊 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-12T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Phoenix Suns vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "鳳凰城太陽 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-12T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Los Angeles Chargers",
-      "subtitle": "post-season",
+      "title": "新英格蘭愛國者 vs 洛杉磯電光",
+      "subtitle": "季後賽",
       "start": "2026-01-12T01:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-12T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-12T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-13T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-13T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Toronto Raptors vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "多倫多暴龍 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-13T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Houston Texans",
-      "subtitle": "post-season",
+      "title": "匹茲堡鋼人 vs 休士頓德州人",
+      "subtitle": "季後賽",
       "start": "2026-01-13T01:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-13T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-13T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-13T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Miami Heat vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "邁阿密熱火 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-14T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs Chicago Bulls",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 芝加哥公牛",
+      "subtitle": "例行賽",
       "start": "2026-01-14T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Milwaukee Bucks vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "密爾瓦基公鹿 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-14T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New Orleans Pelicans vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "紐奧良鵜鶘 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-14T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-14T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-14T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-14T04:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-15T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-15T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-15T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New Orleans Pelicans vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "紐奧良鵜鶘 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-15T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-15T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-15T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-15T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs Memphis Grizzlies",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 曼菲斯灰熊",
+      "subtitle": "例行賽",
       "start": "2026-01-15T19:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-16T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Miami Heat vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "邁阿密熱火 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-16T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-16T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-16T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-16T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-16T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-16T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-16T03:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Indiana Pacers vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "印第安納溜馬 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-17T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-17T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Chicago Bulls",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 芝加哥公牛",
+      "subtitle": "例行賽",
       "start": "2026-01-17T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Toronto Raptors vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "多倫多暴龍 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-17T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-17T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-17T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Buffalo Bills",
-      "subtitle": "post-season",
+      "title": "丹佛野馬 vs 水牛城比爾",
+      "subtitle": "季後賽",
       "start": "2026-01-17T21:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-17T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Atlanta Hawks vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大老鷹 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-18T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-18T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-18T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Miami Heat vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "邁阿密熱火 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-18T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-18T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs San Francisco 49ers",
-      "subtitle": "post-season",
+      "title": "西雅圖海鷹 vs 舊金山 49 人",
+      "subtitle": "季後賽",
       "start": "2026-01-18T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-18T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Denver Nuggets vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "丹佛金塊 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-18T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-18T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Orlando Magic",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 奧蘭多魔術",
+      "subtitle": "例行賽",
       "start": "2026-01-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Houston Texans",
-      "subtitle": "post-season",
+      "title": "新英格蘭愛國者 vs 休士頓德州人",
+      "subtitle": "季後賽",
       "start": "2026-01-18T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Los Angeles Rams",
-      "subtitle": "post-season",
+      "title": "芝加哥熊 vs 洛杉磯公羊",
+      "subtitle": "季後賽",
       "start": "2026-01-18T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-19T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-19T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Denver Nuggets vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "丹佛金塊 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-19T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-19T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Los Angeles Lakers vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "洛杉磯湖人 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-19T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Atlanta Hawks vs Milwaukee Bucks",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大老鷹 vs 密爾瓦基公鹿",
+      "subtitle": "例行賽",
       "start": "2026-01-19T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-19T19:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-19T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Dallas Mavericks",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 達拉斯獨行俠",
+      "subtitle": "例行賽",
       "start": "2026-01-19T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs Utah Jazz",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 猶他爵士",
+      "subtitle": "例行賽",
       "start": "2026-01-19T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-20T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-20T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-20T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-20T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-21T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs LA Clippers",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 洛杉磯快艇",
+      "subtitle": "例行賽",
       "start": "2026-01-21T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-21T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Utah Jazz vs Minnesota Timberwolves",
-      "subtitle": "regular-season",
+      "title": "猶他爵士 vs 明尼蘇達灰狼",
+      "subtitle": "例行賽",
       "start": "2026-01-21T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Denver Nuggets vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "丹佛金塊 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-21T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Golden State Warriors vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "金州勇士 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-21T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-21T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Charlotte Hornets vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "夏洛特黃蜂 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-22T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-22T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-22T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Atlanta Hawks",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 亞特蘭大老鷹",
+      "subtitle": "例行賽",
       "start": "2026-01-22T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New Orleans Pelicans vs Detroit Pistons",
-      "subtitle": "regular-season",
+      "title": "紐奧良鵜鶘 vs 底特律活塞",
+      "subtitle": "例行賽",
       "start": "2026-01-22T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Milwaukee Bucks vs Oklahoma City Thunder",
-      "subtitle": "regular-season",
+      "title": "密爾瓦基公鹿 vs 奧克拉荷馬雷霆",
+      "subtitle": "例行賽",
       "start": "2026-01-22T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Sacramento Kings vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "沙加緬度國王 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-22T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs Charlotte Hornets",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 夏洛特黃蜂",
+      "subtitle": "例行賽",
       "start": "2026-01-23T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-23T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-23T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Golden State Warriors",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 金州勇士",
+      "subtitle": "例行賽",
       "start": "2026-01-23T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Chicago Bulls",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 芝加哥公牛",
+      "subtitle": "例行賽",
       "start": "2026-01-23T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Utah Jazz vs San Antonio Spurs",
-      "subtitle": "regular-season",
+      "title": "猶他爵士 vs 聖安東尼奧馬刺",
+      "subtitle": "例行賽",
       "start": "2026-01-23T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-23T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-23T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Houston Rockets",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 休士頓火箭",
+      "subtitle": "例行賽",
       "start": "2026-01-24T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Atlanta Hawks vs Phoenix Suns",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大老鷹 vs 鳳凰城太陽",
+      "subtitle": "例行賽",
       "start": "2026-01-24T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Brooklyn Nets vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "布魯克林籃網 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-24T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Sacramento Kings",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 沙加緬度國王",
+      "subtitle": "例行賽",
       "start": "2026-01-24T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-24T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-24T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Milwaukee Bucks vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "密爾瓦基公鹿 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-24T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Portland Trail Blazers vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "波特蘭拓荒者 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-24T03:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Charlotte Hornets vs Washington Wizards",
-      "subtitle": "regular-season",
+      "title": "夏洛特黃蜂 vs 華盛頓巫師",
+      "subtitle": "例行賽",
       "start": "2026-01-24T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Philadelphia 76ers vs New York Knicks",
-      "subtitle": "regular-season",
+      "title": "費城 76 人 vs 紐約尼克",
+      "subtitle": "例行賽",
       "start": "2026-01-24T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Golden State Warriors",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 金州勇士",
+      "subtitle": "例行賽",
       "start": "2026-01-24T22:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Orlando Magic vs Cleveland Cavaliers",
-      "subtitle": "regular-season",
+      "title": "奧蘭多魔術 vs 克里夫蘭騎士",
+      "subtitle": "例行賽",
       "start": "2026-01-25T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Boston Celtics",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 波士頓塞爾提克",
+      "subtitle": "例行賽",
       "start": "2026-01-25T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Dallas Mavericks vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "達拉斯獨行俠 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-25T01:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Utah Jazz vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "猶他爵士 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-25T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Detroit Pistons vs Sacramento Kings",
-      "subtitle": "regular-season",
+      "title": "底特律活塞 vs 沙加緬度國王",
+      "subtitle": "例行賽",
       "start": "2026-01-25T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs New England Patriots",
-      "subtitle": "post-season",
+      "title": "丹佛野馬 vs 新英格蘭愛國者",
+      "subtitle": "季後賽",
       "start": "2026-01-25T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Memphis Grizzlies vs Denver Nuggets",
-      "subtitle": "regular-season",
+      "title": "曼菲斯灰熊 vs 丹佛金塊",
+      "subtitle": "例行賽",
       "start": "2026-01-25T20:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Golden State Warriors",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 金州勇士",
+      "subtitle": "例行賽",
       "start": "2026-01-25T22:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs Los Angeles Rams",
-      "subtitle": "post-season",
+      "title": "西雅圖海鷹 vs 洛杉磯公羊",
+      "subtitle": "季後賽",
       "start": "2026-01-25T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Milwaukee Bucks vs Dallas Mavericks",
-      "subtitle": "regular-season",
+      "title": "密爾瓦基公鹿 vs 達拉斯獨行俠",
+      "subtitle": "例行賽",
       "start": "2026-01-26T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Oklahoma City Thunder vs Toronto Raptors",
-      "subtitle": "regular-season",
+      "title": "奧克拉荷馬雷霆 vs 多倫多暴龍",
+      "subtitle": "例行賽",
       "start": "2026-01-26T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "San Antonio Spurs vs New Orleans Pelicans",
-      "subtitle": "regular-season",
+      "title": "聖安東尼奧馬刺 vs 紐奧良鵜鶘",
+      "subtitle": "例行賽",
       "start": "2026-01-26T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Phoenix Suns vs Miami Heat",
-      "subtitle": "regular-season",
+      "title": "鳳凰城太陽 vs 邁阿密熱火",
+      "subtitle": "例行賽",
       "start": "2026-01-26T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "LA Clippers vs Brooklyn Nets",
-      "subtitle": "regular-season",
+      "title": "洛杉磯快艇 vs 布魯克林籃網",
+      "subtitle": "例行賽",
       "start": "2026-01-26T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Atlanta Hawks vs Indiana Pacers",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大老鷹 vs 印第安納溜馬",
+      "subtitle": "例行賽",
       "start": "2026-01-26T18:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Charlotte Hornets vs Philadelphia 76ers",
-      "subtitle": "regular-season",
+      "title": "夏洛特黃蜂 vs 費城 76 人",
+      "subtitle": "例行賽",
       "start": "2026-01-26T20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Cleveland Cavaliers vs Orlando Magic",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭騎士 vs 奧蘭多魔術",
+      "subtitle": "例行賽",
       "start": "2026-01-27T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Boston Celtics vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "波士頓塞爾提克 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-27T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Chicago Bulls vs Los Angeles Lakers",
-      "subtitle": "regular-season",
+      "title": "芝加哥公牛 vs 洛杉磯湖人",
+      "subtitle": "例行賽",
       "start": "2026-01-27T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Houston Rockets vs Memphis Grizzlies",
-      "subtitle": "regular-season",
+      "title": "休士頓火箭 vs 曼菲斯灰熊",
+      "subtitle": "例行賽",
       "start": "2026-01-27T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Minnesota Timberwolves vs Golden State Warriors",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達灰狼 vs 金州勇士",
+      "subtitle": "例行賽",
       "start": "2026-01-27T02:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "Washington Wizards vs Portland Trail Blazers",
-      "subtitle": "regular-season",
+      "title": "華盛頓巫師 vs 波特蘭拓荒者",
+      "subtitle": "例行賽",
       "start": "2026-01-28T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NBA季後賽",
-      "title": "New York Knicks vs Sacramento Kings",
-      "subtitle": "regular-season",
+      "title": "紐約尼克 vs 沙加緬度國王",
+      "subtitle": "例行賽",
       "start": "2026-01-28T00:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
@@ -1828,22 +1828,22 @@
     {
       "sport": "NFL季後賽",
       "title": "AFC vs NFC",
-      "subtitle": "post-season",
+      "subtitle": "季後賽",
       "start": "2026-02-04T01:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Seattle Seahawks",
-      "subtitle": "post-season",
+      "title": "新英格蘭愛國者 vs 西雅圖海鷹",
+      "subtitle": "季後賽",
       "start": "2026-02-08T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
+      "title": "洛杉磯道奇 vs 洛杉磯天使",
       "subtitle": "Tempe Diablo Stadium",
       "start": "2026-02-21T20:10:00Z",
       "channel": "200–202",
@@ -1851,7 +1851,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Peoria Stadium",
       "start": "2026-02-22T20:10:00Z",
       "channel": "200–202",
@@ -1859,7 +1859,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Seattle Mariners vs Los Angeles Dodgers",
+      "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-02-23T20:05:00Z",
       "channel": "200–202",
@@ -1867,7 +1867,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Cleveland Guardians vs Los Angeles Dodgers",
+      "title": "克里夫蘭守護者 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-02-24T20:05:00Z",
       "channel": "200–202",
@@ -1875,7 +1875,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Salt River Fields at Talking Stick",
       "start": "2026-02-25T20:10:00Z",
       "channel": "200–202",
@@ -1883,7 +1883,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Chicago White Sox vs Los Angeles Dodgers",
+      "title": "芝加哥白襪 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-02-26T20:05:00Z",
       "channel": "200–202",
@@ -1891,7 +1891,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Scottsdale Stadium",
       "start": "2026-02-27T20:05:00Z",
       "channel": "200–202",
@@ -1899,7 +1899,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Chicago Cubs vs Los Angeles Dodgers",
+      "title": "芝加哥小熊 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-02-28T20:05:00Z",
       "channel": "200–202",
@@ -1907,7 +1907,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Texas Rangers",
+      "title": "洛杉磯道奇 vs 德州遊騎兵",
       "subtitle": "Surprise Stadium",
       "start": "2026-02-28T20:05:00Z",
       "channel": "200–202",
@@ -1915,7 +1915,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-01T20:05:00Z",
       "channel": "200–202",
@@ -1923,7 +1923,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Salt River Fields at Talking Stick",
       "start": "2026-03-02T20:10:00Z",
       "channel": "200–202",
@@ -1931,7 +1931,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Cleveland Guardians",
+      "title": "洛杉磯道奇 vs 克里夫蘭守護者",
       "subtitle": "Goodyear Ballpark",
       "start": "2026-03-03T20:05:00Z",
       "channel": "200–202",
@@ -1939,7 +1939,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Mexico vs Los Angeles Dodgers",
+      "title": "墨西哥 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-04T20:05:00Z",
       "channel": "200–202",
@@ -1947,7 +1947,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Goodyear Ballpark",
       "start": "2026-03-05T20:05:00Z",
       "channel": "200–202",
@@ -1955,7 +1955,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Kansas City Royals vs Los Angeles Dodgers",
+      "title": "堪薩斯市皇家 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-07T01:05:00Z",
       "channel": "200–202",
@@ -1963,7 +1963,7 @@
     },
     {
       "sport": "F1",
-      "title": "Australian Grand Prix・排位賽",
+      "title": "澳洲n Grand Prix・排位賽",
       "subtitle": "Albert Park Grand Prix Circuit",
       "start": "2026-03-07T05:00:00Z",
       "channel": "200–202",
@@ -1972,7 +1972,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-08T01:05:00Z",
       "channel": "200–202",
@@ -1980,7 +1980,7 @@
     },
     {
       "sport": "F1",
-      "title": "Australian Grand Prix・正賽",
+      "title": "澳洲n Grand Prix・正賽",
       "subtitle": "Albert Park Grand Prix Circuit",
       "start": "2026-03-08T04:00:00Z",
       "channel": "200–202",
@@ -1989,7 +1989,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Athletics",
+      "title": "洛杉磯道奇 vs 運動家",
       "subtitle": "Hohokam Stadium",
       "start": "2026-03-08T20:05:00Z",
       "channel": "200–202",
@@ -1997,7 +1997,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "title": "洛杉磯道奇 vs 密爾瓦基釀酒人",
       "subtitle": "American Family Fields of Phoenix",
       "start": "2026-03-09T20:10:00Z",
       "channel": "200–202",
@@ -2005,7 +2005,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-10T20:05:00Z",
       "channel": "200–202",
@@ -2013,7 +2013,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Cincinnati Reds vs Los Angeles Dodgers",
+      "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-13T01:05:00Z",
       "channel": "200–202",
@@ -2021,7 +2021,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Seattle Mariners",
+      "title": "洛杉磯道奇 vs 西雅圖水手",
       "subtitle": "Peoria Stadium",
       "start": "2026-03-14T01:10:00Z",
       "channel": "200–202",
@@ -2038,7 +2038,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Chicago White Sox",
+      "title": "洛杉磯道奇 vs 芝加哥白襪",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-14T20:05:00Z",
       "channel": "200–202",
@@ -2055,7 +2055,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Chicago Cubs",
+      "title": "洛杉磯道奇 vs 芝加哥小熊",
       "subtitle": "Sloan Park",
       "start": "2026-03-15T20:05:00Z",
       "channel": "200–202",
@@ -2063,7 +2063,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Texas Rangers vs Los Angeles Dodgers",
+      "title": "德州遊騎兵 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-15T20:05:00Z",
       "channel": "200–202",
@@ -2071,7 +2071,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-16T20:05:00Z",
       "channel": "200–202",
@@ -2079,7 +2079,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Kansas City Royals",
+      "title": "洛杉磯道奇 vs 堪薩斯市皇家",
       "subtitle": "Surprise Stadium",
       "start": "2026-03-18T01:05:00Z",
       "channel": "200–202",
@@ -2087,7 +2087,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-18T20:05:00Z",
       "channel": "200–202",
@@ -2095,7 +2095,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-21T01:05:00Z",
       "channel": "200–202",
@@ -2103,7 +2103,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Athletics vs Los Angeles Dodgers",
+      "title": "運動家 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-21T18:05:00Z",
       "channel": "200–202",
@@ -2111,7 +2111,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
+      "title": "洛杉磯道奇 vs 洛杉磯天使",
       "subtitle": "Angel Stadium",
       "start": "2026-03-23T01:07:00Z",
       "channel": "200–202",
@@ -2119,7 +2119,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-24T01:10:00Z",
       "channel": "200–202",
@@ -2127,7 +2127,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-25T00:10:00Z",
       "channel": "200–202",
@@ -2135,7 +2135,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-27T00:30:00Z",
       "channel": "200–202",
@@ -2143,7 +2143,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-28T02:10:00Z",
       "channel": "200–202",
@@ -2151,7 +2151,7 @@
     },
     {
       "sport": "F1",
-      "title": "Japanese Grand Prix・排位賽",
+      "title": "日本ese Grand Prix・排位賽",
       "subtitle": "Suzuka Circuit",
       "start": "2026-03-28T06:00:00Z",
       "channel": "200–202",
@@ -2160,7 +2160,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-29T01:10:00Z",
       "channel": "200–202",
@@ -2168,7 +2168,7 @@
     },
     {
       "sport": "F1",
-      "title": "Japanese Grand Prix・正賽",
+      "title": "日本ese Grand Prix・正賽",
       "subtitle": "Suzuka Circuit",
       "start": "2026-03-29T05:00:00Z",
       "channel": "200–202",
@@ -2177,7 +2177,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Cleveland Guardians vs Los Angeles Dodgers",
+      "title": "克里夫蘭守護者 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-31T02:10:00Z",
       "channel": "200–202",
@@ -2185,7 +2185,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Cleveland Guardians vs Los Angeles Dodgers",
+      "title": "克里夫蘭守護者 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-01T02:10:00Z",
       "channel": "200–202",
@@ -2193,7 +2193,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Cleveland Guardians vs Los Angeles Dodgers",
+      "title": "克里夫蘭守護者 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-02T00:20:00Z",
       "channel": "200–202",
@@ -2201,7 +2201,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Washington Nationals",
+      "title": "洛杉磯道奇 vs 華盛頓國民",
       "subtitle": "Nationals Park",
       "start": "2026-04-03T17:05:00Z",
       "channel": "200–202",
@@ -2209,7 +2209,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Washington Nationals",
+      "title": "洛杉磯道奇 vs 華盛頓國民",
       "subtitle": "Nationals Park",
       "start": "2026-04-04T20:05:00Z",
       "channel": "200–202",
@@ -2217,7 +2217,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Washington Nationals",
+      "title": "洛杉磯道奇 vs 華盛頓國民",
       "subtitle": "Nationals Park",
       "start": "2026-04-05T17:35:00Z",
       "channel": "200–202",
@@ -2225,7 +2225,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "title": "洛杉磯道奇 vs 多倫多藍鳥",
       "subtitle": "Rogers Centre",
       "start": "2026-04-06T23:07:00Z",
       "channel": "200–202",
@@ -2233,7 +2233,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "title": "洛杉磯道奇 vs 多倫多藍鳥",
       "subtitle": "Rogers Centre",
       "start": "2026-04-07T23:07:00Z",
       "channel": "200–202",
@@ -2241,7 +2241,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "title": "洛杉磯道奇 vs 多倫多藍鳥",
       "subtitle": "Rogers Centre",
       "start": "2026-04-08T19:07:00Z",
       "channel": "200–202",
@@ -2249,7 +2249,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Texas Rangers vs Los Angeles Dodgers",
+      "title": "德州遊騎兵 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-11T02:10:00Z",
       "channel": "200–202",
@@ -2257,7 +2257,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Texas Rangers vs Los Angeles Dodgers",
+      "title": "德州遊騎兵 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-12T01:10:00Z",
       "channel": "200–202",
@@ -2265,7 +2265,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Texas Rangers vs Los Angeles Dodgers",
+      "title": "德州遊騎兵 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-12T20:10:00Z",
       "channel": "200–202",
@@ -2273,7 +2273,7 @@
     },
     {
       "sport": "道奇",
-      "title": "New York Mets vs Los Angeles Dodgers",
+      "title": "紐約大都會 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-14T02:10:00Z",
       "channel": "200–202",
@@ -2281,7 +2281,7 @@
     },
     {
       "sport": "道奇",
-      "title": "New York Mets vs Los Angeles Dodgers",
+      "title": "紐約大都會 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-15T02:10:00Z",
       "channel": "200–202",
@@ -2289,7 +2289,7 @@
     },
     {
       "sport": "道奇",
-      "title": "New York Mets vs Los Angeles Dodgers",
+      "title": "紐約大都會 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-16T02:10:00Z",
       "channel": "200–202",
@@ -2297,7 +2297,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-04-18T00:40:00Z",
       "channel": "200–202",
@@ -2305,7 +2305,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-04-19T00:10:00Z",
       "channel": "200–202",
@@ -2313,7 +2313,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-04-19T19:10:00Z",
       "channel": "200–202",
@@ -2321,7 +2321,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-04-21T00:40:00Z",
       "channel": "200–202",
@@ -2329,7 +2329,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-04-22T01:45:00Z",
       "channel": "200–202",
@@ -2337,7 +2337,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-04-23T01:45:00Z",
       "channel": "200–202",
@@ -2345,7 +2345,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-04-23T19:45:00Z",
       "channel": "200–202",
@@ -2353,7 +2353,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Chicago Cubs vs Los Angeles Dodgers",
+      "title": "芝加哥小熊 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-25T02:15:00Z",
       "channel": "200–202",
@@ -2361,7 +2361,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Chicago Cubs vs Los Angeles Dodgers",
+      "title": "芝加哥小熊 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-25T23:15:00Z",
       "channel": "200–202",
@@ -2369,7 +2369,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Chicago Cubs vs Los Angeles Dodgers",
+      "title": "芝加哥小熊 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-26T20:10:00Z",
       "channel": "200–202",
@@ -2377,7 +2377,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Miami Marlins vs Los Angeles Dodgers",
+      "title": "邁阿密馬林魚 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-28T02:10:00Z",
       "channel": "200–202",
@@ -2385,7 +2385,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Miami Marlins vs Los Angeles Dodgers",
+      "title": "邁阿密馬林魚 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-29T02:10:00Z",
       "channel": "200–202",
@@ -2393,7 +2393,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Miami Marlins vs Los Angeles Dodgers",
+      "title": "邁阿密馬林魚 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-04-29T19:10:00Z",
       "channel": "200–202",
@@ -2401,7 +2401,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs St. Louis Cardinals",
+      "title": "洛杉磯道奇 vs 聖路易紅雀",
       "subtitle": "Busch Stadium",
       "start": "2026-05-02T00:15:00Z",
       "channel": "200–202",
@@ -2418,7 +2418,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs St. Louis Cardinals",
+      "title": "洛杉磯道奇 vs 聖路易紅雀",
       "subtitle": "Busch Stadium",
       "start": "2026-05-02T23:15:00Z",
       "channel": "200–202",
@@ -2426,7 +2426,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs St. Louis Cardinals",
+      "title": "洛杉磯道奇 vs 聖路易紅雀",
       "subtitle": "Busch Stadium",
       "start": "2026-05-03T18:15:00Z",
       "channel": "200–202",
@@ -2443,7 +2443,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Houston Astros",
+      "title": "洛杉磯道奇 vs 休士頓太空人",
       "subtitle": "Daikin Park",
       "start": "2026-05-05T00:10:00Z",
       "channel": "200–202",
@@ -2451,7 +2451,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Houston Astros",
+      "title": "洛杉磯道奇 vs 休士頓太空人",
       "subtitle": "Daikin Park",
       "start": "2026-05-06T00:10:00Z",
       "channel": "200–202",
@@ -2459,7 +2459,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Houston Astros",
+      "title": "洛杉磯道奇 vs 休士頓太空人",
       "subtitle": "Daikin Park",
       "start": "2026-05-06T18:10:00Z",
       "channel": "200–202",
@@ -2467,7 +2467,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Atlanta Braves vs Los Angeles Dodgers",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-09T02:10:00Z",
       "channel": "200–202",
@@ -2475,7 +2475,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Atlanta Braves vs Los Angeles Dodgers",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-10T01:10:00Z",
       "channel": "200–202",
@@ -2483,7 +2483,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Atlanta Braves vs Los Angeles Dodgers",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-10T20:10:00Z",
       "channel": "200–202",
@@ -2491,7 +2491,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-12T02:10:00Z",
       "channel": "200–202",
@@ -2499,7 +2499,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-13T02:10:00Z",
       "channel": "200–202",
@@ -2507,7 +2507,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-14T02:10:00Z",
       "channel": "200–202",
@@ -2515,7 +2515,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-15T02:10:00Z",
       "channel": "200–202",
@@ -2523,7 +2523,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
+      "title": "洛杉磯道奇 vs 洛杉磯天使",
       "subtitle": "Angel Stadium",
       "start": "2026-05-16T01:38:00Z",
       "channel": "200–202",
@@ -2531,7 +2531,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
+      "title": "洛杉磯道奇 vs 洛杉磯天使",
       "subtitle": "Angel Stadium",
       "start": "2026-05-17T01:38:00Z",
       "channel": "200–202",
@@ -2539,7 +2539,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
+      "title": "洛杉磯道奇 vs 洛杉磯天使",
       "subtitle": "Angel Stadium",
       "start": "2026-05-17T20:07:00Z",
       "channel": "200–202",
@@ -2547,7 +2547,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-05-19T01:40:00Z",
       "channel": "200–202",
@@ -2555,7 +2555,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-05-20T01:40:00Z",
       "channel": "200–202",
@@ -2563,7 +2563,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-05-21T00:40:00Z",
       "channel": "200–202",
@@ -2571,7 +2571,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "title": "洛杉磯道奇 vs 密爾瓦基釀酒人",
       "subtitle": "American Family Field",
       "start": "2026-05-22T23:40:00Z",
       "channel": "200–202",
@@ -2588,7 +2588,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "title": "洛杉磯道奇 vs 密爾瓦基釀酒人",
       "subtitle": "American Family Field",
       "start": "2026-05-23T23:15:00Z",
       "channel": "200–202",
@@ -2596,7 +2596,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "title": "洛杉磯道奇 vs 密爾瓦基釀酒人",
       "subtitle": "American Family Field",
       "start": "2026-05-24T18:10:00Z",
       "channel": "200–202",
@@ -2613,7 +2613,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-26T01:10:00Z",
       "channel": "200–202",
@@ -2621,7 +2621,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-27T02:10:00Z",
       "channel": "200–202",
@@ -2629,7 +2629,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-28T02:10:00Z",
       "channel": "200–202",
@@ -2637,7 +2637,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "title": "費城費城人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-30T02:15:00Z",
       "channel": "200–202",
@@ -2645,7 +2645,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "title": "費城費城人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-31T02:10:00Z",
       "channel": "200–202",
@@ -2653,7 +2653,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "title": "費城費城人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-05-31T20:10:00Z",
       "channel": "200–202",
@@ -2661,7 +2661,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-06-02T01:40:00Z",
       "channel": "200–202",
@@ -2669,7 +2669,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-06-03T01:40:00Z",
       "channel": "200–202",
@@ -2677,7 +2677,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-06-04T01:40:00Z",
       "channel": "200–202",
@@ -2685,7 +2685,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-06-05T01:40:00Z",
       "channel": "200–202",
@@ -2693,7 +2693,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-06T02:10:00Z",
       "channel": "200–202",
@@ -2710,7 +2710,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-07T02:10:00Z",
       "channel": "200–202",
@@ -2727,7 +2727,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Angels vs Los Angeles Dodgers",
+      "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-07T20:10:00Z",
       "channel": "200–202",
@@ -2735,7 +2735,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
+      "title": "洛杉磯道奇 vs 匹茲堡海盜",
       "subtitle": "PNC Park",
       "start": "2026-06-09T22:40:00Z",
       "channel": "200–202",
@@ -2743,7 +2743,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
+      "title": "洛杉磯道奇 vs 匹茲堡海盜",
       "subtitle": "PNC Park",
       "start": "2026-06-10T22:40:00Z",
       "channel": "200–202",
@@ -2751,7 +2751,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Mexico vs South Africa",
+      "title": "墨西哥 vs 南非",
       "subtitle": "Matchday 1",
       "start": "2026-06-11T19:00:00.000Z",
       "channel": "200–202",
@@ -2759,7 +2759,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
+      "title": "洛杉磯道奇 vs 匹茲堡海盜",
       "subtitle": "PNC Park",
       "start": "2026-06-11T22:40:00Z",
       "channel": "200–202",
@@ -2767,7 +2767,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "South Korea vs Czech Republic",
+      "title": "南韓 vs 捷克",
       "subtitle": "Matchday 1",
       "start": "2026-06-12T02:00:00.000Z",
       "channel": "200–202",
@@ -2775,7 +2775,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Canada vs Bosnia & Herzegovina",
+      "title": "加拿大 vs 波士尼亞與赫塞哥維納",
       "subtitle": "Matchday 2",
       "start": "2026-06-12T19:00:00.000Z",
       "channel": "200–202",
@@ -2783,7 +2783,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago White Sox",
+      "title": "洛杉磯道奇 vs 芝加哥白襪",
       "subtitle": "Rate Field",
       "start": "2026-06-12T23:40:00Z",
       "channel": "200–202",
@@ -2791,7 +2791,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "USA vs Paraguay",
+      "title": "美國 vs 巴拉圭",
       "subtitle": "Matchday 2",
       "start": "2026-06-13T01:00:00.000Z",
       "channel": "200–202",
@@ -2808,7 +2808,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Qatar vs Switzerland",
+      "title": "卡達 vs 瑞士",
       "subtitle": "Matchday 3",
       "start": "2026-06-13T19:00:00.000Z",
       "channel": "200–202",
@@ -2816,7 +2816,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago White Sox",
+      "title": "洛杉磯道奇 vs 芝加哥白襪",
       "subtitle": "Rate Field",
       "start": "2026-06-13T20:10:00Z",
       "channel": "200–202",
@@ -2824,7 +2824,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Brazil vs Morocco",
+      "title": "巴西 vs 摩洛哥",
       "subtitle": "Matchday 3",
       "start": "2026-06-13T22:00:00.000Z",
       "channel": "200–202",
@@ -2832,7 +2832,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Haiti vs Scotland",
+      "title": "海地 vs 蘇格蘭",
       "subtitle": "Matchday 3",
       "start": "2026-06-14T01:00:00.000Z",
       "channel": "200–202",
@@ -2840,7 +2840,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Australia vs Turkey",
+      "title": "澳洲 vs 土耳其",
       "subtitle": "Matchday 3",
       "start": "2026-06-14T04:00:00.000Z",
       "channel": "200–202",
@@ -2857,7 +2857,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Germany vs Curaçao",
+      "title": "德國 vs 庫拉索",
       "subtitle": "Matchday 4",
       "start": "2026-06-14T17:00:00.000Z",
       "channel": "200–202",
@@ -2865,7 +2865,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago White Sox",
+      "title": "洛杉磯道奇 vs 芝加哥白襪",
       "subtitle": "Rate Field",
       "start": "2026-06-14T18:10:00Z",
       "channel": "200–202",
@@ -2873,7 +2873,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Netherlands vs Japan",
+      "title": "荷蘭 vs 日本",
       "subtitle": "Matchday 4",
       "start": "2026-06-14T20:00:00.000Z",
       "channel": "200–202",
@@ -2881,7 +2881,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Ivory Coast vs Ecuador",
+      "title": "象牙海岸 vs 厄瓜多",
       "subtitle": "Matchday 4",
       "start": "2026-06-14T23:00:00.000Z",
       "channel": "200–202",
@@ -2889,7 +2889,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Sweden vs Tunisia",
+      "title": "瑞典 vs 突尼西亞",
       "subtitle": "Matchday 4",
       "start": "2026-06-15T02:00:00.000Z",
       "channel": "200–202",
@@ -2897,7 +2897,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Spain vs Cape Verde",
+      "title": "西班牙 vs 維德角",
       "subtitle": "Matchday 5",
       "start": "2026-06-15T16:00:00.000Z",
       "channel": "200–202",
@@ -2905,7 +2905,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Belgium vs Egypt",
+      "title": "比利時 vs 埃及",
       "subtitle": "Matchday 5",
       "start": "2026-06-15T19:00:00.000Z",
       "channel": "200–202",
@@ -2913,7 +2913,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Saudi Arabia vs Uruguay",
+      "title": "沙烏地阿拉伯 vs 烏拉圭",
       "subtitle": "Matchday 5",
       "start": "2026-06-15T22:00:00.000Z",
       "channel": "200–202",
@@ -2921,7 +2921,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Iran vs New Zealand",
+      "title": "伊朗 vs 紐西蘭",
       "subtitle": "Matchday 5",
       "start": "2026-06-16T01:00:00.000Z",
       "channel": "200–202",
@@ -2929,7 +2929,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Tampa Bay Rays vs Los Angeles Dodgers",
+      "title": "坦帕灣光芒 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-16T02:10:00Z",
       "channel": "200–202",
@@ -2937,7 +2937,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "France vs Senegal",
+      "title": "法國 vs 塞內加爾",
       "subtitle": "Matchday 6",
       "start": "2026-06-16T19:00:00.000Z",
       "channel": "200–202",
@@ -2945,7 +2945,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Iraq vs Norway",
+      "title": "伊拉克 vs 挪威",
       "subtitle": "Matchday 6",
       "start": "2026-06-16T22:00:00.000Z",
       "channel": "200–202",
@@ -2953,7 +2953,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Argentina vs Algeria",
+      "title": "阿根廷 vs 阿爾及利亞",
       "subtitle": "Matchday 6",
       "start": "2026-06-17T01:00:00.000Z",
       "channel": "200–202",
@@ -2961,7 +2961,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Tampa Bay Rays vs Los Angeles Dodgers",
+      "title": "坦帕灣光芒 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-17T02:10:00Z",
       "channel": "200–202",
@@ -2969,7 +2969,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Austria vs Jordan",
+      "title": "奧地利 vs 約旦",
       "subtitle": "Matchday 6",
       "start": "2026-06-17T04:00:00.000Z",
       "channel": "200–202",
@@ -2977,7 +2977,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Portugal vs DR Congo",
+      "title": "葡萄牙 vs 剛果民主共和國",
       "subtitle": "Matchday 7",
       "start": "2026-06-17T17:00:00.000Z",
       "channel": "200–202",
@@ -2985,7 +2985,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Tampa Bay Rays vs Los Angeles Dodgers",
+      "title": "坦帕灣光芒 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-17T19:10:00Z",
       "channel": "200–202",
@@ -2993,7 +2993,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "England vs Croatia",
+      "title": "英格蘭 vs 克羅埃西亞",
       "subtitle": "Matchday 7",
       "start": "2026-06-17T20:00:00.000Z",
       "channel": "200–202",
@@ -3001,7 +3001,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Ghana vs Panama",
+      "title": "迦納 vs 巴拿馬",
       "subtitle": "Matchday 7",
       "start": "2026-06-17T23:00:00.000Z",
       "channel": "200–202",
@@ -3009,7 +3009,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Uzbekistan vs Colombia",
+      "title": "烏茲別克 vs 哥倫比亞",
       "subtitle": "Matchday 7",
       "start": "2026-06-18T02:00:00.000Z",
       "channel": "200–202",
@@ -3017,7 +3017,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Czech Republic vs South Africa",
+      "title": "捷克 vs 南非",
       "subtitle": "Matchday 8",
       "start": "2026-06-18T16:00:00.000Z",
       "channel": "200–202",
@@ -3025,7 +3025,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Switzerland vs Bosnia & Herzegovina",
+      "title": "瑞士 vs 波士尼亞與赫塞哥維納",
       "subtitle": "Matchday 8",
       "start": "2026-06-18T19:00:00.000Z",
       "channel": "200–202",
@@ -3033,7 +3033,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Canada vs Qatar",
+      "title": "加拿大 vs 卡達",
       "subtitle": "Matchday 8",
       "start": "2026-06-18T22:00:00.000Z",
       "channel": "200–202",
@@ -3041,7 +3041,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Mexico vs South Korea",
+      "title": "墨西哥 vs 南韓",
       "subtitle": "Matchday 8",
       "start": "2026-06-19T01:00:00.000Z",
       "channel": "200–202",
@@ -3049,7 +3049,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "USA vs Australia",
+      "title": "美國 vs 澳洲",
       "subtitle": "Matchday 9",
       "start": "2026-06-19T19:00:00.000Z",
       "channel": "200–202",
@@ -3057,7 +3057,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Scotland vs Morocco",
+      "title": "蘇格蘭 vs 摩洛哥",
       "subtitle": "Matchday 9",
       "start": "2026-06-19T22:00:00.000Z",
       "channel": "200–202",
@@ -3065,7 +3065,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Brazil vs Haiti",
+      "title": "巴西 vs 海地",
       "subtitle": "Matchday 9",
       "start": "2026-06-20T00:30:00.000Z",
       "channel": "200–202",
@@ -3073,7 +3073,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Baltimore Orioles vs Los Angeles Dodgers",
+      "title": "巴爾的摩金鶯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-20T02:10:00Z",
       "channel": "200–202",
@@ -3081,7 +3081,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Turkey vs Paraguay",
+      "title": "土耳其 vs 巴拉圭",
       "subtitle": "Matchday 9",
       "start": "2026-06-20T03:00:00.000Z",
       "channel": "200–202",
@@ -3089,7 +3089,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Netherlands vs Sweden",
+      "title": "荷蘭 vs 瑞典",
       "subtitle": "Matchday 10",
       "start": "2026-06-20T17:00:00.000Z",
       "channel": "200–202",
@@ -3097,7 +3097,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Germany vs Ivory Coast",
+      "title": "德國 vs 象牙海岸",
       "subtitle": "Matchday 10",
       "start": "2026-06-20T20:00:00.000Z",
       "channel": "200–202",
@@ -3105,7 +3105,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Ecuador vs Curaçao",
+      "title": "厄瓜多 vs 庫拉索",
       "subtitle": "Matchday 10",
       "start": "2026-06-21T00:00:00.000Z",
       "channel": "200–202",
@@ -3113,7 +3113,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Baltimore Orioles vs Los Angeles Dodgers",
+      "title": "巴爾的摩金鶯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-21T02:10:00Z",
       "channel": "200–202",
@@ -3121,7 +3121,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Tunisia vs Japan",
+      "title": "突尼西亞 vs 日本",
       "subtitle": "Matchday 10",
       "start": "2026-06-21T04:00:00.000Z",
       "channel": "200–202",
@@ -3129,7 +3129,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Spain vs Saudi Arabia",
+      "title": "西班牙 vs 沙烏地阿拉伯",
       "subtitle": "Matchday 11",
       "start": "2026-06-21T16:00:00.000Z",
       "channel": "200–202",
@@ -3137,7 +3137,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Belgium vs Iran",
+      "title": "比利時 vs 伊朗",
       "subtitle": "Matchday 11",
       "start": "2026-06-21T19:00:00.000Z",
       "channel": "200–202",
@@ -3145,7 +3145,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Baltimore Orioles vs Los Angeles Dodgers",
+      "title": "巴爾的摩金鶯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-21T20:10:00Z",
       "channel": "200–202",
@@ -3153,7 +3153,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Uruguay vs Cape Verde",
+      "title": "烏拉圭 vs 維德角",
       "subtitle": "Matchday 11",
       "start": "2026-06-21T22:00:00.000Z",
       "channel": "200–202",
@@ -3161,7 +3161,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "New Zealand vs Egypt",
+      "title": "紐西蘭 vs 埃及",
       "subtitle": "Matchday 11",
       "start": "2026-06-22T01:00:00.000Z",
       "channel": "200–202",
@@ -3169,7 +3169,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Argentina vs Austria",
+      "title": "阿根廷 vs 奧地利",
       "subtitle": "Matchday 12",
       "start": "2026-06-22T17:00:00.000Z",
       "channel": "200–202",
@@ -3177,7 +3177,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "France vs Iraq",
+      "title": "法國 vs 伊拉克",
       "subtitle": "Matchday 12",
       "start": "2026-06-22T21:00:00.000Z",
       "channel": "200–202",
@@ -3185,7 +3185,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Minnesota Twins",
+      "title": "洛杉磯道奇 vs 明尼蘇達雙城",
       "subtitle": "Target Field",
       "start": "2026-06-22T23:40:00Z",
       "channel": "200–202",
@@ -3193,7 +3193,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Norway vs Senegal",
+      "title": "挪威 vs 塞內加爾",
       "subtitle": "Matchday 12",
       "start": "2026-06-23T00:00:00.000Z",
       "channel": "200–202",
@@ -3201,7 +3201,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Jordan vs Algeria",
+      "title": "約旦 vs 阿爾及利亞",
       "subtitle": "Matchday 12",
       "start": "2026-06-23T03:00:00.000Z",
       "channel": "200–202",
@@ -3209,7 +3209,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Portugal vs Uzbekistan",
+      "title": "葡萄牙 vs 烏茲別克",
       "subtitle": "Matchday 13",
       "start": "2026-06-23T17:00:00.000Z",
       "channel": "200–202",
@@ -3217,7 +3217,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "England vs Ghana",
+      "title": "英格蘭 vs 迦納",
       "subtitle": "Matchday 13",
       "start": "2026-06-23T20:00:00.000Z",
       "channel": "200–202",
@@ -3225,7 +3225,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Panama vs Croatia",
+      "title": "巴拿馬 vs 克羅埃西亞",
       "subtitle": "Matchday 13",
       "start": "2026-06-23T23:00:00.000Z",
       "channel": "200–202",
@@ -3233,7 +3233,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Minnesota Twins",
+      "title": "洛杉磯道奇 vs 明尼蘇達雙城",
       "subtitle": "Target Field",
       "start": "2026-06-23T23:40:00Z",
       "channel": "200–202",
@@ -3241,7 +3241,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Colombia vs DR Congo",
+      "title": "哥倫比亞 vs 剛果民主共和國",
       "subtitle": "Matchday 13",
       "start": "2026-06-24T02:00:00.000Z",
       "channel": "200–202",
@@ -3249,7 +3249,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Switzerland vs Canada",
+      "title": "瑞士 vs 加拿大",
       "subtitle": "Matchday 14",
       "start": "2026-06-24T19:00:00.000Z",
       "channel": "200–202",
@@ -3257,7 +3257,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Bosnia & Herzegovina vs Qatar",
+      "title": "波士尼亞與赫塞哥維納 vs 卡達",
       "subtitle": "Matchday 14",
       "start": "2026-06-24T19:00:00.000Z",
       "channel": "200–202",
@@ -3265,7 +3265,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Scotland vs Brazil",
+      "title": "蘇格蘭 vs 巴西",
       "subtitle": "Matchday 14",
       "start": "2026-06-24T22:00:00.000Z",
       "channel": "200–202",
@@ -3273,7 +3273,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Morocco vs Haiti",
+      "title": "摩洛哥 vs 海地",
       "subtitle": "Matchday 14",
       "start": "2026-06-24T22:00:00.000Z",
       "channel": "200–202",
@@ -3281,7 +3281,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Minnesota Twins",
+      "title": "洛杉磯道奇 vs 明尼蘇達雙城",
       "subtitle": "Target Field",
       "start": "2026-06-24T23:40:00Z",
       "channel": "200–202",
@@ -3289,7 +3289,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Czech Republic vs Mexico",
+      "title": "捷克 vs 墨西哥",
       "subtitle": "Matchday 14",
       "start": "2026-06-25T01:00:00.000Z",
       "channel": "200–202",
@@ -3297,7 +3297,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "South Africa vs South Korea",
+      "title": "南非 vs 南韓",
       "subtitle": "Matchday 14",
       "start": "2026-06-25T01:00:00.000Z",
       "channel": "200–202",
@@ -3305,7 +3305,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Curaçao vs Ivory Coast",
+      "title": "庫拉索 vs 象牙海岸",
       "subtitle": "Matchday 15",
       "start": "2026-06-25T20:00:00.000Z",
       "channel": "200–202",
@@ -3313,7 +3313,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Ecuador vs Germany",
+      "title": "厄瓜多 vs 德國",
       "subtitle": "Matchday 15",
       "start": "2026-06-25T20:00:00.000Z",
       "channel": "200–202",
@@ -3321,7 +3321,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Japan vs Sweden",
+      "title": "日本 vs 瑞典",
       "subtitle": "Matchday 15",
       "start": "2026-06-25T23:00:00.000Z",
       "channel": "200–202",
@@ -3329,7 +3329,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Tunisia vs Netherlands",
+      "title": "突尼西亞 vs 荷蘭",
       "subtitle": "Matchday 15",
       "start": "2026-06-25T23:00:00.000Z",
       "channel": "200–202",
@@ -3337,7 +3337,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Turkey vs USA",
+      "title": "土耳其 vs 美國",
       "subtitle": "Matchday 15",
       "start": "2026-06-26T02:00:00.000Z",
       "channel": "200–202",
@@ -3345,7 +3345,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Paraguay vs Australia",
+      "title": "巴拉圭 vs 澳洲",
       "subtitle": "Matchday 15",
       "start": "2026-06-26T02:00:00.000Z",
       "channel": "200–202",
@@ -3353,7 +3353,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Norway vs France",
+      "title": "挪威 vs 法國",
       "subtitle": "Matchday 16",
       "start": "2026-06-26T19:00:00.000Z",
       "channel": "200–202",
@@ -3361,7 +3361,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Senegal vs Iraq",
+      "title": "塞內加爾 vs 伊拉克",
       "subtitle": "Matchday 16",
       "start": "2026-06-26T19:00:00.000Z",
       "channel": "200–202",
@@ -3369,7 +3369,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Cape Verde vs Saudi Arabia",
+      "title": "維德角 vs 沙烏地阿拉伯",
       "subtitle": "Matchday 16",
       "start": "2026-06-27T00:00:00.000Z",
       "channel": "200–202",
@@ -3377,7 +3377,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Uruguay vs Spain",
+      "title": "烏拉圭 vs 西班牙",
       "subtitle": "Matchday 16",
       "start": "2026-06-27T00:00:00.000Z",
       "channel": "200–202",
@@ -3385,7 +3385,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-06-27T01:45:00Z",
       "channel": "200–202",
@@ -3393,7 +3393,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Egypt vs Iran",
+      "title": "埃及 vs 伊朗",
       "subtitle": "Matchday 16",
       "start": "2026-06-27T03:00:00.000Z",
       "channel": "200–202",
@@ -3401,7 +3401,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "New Zealand vs Belgium",
+      "title": "紐西蘭 vs 比利時",
       "subtitle": "Matchday 16",
       "start": "2026-06-27T03:00:00.000Z",
       "channel": "200–202",
@@ -3409,7 +3409,7 @@
     },
     {
       "sport": "F1",
-      "title": "Austrian Grand Prix・排位賽",
+      "title": "奧地利n Grand Prix・排位賽",
       "subtitle": "Red Bull Ring",
       "start": "2026-06-27T14:00:00Z",
       "channel": "200–202",
@@ -3418,7 +3418,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Panama vs England",
+      "title": "巴拿馬 vs 英格蘭",
       "subtitle": "Matchday 17",
       "start": "2026-06-27T21:00:00.000Z",
       "channel": "200–202",
@@ -3426,7 +3426,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Croatia vs Ghana",
+      "title": "克羅埃西亞 vs 迦納",
       "subtitle": "Matchday 17",
       "start": "2026-06-27T21:00:00.000Z",
       "channel": "200–202",
@@ -3434,7 +3434,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Colombia vs Portugal",
+      "title": "哥倫比亞 vs 葡萄牙",
       "subtitle": "Matchday 17",
       "start": "2026-06-27T23:30:00.000Z",
       "channel": "200–202",
@@ -3442,7 +3442,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "DR Congo vs Uzbekistan",
+      "title": "剛果民主共和國 vs 烏茲別克",
       "subtitle": "Matchday 17",
       "start": "2026-06-27T23:30:00.000Z",
       "channel": "200–202",
@@ -3450,7 +3450,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-06-28T00:40:00Z",
       "channel": "200–202",
@@ -3458,7 +3458,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Algeria vs Austria",
+      "title": "阿爾及利亞 vs 奧地利",
       "subtitle": "Matchday 17",
       "start": "2026-06-28T02:00:00.000Z",
       "channel": "200–202",
@@ -3466,7 +3466,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Jordan vs Argentina",
+      "title": "約旦 vs 阿根廷",
       "subtitle": "Matchday 17",
       "start": "2026-06-28T02:00:00.000Z",
       "channel": "200–202",
@@ -3474,7 +3474,7 @@
     },
     {
       "sport": "F1",
-      "title": "Austrian Grand Prix・正賽",
+      "title": "奧地利n Grand Prix・正賽",
       "subtitle": "Red Bull Ring",
       "start": "2026-06-28T13:00:00Z",
       "channel": "200–202",
@@ -3483,7 +3483,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "South Africa vs Canada",
+      "title": "南非 vs 加拿大",
       "subtitle": "Round of 32",
       "start": "2026-06-28T19:00:00.000Z",
       "channel": "200–202",
@@ -3491,7 +3491,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
+      "title": "洛杉磯道奇 vs 聖地牙哥教士",
       "subtitle": "Petco Park",
       "start": "2026-06-28T20:10:00Z",
       "channel": "200–202",
@@ -3499,7 +3499,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Brazil vs Japan",
+      "title": "巴西 vs 日本",
       "subtitle": "Round of 32",
       "start": "2026-06-29T17:00:00.000Z",
       "channel": "200–202",
@@ -3507,7 +3507,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Germany vs Paraguay",
+      "title": "德國 vs 巴拉圭",
       "subtitle": "Round of 32",
       "start": "2026-06-29T20:30:00.000Z",
       "channel": "200–202",
@@ -3515,7 +3515,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Netherlands vs Morocco",
+      "title": "荷蘭 vs 摩洛哥",
       "subtitle": "Round of 32",
       "start": "2026-06-30T01:00:00.000Z",
       "channel": "200–202",
@@ -3523,7 +3523,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Athletics",
+      "title": "洛杉磯道奇 vs 運動家",
       "subtitle": "Sutter Health Park",
       "start": "2026-06-30T01:40:00Z",
       "channel": "200–202",
@@ -3531,7 +3531,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Ivory Coast vs Norway",
+      "title": "象牙海岸 vs 挪威",
       "subtitle": "Round of 32",
       "start": "2026-06-30T17:00:00.000Z",
       "channel": "200–202",
@@ -3539,7 +3539,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "France vs Sweden",
+      "title": "法國 vs 瑞典",
       "subtitle": "Round of 32",
       "start": "2026-06-30T21:00:00.000Z",
       "channel": "200–202",
@@ -3547,7 +3547,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Mexico vs Ecuador",
+      "title": "墨西哥 vs 厄瓜多",
       "subtitle": "Round of 32",
       "start": "2026-07-01T01:00:00.000Z",
       "channel": "200–202",
@@ -3555,7 +3555,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Athletics",
+      "title": "洛杉磯道奇 vs 運動家",
       "subtitle": "Sutter Health Park",
       "start": "2026-07-01T01:40:00Z",
       "channel": "200–202",
@@ -3563,7 +3563,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "England vs DR Congo",
+      "title": "英格蘭 vs 剛果民主共和國",
       "subtitle": "Round of 32",
       "start": "2026-07-01T16:00:00.000Z",
       "channel": "200–202",
@@ -3571,7 +3571,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Belgium vs Senegal",
+      "title": "比利時 vs 塞內加爾",
       "subtitle": "Round of 32",
       "start": "2026-07-01T20:00:00.000Z",
       "channel": "200–202",
@@ -3579,7 +3579,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "USA vs Bosnia & Herzegovina",
+      "title": "美國 vs 波士尼亞與赫塞哥維納",
       "subtitle": "Round of 32",
       "start": "2026-07-02T00:00:00.000Z",
       "channel": "200–202",
@@ -3587,7 +3587,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Athletics",
+      "title": "洛杉磯道奇 vs 運動家",
       "subtitle": "Sutter Health Park",
       "start": "2026-07-02T01:40:00Z",
       "channel": "200–202",
@@ -3595,7 +3595,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Spain vs Austria",
+      "title": "西班牙 vs 奧地利",
       "subtitle": "Round of 32",
       "start": "2026-07-02T19:00:00.000Z",
       "channel": "200–202",
@@ -3603,7 +3603,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Portugal vs Croatia",
+      "title": "葡萄牙 vs 克羅埃西亞",
       "subtitle": "Round of 32",
       "start": "2026-07-02T23:00:00.000Z",
       "channel": "200–202",
@@ -3611,7 +3611,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-03T02:10:00Z",
       "channel": "200–202",
@@ -3619,7 +3619,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Switzerland vs Algeria",
+      "title": "瑞士 vs 阿爾及利亞",
       "subtitle": "Round of 32",
       "start": "2026-07-03T03:00:00.000Z",
       "channel": "200–202",
@@ -3627,7 +3627,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Australia vs Egypt",
+      "title": "澳洲 vs 埃及",
       "subtitle": "Round of 32",
       "start": "2026-07-03T18:00:00.000Z",
       "channel": "200–202",
@@ -3635,7 +3635,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Argentina vs Cape Verde",
+      "title": "阿根廷 vs 維德角",
       "subtitle": "Round of 32",
       "start": "2026-07-03T22:00:00.000Z",
       "channel": "200–202",
@@ -3643,7 +3643,7 @@
     },
     {
       "sport": "世界盃",
-      "title": "Colombia vs Ghana",
+      "title": "哥倫比亞 vs 迦納",
       "subtitle": "Round of 32",
       "start": "2026-07-04T01:30:00.000Z",
       "channel": "200–202",
@@ -3651,7 +3651,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-04T02:10:00Z",
       "channel": "200–202",
@@ -3681,23 +3681,23 @@
     },
     {
       "sport": "世界盃",
-      "title": "Canada vs Morocco",
-      "subtitle": "Round of 16",
+      "title": "加拿大 vs 摩洛哥",
+      "subtitle": "16 強",
       "start": "2026-07-04T17:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "世界盃",
-      "title": "Paraguay vs France",
-      "subtitle": "Round of 16",
+      "title": "巴拉圭 vs 法國",
+      "subtitle": "16 強",
       "start": "2026-07-04T21:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-05T02:10:00Z",
       "channel": "200–202",
@@ -3727,15 +3727,15 @@
     },
     {
       "sport": "世界盃",
-      "title": "Brazil vs Norway",
-      "subtitle": "Round of 16",
+      "title": "巴西 vs 挪威",
+      "subtitle": "16 強",
       "start": "2026-07-05T20:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-05T23:20:00Z",
       "channel": "200–202",
@@ -3743,8 +3743,8 @@
     },
     {
       "sport": "世界盃",
-      "title": "Mexico vs England",
-      "subtitle": "Round of 16",
+      "title": "墨西哥 vs 英格蘭",
+      "subtitle": "16 強",
       "start": "2026-07-06T00:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
@@ -3764,23 +3764,23 @@
     },
     {
       "sport": "世界盃",
-      "title": "Portugal vs Spain",
-      "subtitle": "Round of 16",
+      "title": "葡萄牙 vs 西班牙",
+      "subtitle": "16 強",
       "start": "2026-07-06T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "世界盃",
-      "title": "USA vs Belgium",
-      "subtitle": "Round of 16",
+      "title": "美國 vs 比利時",
+      "subtitle": "16 強",
       "start": "2026-07-07T00:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-07T02:10:00Z",
       "channel": "200–202",
@@ -3788,8 +3788,8 @@
     },
     {
       "sport": "世界盃",
-      "title": "Argentina vs Egypt",
-      "subtitle": "Round of 16",
+      "title": "阿根廷 vs 埃及",
+      "subtitle": "16 強",
       "start": "2026-07-07T16:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
@@ -3809,15 +3809,15 @@
     },
     {
       "sport": "世界盃",
-      "title": "Switzerland vs Colombia",
-      "subtitle": "Round of 16",
+      "title": "瑞士 vs 哥倫比亞",
+      "subtitle": "16 強",
       "start": "2026-07-07T20:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-08T02:10:00Z",
       "channel": "200–202",
@@ -3838,7 +3838,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
+      "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-09T02:10:00Z",
       "channel": "200–202",
@@ -3859,8 +3859,8 @@
     },
     {
       "sport": "世界盃",
-      "title": "France vs Morocco",
-      "subtitle": "Quarter-final",
+      "title": "法國 vs 摩洛哥",
+      "subtitle": "半準決賽",
       "start": "2026-07-09T20:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
@@ -3868,7 +3868,7 @@
     {
       "sport": "世界盃",
       "title": "W93 vs W94",
-      "subtitle": "Quarter-final",
+      "subtitle": "半準決賽",
       "start": "2026-07-10T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
@@ -3888,7 +3888,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-11T02:10:00Z",
       "channel": "200–202",
@@ -3898,19 +3898,19 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T19:00:00+08:00",
+      "start": "2026-07-11T10:00:00Z",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "世界盃",
-      "title": "Norway vs England",
-      "subtitle": "Quarter-final",
+      "title": "挪威 vs 英格蘭",
+      "subtitle": "半準決賽",
       "start": "2026-07-11T21:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
@@ -3918,14 +3918,14 @@
     {
       "sport": "世界盃",
       "title": "W95 vs W96",
-      "subtitle": "Quarter-final",
+      "subtitle": "半準決賽",
       "start": "2026-07-12T01:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-12T01:10:00Z",
       "channel": "200–202",
@@ -3946,7 +3946,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-12T20:10:00Z",
       "channel": "200–202",
@@ -3968,16 +3968,8 @@
     {
       "sport": "世界盃",
       "title": "W97 vs W98",
-      "subtitle": "Semi-final",
+      "subtitle": "準決賽",
       "start": "2026-07-14T19:00:00.000Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "世界盃",
-      "title": "W99 vs W100",
-      "subtitle": "Semi-final",
-      "start": "2026-07-15T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
@@ -3985,14 +3977,22 @@
       "sport": "環法",
       "title": "環法自行車賽・第 11 站",
       "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T19:40:00+08:00",
+      "start": "2026-07-15T10:00:00Z",
       "distance": "161.3 km",
       "climb": "平路站",
       "elevation": 1800,
       "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
+      "sport": "世界盃",
+      "title": "W99 vs W100",
+      "subtitle": "準決賽",
+      "start": "2026-07-15T19:00:00.000Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "環法",
@@ -4022,7 +4022,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Yankees",
+      "title": "洛杉磯道奇 vs 紐約洋基",
       "subtitle": "Yankee Stadium",
       "start": "2026-07-17T23:05:00Z",
       "channel": "200–202",
@@ -4060,7 +4060,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Yankees",
+      "title": "洛杉磯道奇 vs 紐約洋基",
       "subtitle": "Yankee Stadium",
       "start": "2026-07-19T00:08:00Z",
       "channel": "200–202",
@@ -4091,14 +4091,14 @@
     {
       "sport": "世界盃",
       "title": "W101 vs W102",
-      "subtitle": "Final",
+      "subtitle": "決賽",
       "start": "2026-07-19T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Yankees",
+      "title": "洛杉磯道奇 vs 紐約洋基",
       "subtitle": "Yankee Stadium",
       "start": "2026-07-19T23:20:00Z",
       "channel": "200–202",
@@ -4106,7 +4106,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Philadelphia Phillies",
+      "title": "洛杉磯道奇 vs 費城費城人",
       "subtitle": "Citizens Bank Park",
       "start": "2026-07-20T23:10:00Z",
       "channel": "200–202",
@@ -4127,7 +4127,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Philadelphia Phillies",
+      "title": "洛杉磯道奇 vs 費城費城人",
       "subtitle": "Citizens Bank Park",
       "start": "2026-07-21T22:40:00Z",
       "channel": "200–202",
@@ -4148,7 +4148,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Philadelphia Phillies",
+      "title": "洛杉磯道奇 vs 費城費城人",
       "subtitle": "Citizens Bank Park",
       "start": "2026-07-22T22:40:00Z",
       "channel": "200–202",
@@ -4182,7 +4182,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Mets",
+      "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-24T23:10:00Z",
       "channel": "200–202",
@@ -4212,7 +4212,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Mets",
+      "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-25T23:15:00Z",
       "channel": "200–202",
@@ -4242,7 +4242,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs New York Mets",
+      "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
@@ -4250,7 +4250,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Seattle Mariners vs Los Angeles Dodgers",
+      "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-29T02:10:00Z",
       "channel": "200–202",
@@ -4258,7 +4258,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Seattle Mariners vs Los Angeles Dodgers",
+      "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-30T02:10:00Z",
       "channel": "200–202",
@@ -4266,7 +4266,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Seattle Mariners vs Los Angeles Dodgers",
+      "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-31T02:10:00Z",
       "channel": "200–202",
@@ -4274,7 +4274,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Boston Red Sox vs Los Angeles Dodgers",
+      "title": "波士頓紅襪 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-01T02:10:00Z",
       "channel": "200–202",
@@ -4282,7 +4282,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Boston Red Sox vs Los Angeles Dodgers",
+      "title": "波士頓紅襪 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-02T01:10:00Z",
       "channel": "200–202",
@@ -4290,7 +4290,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Boston Red Sox vs Los Angeles Dodgers",
+      "title": "波士頓紅襪 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-02T23:20:00Z",
       "channel": "200–202",
@@ -4298,7 +4298,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago Cubs",
+      "title": "洛杉磯道奇 vs 芝加哥小熊",
       "subtitle": "Wrigley Field",
       "start": "2026-08-04T00:05:00Z",
       "channel": "200–202",
@@ -4306,7 +4306,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago Cubs",
+      "title": "洛杉磯道奇 vs 芝加哥小熊",
       "subtitle": "Wrigley Field",
       "start": "2026-08-05T00:05:00Z",
       "channel": "200–202",
@@ -4314,7 +4314,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Chicago Cubs",
+      "title": "洛杉磯道奇 vs 芝加哥小熊",
       "subtitle": "Wrigley Field",
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
@@ -4322,7 +4322,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Arizona Cardinals vs Carolina Panthers",
+      "title": "亞利桑那紅雀 vs 卡羅萊納黑豹",
       "subtitle": "preseason",
       "start": "2026-08-07T00:00Z",
       "channel": "200–202",
@@ -4330,7 +4330,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-08-08T01:40:00Z",
       "channel": "200–202",
@@ -4338,7 +4338,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-08-09T00:10:00Z",
       "channel": "200–202",
@@ -4346,7 +4346,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-08-09T20:10:00Z",
       "channel": "200–202",
@@ -4354,7 +4354,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Kansas City Royals vs Los Angeles Dodgers",
+      "title": "堪薩斯市皇家 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-11T02:10:00Z",
       "channel": "200–202",
@@ -4362,7 +4362,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Kansas City Royals vs Los Angeles Dodgers",
+      "title": "堪薩斯市皇家 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-12T02:10:00Z",
       "channel": "200–202",
@@ -4370,7 +4370,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Kansas City Royals vs Los Angeles Dodgers",
+      "title": "堪薩斯市皇家 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-13T02:10:00Z",
       "channel": "200–202",
@@ -4378,7 +4378,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Detroit Lions",
+      "title": "辛辛那提孟加拉虎 vs 底特律雄獅",
       "subtitle": "preseason",
       "start": "2026-08-13T23:00Z",
       "channel": "200–202",
@@ -4386,7 +4386,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Green Bay Packers",
+      "title": "匹茲堡鋼人 vs 綠灣包裝工",
       "subtitle": "preseason",
       "start": "2026-08-13T23:00Z",
       "channel": "200–202",
@@ -4394,7 +4394,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Indianapolis Colts",
+      "title": "新英格蘭愛國者 vs 印第安納波利斯小馬",
       "subtitle": "preseason",
       "start": "2026-08-13T23:30Z",
       "channel": "200–202",
@@ -4402,7 +4402,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Arizona Cardinals",
+      "title": "拉斯維加斯突襲者 vs 亞利桑那紅雀",
       "subtitle": "preseason",
       "start": "2026-08-14T00:00Z",
       "channel": "200–202",
@@ -4410,7 +4410,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Los Angeles Chargers",
+      "title": "休士頓德州人 vs 洛杉磯電光",
       "subtitle": "preseason",
       "start": "2026-08-14T00:00Z",
       "channel": "200–202",
@@ -4418,7 +4418,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Tennessee Titans",
+      "title": "舊金山 49 人 vs 田納西泰坦",
       "subtitle": "preseason",
       "start": "2026-08-14T01:00Z",
       "channel": "200–202",
@@ -4426,7 +4426,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-14T02:10:00Z",
       "channel": "200–202",
@@ -4434,7 +4434,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs Denver Broncos",
+      "title": "亞特蘭大獵鷹 vs 丹佛野馬",
       "subtitle": "preseason",
       "start": "2026-08-14T23:00Z",
       "channel": "200–202",
@@ -4442,7 +4442,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs Tampa Bay Buccaneers",
+      "title": "紐約噴射機 vs 坦帕灣海盜",
       "subtitle": "preseason",
       "start": "2026-08-14T23:00Z",
       "channel": "200–202",
@@ -4450,7 +4450,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Washington Commanders vs Miami Dolphins",
+      "title": "華盛頓司令 vs 邁阿密海豚",
       "subtitle": "preseason",
       "start": "2026-08-14T23:00Z",
       "channel": "200–202",
@@ -4458,7 +4458,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-15T02:10:00Z",
       "channel": "200–202",
@@ -4466,7 +4466,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs Carolina Panthers",
+      "title": "水牛城比爾 vs 卡羅萊納黑豹",
       "subtitle": "preseason",
       "start": "2026-08-15T17:00Z",
       "channel": "200–202",
@@ -4474,7 +4474,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Cleveland Browns",
+      "title": "芝加哥熊 vs 克里夫蘭布朗",
       "subtitle": "preseason",
       "start": "2026-08-15T17:00Z",
       "channel": "200–202",
@@ -4482,7 +4482,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs Minnesota Vikings",
+      "title": "紐約巨人 vs 明尼蘇達維京人",
       "subtitle": "preseason",
       "start": "2026-08-15T17:00Z",
       "channel": "200–202",
@@ -4490,7 +4490,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Kansas City Chiefs vs Los Angeles Rams",
+      "title": "堪薩斯市酋長 vs 洛杉磯公羊",
       "subtitle": "preseason",
       "start": "2026-08-15T20:00Z",
       "channel": "200–202",
@@ -4498,7 +4498,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New Orleans Saints vs Jacksonville Jaguars",
+      "title": "紐奧良聖徒 vs 傑克森維爾美洲虎",
       "subtitle": "preseason",
       "start": "2026-08-15T20:00Z",
       "channel": "200–202",
@@ -4506,7 +4506,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Baltimore Ravens vs Philadelphia Eagles",
+      "title": "巴爾的摩烏鴉 vs 費城老鷹",
       "subtitle": "preseason",
       "start": "2026-08-15T23:00Z",
       "channel": "200–202",
@@ -4514,7 +4514,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-15T23:15:00Z",
       "channel": "200–202",
@@ -4522,7 +4522,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs Dallas Cowboys",
+      "title": "西雅圖海鷹 vs 達拉斯牛仔",
       "subtitle": "preseason",
       "start": "2026-08-16T00:00Z",
       "channel": "200–202",
@@ -4530,7 +4530,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-16T20:10:00Z",
       "channel": "200–202",
@@ -4538,7 +4538,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-08-18T00:40:00Z",
       "channel": "200–202",
@@ -4546,7 +4546,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-08-19T00:40:00Z",
       "channel": "200–202",
@@ -4554,7 +4554,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
+      "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
       "start": "2026-08-20T00:40:00Z",
       "channel": "200–202",
@@ -4562,7 +4562,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Las Vegas Raiders",
+      "title": "休士頓德州人 vs 拉斯維加斯突襲者",
       "subtitle": "preseason",
       "start": "2026-08-21T00:00Z",
       "channel": "200–202",
@@ -4570,7 +4570,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Chargers vs San Francisco 49ers",
+      "title": "洛杉磯電光 vs 舊金山 49 人",
       "subtitle": "preseason",
       "start": "2026-08-21T02:00Z",
       "channel": "200–202",
@@ -4578,7 +4578,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs New York Jets",
+      "title": "匹茲堡鋼人 vs 紐約噴射機",
       "subtitle": "preseason",
       "start": "2026-08-21T23:00Z",
       "channel": "200–202",
@@ -4586,7 +4586,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Carolina Panthers",
+      "title": "傑克森維爾美洲虎 vs 卡羅萊納黑豹",
       "subtitle": "preseason",
       "start": "2026-08-21T23:30Z",
       "channel": "200–202",
@@ -4594,7 +4594,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Green Bay Packers",
+      "title": "丹佛野馬 vs 綠灣包裝工",
       "subtitle": "preseason",
       "start": "2026-08-22T01:00Z",
       "channel": "200–202",
@@ -4602,7 +4602,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
+      "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-22T02:10:00Z",
       "channel": "200–202",
@@ -4619,7 +4619,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Detroit Lions vs Washington Commanders",
+      "title": "底特律雄獅 vs 華盛頓司令",
       "subtitle": "preseason",
       "start": "2026-08-22T16:00Z",
       "channel": "200–202",
@@ -4627,7 +4627,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cleveland Browns vs Buffalo Bills",
+      "title": "克里夫蘭布朗 vs 水牛城比爾",
       "subtitle": "preseason",
       "start": "2026-08-22T17:00Z",
       "channel": "200–202",
@@ -4635,7 +4635,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Indianapolis Colts vs Atlanta Falcons",
+      "title": "印第安納波利斯小馬 vs 亞特蘭大獵鷹",
       "subtitle": "preseason",
       "start": "2026-08-22T17:00Z",
       "channel": "200–202",
@@ -4643,7 +4643,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Minnesota Vikings vs Baltimore Ravens",
+      "title": "明尼蘇達維京人 vs 巴爾的摩烏鴉",
       "subtitle": "preseason",
       "start": "2026-08-22T17:00Z",
       "channel": "200–202",
@@ -4651,7 +4651,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs New Orleans Saints",
+      "title": "洛杉磯公羊 vs 紐奧良聖徒",
       "subtitle": "preseason",
       "start": "2026-08-22T20:00Z",
       "channel": "200–202",
@@ -4659,7 +4659,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Miami Dolphins vs New York Giants",
+      "title": "邁阿密海豚 vs 紐約巨人",
       "subtitle": "preseason",
       "start": "2026-08-22T20:00Z",
       "channel": "200–202",
@@ -4667,7 +4667,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Chicago Bears",
+      "title": "辛辛那提孟加拉虎 vs 芝加哥熊",
       "subtitle": "preseason",
       "start": "2026-08-22T23:00Z",
       "channel": "200–202",
@@ -4675,7 +4675,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Philadelphia Eagles",
+      "title": "新英格蘭愛國者 vs 費城老鷹",
       "subtitle": "preseason",
       "start": "2026-08-22T23:00Z",
       "channel": "200–202",
@@ -4683,7 +4683,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Kansas City Chiefs",
+      "title": "坦帕灣海盜 vs 堪薩斯市酋長",
       "subtitle": "preseason",
       "start": "2026-08-22T23:30Z",
       "channel": "200–202",
@@ -4691,7 +4691,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
+      "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-23T01:10:00Z",
       "channel": "200–202",
@@ -4699,7 +4699,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Arizona Cardinals vs Dallas Cowboys",
+      "title": "亞利桑那紅雀 vs 達拉斯牛仔",
       "subtitle": "preseason",
       "start": "2026-08-23T02:00Z",
       "channel": "200–202",
@@ -4716,7 +4716,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
+      "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-23T20:10:00Z",
       "channel": "200–202",
@@ -4724,7 +4724,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs Seattle Seahawks",
+      "title": "田納西泰坦 vs 西雅圖海鷹",
       "subtitle": "preseason",
       "start": "2026-08-24T00:00Z",
       "channel": "200–202",
@@ -4732,7 +4732,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Atlanta Braves",
+      "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
       "start": "2026-08-25T23:15:00Z",
       "channel": "200–202",
@@ -4740,7 +4740,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Atlanta Braves",
+      "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
       "start": "2026-08-26T23:15:00Z",
       "channel": "200–202",
@@ -4748,7 +4748,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs Pittsburgh Steelers",
+      "title": "水牛城比爾 vs 匹茲堡鋼人",
       "subtitle": "preseason",
       "start": "2026-08-27T23:00Z",
       "channel": "200–202",
@@ -4756,7 +4756,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Atlanta Braves",
+      "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
       "start": "2026-08-27T23:15:00Z",
       "channel": "200–202",
@@ -4764,7 +4764,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cleveland Browns vs New England Patriots",
+      "title": "克里夫蘭布朗 vs 新英格蘭愛國者",
       "subtitle": "preseason",
       "start": "2026-08-28T00:00Z",
       "channel": "200–202",
@@ -4772,7 +4772,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs San Francisco 49ers",
+      "title": "拉斯維加斯突襲者 vs 舊金山 49 人",
       "subtitle": "preseason",
       "start": "2026-08-28T00:00Z",
       "channel": "200–202",
@@ -4780,7 +4780,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Chargers vs Los Angeles Rams",
+      "title": "洛杉磯電光 vs 洛杉磯公羊",
       "subtitle": "preseason",
       "start": "2026-08-28T02:00Z",
       "channel": "200–202",
@@ -4788,7 +4788,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Baltimore Ravens vs Washington Commanders",
+      "title": "巴爾的摩烏鴉 vs 華盛頓司令",
       "subtitle": "preseason",
       "start": "2026-08-28T22:00Z",
       "channel": "200–202",
@@ -4796,7 +4796,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Detroit Tigers",
+      "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
       "start": "2026-08-28T22:40:00Z",
       "channel": "200–202",
@@ -4804,7 +4804,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Miami Dolphins vs Atlanta Falcons",
+      "title": "邁阿密海豚 vs 亞特蘭大獵鷹",
       "subtitle": "preseason",
       "start": "2026-08-28T23:00Z",
       "channel": "200–202",
@@ -4812,7 +4812,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Carolina Panthers vs Houston Texans",
+      "title": "卡羅萊納黑豹 vs 休士頓德州人",
       "subtitle": "preseason",
       "start": "2026-08-28T23:00Z",
       "channel": "200–202",
@@ -4820,7 +4820,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs New York Giants",
+      "title": "紐約噴射機 vs 紐約巨人",
       "subtitle": "preseason",
       "start": "2026-08-28T23:30Z",
       "channel": "200–202",
@@ -4828,7 +4828,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Tampa Bay Buccaneers",
+      "title": "傑克森維爾美洲虎 vs 坦帕灣海盜",
       "subtitle": "preseason",
       "start": "2026-08-28T23:30Z",
       "channel": "200–202",
@@ -4836,7 +4836,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Dallas Cowboys vs New Orleans Saints",
+      "title": "達拉斯牛仔 vs 紐奧良聖徒",
       "subtitle": "preseason",
       "start": "2026-08-29T00:00Z",
       "channel": "200–202",
@@ -4844,7 +4844,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Green Bay Packers vs Arizona Cardinals",
+      "title": "綠灣包裝工 vs 亞利桑那紅雀",
       "subtitle": "preseason",
       "start": "2026-08-29T00:00Z",
       "channel": "200–202",
@@ -4852,7 +4852,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Kansas City Chiefs vs Seattle Seahawks",
+      "title": "堪薩斯市酋長 vs 西雅圖海鷹",
       "subtitle": "preseason",
       "start": "2026-08-29T00:00Z",
       "channel": "200–202",
@@ -4860,7 +4860,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Cincinnati Bengals",
+      "title": "費城老鷹 vs 辛辛那提孟加拉虎",
       "subtitle": "preseason",
       "start": "2026-08-29T00:00Z",
       "channel": "200–202",
@@ -4868,7 +4868,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Minnesota Vikings",
+      "title": "丹佛野馬 vs 明尼蘇達維京人",
       "subtitle": "preseason",
       "start": "2026-08-29T01:00Z",
       "channel": "200–202",
@@ -4876,7 +4876,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Indianapolis Colts vs Detroit Lions",
+      "title": "印第安納波利斯小馬 vs 底特律雄獅",
       "subtitle": "preseason",
       "start": "2026-08-29T17:00Z",
       "channel": "200–202",
@@ -4884,7 +4884,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Detroit Tigers",
+      "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
       "start": "2026-08-29T17:10:00Z",
       "channel": "200–202",
@@ -4892,7 +4892,7 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs Chicago Bears",
+      "title": "田納西泰坦 vs 芝加哥熊",
       "subtitle": "preseason",
       "start": "2026-08-29T22:00Z",
       "channel": "200–202",
@@ -4900,7 +4900,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Detroit Tigers",
+      "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
       "start": "2026-08-30T17:40:00Z",
       "channel": "200–202",
@@ -4908,7 +4908,7 @@
     },
     {
       "sport": "道奇",
-      "title": "St. Louis Cardinals vs Los Angeles Dodgers",
+      "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-02T02:10:00Z",
       "channel": "200–202",
@@ -4916,7 +4916,7 @@
     },
     {
       "sport": "道奇",
-      "title": "St. Louis Cardinals vs Los Angeles Dodgers",
+      "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-03T02:10:00Z",
       "channel": "200–202",
@@ -4924,7 +4924,7 @@
     },
     {
       "sport": "道奇",
-      "title": "St. Louis Cardinals vs Los Angeles Dodgers",
+      "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-04T02:10:00Z",
       "channel": "200–202",
@@ -4932,7 +4932,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Washington Nationals vs Los Angeles Dodgers",
+      "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-05T02:10:00Z",
       "channel": "200–202",
@@ -4949,7 +4949,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Washington Nationals vs Los Angeles Dodgers",
+      "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-06T01:10:00Z",
       "channel": "200–202",
@@ -4966,7 +4966,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Washington Nationals vs Los Angeles Dodgers",
+      "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-07T02:10:00Z",
       "channel": "200–202",
@@ -4974,7 +4974,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Cincinnati Reds vs Los Angeles Dodgers",
+      "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-08T01:10:00Z",
       "channel": "200–202",
@@ -4982,7 +4982,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Cincinnati Reds vs Los Angeles Dodgers",
+      "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-09T02:10:00Z",
       "channel": "200–202",
@@ -4990,15 +4990,15 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs New England Patriots",
-      "subtitle": "regular-season",
+      "title": "西雅圖海鷹 vs 新英格蘭愛國者",
+      "subtitle": "例行賽",
       "start": "2026-09-10T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Cincinnati Reds vs Los Angeles Dodgers",
+      "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-10T02:10:00Z",
       "channel": "200–202",
@@ -5006,15 +5006,15 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs San Francisco 49ers",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 舊金山 49 人",
+      "subtitle": "例行賽",
       "start": "2026-09-11T00:35Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Miami Marlins",
+      "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
       "start": "2026-09-11T23:10:00Z",
       "channel": "200–202",
@@ -5031,7 +5031,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Miami Marlins",
+      "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
       "start": "2026-09-12T20:10:00Z",
       "channel": "200–202",
@@ -5048,71 +5048,71 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Tampa Bay Buccaneers",
-      "subtitle": "regular-season",
+      "title": "辛辛那提孟加拉虎 vs 坦帕灣海盜",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Detroit Lions vs New Orleans Saints",
-      "subtitle": "regular-season",
+      "title": "底特律雄獅 vs 紐奧良聖徒",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs New York Jets",
-      "subtitle": "regular-season",
+      "title": "田納西泰坦 vs 紐約噴射機",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Indianapolis Colts vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "印第安納波利斯小馬 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Atlanta Falcons",
-      "subtitle": "regular-season",
+      "title": "匹茲堡鋼人 vs 亞特蘭大獵鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Carolina Panthers vs Chicago Bears",
-      "subtitle": "regular-season",
+      "title": "卡羅萊納黑豹 vs 芝加哥熊",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Buffalo Bills",
-      "subtitle": "regular-season",
+      "title": "休士頓德州人 vs 水牛城比爾",
+      "subtitle": "例行賽",
       "start": "2026-09-13T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Miami Marlins",
+      "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
       "start": "2026-09-13T17:40:00Z",
       "channel": "200–202",
@@ -5120,47 +5120,47 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Miami Dolphins",
-      "subtitle": "regular-season",
+      "title": "拉斯維加斯突襲者 vs 邁阿密海豚",
+      "subtitle": "例行賽",
       "start": "2026-09-13T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Minnesota Vikings vs Green Bay Packers",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達維京人 vs 綠灣包裝工",
+      "subtitle": "例行賽",
       "start": "2026-09-13T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Washington Commanders",
-      "subtitle": "regular-season",
+      "title": "費城老鷹 vs 華盛頓司令",
+      "subtitle": "例行賽",
       "start": "2026-09-13T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Chargers vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "洛杉磯電光 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-09-13T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs Dallas Cowboys",
-      "subtitle": "regular-season",
+      "title": "紐約巨人 vs 達拉斯牛仔",
+      "subtitle": "例行賽",
       "start": "2026-09-14T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
       "start": "2026-09-14T22:40:00Z",
       "channel": "200–202",
@@ -5168,15 +5168,15 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Kansas City Chiefs vs Denver Broncos",
-      "subtitle": "regular-season",
+      "title": "堪薩斯市酋長 vs 丹佛野馬",
+      "subtitle": "例行賽",
       "start": "2026-09-15T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
       "start": "2026-09-15T22:40:00Z",
       "channel": "200–202",
@@ -5184,7 +5184,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
       "start": "2026-09-16T22:40:00Z",
       "channel": "200–202",
@@ -5192,7 +5192,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
       "start": "2026-09-17T16:40:00Z",
       "channel": "200–202",
@@ -5200,15 +5200,15 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs Detroit Lions",
-      "subtitle": "regular-season",
+      "title": "水牛城比爾 vs 底特律雄獅",
+      "subtitle": "例行賽",
       "start": "2026-09-18T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-19T02:10:00Z",
       "channel": "200–202",
@@ -5216,7 +5216,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-20T01:10:00Z",
       "channel": "200–202",
@@ -5224,87 +5224,87 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs Carolina Panthers",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大獵鷹 vs 卡羅萊納黑豹",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Minnesota Vikings",
-      "subtitle": "regular-season",
+      "title": "芝加哥熊 vs 明尼蘇達維京人",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs Philadelphia Eagles",
-      "subtitle": "regular-season",
+      "title": "田納西泰坦 vs 費城老鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Pittsburgh Steelers",
-      "subtitle": "regular-season",
+      "title": "新英格蘭愛國者 vs 匹茲堡鋼人",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs Green Bay Packers",
-      "subtitle": "regular-season",
+      "title": "紐約噴射機 vs 綠灣包裝工",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Baltimore Ravens vs New Orleans Saints",
-      "subtitle": "regular-season",
+      "title": "巴爾的摩烏鴉 vs 紐奧良聖徒",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Cincinnati Bengals",
-      "subtitle": "regular-season",
+      "title": "休士頓德州人 vs 辛辛那提孟加拉虎",
+      "subtitle": "例行賽",
       "start": "2026-09-20T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Jacksonville Jaguars",
-      "subtitle": "regular-season",
+      "title": "丹佛野馬 vs 傑克森維爾美洲虎",
+      "subtitle": "例行賽",
       "start": "2026-09-20T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Chargers vs Las Vegas Raiders",
-      "subtitle": "regular-season",
+      "title": "洛杉磯電光 vs 拉斯維加斯突襲者",
+      "subtitle": "例行賽",
       "start": "2026-09-20T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
+      "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-20T20:10:00Z",
       "channel": "200–202",
@@ -5312,47 +5312,47 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Dallas Cowboys vs Washington Commanders",
-      "subtitle": "regular-season",
+      "title": "達拉斯牛仔 vs 華盛頓司令",
+      "subtitle": "例行賽",
       "start": "2026-09-20T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Arizona Cardinals vs Seattle Seahawks",
-      "subtitle": "regular-season",
+      "title": "亞利桑那紅雀 vs 西雅圖海鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-20T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Miami Dolphins",
-      "subtitle": "regular-season",
+      "title": "舊金山 49 人 vs 邁阿密海豚",
+      "subtitle": "例行賽",
       "start": "2026-09-20T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Kansas City Chiefs vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "堪薩斯市酋長 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-09-21T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs New York Giants",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 紐約巨人",
+      "subtitle": "例行賽",
       "start": "2026-09-22T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-23T02:10:00Z",
       "channel": "200–202",
@@ -5360,7 +5360,7 @@
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-24T02:10:00Z",
       "channel": "200–202",
@@ -5368,15 +5368,15 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Green Bay Packers vs Atlanta Falcons",
-      "subtitle": "regular-season",
+      "title": "綠灣包裝工 vs 亞特蘭大獵鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-25T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
+      "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-25T02:10:00Z",
       "channel": "200–202",
@@ -5393,7 +5393,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-26T02:15:00Z",
       "channel": "200–202",
@@ -5410,7 +5410,7 @@
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-26T20:05:00Z",
       "channel": "200–202",
@@ -5418,79 +5418,79 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs Los Angeles Chargers",
-      "subtitle": "regular-season",
+      "title": "水牛城比爾 vs 洛杉磯電光",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cleveland Browns vs Carolina Panthers",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭布朗 vs 卡羅萊納黑豹",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Detroit Lions vs New York Jets",
-      "subtitle": "regular-season",
+      "title": "底特律雄獅 vs 紐約噴射機",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Indianapolis Colts vs Houston Texans",
-      "subtitle": "regular-season",
+      "title": "印第安納波利斯小馬 vs 休士頓德州人",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Miami Dolphins vs Kansas City Chiefs",
-      "subtitle": "regular-season",
+      "title": "邁阿密海豚 vs 堪薩斯市酋長",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs Tennessee Titans",
-      "subtitle": "regular-season",
+      "title": "紐約巨人 vs 田納西泰坦",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Cincinnati Bengals",
-      "subtitle": "regular-season",
+      "title": "匹茲堡鋼人 vs 辛辛那提孟加拉虎",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Washington Commanders vs Seattle Seahawks",
-      "subtitle": "regular-season",
+      "title": "華盛頓司令 vs 西雅圖海鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs New England Patriots",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 新英格蘭愛國者",
+      "subtitle": "例行賽",
       "start": "2026-09-27T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "道奇",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-27T19:05:00Z",
       "channel": "200–202",
@@ -5498,184 +5498,184 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "舊金山 49 人 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-09-27T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Minnesota Vikings",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 明尼蘇達維京人",
+      "subtitle": "例行賽",
       "start": "2026-09-27T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Dallas Cowboys vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "達拉斯牛仔 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-09-27T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New Orleans Saints vs Las Vegas Raiders",
-      "subtitle": "regular-season",
+      "title": "紐奧良聖徒 vs 拉斯維加斯突襲者",
+      "subtitle": "例行賽",
       "start": "2026-09-27T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Los Angeles Rams",
-      "subtitle": "regular-season",
+      "title": "丹佛野馬 vs 洛杉磯公羊",
+      "subtitle": "例行賽",
       "start": "2026-09-28T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs Philadelphia Eagles",
-      "subtitle": "regular-season",
+      "title": "芝加哥熊 vs 費城老鷹",
+      "subtitle": "例行賽",
       "start": "2026-09-29T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cleveland Browns vs Pittsburgh Steelers",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭布朗 vs 匹茲堡鋼人",
+      "subtitle": "例行賽",
       "start": "2026-10-02T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Washington Commanders vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "華盛頓司令 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-10-04T13:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs New England Patriots",
-      "subtitle": "regular-season",
+      "title": "水牛城比爾 vs 新英格蘭愛國者",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs New York Jets",
-      "subtitle": "regular-season",
+      "title": "芝加哥熊 vs 紐約噴射機",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Jacksonville Jaguars",
-      "subtitle": "regular-season",
+      "title": "辛辛那提孟加拉虎 vs 傑克森維爾美洲虎",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "紐約巨人 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Los Angeles Rams",
-      "subtitle": "regular-season",
+      "title": "費城老鷹 vs 洛杉磯公羊",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Green Bay Packers",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 綠灣包裝工",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Baltimore Ravens vs Tennessee Titans",
-      "subtitle": "regular-season",
+      "title": "巴爾的摩烏鴉 vs 田納西泰坦",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs Dallas Cowboys",
-      "subtitle": "regular-season",
+      "title": "休士頓德州人 vs 達拉斯牛仔",
+      "subtitle": "例行賽",
       "start": "2026-10-04T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Minnesota Vikings vs Miami Dolphins",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達維京人 vs 邁阿密海豚",
+      "subtitle": "例行賽",
       "start": "2026-10-04T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Kansas City Chiefs",
-      "subtitle": "regular-season",
+      "title": "拉斯維加斯突襲者 vs 堪薩斯市酋長",
+      "subtitle": "例行賽",
       "start": "2026-10-04T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Denver Broncos",
-      "subtitle": "regular-season",
+      "title": "舊金山 49 人 vs 丹佛野馬",
+      "subtitle": "例行賽",
       "start": "2026-10-04T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs Los Angeles Chargers",
-      "subtitle": "regular-season",
+      "title": "西雅圖海鷹 vs 洛杉磯電光",
+      "subtitle": "例行賽",
       "start": "2026-10-04T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Carolina Panthers vs Detroit Lions",
-      "subtitle": "regular-season",
+      "title": "卡羅萊納黑豹 vs 底特律雄獅",
+      "subtitle": "例行賽",
       "start": "2026-10-05T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New Orleans Saints vs Atlanta Falcons",
-      "subtitle": "regular-season",
+      "title": "紐奧良聖徒 vs 亞特蘭大獵鷹",
+      "subtitle": "例行賽",
       "start": "2026-10-06T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Dallas Cowboys vs Tampa Bay Buccaneers",
-      "subtitle": "regular-season",
+      "title": "達拉斯牛仔 vs 坦帕灣海盜",
+      "subtitle": "例行賽",
       "start": "2026-10-09T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
@@ -5700,232 +5700,232 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Philadelphia Eagles",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 費城老鷹",
+      "subtitle": "例行賽",
       "start": "2026-10-11T13:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs Houston Texans",
-      "subtitle": "regular-season",
+      "title": "田納西泰坦 vs 休士頓德州人",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Miami Dolphins vs Cincinnati Bengals",
-      "subtitle": "regular-season",
+      "title": "邁阿密海豚 vs 辛辛那提孟加拉虎",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs Las Vegas Raiders",
-      "subtitle": "regular-season",
+      "title": "新英格蘭愛國者 vs 拉斯維加斯突襲者",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New Orleans Saints vs Minnesota Vikings",
-      "subtitle": "regular-season",
+      "title": "紐奧良聖徒 vs 明尼蘇達維京人",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "紐約噴射機 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "匹茲堡鋼人 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Washington Commanders vs New York Giants",
-      "subtitle": "regular-season",
+      "title": "華盛頓司令 vs 紐約巨人",
+      "subtitle": "例行賽",
       "start": "2026-10-11T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Chargers vs Denver Broncos",
-      "subtitle": "regular-season",
+      "title": "洛杉磯電光 vs 丹佛野馬",
+      "subtitle": "例行賽",
       "start": "2026-10-11T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Green Bay Packers vs Chicago Bears",
-      "subtitle": "regular-season",
+      "title": "綠灣包裝工 vs 芝加哥熊",
+      "subtitle": "例行賽",
       "start": "2026-10-11T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Arizona Cardinals vs Detroit Lions",
-      "subtitle": "regular-season",
+      "title": "亞利桑那紅雀 vs 底特律雄獅",
+      "subtitle": "例行賽",
       "start": "2026-10-11T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs San Francisco 49ers",
-      "subtitle": "regular-season",
+      "title": "西雅圖海鷹 vs 舊金山 49 人",
+      "subtitle": "例行賽",
       "start": "2026-10-11T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大獵鷹 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-10-12T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs Buffalo Bills",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 水牛城比爾",
+      "subtitle": "例行賽",
       "start": "2026-10-13T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Seattle Seahawks",
-      "subtitle": "regular-season",
+      "title": "丹佛野馬 vs 西雅圖海鷹",
+      "subtitle": "例行賽",
       "start": "2026-10-16T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Houston Texans",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 休士頓德州人",
+      "subtitle": "例行賽",
       "start": "2026-10-18T13:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs Chicago Bears",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大獵鷹 vs 芝加哥熊",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cleveland Browns vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "克里夫蘭布朗 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Indianapolis Colts vs Tennessee Titans",
-      "subtitle": "regular-season",
+      "title": "印第安納波利斯小馬 vs 田納西泰坦",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New England Patriots vs New York Jets",
-      "subtitle": "regular-season",
+      "title": "新英格蘭愛國者 vs 紐約噴射機",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Giants vs New Orleans Saints",
-      "subtitle": "regular-season",
+      "title": "紐約巨人 vs 紐奧良聖徒",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Carolina Panthers",
-      "subtitle": "regular-season",
+      "title": "費城老鷹 vs 卡羅萊納黑豹",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 匹茲堡鋼人",
+      "subtitle": "例行賽",
       "start": "2026-10-18T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-10-18T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Kansas City Chiefs vs Los Angeles Chargers",
-      "subtitle": "regular-season",
+      "title": "堪薩斯市酋長 vs 洛杉磯電光",
+      "subtitle": "例行賽",
       "start": "2026-10-18T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Buffalo Bills",
-      "subtitle": "regular-season",
+      "title": "拉斯維加斯突襲者 vs 水牛城比爾",
+      "subtitle": "例行賽",
       "start": "2026-10-18T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Green Bay Packers vs Dallas Cowboys",
-      "subtitle": "regular-season",
+      "title": "綠灣包裝工 vs 達拉斯牛仔",
+      "subtitle": "例行賽",
       "start": "2026-10-19T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "San Francisco 49ers vs Washington Commanders",
-      "subtitle": "regular-season",
+      "title": "舊金山 49 人 vs 華盛頓司令",
+      "subtitle": "例行賽",
       "start": "2026-10-20T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Chicago Bears vs New England Patriots",
-      "subtitle": "regular-season",
+      "title": "芝加哥熊 vs 新英格蘭愛國者",
+      "subtitle": "例行賽",
       "start": "2026-10-23T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
@@ -5941,64 +5941,64 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "New Orleans Saints vs Pittsburgh Steelers",
-      "subtitle": "regular-season",
+      "title": "紐奧良聖徒 vs 匹茲堡鋼人",
+      "subtitle": "例行賽",
       "start": "2026-10-25T13:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Atlanta Falcons vs San Francisco 49ers",
-      "subtitle": "regular-season",
+      "title": "亞特蘭大獵鷹 vs 舊金山 49 人",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tennessee Titans vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "田納西泰坦 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Minnesota Vikings vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "明尼蘇達維京人 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs Miami Dolphins",
-      "subtitle": "regular-season",
+      "title": "紐約噴射機 vs 邁阿密海豚",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Carolina Panthers vs Tampa Bay Buccaneers",
-      "subtitle": "regular-season",
+      "title": "卡羅萊納黑豹 vs 坦帕灣海盜",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Baltimore Ravens vs Cincinnati Bengals",
-      "subtitle": "regular-season",
+      "title": "巴爾的摩烏鴉 vs 辛辛那提孟加拉虎",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Houston Texans vs New York Giants",
-      "subtitle": "regular-season",
+      "title": "休士頓德州人 vs 紐約巨人",
+      "subtitle": "例行賽",
       "start": "2026-10-25T17:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
@@ -6014,55 +6014,55 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Arizona Cardinals vs Denver Broncos",
-      "subtitle": "regular-season",
+      "title": "亞利桑那紅雀 vs 丹佛野馬",
+      "subtitle": "例行賽",
       "start": "2026-10-25T20:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Detroit Lions vs Green Bay Packers",
-      "subtitle": "regular-season",
+      "title": "底特律雄獅 vs 綠灣包裝工",
+      "subtitle": "例行賽",
       "start": "2026-10-25T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Las Vegas Raiders vs Los Angeles Rams",
-      "subtitle": "regular-season",
+      "title": "拉斯維加斯突襲者 vs 洛杉磯公羊",
+      "subtitle": "例行賽",
       "start": "2026-10-25T20:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs Kansas City Chiefs",
-      "subtitle": "regular-season",
+      "title": "西雅圖海鷹 vs 堪薩斯市酋長",
+      "subtitle": "例行賽",
       "start": "2026-10-26T00:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Philadelphia Eagles vs Dallas Cowboys",
-      "subtitle": "regular-season",
+      "title": "費城老鷹 vs 達拉斯牛仔",
+      "subtitle": "例行賽",
       "start": "2026-10-27T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Green Bay Packers vs Carolina Panthers",
-      "subtitle": "regular-season",
+      "title": "綠灣包裝工 vs 卡羅萊納黑豹",
+      "subtitle": "例行賽",
       "start": "2026-10-30T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "F1",
-      "title": "Mexico City Grand Prix・排位賽",
+      "title": "墨西哥 City Grand Prix・排位賽",
       "subtitle": "Autódromo Hermanos Rodríguez",
       "start": "2026-10-31T21:00:00Z",
       "channel": "200–202",
@@ -6071,71 +6071,71 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Buffalo Bills vs Baltimore Ravens",
-      "subtitle": "regular-season",
+      "title": "水牛城比爾 vs 巴爾的摩烏鴉",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Cincinnati Bengals vs Tennessee Titans",
-      "subtitle": "regular-season",
+      "title": "辛辛那提孟加拉虎 vs 田納西泰坦",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Dallas Cowboys vs Arizona Cardinals",
-      "subtitle": "regular-season",
+      "title": "達拉斯牛仔 vs 亞利桑那紅雀",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Detroit Lions vs Minnesota Vikings",
-      "subtitle": "regular-season",
+      "title": "底特律雄獅 vs 明尼蘇達維京人",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "New York Jets vs Las Vegas Raiders",
-      "subtitle": "regular-season",
+      "title": "紐約噴射機 vs 拉斯維加斯突襲者",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Pittsburgh Steelers vs Cleveland Browns",
-      "subtitle": "regular-season",
+      "title": "匹茲堡鋼人 vs 克里夫蘭布朗",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Tampa Bay Buccaneers vs Atlanta Falcons",
-      "subtitle": "regular-season",
+      "title": "坦帕灣海盜 vs 亞特蘭大獵鷹",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Jacksonville Jaguars vs Indianapolis Colts",
-      "subtitle": "regular-season",
+      "title": "傑克森維爾美洲虎 vs 印第安納波利斯小馬",
+      "subtitle": "例行賽",
       "start": "2026-11-01T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "F1",
-      "title": "Mexico City Grand Prix・正賽",
+      "title": "墨西哥 City Grand Prix・正賽",
       "subtitle": "Autódromo Hermanos Rodríguez",
       "start": "2026-11-01T20:00:00Z",
       "channel": "200–202",
@@ -6144,47 +6144,47 @@
     },
     {
       "sport": "NFL季後賽",
-      "title": "Los Angeles Rams vs Los Angeles Chargers",
-      "subtitle": "regular-season",
+      "title": "洛杉磯公羊 vs 洛杉磯電光",
+      "subtitle": "例行賽",
       "start": "2026-11-01T21:05Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Denver Broncos vs Kansas City Chiefs",
-      "subtitle": "regular-season",
+      "title": "丹佛野馬 vs 堪薩斯市酋長",
+      "subtitle": "例行賽",
       "start": "2026-11-01T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Miami Dolphins vs New England Patriots",
-      "subtitle": "regular-season",
+      "title": "邁阿密海豚 vs 新英格蘭愛國者",
+      "subtitle": "例行賽",
       "start": "2026-11-01T21:25Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Washington Commanders vs Philadelphia Eagles",
-      "subtitle": "regular-season",
+      "title": "華盛頓司令 vs 費城老鷹",
+      "subtitle": "例行賽",
       "start": "2026-11-02T01:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "NFL季後賽",
-      "title": "Seattle Seahawks vs Chicago Bears",
-      "subtitle": "regular-season",
+      "title": "西雅圖海鷹 vs 芝加哥熊",
+      "subtitle": "例行賽",
       "start": "2026-11-03T01:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "F1",
-      "title": "Brazilian Grand Prix・排位賽",
+      "title": "巴西ian Grand Prix・排位賽",
       "subtitle": "Autódromo José Carlos Pace",
       "start": "2026-11-07T18:00:00Z",
       "channel": "200–202",
@@ -6193,7 +6193,7 @@
     },
     {
       "sport": "F1",
-      "title": "Brazilian Grand Prix・正賽",
+      "title": "巴西ian Grand Prix・正賽",
       "subtitle": "Autódromo José Carlos Pace",
       "start": "2026-11-08T17:00:00Z",
       "channel": "200–202",
@@ -6220,7 +6220,7 @@
     },
     {
       "sport": "F1",
-      "title": "Qatar Grand Prix・排位賽",
+      "title": "卡達 Grand Prix・排位賽",
       "subtitle": "Losail International Circuit",
       "start": "2026-11-28T18:00:00Z",
       "channel": "200–202",
@@ -6229,7 +6229,7 @@
     },
     {
       "sport": "F1",
-      "title": "Qatar Grand Prix・正賽",
+      "title": "卡達 Grand Prix・正賽",
       "subtitle": "Losail International Circuit",
       "start": "2026-11-29T16:00:00Z",
       "channel": "200–202",
