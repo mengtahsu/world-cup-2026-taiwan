@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T22:39:32.958Z",
+  "updatedAt": "2026-07-07T05:08:51.230Z",
   "matches": [
     {
       "number": 1,
@@ -1321,6 +1321,10 @@
       "kickoff": "2026-07-07T00:00:00.000Z",
       "team1": "USA",
       "team2": "Belgium",
+      "score": [
+        1,
+        4
+      ],
       "ground": "Seattle"
     },
     {
@@ -2838,6 +2842,50 @@
       }
     },
     {
+      "name": "Romelu Lukaku",
+      "team": "Belgium",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 42,
+          "opponent": "New Zealand",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-27T03:00:00.000Z",
+          "score": [
+            1,
+            5
+          ],
+          "goals": 1
+        },
+        {
+          "number": 82,
+          "opponent": "Senegal",
+          "date": "2026-07-01",
+          "kickoff": "2026-07-01T20:00:00.000Z",
+          "score": [
+            2,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 94,
+          "opponent": "USA",
+          "date": "2026-07-06",
+          "kickoff": "2026-07-07T00:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png",
+        "bio": "Centre-Forward・Belgium・生於 1993-05-13"
+      }
+    },
+    {
       "name": "Yoane Wissa",
       "team": "DR Congo",
       "goals": 3,
@@ -2869,59 +2917,26 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ye9inj1766824633.png",
         "bio": "Centre-Forward・DR Congo・生於 1996-09-03"
       }
-    },
-    {
-      "name": "Amad Diallo",
-      "team": "Ivory Coast",
-      "goals": 2,
-      "matches": [
-        {
-          "number": 26,
-          "opponent": "Ecuador",
-          "date": "2026-06-14",
-          "kickoff": "2026-06-14T23:00:00.000Z",
-          "score": [
-            1,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 78,
-          "opponent": "Norway",
-          "date": "2026-06-30",
-          "kickoff": "2026-06-30T17:00:00.000Z",
-          "score": [
-            1,
-            2
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png",
-        "bio": "Right Winger・Ivory Coast・生於 2002-07-11"
-      }
     }
   ],
   "news": [
     {
-      "title": "2026世界盃》哈蘭德擊沉巴西首闖8強 內馬爾淚別國家隊：盡力了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYjI3Vm9INFNWYkIzb3EyUzZ2T003Q2NwZEZVWGNqVHY4QWhYYTZmempzZXlfbld3cGw5NktLNGdYenpmbHFhSDBzWC1wdTYxRlk2OGJnMkxEckR0V0JCM3dwbEVqSURpcURZYjh2MVF2bWItaVNZR3FiRXNUSzkwcVJrQ1loczAzTW84dUlQa3VEZ3c3Qmp4Xy1tWTc1bXpRWC0tTE5QanZ1a2duY2NTaldEdllFU2ZUNW5PNkM1Z0FNSDFHZVJWOG93WTlYWDlDUU05dEpnRndNV1FBc2hXVGhxMWZBeWZHLXhqMV9DbUk0VnZlNHVZaUo5dTJSd25vd2NyTUZHVEJ3QWVIVkFsLW1IbWRuU2NJdGtIdU9HbF96MmdRbF91QVhlWU95TTQ5Z3V5YURsNEJlblF2UkVOaGhIOFhNM2FJOHM2UnpBQXp3clh6aElwbGpYMVlSemRsWFdGMG5ESjhwcVhZVHVHYUZvVGhVWDNuMURNMVB3?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 05:16:06 GMT",
+      "title": "2026世足／巴洛根獲「特赦」也沒用！美國1：4慘遭比利時血洗 三大地主國全滅 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFg3YTA5Y0kwUXdGaGI0UXpRdFZGc19nSnZkd2pyOWJMR1lnZ2hQSjFyb2RlUWVIbTFldjAtYjM5QTRuYjI5RUxjbThDdlBVbWpQLXFVbzcwcXpsdkhwc21aeDFHekJOQlV4RUwzV0JPTXhvUHJNc2NpWHVwSXI3V2FZUndyZHZvRWlHcmFiQmpTU2dIbnJWbDVTZ2FMby1DZ2RrQmFkY0FBVVROMFlRSzQ0NDJPYXN1Uzl0Y0hkcmFSaTBtS192TlJkNlJzcENldHBNNUllQmhxVVRrbjJ4YnYxMTZNX25tSkI4Q1RhcXQ5R2hoOUZ1UE5vSQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 03:06:40 GMT",
       "source": "Yahoo新聞"
     },
     {
-      "title": "2026世足》內馬爾貝克漢都輸了！網評「世界最強足球員」TOP10冠軍是他： 今後要出現比他厲害的人真的太難 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uNnF4Z0RueTNRdEJxQ3A2MGlCR2ZCZ2pBbUU4dC14V1d6SjZmN0N1Y1JXWndISnJsMm9LSmlFbUtXQU5haEtIQndmTU4zX0xF?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:13:02 GMT",
-      "source": "風傳媒"
+      "title": "世界盃德凱特萊爾獨攬2球比利時晉級8強淘汰美國| 運動 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWkpybEd0emoyc1JVM3laMzZXNHJMVVZ4Y1BHb1FieXJaVG5lS3NPTDRVanY1UWZORENURUhxaTNJUVpodlZNT1h1eVZNR0hmeFlfOUJRbEh4cFBYUERj?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 02:51:00 GMT",
+      "source": "中央社 CNA"
     },
     {
-      "title": "2026世界盃「16強淘汰賽」即時亮點：哈蘭德發威、內馬爾淚灑球場，地主墨西哥無緣晉級 - GQ Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0pwVE5ZYTNSMlBqaTB6VjIzc3drT2M5aUxKSFI5ajcwMXJKNm1NTklRVzBaWnV6SnNnckpVYmtQMWc4MGVpU3U4UDN0R0lFSThBdHhHS2tsbWFQSHN1WlpZaGFaTjNBVlNNMzM4aXdYaGVfdWJiUnlsTWlNSzNxZlhReXFRRERNelJVNWZnRkRJRnFiQ0JNN1FBNzBNZkxodXAtMkxNOA?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 03:17:31 GMT",
-      "source": "GQ Taiwan"
+      "title": "世足》美國隊單場3失誤丟球 創史上首見尷尬紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVklfR3Q2SDBqaEZ2UVNHUy1od0tWckZja1J1WlI3ZzBpb1MwNkxWQUw5OGVoWGtIQVl2bGJwdzN6Q1daaW9JTFBnQm9xeGJ6RmxHNEhHR3VlVzRpRVY3WVc2QmdQdnh0Ym9LZ9IBZkFVX3lxTE8xb09UVkFDd093eFJuTUhnZFZYTFgwSGdnRmp0cDdZbE10UjVHek03aHlsY2thMzkxd1dVc0NsOTZvMFU3b1N3b1hIOHhlM3FlQ3JlcEhkTDNEcVZ2N2duaW85WkZVZw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 03:04:00 GMT",
+      "source": "自由體育"
     },
     {
       "title": "《2026世界盃》16強葡萄牙對上西班牙：C羅與Yamal新老世代之戰，誰能贏下伊比利半島的重磅對決？ - 運動視界Sports Vision",
@@ -2932,55 +2947,48 @@
     {
       "title": "2026 世界盃足球賽 07/07【葡萄牙 vs 西班牙】直播、轉播 LIVE 線上看 - 蘋果仁",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPcWM1aDZUQUo4ekFrYVZ4WVowTlJQUXNTQkpkRVdWV0Q3NEVPMjVfOUxWaElleFdjNWdFN1EtNDd2UkVrUUFPVWJTWHg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:33:45 GMT",
+      "pubDate": "Mon, 06 Jul 2026 21:35:36 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "世界盃2026即時比分｜葡萄牙對西班牙0:1：梅里諾關鍵時刻進球，C羅含淚告別世界盃 - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUlzeGI1N1dkeWdTVmQtUjQwQlZJZmVSMDlIUWZTU3U3LVFtSDNNdFBidWlNdnkzb1FITTM4b3JaMVh6OU80ZTc1bkdUR0RpNU5qQk41QnpWNDZQTG5FcmpIMUZVQ0cxWTlXTGNEc0pjVkNNQnBQNTBGa2RxWHZlbXZsUVoxVThYcnRpb0xvYzVrQXJiaXB3OVk1OGJoTEVEWGc2Yy1TYUk?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 20:08:18 GMT",
-      "source": "Harper's BAZAAR"
-    },
-    {
-      "title": "世足賽／爆驚人爭議！川普致電FIFA主席 1句話後美前鋒免禁賽 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTXhGQjlQYlpYXzc3cmRxWDBaQmxuUlBKdjZyRDhnLWdQVFpYaV80TkJlQ3FGQjc1QVNaV2c4RXoxVm83cG9XX2pFOUZ1ZzNFeERr0gFYQVVfeXFMTWZQSzhuWU5jaTlQRW5McWdVeV9zVUUyX05rUVUzV2Z0VEM3N2w3NU5ueUZISWJJOW1vR1lkQkJBYjJIQVpVbXUwOXV3c21kendKbHpFdUp3dg?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 23:59:01 GMT",
-      "source": "UDN"
-    },
-    {
-      "title": "2026世界盃／FIFA駁回比利時上訴 美前鋒巴洛根可踢世足16強 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TzNOdDF1YVJOVEFZeUFKcF8ya3JFdjNka0xIcFQxdEVsV1NQQUQ5R2NvbGl1dm82Njl1UHZSSk40UlBMVk82WUhPeXc3RlJI?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:04:00 GMT",
-      "source": "TVBS新聞網"
-    },
-    {
-      "title": "世足》CNN：川普介入巴洛根紅牌案 世界盃掀政治風暴 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUWJWX01lOEFXc2tJQ0E5LWVzMkMyTjlQeGhtek9OSzEwanZGZ2tXV3phMEg1SXVGd1FmWnBvT21zbExDZUxyQ1loSWd5MEJMc0dWS0ZGVlNreGdzRnhYS3NybzBGcmdMQjc1MdIBZkFVX3lxTFByeVQxRWlQOGRnRFpUWGI2dG1GYk1UOWZxbFlKWWl4OFUweU1zN0RDeF94Q3hraENLcGhnU1lZZVJNZ1RQOVpzeUotajUzOElSZl9ETWxOWkViRTZ2b2x1X25JTzdzQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 05:15:00 GMT",
+      "title": "世足》西班牙傷停補時準絕殺葡萄牙 C羅最後一舞止步16強 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0QXlxSGNfaGVVLW10SUg3RXVsSndhbHpVUXp1TExhd2MzNmxub04xaW9CRjc1ZDVDamx1S0NLQnlzRmwxMU9iR1RITmRialdPek9wajNkdE9tR3JpR0h4SjBKbDY2cjR0X0hLeNIBZkFVX3lxTE1lRlpTSTl0S0VObC1BSmw0aHZueUFRQzFVVFpwbkFZeS1kQXdFUEExV2NWVWxabHEzMFQ1akZ5bW1zTkI3RER0QWdEMnpFYmVkMlV6RTV4TUc1TzV6N0FMYmNjdkxvdw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:09:00 GMT",
       "source": "自由體育"
+    },
+    {
+      "title": "世足》美國門將重大失誤 比利時3比1領先 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSU9xdzJVNXpwUlNkcUJnRmNEUW11dWNKRnRyRmpYRGM3RmhkZHRJczQ0aEVMMXdzZVBmWXo4a3Z5YmsyQ2h4TU1xNTZPajliekxOdndjX3JQZ2hYMmxtQVlFS1Z1NTNqWWhuU3FpcG11OW9ORWFRM2JhRm9SM2puQm5HbmthT1NDS1hwRlZRcm5NdHRlbTVFS0N1WUdhNzF3cHhxeVg2X0lYRnpvVU1mdWJpa1dpT1pETGVfVktZemVDRFozWHdKZHhSVV9acTlqWlA1d0NRa19haVNZWG9rRkZtVU5MTzdfZENxRWFXRWQ2UXo5T1RBOEVwcjZYLVFwbnZxOEZMdlh6a2ZTOXloaGlQY3lHemJXX05tYzFaXzQ4NWtZN3dZcTUtVEc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 01:24:46 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世足》阿根廷明凌晨戰埃及 梅西還有望創紀錄 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pVU1jRjZMQWNqVGk0WFVqXzI0aWtzaVA3eGNyN0Q5cVFpeG1rZ1dKSmF0VWJueUg3MVVndkQ2cDB2RnFZcVl3a2czenZoeExnNmZIWUh4MzNPOTVUMWQ5SlU0aTVjSmtWVEppbdIBZkFVX3lxTE4yeFYzYmpZT1hwREFkRXpiUEdBVHJQeGR6MmUwWEw2cEJiTXVLZm15dDkyVGh4N3FCOFExdDRNX3U0THQtNmMtbkRLX1JXd2p5aGpDRGhzdHprVHl4SzFiSjRlY3htUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 00:27:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "2026世界盃／主辦國全軍覆沒！美國遭比利時4：1淘汰 無緣晉級8強 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QblpJWE1IRGpFWE5keUtGd3BJczdSdHRZbEs4ZHZKaWVQVDNPN2NWYUloN2V3bUR0SnhXcTYwcVJRSEZNNS16emo1ZXc0LUV2?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 02:06:00 GMT",
+      "source": "TVBS新聞網"
     }
   ],
   "odds": [
     {
-      "home": "USA",
-      "away": "Belgium",
-      "homePrice": 2.55,
-      "drawPrice": 3.3,
-      "awayPrice": 2.85
-    },
-    {
       "home": "Argentina",
       "away": "Egypt",
-      "homePrice": 1.35,
-      "drawPrice": 5.1,
-      "awayPrice": 11
+      "homePrice": 1.34,
+      "drawPrice": 5.2,
+      "awayPrice": 11.5
     },
     {
       "home": "Switzerland",
       "away": "Colombia",
-      "homePrice": 3.65,
+      "homePrice": 3.8,
       "drawPrice": 3.05,
-      "awayPrice": 2.23
+      "awayPrice": 2.18
     },
     {
       "home": "France",
@@ -2988,6 +2996,13 @@
       "homePrice": 1.54,
       "drawPrice": 3.85,
       "awayPrice": 6.25
+    },
+    {
+      "home": "Spain",
+      "away": "Belgium",
+      "homePrice": 1.65,
+      "drawPrice": 3.96,
+      "awayPrice": 5.63
     },
     {
       "home": "Norway",
