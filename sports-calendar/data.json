@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T03:58:37.191Z",
+  "updatedAt": "2026-07-08T09:13:45.736Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3998,14 +3998,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 12 站",
       "subtitle": "Circuit Nevers Magny-Cours > Chalon-sur-Saône",
-      "start": "2026-07-16T10:00:00Z",
+      "start": "2026-07-16T19:20:00+08:00",
       "distance": "179.1 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-12",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
+      "timeTbd": false
     },
     {
       "sport": "環法",
