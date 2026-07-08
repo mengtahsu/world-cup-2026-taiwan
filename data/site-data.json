@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T09:39:07.992Z",
+  "updatedAt": "2026-07-08T14:42:17.889Z",
   "matches": [
     {
       "number": 1,
@@ -1393,8 +1393,8 @@
       "round": "Quarter-final",
       "date": "2026-07-11",
       "kickoff": "2026-07-12T01:00:00.000Z",
-      "team1": "W95",
-      "team2": "W96",
+      "team1": "Argentina",
+      "team2": "Switzerland",
       "ground": "Kansas City"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
-        "bio": "Forward・Norway・生於 2000-07-21"
+        "bio": "Centre-Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -2948,34 +2948,40 @@
   ],
   "news": [
     {
-      "title": "為什麼女生都在迷哈蘭德？Erling Haaland不只是足球明星，更是2026世界盃最可愛的存在 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWNGNF9GdDRJMzdFOWNsckFjN0FaMzlGaHZHNDdTRzdjaTVtNU5uYkQ1bDdraUpsRnR1ekpfNVQ4OU80R2NkdnhxdWtpc25EQ3JYQm9wcWQ3TWMwRGh3R1F6bVdtSDdSd2piSnRLbjRDekNTOUlOcHUyOFFmcnBqcmtPX0hrTl9ueVI2M212QXpES3R4bVdpVUNPMmJoOXZHNU53TQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 09:07:48 GMT",
-      "source": "Vogue Taiwan"
-    },
-    {
-      "title": "世界盃7/10法國VS摩洛哥8強淘汰賽懶人包》全分析、預測先發名單 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95SXBQbjE0TkNIUWxyd3IzUWJVUXFqbi1kU1NoZFVWb1dqRzdwRVI2c0tnWWFwal9YcTI0S3ktM094dXRBRVdpWnJFUnXSAVJBVV95cUxNYWs1T3h0ckJlNjdRRE1kTTVuUF9YVFBsR3ZUSVNwWjBWTU5XemFYUVFpcFFMR1RCVUZEV2psN2ZmeUtiQXVldTh4MDhnVFVLSHlR?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:47:14 GMT",
+      "title": "世界盃96年歷史從未有外籍教練奪冠！8強「3主帥」挑戰神話級紀錄 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oYWdsaHZsckI5bERGbUpTeGRTejhTOGNXeEFRZUx2LVFBRUpqUzAwRzJMZVdrMXg5ZDZFTHVnMjU3MzRMVC1hREc0OWPSAVJBVV95cUxPNWUzS0REZlRNMVUzOTRNSUQtTk1lQXBzTTZVX3BvRG9SbndjVERUNUVfMXpocXROQzVHUUJNYlRUWk80bE1lYzI0RXJIc1ZXV3ZR?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:28:04 GMT",
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "阿根廷對埃及2026世界盃直播線上看！梅西、埃及法老「薩拉赫」兩位傳奇10號對決誰會贏？ - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3NyR2JqV2JPOVpoeDk0YVFhRTVkeWZ4ank1dzFhWG5CSkhRZ3llOXpBMXJBVEdYODFBYjFFTklHb1dWSktfemFVSXRMMXlXbG01NkJfMktvYWZtcnozRDZxaXdyRUp4WGs5QW5xWXlsTzJfbGtfYWpRN2lYUXlDQXZtZ0lKOUJqcmdKam9uaU1CSW1TcEVueXRRT0UySE4wNGpfUjI2T3Vndw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 16:28:18 GMT",
-      "source": "Harper's BAZAAR"
-    },
-    {
-      "title": "世界盃2026｜埃及遭阿根廷反勝 主帥哈辛怒轟不公稱FIFA硬留美斯 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNT0dlWUlqYkhfbnhkNVFaNm0xVkFNNzRkQ3MyOVJNSVdLY2VqY1VGalM1dXMtNjJ4OW0wai1MMU9OSVowX1hDYW5lNHByRjhWUWZORVgtSXBiX0MzTTloUV9WSzdUX1NmLVNRbnktNWFYX0pyQnRvdnVKbWpraDh0eGIzT0ZwTFFudDNJdFFxS3ZoVktyVlhFZjlKLXIzRUNuVlJaeVJWTXd5bndqZTE5TW1tMVluU2kyY1poQVdmcW9hR3FMREVBQktoc0FndGRnVVhSM3d3Q2t6YXpDemtKanJqWV9jU3k1TFFUcmJ4MVlocXZUYl9WMGprTWI3Ym1qdFlKVDRSM2JGRnJvdS1GTWNJd2NDOFQ4VWlUWExJU2w0WWdhS1ZiZ1MzZ2hGdmhjbWVtVWhfTV9oamVLVlU2Z3FUQ3lIMjNzYzJPZjJxTUFmYnRFb0c1bE13V3REUWthU2tKTlNDN3pmQVhCbXU5NWZaZTdneFAwV2Nwa1JoZHJUVmtHWUhwcmduUVY4UTJxa2NsUlZyVm91aGMxeUdISVIwWQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 00:30:12 GMT",
+      "title": "世界盃2026賽程時間表｜104場分組至決賽+8強對戰表+直播平台 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcWdwREZFM2o0M3pWZVNKbWotVGxyenBLeVRvOXlJX0RMd0RiYjNpV1NOREFwSk43OVNaOW91TkJ5UFZVN1E4eFZzSk1fcHloODNPVHdQeC0zemZBNXBBekJuZG16N0l2ckVQRmNZVXRaNUJTQzhFQVp2Wm1KZjQ0RFVtV2lvcTJwelBpLVZITzEwaXFxSVQyZEd6TU1JVC05aFFZeGctSlZHV3gyM0pteGNhcFB4bU1SVVd2TlJ0VFFTdjdqaVEwNDNqQmtiWU1MS0xObUZmN2JrVFUyZ1dTX2ZUaTdHUkZtUWNmV1BvbEtBWm55aTRYazUwUTZveDlWS19kZmNUdmhxd01fdGE0eVAyYXJkQUpFNFVGeFd4WGZ1WkVYaWs5R0x1V00yQXJfWldPNHFsLTllWjN3T2tqYy11b1hCVjRNY1JaZTl3NFpaRjRodTk0UGt0RTdzT2VTZjBIRHZaMUp2YTl5YTZGRFphTEJaS0lyMGNZSDNwbmF6QUxVMUNpbkxiUGc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:12:46 GMT",
       "source": "香港01"
     },
     {
-      "title": "2026世界盃／進球沒收、連吃6張牌！埃及遭阿根廷逆轉 球迷怒：黑哨 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdGV6Y3gzQ2Q2NEZqS3kzZmgzRXR2NUNVd0RELTJ0QmFWcDZfd0lMUU96NGZpVnczVWJibGxYV19QT3BEelRKWU9vMy01ZjJraFRBSzBB?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 06:30:59 GMT",
-      "source": "LINE TODAY"
+      "title": "2026世界盃8強賽戰力大比拚　梅西、哈蘭德領銜強權爭霸 - ETtoday運動雲",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5eldLdHpHX3gwQXdBS1J0YlNmMnozbjZVcENUTy1yVGR4VVFMVjR3M3pkUnpWcnVDMWlGV0JIQ21EMW00UDdoci05eG83a2g50gFsQVVfeXFMT2JoWFJ0QTd1R0lrbC1fa3lKRURyUFpWcE1xZTFSd1NLNEI2YUJYMGJaMXRWUG5TQWtiejdhLWpreXNwTWk4RWlCQnQ4aVRhRW1WVzJLQWJHRlNsa1BaVHlvQUFSbDRrWXFfUEhl?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 14:00:00 GMT",
+      "source": "ETtoday運動雲"
+    },
+    {
+      "title": "2026世界盃阿根廷球迷應援足球文化 (圖) - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeUVxNlJiaTFhMlBSc2NCM3l0c0lGV0ZSaEFvYkQ3Z0swUWpTdjlKUmtfR2J5bzZaVWF2UmlDX2RDcFo5aVNCdnlKU291bnpNaEdXVkhFbEItcTBhUzhvNG8tNEFBU1RBRUdFbEIzRG9lYk9YZFhWVHRMNWxna2NhLU5aTEhMYnNEblJsRFROc0o5djZrU2lwRjhDRGUzNzBqd2x1TmxwTXlpS0RYZExjaEt2VEtHMFo4ZER5QjZpa3JFeDRrZlhhMEFnTkszQTBtaEdUQjYwQlBpUFluM2hJa2l5U0ZnRzRfanlVaFFEMTVPdUNfYms0T2FpMEI1dnluWVNUQThFaXZ2ejBhX2dMYzZzVlhaMkU?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 01:04:09 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "2026 世界盃賽程：7/8 世足 16 強賽程、轉播直播線上看（阿根廷/埃及、瑞士/哥倫比亞） - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NSDRfWjJyU20wWU56RGNaZUFhMUE5VHdFYjB3QjJBSXAxaWZZZGRPaWVfMkVFVjhtZzNYd1FiRVlyVE83ZVhqSHhNZW8?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 08:53:59 GMT",
+      "source": "蘋果仁"
+    },
+    {
+      "title": "世足》埃及遭逆轉痛批黑哨！齊科大喊不公平 「恭喜阿根廷奪冠」 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wR2NzeHlmYTg2azBxME03SjI4b2ZXOWozSnJaR0MxWENjX3Z6THgyaVY4WDloSzBrcjJ2VU02XzRCdXNOZnFBTHE3OEpHWXo3cVZ5ZUNkTlJoLU1EWGpGetIBZkFVX3lxTE5TNUcwS0Q5ejF1YnR5UHViMXZ2bU9sclNIWk1tZi1jN0p5UW4xeHFITFBCQlRQa05TcG0yMDh5Z1F2d1N4QjhNWm1uRllzbVhzOTVuWkFERE16bWdwTHljU0w4WmZKUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:05:00 GMT",
+      "source": "自由體育"
     },
     {
       "title": "2026世足賽賽程｜8強隊伍就位！半準決賽7月10日展開！比賽時間、對戰組合、直播線上看管道、戰績排名總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
@@ -2984,21 +2990,15 @@
       "source": "Yahoo運動"
     },
     {
-      "title": "世足》8強有6支歐洲球隊為32年來首見！但少這3大勁旅為史上首次 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NVNheTM1dkNyNzdzZk1mRUR1NXdIQ3hmUGNSeEo1LThhYjJmVk1NbTZnRFF5UFNJM3Y5ZzJQOHk5bVNVR1k2cXlIQkhKdmxxRkpMVDFjM2haOU43dEZzVtIBZkFVX3lxTFBtckIxb25KVUVCSURaVmR3YmxMeXJYMy13UE1Sc2lqdjBHeUtIdTYzNEE1QmRReEEwVm1pRWZocWRfMGF5dFdwR2c4RUM1c1V6d3c2dDdFNkRSMWRrU2tzb2RSNVNoUQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 01:23:00 GMT",
+      "title": "世足》16強後最新世界排名出爐！挪威成黑馬排名大躍進 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Iei02V2lZTEJJeGNicUhzdFZNc0R2bXJSSDZBYVkwVV9EQkw2MWNKZDZkcm1TeDlzUUV1TGh0YndFRFNLNWR1MTkxelFWOGJsWV9MNzFKaHQ3VVAtQVo4S9IBZkFVX3lxTE9FZXhxRFBNemt4YUtraml1d3RMdVZnRWZRTnNZZUJCN1NpRFl6RGlnRDU3V0tCS1ROSnhOVnhnN1psSEdiTFVFMmZzbGZ4ZThuVWtlUXpDaVEybHd4UFBkc2hwMkZvQQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 00:48:00 GMT",
       "source": "自由體育"
     },
     {
-      "title": "2026世足八強戰力排行榜出爐！阿根廷西班牙不是第一，最大黑馬竟是這1國 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZYzUtcm5CSG9iMUNQRHBGYms3YW1JUHhVem4wQy04MDBzRkpBQ2ZoYng4YzFjRV80bW1hWHd1cVMzV2NWOHdwSUdsbTVCUXJG?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 02:17:26 GMT",
-      "source": "風傳媒"
-    },
-    {
-      "title": "【世足神預測】2026美加墨世足 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mNEo0UG9LUGhoTEFOZ0RYRmF4ZThlSFpZdXZiMUlQQ1JUX3I5bmxOLTdfN1hyMEtrbkVNeVZwVWQwR3Z6cGpfWnVQVUFCZXJv?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:38:00 GMT",
+      "title": "世足賽／8強對戰賽程出爐！法國強碰「北非雄獅」 阿根廷拚衛冕壓軸迎戰瑞士 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12REtuMFRyYmpvTXY1RVZXekFDQjZtaS1qWlFGZGttaTJsZ3VNT1FvdnI0NkNWT29tRnBkSi1uTS1UM1FadkVsWHRHd2JxMENuRW130gFYQVVfeXFMUHVpczdRQ0ExTlYyWFdwQ3M0M1pVN3NSaFJiZ0xpd0RfN1pveThiMGVOVVVvRHJxUkFtYTJVSTZLMHMwZjR2bFcxMEZKS0xZTDFmYWxxZDFLQg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 02:50:38 GMT",
       "source": "聯合新聞網"
     }
   ],
@@ -3007,15 +3007,15 @@
       "home": "France",
       "away": "Morocco",
       "homePrice": 1.56,
-      "drawPrice": 3.85,
+      "drawPrice": 3.9,
       "awayPrice": 6.25
     },
     {
       "home": "Spain",
       "away": "Belgium",
-      "homePrice": 1.63,
-      "drawPrice": 4.03,
-      "awayPrice": 5.7
+      "homePrice": 1.65,
+      "drawPrice": 3.98,
+      "awayPrice": 5.61
     },
     {
       "home": "Norway",
@@ -3027,29 +3027,29 @@
     {
       "home": "Argentina",
       "away": "Switzerland",
-      "homePrice": 1.71,
-      "drawPrice": 3.7,
-      "awayPrice": 5.8
+      "homePrice": 1.72,
+      "drawPrice": 3.65,
+      "awayPrice": 6
     }
   ],
   "videos": [
     {
-      "id": "uqPHPJdUFnk",
-      "title": "【2026 FIFA世界盃™】門將關鍵撲救 瑞士PK大戰險勝哥倫比亞/愛爾達電視20260708",
+      "id": "3cWKScA3P4Y",
+      "title": "梅西超大公仔吸睛！ 世界盃授權商店熱賣/愛爾達電視20260708",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=uqPHPJdUFnk"
+      "url": "https://www.youtube.com/watch?v=3cWKScA3P4Y"
     },
     {
-      "id": "zVvPoZbQZcU",
-      "title": "【全場精華】瑞士 VS 哥倫比亞 16強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
+      "id": "_eai_-19SqE",
+      "title": "【2026 FIFA世界盃™】奇蹟逆轉球王落淚 梅西讚：他們永不放棄！/愛爾達電視20260708新聞",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=zVvPoZbQZcU"
+      "url": "https://www.youtube.com/watch?v=_eai_-19SqE"
     },
     {
-      "id": "UYRMWQei3Rs",
-      "title": "【2026 FIFA世界盃™】梅西強心臟助隊逆轉 賽後感動落淚/愛爾達電視20260708",
+      "id": "989eLPhlYtg",
+      "title": "【2026 FIFA世界盃™】關鍵判決有爭議 埃及批遭不公平待遇/愛爾達電視20260708",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=UYRMWQei3Rs"
+      "url": "https://www.youtube.com/watch?v=989eLPhlYtg"
     }
   ]
 }
