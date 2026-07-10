@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T15:19:38.361Z",
+  "updatedAt": "2026-07-10T17:27:03.284Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4029,25 +4029,25 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 14 站",
-      "subtitle": "Mulhouse > Le Markstein Fellering",
-      "start": "2026-07-18T10:00:00Z",
-      "distance": "155.3 km",
-      "climb": "山地站",
-      "elevation": 3800,
-      "mapUrl": "https://www.letour.fr/en/stage-14",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
-    },
-    {
       "sport": "F1",
       "title": "Belgian Grand Prix・排位賽",
       "subtitle": "Circuit de Spa-Francorchamps",
       "start": "2026-07-18T14:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
+      "timeTbd": false
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 14 站",
+      "subtitle": "Mulhouse > Le Markstein Fellering",
+      "start": "2026-07-18T19:00:00+08:00",
+      "distance": "155.3 km",
+      "climb": "山地站",
+      "elevation": 3800,
+      "mapUrl": "https://www.letour.fr/en/stage-14",
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4",
       "timeTbd": false
     },
     {
