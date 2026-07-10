@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T21:47:26.953Z",
+  "updatedAt": "2026-07-10T04:16:46.708Z",
   "matches": [
     {
       "number": 1,
@@ -1368,6 +1368,10 @@
       "kickoff": "2026-07-09T20:00:00.000Z",
       "team1": "France",
       "team2": "Morocco",
+      "score": [
+        2,
+        0
+      ],
       "ground": "Boston (Foxborough)"
     },
     {
@@ -1978,6 +1982,72 @@
   ],
   "scorers": [
     {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "goals": 8,
+      "matches": [
+        {
+          "number": 49,
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T19:00:00.000Z",
+          "score": [
+            3,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 77,
+          "opponent": "Sweden",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 2
+        },
+        {
+          "number": 89,
+          "opponent": "Paraguay",
+          "date": "2026-07-04",
+          "kickoff": "2026-07-04T21:00:00.000Z",
+          "score": [
+            0,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 97,
+          "opponent": "Morocco",
+          "date": "2026-07-09",
+          "kickoff": "2026-07-09T20:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+        "bio": "Centre-Forward・France・生於 1998-12-20"
+      }
+    },
+    {
       "name": "Lionel Messi",
       "team": "Argentina",
       "goals": 8,
@@ -2099,61 +2169,6 @@
       }
     },
     {
-      "name": "Kylian Mbappé",
-      "team": "France",
-      "goals": 7,
-      "matches": [
-        {
-          "number": 49,
-          "opponent": "Senegal",
-          "date": "2026-06-16",
-          "kickoff": "2026-06-16T19:00:00.000Z",
-          "score": [
-            3,
-            1
-          ],
-          "goals": 2
-        },
-        {
-          "number": 51,
-          "opponent": "Iraq",
-          "date": "2026-06-22",
-          "kickoff": "2026-06-22T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 2
-        },
-        {
-          "number": 77,
-          "opponent": "Sweden",
-          "date": "2026-06-30",
-          "kickoff": "2026-06-30T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 2
-        },
-        {
-          "number": 89,
-          "opponent": "Paraguay",
-          "date": "2026-07-04",
-          "kickoff": "2026-07-04T21:00:00.000Z",
-          "score": [
-            0,
-            1
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
-        "bio": "Centre-Forward・France・生於 1998-12-20"
-      }
-    },
-    {
       "name": "Harry Kane",
       "team": "England",
       "goals": 6,
@@ -2206,6 +2221,50 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png",
         "bio": "Centre-Forward・England・生於 1993-07-28"
+      }
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "France",
+      "goals": 5,
+      "matches": [
+        {
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 53,
+          "opponent": "Norway",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-26T19:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 3
+        },
+        {
+          "number": 97,
+          "opponent": "Morocco",
+          "date": "2026-07-09",
+          "kickoff": "2026-07-09T20:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+        "bio": "Right Winger・France・生於 1997-05-15"
       }
     },
     {
@@ -2382,39 +2441,6 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9apeaz1762709253.png",
         "bio": "Left Wing・Spain・生於 1997-04-21"
-      }
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "team": "France",
-      "goals": 4,
-      "matches": [
-        {
-          "number": 51,
-          "opponent": "Iraq",
-          "date": "2026-06-22",
-          "kickoff": "2026-06-22T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 53,
-          "opponent": "Norway",
-          "date": "2026-06-26",
-          "kickoff": "2026-06-26T19:00:00.000Z",
-          "score": [
-            1,
-            4
-          ],
-          "goals": 3
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
-        "bio": "Right Winger・France・生於 1997-05-15"
       }
     },
     {
@@ -2948,16 +2974,40 @@
   ],
   "news": [
     {
-      "title": "2026世足賽賽程｜7月10日8強賽展開！法國、摩洛哥之戰揭開序幕！比賽時間、對戰組合、直播線上看管道、戰績排名總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
+      "title": "世足8強賽事預測》矛與盾的終極對決 看好西班牙能擊退比利時 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPU0xHdGRNZDB1ZXVSR2lOWDU5MC0wSU9aU0I2MkY4emRaNmFiNHlxRHNKeGFmMEpQOEtmWTI3TVFZeDU5eTlGZGR2M0hhdDQ4bWhuaUZydXR6SmFTR0o3UFNzYmk3TUhia1JTTXJEd29uczFYMzVKa2FYUUp5Ni1ZLWdkNnJtSVdIbDJEc2ZEQ1VUcERwdzItWWtyRTBnWXh1bHJXQnJOLUU4NVhmX3RNbFN3MFZiU0xJd1J1Ynh6R0tVV0lvYnNETTRGcVJKTWtUdjZ2Yk16d016WUg2LVcxNVV5bU9xbzN5cVM3NE5pcTRyTWgzbXlYdWpTbVZ5VUVtNVp5YncyaWEybklOdWYwWmw5bHUyZUxnc0JObjJHcmR6WV9RS0huTXRxczVWM0w5bXBGSk1Ya1NLYmc3MUxWd0ZFMlA4MzNmVTBtUVVOaDJJaDlfUlRQOU9rNkFTWWY1eVlNUzJlWU5ORF9PSzFxdnozM1FoOUpMVFJUWk1fOVhVUzgxaXo3N25oOElEXzF0SWxmeHN6MVVJNnJ1b2ZVb1plNA?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 01:36:35 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "2026世界盃／法國淘汰摩洛哥！連3屆殺入4強 史上僅這3國做到 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXNzhaN2tMc29ZUGV1NVIzQ2xXMUZQYkJOUlVaWlZGc3AyZDh2RmV5a2lWX20ybTJfX0c1OFRVS1NRU3lMQU9QNmVFUUtGTFYy?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 01:04:00 GMT",
+      "source": "TVBS新聞網"
+    },
+    {
+      "title": "2026世界盃／8強賽 比利時火拚西班牙 球評看好歐洲紅魔 | 中央廣播電臺 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JUHNCSm5fekZaX05fcmVXa0VZQmF2MGZZNno0cW5OaVQyZ2xTV0pvOGpjd2d5SmpQVEZpUVJPR25zVlJqaXhFMTF2NjVWbE4tSE84YWZR?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 00:35:02 GMT",
+      "source": "LINE TODAY"
+    },
+    {
+      "title": "2026世足賽賽程｜法國率先晉級4強！7月11日8強賽比賽時間、對戰組合、直播線上看管道、戰績排名總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
       "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQZU9JMlVBdnh0MG5Md2VtLXU0NXl5b2JRUWM2RlRuXzkwTHdmMURnaV9RZjNiWjhIVXRmODROTl9CUWUtTVN5dUxZOWhvX0lBZXctU01Qb3FhemdfdzZXOU8wdjhJQWdTTFh0eXNmUWVBbFhod3FLQ05MNFNuelVGWWt4NUFpXzNBQUlWU0dOUWhONU1kZnR0UlhCYW9jbGdrV080RXF5VlJubS1NVmRXRlFtQUczSzRoZDJzWjdzc2h3ZUJZbUxwR0ZqaUdWdmI4eER3TG9BenY3LUtUYk9TUXhVZGdLcjRjNE9PM2tKRXhEdlV5elNwWnZKeVhFaGRuTGZHOUU1OWF6Tk1XQjFtc05qN0tHQkJBNG9ZaUF2RVZwSl94eDd1QjNxUlEyQmVRV093cGJDNGxfanV2UFZqck1MMkxVeW9pRThSdzBzVW1ySjNhS245N0tBc1czN0VMQUVYZFQzbU5kZU1DYXF4ZE5KTEhpblN4VVFCVm5mQl81STMxc2JkcGhUQWxhZFREc212ZXMtZHFBVmtrZjh2b1V6b3U5OEZfcm9HMkpLNjY0WGNEdlhQUmtGRFNmY3I3b2s5VzNzSHVqd0o3SjNqVF9GOU4yS2Q2TnVyN19pdw?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:20:55 GMT",
       "source": "Yahoo運動"
     },
     {
-      "title": "2026 世界盃 7/10 賽程：法國 vs 摩洛哥 8 強直播、轉播、台灣比賽時間一次看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QOHlsdGpJanp1Q0EtbnFFeG9aTWhlVWxxaHJCMGNiUmtZaUl6Nm5ockRSbEp1VE44UFlTMEVQY2dCenMyTm9DX2l6Z1A?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 10:09:03 GMT",
-      "source": "蘋果仁"
+      "title": "2026FIFA世界盃》世足賽8強名單正式出爐！最終組合4強即將誕生，各國戰力一次看！ - 遠見雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03c29YM0lEQ3FOVzNIWXBmMWlLMXhfbTdfeGlfWVhaUW1ZVFhGS3RXbnFFUThHUng3aU9tV2JHd1dJX1dQUk1NZUpSNG96UQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 23:53:00 GMT",
+      "source": "遠見雜誌"
+    },
+    {
+      "title": "2026世足八強奪冠機率排行出爐！西班牙英格蘭都輸給這一隊：5連勝實力封神、 完美陣容強到沒對手 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3QWdTY0NmcTdSMER6SEtTMUlQUHFMYW96eTlCSDZabnl6dWhYYmNaLTJpU3ZLYkx2RzVLYm9fNGc2bERBbkRrdkRPaThCYnJx?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 06:44:14 GMT",
+      "source": "風傳媒"
     },
     {
       "title": "巴西世界盃回國包機空蕩蕩！僅1球員登機　內馬爾早就開始度假了 - NOWnews今日新聞",
@@ -2966,56 +3016,25 @@
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "2026世界盃／超賺！世足「補水暫停」廣告費飆900萬美元 FIFA四年收入超越所有奧運 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5RFdta0I2aFpMNkQ2RUpNNHNxNU5Ld2dLYzZYMTl2TjZ3eGRWdFpQR3ljZng5ZldvTVJyQklOTkVjdTUwUG1BZzZYcFNjaGs?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 10:16:00 GMT",
-      "source": "TVBS新聞網"
+      "title": "2026 世界盃 7/10 賽程：法國 vs 摩洛哥 8 強直播、轉播、台灣比賽時間一次看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QOHlsdGpJanp1Q0EtbnFFeG9aTWhlVWxxaHJCMGNiUmtZaUl6Nm5ockRSbEp1VE44UFlTMEVQY2dCenMyTm9DX2l6Z1A?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 10:09:03 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "Lenovo 推出 2026 FIFA 世界盃限定版主題產品配備專屬紀念包裝- 遊戲新聞- PChome Online 新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVlOcTZUcG04ejl2V3BUVUZXM0tuZlZKbEVsdmFib3JTVU1PTEhUYlFzMnNYazVTWXBaVDFzZGY1QkZQVHp6Uk1IWTllVElVazRVMjZ4VnJ0WWs2ZkxrNktfMVczQ08yVWxVNkdobnNPc18ySWoxU2pTVFNheWtGNFFoUm0?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 09:47:11 GMT",
-      "source": "PChome Online 新聞"
-    },
-    {
-      "title": "《2026世界盃》擁有一手好牌卻打到稀爛 葡萄牙問題出在C羅還是教練身上？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93OXltdktiRzRkTm5pb0FkdFlkbTk3aS1ROG43ZjRKU2s2aTFvRHBpZGppQnliaU1vUHV0TlRkakFyeUNFSGNsb0VYYmlyVW4x?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 08:54:52 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
-      "title": "2026 世界盃足球員都是巨蟹座！脆友笑翻：「決賽鄰近哈蘭德生日去拿杯吧！」 - JUKSY 街星",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52QXBXNWtPdGtvejMwV1NlX2JaNlZWRDNDS3Roc0pnNTU5SVJQQU9DbHc3ZXZuVEVpNW1QU2hHQ3g5aV9FNXQ0ZlJtdng?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 00:56:00 GMT",
-      "source": "JUKSY 街星"
-    },
-    {
-      "title": "世足》2026年世界盃的六大趨勢 超級替補、絕殺進球與罰球危機 | 麗台運動 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3dGVGZVpHbVZ0WVNpMmRGNUFlMTR3LW1JSDlnN2NPT1NDYU9tY05ob0wtQXQxQ256WER0T3ozenF3LTJneGIyVWkzeC1ldHJfeFZiV2JB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 14:02:26 GMT",
-      "source": "LINE TODAY"
-    },
-    {
-      "title": "小賈斯汀確定加入2026世界盃決賽中場秀！將與瑪丹娜、夏奇拉、BTS同台演出 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJnRzFVTXk2ZS1pSm9HNXg0RGtkNU9xa2lqaGxRN2M1enNoU1NRY04tSTRlSU44VVpUZ1NJaEdjR3VFRzRoQ0UxMVBqNkV2QV9TaU5mVFlNMjYyNFJXTWVlaWZEMkE3aDluM3otMlV2WjdpSlpyU2lPWmo1UHZTOWRTQnN5MGV5c0cxUThSbw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 10:26:44 GMT",
-      "source": "Vogue Taiwan"
+      "title": "法國對摩洛哥2026世界盃直播線上看！姆巴佩、哈基米兄弟對決誰會贏？卡達世足賽四強重演 - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3paM2drM0E2ZEdOQXQtTXhwUGprYUZocXBBbFpaYndYR0xJTWVva2xiVHRRZkE5RmFENU0zRW1jcXdQYUlMbnE2d2daREczZ2V2SGlqdEVaQ09LdGR6aVNWMnFqNmR5MFozc25VckZ0bjdON2pSUHhIX1liUXM5dVdfVktOQzdmMmZLT2FoYlV2QWp2MEc3cDdMeUVHTWh3REFOd1d4SUI?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:49:33 GMT",
+      "source": "Harper's BAZAAR"
     }
   ],
   "odds": [
     {
-      "home": "France",
-      "away": "Morocco",
-      "homePrice": 1,
-      "drawPrice": 42,
-      "awayPrice": 200
-    },
-    {
       "home": "Spain",
       "away": "Belgium",
-      "homePrice": 1.65,
-      "drawPrice": 3.98,
-      "awayPrice": 5.51
+      "homePrice": 1.66,
+      "drawPrice": 3.96,
+      "awayPrice": 5.46
     },
     {
       "home": "Norway",
@@ -3027,9 +3046,9 @@
     {
       "home": "Argentina",
       "away": "Switzerland",
-      "homePrice": 1.7,
-      "drawPrice": 3.65,
-      "awayPrice": 6.25
+      "homePrice": 1.71,
+      "drawPrice": 3.6,
+      "awayPrice": 6.1
     }
   ],
   "videos": [
