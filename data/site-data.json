@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T18:46:31.223Z",
+  "updatedAt": "2026-07-10T22:17:57.785Z",
   "matches": [
     {
       "number": 1,
@@ -1381,6 +1381,10 @@
       "kickoff": "2026-07-10T19:00:00.000Z",
       "team1": "Spain",
       "team2": "Belgium",
+      "score": [
+        2,
+        1
+      ],
       "ground": "Los Angeles (Inglewood)"
     },
     {
@@ -2521,6 +2525,39 @@
       }
     },
     {
+      "name": "Charles De Ketelaere",
+      "team": "Belgium",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 94,
+          "opponent": "USA",
+          "date": "2026-07-06",
+          "kickoff": "2026-07-07T00:00:00.000Z",
+          "score": [
+            1,
+            4
+          ],
+          "goals": 2
+        },
+        {
+          "number": 98,
+          "opponent": "Spain",
+          "date": "2026-07-10",
+          "kickoff": "2026-07-10T19:00:00.000Z",
+          "score": [
+            2,
+            1
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png",
+        "bio": "Attacking Midfield・Belgium・生於 2001-03-10"
+      }
+    },
+    {
       "name": "Cody Gakpo",
       "team": "Netherlands",
       "goals": 3,
@@ -2937,42 +2974,15 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png",
         "bio": "Centre-Forward・Belgium・生於 1993-05-13"
       }
-    },
-    {
-      "name": "Yoane Wissa",
-      "team": "DR Congo",
-      "goals": 3,
-      "matches": [
-        {
-          "number": 61,
-          "opponent": "Portugal",
-          "date": "2026-06-17",
-          "kickoff": "2026-06-17T17:00:00.000Z",
-          "score": [
-            1,
-            1
-          ],
-          "goals": 1
-        },
-        {
-          "number": 66,
-          "opponent": "Uzbekistan",
-          "date": "2026-06-27",
-          "kickoff": "2026-06-27T23:30:00.000Z",
-          "score": [
-            3,
-            1
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ye9inj1766824633.png",
-        "bio": "Centre-Forward・DR Congo・生於 1996-09-03"
-      }
     }
   ],
   "news": [
+    {
+      "title": "2026 世界盃 7/11 賽程：西班牙 vs 比利時 8 強直播、轉播、台灣比賽時間一次看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cmM5b1FTV0J5RjRTdjlyWXoxUmZIRXJKd2Iwb2JEbVRrQU5ranFRbjlMNXpUaTFPcngyWktkQ3dvRGhtenBLbF8zWXU?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 06:54:03 GMT",
+      "source": "蘋果仁"
+    },
     {
       "title": "《2026世界盃》8強西班牙對上比利時：兩支高位壓迫球風的對壘，歐洲紅魔能用反擊攻破鬥牛士軍團的銅牆鐵壁嗎？ - 運動視界Sports Vision",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VR2pxSU40ZEpMQmJqVmg5VlFaZFlHQVhKVTR0a0stSVRNT0RPTUxFcVRJMnYwVEcxZFQ3ZW01cjBZQS1MT29SeE9La3RETmt3?oc=5",
@@ -2980,16 +2990,16 @@
       "source": "運動視界Sports Vision"
     },
     {
-      "title": "世界盃賽程2026｜7.11線上看8強：西班牙對比利時+7.10賽果回顧 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOMzNsc25vUnVuc0h5bW41R1pZQnZ0WUU1S1FwNzdPUjZKTHZiN1JOZUxVaUVqU1hYdlpqZjV3UjlSOTNnR2pNVkc2SzF2VXVMSlN2ZTRmbUl1UjNxcUxuQWlHZ3lwTElSX3Z3ZUE3TmZnN25PY1A1VnpjU0ZST3U2RXNYMDhCV0ZnakRvQWdwaTd3WnN5MHZ0a0VmdDFXZzdNcFh3YnVqRHh5bHdnTk1zMXU4NGY4OGFDeTVESlJhd0l4UGRra0RfYzFXNGZIU1lhNUNYM19paEZ4bVdiS25WSXkyNWk3VHN3dGp3QUpzZWJTUmVRWUFBQ2ZyVXctOWxuQzVtbllHd3hrQlZkZDZSaVd5SS1lcnVYUXc1a2NDVXJJRVg0Ty1MMnhJa3IxVEtIZFVNREJadE5rMTJ2M2dwYXRKQ1AxdEJZVm85WEtNTV8wdTRuQlpRc0tRYThzR2dmOXd2Sk1wejU5a1hyNWVoRmhqOTBLdjRkT3JZ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:12:05 GMT",
-      "source": "香港01"
+      "title": "世足》西班牙Mikel Merino關鍵破門2比1淘汰比利時 無敵艦隊揮軍4強 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNMy0yQjdNcFZpTEZrNU5QYXdyRzdRaE80aHU1MDQ4eFk2N1ptYTJIdTYtWFE4TXVpXzJwUDJuc3BOVS1udGhXb2xfWXEyU2x4blpkVVNGS3FYMTZQcERYYy1IQ05vQzA2RnVqeGlUZy1mQjVmQVRoSEhoQ1N2c3MtdWxEYUtZSjV5WVNzbDllS2oyTG1hT1Vpd01JdGpuRGZjdzgwaDQ4MWQ3OUlLRElLYlQxMmlBTkZObDdZNG1LemE3YXhtd0dBbVJpTUJ3c2ZvMkEwLWlfWS1rakRwMTZ1LVZiMEdvdU1fc09DTjRZeTBDNUlJLWVHekZqS1hDMUpsWDhZNEtvcGtXRE00SjQ2X1lXYUQzcnBXcTlmS0ZpVW4yc29pcFQ2U0JfNzd0cWxCeG5EM2UzdV9peDhVVm1QSk9CbllvYlBTTDRhcGx5dHJsMjlOV3pRVnRIV0p0d1hDMU9HT2UxX2VnRTFSM3dDampmTQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 21:02:43 GMT",
+      "source": "Yahoo運動"
     },
     {
-      "title": "世界盃7/11西班牙VS比利時8強淘汰賽懶人包》全分析、預測先發組 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqbFVZRFpvZXpJdUtNWlNPQ05abk5zSGFEZ09YTmdzdVpWZFlKa3czTnViZW1oOVE5SUpkU1llVEJyYk5WZXdJenZDc2nSAVJBVV95cUxPM18zNlp3S29qcW5VMnFMdFdXc0RZMGdKUkxGNDU0YmFoekI5eVU2UWtXYjU3blJpN3VDS213QjFCR2FjT3M0R3RzX3Axd3lFSmRR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:00:00 GMT",
-      "source": "NOWnews今日新聞"
+      "title": "2026世足八強冠軍買哪隊才會贏？最新賠率排行出爐！1 黑馬國家行情暴漲超有潛力 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Sc2lBLTNlaGFyU3VLR1Vfby1JbVNZZEJYOUUzX2ZnLXl2ODh4ZTk1MkFBWkRISHVaaFlxNUg0a0tMTDZlazNLMUZ2ZlY3N3d5?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 08:30:30 GMT",
+      "source": "風傳媒"
     },
     {
       "title": "2026 世界盃 7/10 賽程：法國 vs 摩洛哥 8 強直播、轉播、台灣比賽時間一次看 - 蘋果仁",
@@ -3004,38 +3014,25 @@
       "source": "運動視界Sports Vision"
     },
     {
-      "title": "世足》生涯出賽20場攻進20球！ 超狂進球機器姆巴佩再寫紀錄 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01czJXTU9XSG5qZzczZVJ0YXdQbTVEZThSelFiQkdQdmdmUV9NaVhBeW5yTnFMcElhMWlrMVRhNTctUlBWVGZKRjhOMlBlUTZMQ0hjVWJ4YWFYRnkxVmoyWtIBZkFVX3lxTFBGVDFpUGczelE5MUlBRkFURmlEYWpwUW9zTmhqbnQwV0ZhTE15amdfSVppZDZBeEFPQTUzRWpNYzJyV1VMMjdnWEJISkIxSnJfNHk2Wm9tN0ZGeDBmUnhiSkJvb0xNQQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 23:11:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "Trace Sport Stars運動明星《世界盃傳奇：足球最偉大舞台的歷史》 - 蕃新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYkJxbk9HLU4tUTU1MXhkRzFidkl2YmxuOG5fN0JkMDExVVA5MGR0RE1vZG55YVlTMVJtQnVObmVyMVZ3dHQ2NDh4RTVDYjFvMEE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:00:00 GMT",
-      "source": "蕃新聞"
-    },
-    {
-      "title": "西班牙對比利時2026世界盃直播線上看！亮點預測：睽違近10年再交鋒，誰能晉級4強？ - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUxVSTVCbVRxZUdBaFN4N3ZaUnZQbVlxLTFqQVFXbkFJa2R6VlpEQjlFNS1yZmJudGVXZ3JLdElkNGZzMVFBWEtaX2hPX2ZJMUNobUxGYXhUdEJNQnV5T0NQSWNrRE9JUGFHZlBjU3RIUDhnUHhTNGN3QnlHTFJLX0swV0VnVWZPMHNSYU5WYVRGczRRS2lkeFlSSENUUklCdGhJ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:36:15 GMT",
+      "title": "世界盃2026即時比分｜西班牙對比利時2:1：梅里諾把握補射機會攻進關鍵一球，前進4強 - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTHBvMDVFaGpkU3pQakV3YXdDY3lKa2RoMkg1NGJnZGtaNUVqZHYzc0JNaHpLLWt0dmxDMEQ1T2ZZclY0UjlsVE9CcGhxcVV1X1E0eHlMektNbVlKRkFWQzdNenUzVjFYYVNuRDV0cUVqenRzdFVrNjVLMHVqeFdfM1RaTUo4OFNMa0l4ZU5PWEU1ZXo3T0hHb3Bsa1JSdW15VzNtVDB3YmVfMkxPck1paG9R?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:16:15 GMT",
       "source": "Harper's BAZAAR"
     },
     {
-      "title": "2026世界盃有哪些聯名球衣、時尚單品可以買？不只支持喜歡的球隊，更要當Blokecore辣妹！ - udnSTYLE",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11cDdCYzJrcmdqcm1UeHJULXFDcGNHUjU3Y2VIdTg2Z3VpNHRmcTI2MG9fWWo2Q3lSUFlia1pwUjFMMXUtOV9rRGpJRjdNYXRiVDBjRk9TUGktc0YxMXRhdlhLMG01c1hjNnZPS3pva0FPbHFabmRFLXhVMHl5aXc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 04:00:30 GMT",
-      "source": "udnSTYLE"
+      "title": "[世足 8 強🔴] 西班牙 vs 比利時 網路直播線上看、電視免費轉播 (含愛爾達、Hami Video) - 硬是要學",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZVQxQjR3RFNhZUwta3lDWWoyUGZZYlZUUlRScDdIVEh5RzBPSUpXUnJrWERaREpLN3NHekU5NkF3bTlxVmFORi1adjdOSk02S3Vya0kzei1Vam1mTWVtUFhXMHZVbG9fXzRuVEtpZDQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:08:15 GMT",
+      "source": "硬是要學"
+    },
+    {
+      "title": "世界盃史詩級最帥進球　范佩西飛翔頭槌至今無人超越 - ETtoday運動雲",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wamhHam8wUllEN3dLdUdVS3pib3hXMDl2dDNjd25ocmV6NnhiVVRIT2xKNmgwRlp6aDV4Yy1fcThQeGFlUTI5UkQ1OHpBeHkx0gFsQVVfeXFMUDRIZGNtZXFSN0wzdTFMYURJUWtSdzlnR0M5VllsQXdPel9MNWhNaEIyc0ljancyaUFKci1WeGlyOEF0RldtdmZ5cExkdzJ6blVqakdzS09DNWkyV0c3T21LVXIxUzY5MlZxbUNr?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 10:40:00 GMT",
+      "source": "ETtoday運動雲"
     }
   ],
   "odds": [
-    {
-      "home": "Spain",
-      "away": "Belgium",
-      "homePrice": 1.67,
-      "drawPrice": 3.95,
-      "awayPrice": 5.7
-    },
     {
       "home": "Norway",
       "away": "England",
@@ -3047,28 +3044,35 @@
       "home": "Argentina",
       "away": "Switzerland",
       "homePrice": 1.68,
-      "drawPrice": 3.7,
+      "drawPrice": 3.65,
       "awayPrice": 6.25
+    },
+    {
+      "home": "France",
+      "away": "Spain",
+      "homePrice": 2.3,
+      "drawPrice": 3.1,
+      "awayPrice": 3.1
     }
   ],
   "videos": [
     {
-      "id": "Z1a1IWMSldg",
-      "title": "【全場精華】7/10 味全龍 vs. 統一獅 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "b1Ehy2gLCTo",
+      "title": "【2026 FIFA世界盃™】門將傷退埋伏筆 西班牙2：1退紅魔晉四強/愛爾達電視20260711",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=Z1a1IWMSldg"
+      "url": "https://www.youtube.com/watch?v=b1Ehy2gLCTo"
     },
     {
-      "id": "omMhr5LgVhM",
-      "title": "【2026 FIFA世界盃™】摩洛哥創造隊史新紀錄 下屆世界盃捍衛主場/愛爾達電視20260710",
+      "id": "UPTSX08H3zE",
+      "title": "【2026 FIFA世界盃™】哈蘭德對決俱樂部戰友 英挪之戰話題十足/愛爾達電視20260711",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=omMhr5LgVhM"
+      "url": "https://www.youtube.com/watch?v=UPTSX08H3zE"
     },
     {
-      "id": "lWBIs9LQhkk",
-      "title": "【2026 FIFA世界盃™】法國攻勢猛烈 有望挑戰連三屆進決賽/愛爾達電視20260710",
+      "id": "NwgCfZNRXq4",
+      "title": "【全場精華】西班牙 VS 比利時 8強｜2026 FIFA世界盃™｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=lWBIs9LQhkk"
+      "url": "https://www.youtube.com/watch?v=NwgCfZNRXq4"
     }
   ]
 }
