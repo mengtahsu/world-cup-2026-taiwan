@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T14:10:04.479Z",
+  "updatedAt": "2026-07-11T14:38:41.175Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -122,14 +122,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 卡羅萊納黑豹",
-      "subtitle": "例行賽",
-      "start": "2026-01-03T21:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "邁阿密熱火 vs 明尼蘇達灰狼",
       "subtitle": "例行賽",
@@ -170,14 +162,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 西雅圖海鷹",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "達拉斯獨行俠 vs 休士頓火箭",
       "subtitle": "例行賽",
@@ -198,54 +182,6 @@
       "title": "洛杉磯快艇 vs 波士頓塞爾提克",
       "subtitle": "例行賽",
       "start": "2026-01-04T03:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 紐奧良聖徒",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "明尼蘇達維京人 vs 綠灣包裝工",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 達拉斯牛仔",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 田納西泰坦",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -274,62 +210,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 紐約噴射機",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 底特律雄獅",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 洛杉磯電光",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 堪薩斯市酋長",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 邁阿密海豚",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 華盛頓司令",
-      "subtitle": "例行賽",
-      "start": "2026-01-04T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "邁阿密熱火 vs 紐奧良鵜鶘",
       "subtitle": "例行賽",
@@ -350,14 +230,6 @@
       "title": "鳳凰城太陽 vs 奧克拉荷馬雷霆",
       "subtitle": "例行賽",
       "start": "2026-01-05T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-01-05T01:20Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -706,14 +578,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "卡羅萊納黑豹 vs 洛杉磯公羊",
-      "subtitle": "季後賽",
-      "start": "2026-01-10T21:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "印第安納溜馬 vs 邁阿密熱火",
       "subtitle": "例行賽",
@@ -746,26 +610,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 綠灣包裝工",
-      "subtitle": "季後賽",
-      "start": "2026-01-11T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "猶他爵士 vs 夏洛特黃蜂",
       "subtitle": "例行賽",
       "start": "2026-01-11T02:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 水牛城比爾",
-      "subtitle": "季後賽",
-      "start": "2026-01-11T18:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -782,14 +630,6 @@
       "title": "曼菲斯灰熊 vs 布魯克林籃網",
       "subtitle": "例行賽",
       "start": "2026-01-11T20:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 舊金山 49 人",
-      "subtitle": "季後賽",
-      "start": "2026-01-11T21:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -842,14 +682,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 洛杉磯電光",
-      "subtitle": "季後賽",
-      "start": "2026-01-12T01:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "金州勇士 vs 亞特蘭大老鷹",
       "subtitle": "例行賽",
@@ -886,14 +718,6 @@
       "title": "多倫多暴龍 vs 費城 76 人",
       "subtitle": "例行賽",
       "start": "2026-01-13T00:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 休士頓德州人",
-      "subtitle": "季後賽",
-      "start": "2026-01-13T01:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -1154,14 +978,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 水牛城比爾",
-      "subtitle": "季後賽",
-      "start": "2026-01-17T21:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "達拉斯獨行俠 vs 猶他爵士",
       "subtitle": "例行賽",
@@ -1210,14 +1026,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 舊金山 49 人",
-      "subtitle": "季後賽",
-      "start": "2026-01-18T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "金州勇士 vs 夏洛特黃蜂",
       "subtitle": "例行賽",
@@ -1246,22 +1054,6 @@
       "title": "曼菲斯灰熊 vs 奧蘭多魔術",
       "subtitle": "例行賽",
       "start": "2026-01-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 休士頓德州人",
-      "subtitle": "季後賽",
-      "start": "2026-01-18T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 洛杉磯公羊",
-      "subtitle": "季後賽",
-      "start": "2026-01-18T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -1682,14 +1474,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 新英格蘭愛國者",
-      "subtitle": "季後賽",
-      "start": "2026-01-25T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "NBA季後賽",
       "title": "曼菲斯灰熊 vs 丹佛金塊",
       "subtitle": "例行賽",
@@ -1702,14 +1486,6 @@
       "title": "明尼蘇達灰狼 vs 金州勇士",
       "subtitle": "例行賽",
       "start": "2026-01-25T22:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 洛杉磯公羊",
-      "subtitle": "季後賽",
-      "start": "2026-01-25T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -1822,22 +1598,6 @@
       "title": "紐約尼克 vs 沙加緬度國王",
       "subtitle": "例行賽",
       "start": "2026-01-28T00:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "AFC vs NFC",
-      "subtitle": "季後賽",
-      "start": "2026-02-04T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 西雅圖海鷹",
-      "subtitle": "季後賽",
-      "start": "2026-02-08T23:30Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -3866,6 +3626,14 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 7/10 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-10T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "世界盃",
       "title": "西班牙 vs 比利時",
       "subtitle": "半準決賽",
@@ -3898,14 +3666,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T19:05:00+08:00",
+      "start": "2026-07-11T10:00:00Z",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "世界盃",
@@ -3932,6 +3700,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 7/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-12T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "環法",
       "title": "環法自行車賽・第 9 站",
       "subtitle": "Malemort > Ussel",
@@ -3953,6 +3729,19 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "環法",
+      "title": "環法自行車賽・第 10 站",
+      "subtitle": "Aurillac > Le Lioran",
+      "start": "2026-07-14T10:00:00Z",
+      "distance": "166.6 km",
+      "climb": "山地站",
+      "elevation": 3900,
+      "mapUrl": "https://www.letour.fr/en/stage-10",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
       "sport": "世界盃",
       "title": "W97 vs W98",
       "subtitle": "準決賽",
@@ -3962,16 +3751,16 @@
     },
     {
       "sport": "環法",
-      "title": "環法自行車賽・第 10 站",
-      "subtitle": "Aurillac > Le Lioran",
-      "start": "2026-07-14T19:00:00+08:00",
-      "distance": "166.6 km",
-      "climb": "山地站",
-      "elevation": 3900,
-      "mapUrl": "https://www.letour.fr/en/stage-10",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T10:00:00Z",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "世界盃",
@@ -3983,29 +3772,16 @@
     },
     {
       "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T19:40:00+08:00",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
-    },
-    {
-      "sport": "環法",
       "title": "環法自行車賽・第 12 站",
       "subtitle": "Circuit Nevers Magny-Cours > Chalon-sur-Saône",
-      "start": "2026-07-16T19:20:00+08:00",
+      "start": "2026-07-16T10:00:00Z",
       "distance": "179.1 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-12",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "環法",
@@ -4029,6 +3805,19 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "環法",
+      "title": "環法自行車賽・第 14 站",
+      "subtitle": "Mulhouse > Le Markstein Fellering",
+      "start": "2026-07-18T10:00:00Z",
+      "distance": "155.3 km",
+      "climb": "山地站",
+      "elevation": 3800,
+      "mapUrl": "https://www.letour.fr/en/stage-14",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
       "sport": "F1",
       "title": "Belgian Grand Prix・排位賽",
       "subtitle": "Circuit de Spa-Francorchamps",
@@ -4038,17 +3827,12 @@
       "timeTbd": false
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 14 站",
-      "subtitle": "Mulhouse > Le Markstein Fellering",
-      "start": "2026-07-18T19:00:00+08:00",
-      "distance": "155.3 km",
-      "climb": "山地站",
-      "elevation": 3800,
-      "mapUrl": "https://www.letour.fr/en/stage-14",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4",
-      "timeTbd": false
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 中華隊VS明星隊 7/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -4067,6 +3851,19 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "環法",
+      "title": "環法自行車賽・第 15 站",
+      "subtitle": "Champagnole > Plateau de Solaison",
+      "start": "2026-07-19T10:00:00Z",
+      "distance": "183.9 km",
+      "climb": "山地站",
+      "elevation": 4700,
+      "mapUrl": "https://www.letour.fr/en/stage-15",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
       "sport": "F1",
       "title": "Belgian Grand Prix・正賽",
       "subtitle": "Circuit de Spa-Francorchamps",
@@ -4082,19 +3879,6 @@
       "start": "2026-07-19T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "環法",
-      "title": "環法自行車賽・第 15 站",
-      "subtitle": "Champagnole > Plateau de Solaison",
-      "start": "2026-07-19T19:00:00+08:00",
-      "distance": "183.9 km",
-      "climb": "山地站",
-      "elevation": 4700,
-      "mapUrl": "https://www.letour.fr/en/stage-15",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4249,6 +4033,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4321,14 +4113,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "亞利桑那紅雀 vs 卡羅萊納黑豹",
-      "subtitle": "preseason",
-      "start": "2026-08-07T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
@@ -4377,82 +4161,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 底特律雄獅",
-      "subtitle": "preseason",
-      "start": "2026-08-13T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 綠灣包裝工",
-      "subtitle": "preseason",
-      "start": "2026-08-13T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 印第安納波利斯小馬",
-      "subtitle": "preseason",
-      "start": "2026-08-13T23:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 亞利桑那紅雀",
-      "subtitle": "preseason",
-      "start": "2026-08-14T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 洛杉磯電光",
-      "subtitle": "preseason",
-      "start": "2026-08-14T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 田納西泰坦",
-      "subtitle": "preseason",
-      "start": "2026-08-14T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-14T02:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 丹佛野馬",
-      "subtitle": "preseason",
-      "start": "2026-08-14T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 坦帕灣海盜",
-      "subtitle": "preseason",
-      "start": "2026-08-14T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "華盛頓司令 vs 邁阿密海豚",
-      "subtitle": "preseason",
-      "start": "2026-08-14T23:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4465,66 +4177,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 卡羅萊納黑豹",
-      "subtitle": "preseason",
-      "start": "2026-08-15T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 克里夫蘭布朗",
-      "subtitle": "preseason",
-      "start": "2026-08-15T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 明尼蘇達維京人",
-      "subtitle": "preseason",
-      "start": "2026-08-15T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "堪薩斯市酋長 vs 洛杉磯公羊",
-      "subtitle": "preseason",
-      "start": "2026-08-15T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐奧良聖徒 vs 傑克森維爾美洲虎",
-      "subtitle": "preseason",
-      "start": "2026-08-15T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "巴爾的摩烏鴉 vs 費城老鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-15T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-15T23:15:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 達拉斯牛仔",
-      "subtitle": "preseason",
-      "start": "2026-08-16T00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4561,46 +4217,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 拉斯維加斯突襲者",
-      "subtitle": "preseason",
-      "start": "2026-08-21T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯電光 vs 舊金山 49 人",
-      "subtitle": "preseason",
-      "start": "2026-08-21T02:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 紐約噴射機",
-      "subtitle": "preseason",
-      "start": "2026-08-21T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 卡羅萊納黑豹",
-      "subtitle": "preseason",
-      "start": "2026-08-21T23:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 綠灣包裝工",
-      "subtitle": "preseason",
-      "start": "2026-08-22T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4618,90 +4234,10 @@
       "timeTbd": false
     },
     {
-      "sport": "NFL季後賽",
-      "title": "底特律雄獅 vs 華盛頓司令",
-      "subtitle": "preseason",
-      "start": "2026-08-22T16:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "克里夫蘭布朗 vs 水牛城比爾",
-      "subtitle": "preseason",
-      "start": "2026-08-22T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "印第安納波利斯小馬 vs 亞特蘭大獵鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-22T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "明尼蘇達維京人 vs 巴爾的摩烏鴉",
-      "subtitle": "preseason",
-      "start": "2026-08-22T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 紐奧良聖徒",
-      "subtitle": "preseason",
-      "start": "2026-08-22T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "邁阿密海豚 vs 紐約巨人",
-      "subtitle": "preseason",
-      "start": "2026-08-22T20:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 芝加哥熊",
-      "subtitle": "preseason",
-      "start": "2026-08-22T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 費城老鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-22T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 堪薩斯市酋長",
-      "subtitle": "preseason",
-      "start": "2026-08-22T23:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-23T01:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞利桑那紅雀 vs 達拉斯牛仔",
-      "subtitle": "preseason",
-      "start": "2026-08-23T02:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4723,14 +4259,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 西雅圖海鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-24T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
@@ -4747,50 +4275,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 匹茲堡鋼人",
-      "subtitle": "preseason",
-      "start": "2026-08-27T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
       "start": "2026-08-27T23:15:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "克里夫蘭布朗 vs 新英格蘭愛國者",
-      "subtitle": "preseason",
-      "start": "2026-08-28T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 舊金山 49 人",
-      "subtitle": "preseason",
-      "start": "2026-08-28T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯電光 vs 洛杉磯公羊",
-      "subtitle": "preseason",
-      "start": "2026-08-28T02:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "巴爾的摩烏鴉 vs 華盛頓司令",
-      "subtitle": "preseason",
-      "start": "2026-08-28T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4803,98 +4291,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "邁阿密海豚 vs 亞特蘭大獵鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-28T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "卡羅萊納黑豹 vs 休士頓德州人",
-      "subtitle": "preseason",
-      "start": "2026-08-28T23:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 紐約巨人",
-      "subtitle": "preseason",
-      "start": "2026-08-28T23:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 坦帕灣海盜",
-      "subtitle": "preseason",
-      "start": "2026-08-28T23:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "達拉斯牛仔 vs 紐奧良聖徒",
-      "subtitle": "preseason",
-      "start": "2026-08-29T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "綠灣包裝工 vs 亞利桑那紅雀",
-      "subtitle": "preseason",
-      "start": "2026-08-29T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "堪薩斯市酋長 vs 西雅圖海鷹",
-      "subtitle": "preseason",
-      "start": "2026-08-29T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 辛辛那提孟加拉虎",
-      "subtitle": "preseason",
-      "start": "2026-08-29T00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 明尼蘇達維京人",
-      "subtitle": "preseason",
-      "start": "2026-08-29T01:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "印第安納波利斯小馬 vs 底特律雄獅",
-      "subtitle": "preseason",
-      "start": "2026-08-29T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
       "start": "2026-08-29T17:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 芝加哥熊",
-      "subtitle": "preseason",
-      "start": "2026-08-29T22:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4989,26 +4389,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 新英格蘭愛國者",
-      "subtitle": "例行賽",
-      "start": "2026-09-10T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-10T02:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 舊金山 49 人",
-      "subtitle": "例行賽",
-      "start": "2026-09-11T00:35Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -5047,70 +4431,6 @@
       "timeTbd": false
     },
     {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 坦帕灣海盜",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "底特律雄獅 vs 紐奧良聖徒",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 紐約噴射機",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "印第安納波利斯小馬 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 亞特蘭大獵鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "卡羅萊納黑豹 vs 芝加哥熊",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 水牛城比爾",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
@@ -5119,58 +4439,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 邁阿密海豚",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "明尼蘇達維京人 vs 綠灣包裝工",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 華盛頓司令",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯電光 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-09-13T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 達拉斯牛仔",
-      "subtitle": "例行賽",
-      "start": "2026-09-14T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
       "start": "2026-09-14T22:40:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "堪薩斯市酋長 vs 丹佛野馬",
-      "subtitle": "例行賽",
-      "start": "2026-09-15T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -5199,14 +4471,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 底特律雄獅",
-      "subtitle": "例行賽",
-      "start": "2026-09-18T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -5223,130 +4487,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 卡羅萊納黑豹",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 明尼蘇達維京人",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 費城老鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 匹茲堡鋼人",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 綠灣包裝工",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "巴爾的摩烏鴉 vs 紐奧良聖徒",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 辛辛那提孟加拉虎",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 傑克森維爾美洲虎",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯電光 vs 拉斯維加斯突襲者",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-20T20:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "達拉斯牛仔 vs 華盛頓司令",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞利桑那紅雀 vs 西雅圖海鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 邁阿密海豚",
-      "subtitle": "例行賽",
-      "start": "2026-09-20T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "堪薩斯市酋長 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-09-21T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 紐約巨人",
-      "subtitle": "例行賽",
-      "start": "2026-09-22T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -5363,14 +4507,6 @@
       "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-24T02:10:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "綠灣包裝工 vs 亞特蘭大獵鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-25T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -5417,266 +4553,10 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 洛杉磯電光",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "克里夫蘭布朗 vs 卡羅萊納黑豹",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "底特律雄獅 vs 紐約噴射機",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "印第安納波利斯小馬 vs 休士頓德州人",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "邁阿密海豚 vs 堪薩斯市酋長",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 田納西泰坦",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 辛辛那提孟加拉虎",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "華盛頓司令 vs 西雅圖海鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 新英格蘭愛國者",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-27T19:05:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 明尼蘇達維京人",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "達拉斯牛仔 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐奧良聖徒 vs 拉斯維加斯突襲者",
-      "subtitle": "例行賽",
-      "start": "2026-09-27T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 洛杉磯公羊",
-      "subtitle": "例行賽",
-      "start": "2026-09-28T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 費城老鷹",
-      "subtitle": "例行賽",
-      "start": "2026-09-29T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "克里夫蘭布朗 vs 匹茲堡鋼人",
-      "subtitle": "例行賽",
-      "start": "2026-10-02T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "華盛頓司令 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T13:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 新英格蘭愛國者",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 紐約噴射機",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 傑克森維爾美洲虎",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 洛杉磯公羊",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 綠灣包裝工",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "巴爾的摩烏鴉 vs 田納西泰坦",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 達拉斯牛仔",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "明尼蘇達維京人 vs 邁阿密海豚",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 堪薩斯市酋長",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 丹佛野馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 洛杉磯電光",
-      "subtitle": "例行賽",
-      "start": "2026-10-04T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "卡羅萊納黑豹 vs 底特律雄獅",
-      "subtitle": "例行賽",
-      "start": "2026-10-05T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐奧良聖徒 vs 亞特蘭大獵鷹",
-      "subtitle": "例行賽",
-      "start": "2026-10-06T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "達拉斯牛仔 vs 坦帕灣海盜",
-      "subtitle": "例行賽",
-      "start": "2026-10-09T00:15Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -5699,238 +4579,6 @@
       "timeTbd": false
     },
     {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 費城老鷹",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T13:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 休士頓德州人",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "邁阿密海豚 vs 辛辛那提孟加拉虎",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 拉斯維加斯突襲者",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐奧良聖徒 vs 明尼蘇達維京人",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "華盛頓司令 vs 紐約巨人",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯電光 vs 丹佛野馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "綠灣包裝工 vs 芝加哥熊",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞利桑那紅雀 vs 底特律雄獅",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 舊金山 49 人",
-      "subtitle": "例行賽",
-      "start": "2026-10-11T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-10-12T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 水牛城比爾",
-      "subtitle": "例行賽",
-      "start": "2026-10-13T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 西雅圖海鷹",
-      "subtitle": "例行賽",
-      "start": "2026-10-16T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 休士頓德州人",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T13:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 芝加哥熊",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "克里夫蘭布朗 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "印第安納波利斯小馬 vs 田納西泰坦",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "新英格蘭愛國者 vs 紐約噴射機",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約巨人 vs 紐奧良聖徒",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 卡羅萊納黑豹",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 匹茲堡鋼人",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "堪薩斯市酋長 vs 洛杉磯電光",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 水牛城比爾",
-      "subtitle": "例行賽",
-      "start": "2026-10-18T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "綠灣包裝工 vs 達拉斯牛仔",
-      "subtitle": "例行賽",
-      "start": "2026-10-19T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "舊金山 49 人 vs 華盛頓司令",
-      "subtitle": "例行賽",
-      "start": "2026-10-20T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "芝加哥熊 vs 新英格蘭愛國者",
-      "subtitle": "例行賽",
-      "start": "2026-10-23T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "F1",
       "title": "United States Grand Prix・排位賽",
       "subtitle": "Circuit of the Americas",
@@ -5938,70 +4586,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐奧良聖徒 vs 匹茲堡鋼人",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T13:30Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "亞特蘭大獵鷹 vs 舊金山 49 人",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "田納西泰坦 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "明尼蘇達維京人 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 邁阿密海豚",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "卡羅萊納黑豹 vs 坦帕灣海盜",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "巴爾的摩烏鴉 vs 辛辛那提孟加拉虎",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "休士頓德州人 vs 紐約巨人",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T17:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "F1",
@@ -6013,54 +4597,6 @@
       "timeTbd": false
     },
     {
-      "sport": "NFL季後賽",
-      "title": "亞利桑那紅雀 vs 丹佛野馬",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T20:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "底特律雄獅 vs 綠灣包裝工",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "拉斯維加斯突襲者 vs 洛杉磯公羊",
-      "subtitle": "例行賽",
-      "start": "2026-10-25T20:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 堪薩斯市酋長",
-      "subtitle": "例行賽",
-      "start": "2026-10-26T00:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "費城老鷹 vs 達拉斯牛仔",
-      "subtitle": "例行賽",
-      "start": "2026-10-27T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "綠灣包裝工 vs 卡羅萊納黑豹",
-      "subtitle": "例行賽",
-      "start": "2026-10-30T00:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "F1",
       "title": "墨西哥 City Grand Prix・排位賽",
       "subtitle": "Autódromo Hermanos Rodríguez",
@@ -6070,70 +4606,6 @@
       "timeTbd": false
     },
     {
-      "sport": "NFL季後賽",
-      "title": "水牛城比爾 vs 巴爾的摩烏鴉",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "辛辛那提孟加拉虎 vs 田納西泰坦",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "達拉斯牛仔 vs 亞利桑那紅雀",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "底特律雄獅 vs 明尼蘇達維京人",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "紐約噴射機 vs 拉斯維加斯突襲者",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "匹茲堡鋼人 vs 克里夫蘭布朗",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "坦帕灣海盜 vs 亞特蘭大獵鷹",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "傑克森維爾美洲虎 vs 印第安納波利斯小馬",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T18:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "F1",
       "title": "墨西哥 City Grand Prix・正賽",
       "subtitle": "Autódromo Hermanos Rodríguez",
@@ -6141,46 +4613,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "洛杉磯公羊 vs 洛杉磯電光",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T21:05Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "丹佛野馬 vs 堪薩斯市酋長",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "邁阿密海豚 vs 新英格蘭愛國者",
-      "subtitle": "例行賽",
-      "start": "2026-11-01T21:25Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "華盛頓司令 vs 費城老鷹",
-      "subtitle": "例行賽",
-      "start": "2026-11-02T01:20Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "NFL季後賽",
-      "title": "西雅圖海鷹 vs 芝加哥熊",
-      "subtitle": "例行賽",
-      "start": "2026-11-03T01:15Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
     },
     {
       "sport": "F1",
@@ -6265,12 +4697,16 @@
       "note": "2026 季後賽對戰與時間尚未公布"
     },
     {
-      "sport": "NFL 季後賽",
-      "note": "2026–27 季後賽對戰與時間尚未公布"
+      "sport": "NFL",
+      "note": "只顯示 MOD／愛爾達 EPG 已列出的 NFL 轉播，EPG 尚未列出則不顯示"
+    },
+    {
+      "sport": "UFC",
+      "note": "只顯示 MOD／愛爾達 EPG 已列出的 UFC 轉播，EPG 尚未列出則不顯示"
     },
     {
       "sport": "中華職棒季後賽",
-      "note": "2026 對戰與 MOD 分流尚未公布"
+      "note": "只顯示愛爾達 EPG 已列出的中職轉播"
     }
   ]
 }
