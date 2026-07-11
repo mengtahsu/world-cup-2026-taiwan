@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T14:38:41.175Z",
+  "updatedAt": "2026-07-11T14:39:21.887Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3666,14 +3666,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T10:00:00Z",
+      "start": "2026-07-11T19:05:00+08:00",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3825,14 +3825,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒37年明星對抗賽 中華隊VS明星隊 7/18 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-18T18:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -4031,14 +4023,6 @@
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
