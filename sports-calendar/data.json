@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:51:17.952Z",
+  "updatedAt": "2026-07-11T22:31:00.257Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3881,14 +3881,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-19T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "世界盃",
       "title": "W101 vs W102",
       "subtitle": "決賽",
@@ -3945,14 +3937,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 7/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
