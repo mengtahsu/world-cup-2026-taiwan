@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T12:06:58.322Z",
+  "updatedAt": "2026-07-11T15:17:39.801Z",
   "matches": [
     {
       "number": 1,
@@ -1410,8 +1410,8 @@
       "round": "Semi-final",
       "date": "2026-07-14",
       "kickoff": "2026-07-14T19:00:00.000Z",
-      "team1": "W97",
-      "team2": "W98",
+      "team1": "France",
+      "team2": "Spain",
       "ground": "Dallas (Arlington)"
     },
     {
@@ -2978,6 +2978,12 @@
   ],
   "news": [
     {
+      "title": "2026 世界盃 7/12 賽程：挪威 vs 英格蘭、阿根廷 vs 瑞士直播轉播一次看 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zRkYtczZJUzJEa252Uy0yZlg1QmNHZ0kxeFRqMW82WGRQdEJpYTdLSE4zM0NncTktOTBsYlJwYW9aRVpzcVRtX29aYXo?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 09:04:03 GMT",
+      "source": "蘋果仁"
+    },
+    {
       "title": "《2026世界盃》8強英格蘭對挪威：三獅軍團能否鎖住世界最強前鋒？ - 運動視界Sports Vision",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0walVzcTk4Qy1zYU9fd243Y3BCZm4tampYWEV6TjBIY2NKT1RjX3RwTHd2enR1RDFVRW93dDU0cS05RW9YVzhBWm1wTnFCb3BB?oc=5",
       "pubDate": "Sat, 11 Jul 2026 04:07:57 GMT",
@@ -2988,12 +2994,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpUQV9JLUZXZzg2c3ZEb3dUSlBmSU9McHlELWZKWE9XRU5YMU5yUHFiOG80M2hDLVBXWVMySXBXMlc5M084QlpUU0HSAVJBVV95cUxNZVJ5M3ZobVBGQzVaZHNRR2k5Sks0NVRyQjd3QmxCc2ZEVngtWi1PTnM2OThqeVRnRFh5bU1Ld3pvUU52cVZzS2FEdHlpUk9YejlR?oc=5",
       "pubDate": "Fri, 10 Jul 2026 22:00:00 GMT",
       "source": "NOWnews今日新聞"
-    },
-    {
-      "title": "2026世界盃｜挪威對英格蘭登場！哈蘭德與貝林漢姆「相愛相殺」：最難纏的對手，是最熟悉的朋友 - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnVHNkswR0lOMmpkRFR2MUVUOEF4QlQyVFFaaEE3Q2xFLV9yNzh1V1VyYkVGaXZJRFoyeUw5Sm1tNjFFd3haVE1lZTRpV2h4WUEwcjd3UHpWYXJ1c3dWMFNIemR1YlRadktrdmtDX1hyYy0wWUhKU1lITUxPNWJ0ODFMUjhOVWwyWTZ6LUZLRDdJQThiUzN4bThSYTJXNElSRFB3SzMxMllJWlFmaFQwc3Y3UQ?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 02:16:23 GMT",
-      "source": "Harper's BAZAAR"
     },
     {
       "title": "世足》阿根廷明天若輸瑞士 本屆4強賽將成為「歐洲盃」 - 自由體育",
@@ -3014,21 +3014,21 @@
       "source": "TVBS新聞網"
     },
     {
+      "title": "2026世界盃8強-西班牙2-1比利時-Lammens致命失誤遭Merino絕殺- 足球 - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GaGFBT2NybVhUZHRGb1RQSHVkZC0zaTVZRTFuQ3JRM2xVUjQ0U00yUWQ4ZGROQlozM2VYV1NKV2NtNnU0Q0V5N2xxaE85SFNK?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 09:26:52 GMT",
+      "source": "運動視界Sports Vision"
+    },
+    {
       "title": "2026 世界盃 7/11 賽程：西班牙 vs 比利時 8 強直播、轉播、台灣比賽時間一次看 - 蘋果仁",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cmM5b1FTV0J5RjRTdjlyWXoxUmZIRXJKd2Iwb2JEbVRrQU5ranFRbjlMNXpUaTFPcngyWktkQ3dvRGhtenBLbF8zWXU?oc=5",
       "pubDate": "Fri, 10 Jul 2026 06:54:03 GMT",
       "source": "蘋果仁"
     },
     {
-      "title": "《2026世界盃》連兩戰絕殺對手並晉級四強 代表西班牙進入爭冠行列了嗎？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84YWNNdVVrT1k0Y0Q1aEFKNTk4QmgzclhGcWJhWTJGekYyLXNiaENTa2RQMG9Mbll6OXNqN1F3RWRDb1FoMzMwOUJ2blJjbzFj?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 11:29:26 GMT",
-      "source": "運動視界Sports Vision"
-    },
-    {
-      "title": "世足》晉級4強將強碰冠軍大熱門法國！ 西班牙主帥只想著1件事 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IeWJ6T0dsa2tQdEhFbWdSZVFqRmhZNGNqMmg2eDVILXlmQm5KWFlZYlJtV1ZGbmVDWTRFcFc0cVFpVUVGMERyaVI3V2dOUmpUbC1KUlpOa0Vnbk9fVFJaONIBZkFVX3lxTE9IaW5Da3dDNHczdFU2aVBKNlB5LTV3UDVETUkxNGFWcE5wY05kSGRlRUVuWTQtTFotenBoTXYwRE1wOUlHVlFwRGlidzlTclU5cXp6dFVYVExkVm5fa3lMZ1lnVF9nUQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 11:59:00 GMT",
+      "title": "世足》「沒有球隊敢和我們正面對決」西班牙18歲新星亞馬爾發豪語 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPLVBuMFBhMHlBUUVzVDhLbEFncVJEeE94SEFEQ2FISklWTXluRktWdFBLMHE2NWt0UTRyVnRVWnhyZlIxUzBqMVRrVVA0NERiM0g5a2Fya1RYN2toVkxER19sR3ZoOGhzZWxladIBZkFVX3lxTE9lT2FRYmZ5RlUxcFkzU1JXTExvTkg4UUlKSkNsTVBURGlabkRSSVVUREEyenVndU1WOUhhNWdtV0ZROU5DbWx2cUtxRExLODBvY09xVVVCUkhWSEIzc2RDMmNrZzJCdw?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 14:11:00 GMT",
       "source": "自由體育"
     }
   ],
@@ -3038,14 +3038,14 @@
       "away": "England",
       "homePrice": 3.8,
       "drawPrice": 3.75,
-      "awayPrice": 1.92
+      "awayPrice": 1.9
     },
     {
       "home": "Argentina",
       "away": "Switzerland",
-      "homePrice": 1.73,
-      "drawPrice": 3.55,
-      "awayPrice": 6.1
+      "homePrice": 1.72,
+      "drawPrice": 3.65,
+      "awayPrice": 6
     },
     {
       "home": "France",
