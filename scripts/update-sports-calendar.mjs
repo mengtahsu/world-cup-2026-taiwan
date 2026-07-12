@@ -76,7 +76,7 @@ function geminiText(result){
 let lastGeminiError='';
 const compactError=s=>String(s||'').replace(/\s+/g,' ').slice(0,180);
 async function postGeminiJson(url,body){
-  const r=await fetch(url,{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(20000)});
+  const r=await fetch(url,{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(8000)});
   if(!r.ok)throw Error(`${r.status} ${compactError(await r.text())}`);
   return await r.json();
 }
