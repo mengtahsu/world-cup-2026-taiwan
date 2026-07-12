@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T09:36:44.464Z",
+  "updatedAt": "2026-07-12T09:38:41.572Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3709,19 +3709,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(136)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(543)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-12T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "美食打卡趣(201)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
-      "start": "2026-07-12T19:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "花甲少年趣旅行(136)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-12T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "環法",
@@ -3747,7 +3747,7 @@
     {
       "sport": "MOD綜藝",
       "title": "第六感：趣遊都市(1)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "subtitle": "年輕熱門精選・tvN・18:00",
       "start": "2026-07-13T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
@@ -3755,7 +3755,7 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (9)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-13T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
@@ -3776,18 +3776,18 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (11)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-14T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(120)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(165)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-14T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "世界盃",
@@ -3813,18 +3813,18 @@
     {
       "sport": "MOD綜藝",
       "title": "燦盛這料理(5)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "subtitle": "年輕熱門精選・tvN・18:00",
       "start": "2026-07-15T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
-      "title": "柳先生的美食遊學團(3)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
-      "start": "2026-07-15T18:30:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "殭屍偶像 (13)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-15T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "世界盃",
@@ -3850,18 +3850,18 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (15)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-16T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(122)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(167)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-16T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "環法",
@@ -3878,19 +3878,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(123)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(168)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-17T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "挑戰美食堂第4季:加州聖荷西",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "奈潔拉的動人美食S1(5)",
+      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
       "start": "2026-07-17T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -3924,19 +3924,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(137)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(547)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-18T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "種豆得豆：牧場篇(4)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:20",
-      "start": "2026-07-18T18:20:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "花甲少年趣旅行(137)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -4191,6 +4191,14 @@
       "start": "2026-08-04T00:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-04T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4809,82 +4817,20 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：趣遊都市(1)",
-        "time": "18:00",
-        "date": "2026-07-13",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (9)",
-        "time": "18:00",
-        "date": "2026-07-13",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "燦盛這料理(5)",
-        "time": "18:00",
-        "date": "2026-07-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "柳先生的美食遊學團(3)",
-        "time": "18:30",
-        "date": "2026-07-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "種豆得豆：牧場篇(4)",
-        "time": "18:20",
-        "date": "2026-07-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(136)",
-        "time": "18:00",
-        "date": "2026-07-12",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      }
-    ],
-    "modSchedule": [
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(136)",
-        "time": "18:00",
-        "date": "2026-07-12",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "美食打卡趣(201)",
-        "time": "19:00",
+        "title": "進擊的台灣(543)",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(136)",
+        "time": "18:00",
         "date": "2026-07-12",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4921,9 +4867,71 @@
         "score": 16
       },
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      }
+    ],
+    "modSchedule": [
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(543)",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(120)",
+        "title": "花甲少年趣旅行(136)",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：趣遊都市(1)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (9)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (11)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
         "time": "18:00",
         "date": "2026-07-14",
         "source": "中華電信 MOD 7 日節目表",
@@ -4941,10 +4949,10 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "柳先生的美食遊學團(3)",
-        "time": "18:30",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (13)",
+        "time": "18:00",
         "date": "2026-07-15",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4961,9 +4969,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(122)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(167)",
         "time": "18:00",
         "date": "2026-07-16",
         "source": "中華電信 MOD 7 日節目表",
@@ -4971,9 +4979,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(123)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(168)",
         "time": "18:00",
         "date": "2026-07-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -4981,11 +4989,21 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:加州聖荷西",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "奈潔拉的動人美食S1(5)",
         "time": "18:00",
         "date": "2026-07-17",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(547)",
+        "time": "18:00",
+        "date": "2026-07-18",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4995,16 +5013,6 @@
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(137)",
         "time": "18:00",
-        "date": "2026-07-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "種豆得豆：牧場篇(4)",
-        "time": "18:20",
         "date": "2026-07-18",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5096,12 +5104,10 @@
       }
     ],
     "meta": {
-      "modSelector": "gemini",
-      "modApi": "interactions",
-      "modApiAttempt": 1,
-      "modCandidateCount": 56,
+      "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
       "netflixTitleMode": "map"
     }
   }
