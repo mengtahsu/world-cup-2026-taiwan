@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:09:38.989Z",
+  "updatedAt": "2026-07-12T03:59:53.866Z",
   "matches": [
     {
       "number": 1,
@@ -1394,6 +1394,14 @@
       "kickoff": "2026-07-11T21:00:00.000Z",
       "team1": "Norway",
       "team2": "England",
+      "score": [
+        1,
+        1
+      ],
+      "extraTime": [
+        1,
+        2
+      ],
       "ground": "Miami (Miami Gardens)"
     },
     {
@@ -1403,6 +1411,14 @@
       "kickoff": "2026-07-12T01:00:00.000Z",
       "team1": "Argentina",
       "team2": "Switzerland",
+      "score": [
+        1,
+        1
+      ],
+      "extraTime": [
+        3,
+        1
+      ],
       "ground": "Kansas City"
     },
     {
@@ -2228,6 +2244,61 @@
       }
     },
     {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "goals": 6,
+      "matches": [
+        {
+          "number": 67,
+          "opponent": "Croatia",
+          "date": "2026-06-17",
+          "kickoff": "2026-06-17T20:00:00.000Z",
+          "score": [
+            4,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 71,
+          "opponent": "Panama",
+          "date": "2026-06-27",
+          "kickoff": "2026-06-27T21:00:00.000Z",
+          "score": [
+            0,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 92,
+          "opponent": "Mexico",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 2
+        },
+        {
+          "number": 99,
+          "opponent": "Norway",
+          "date": "2026-07-11",
+          "kickoff": "2026-07-11T21:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 2
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
+        "bio": "Attacking Midfield・England・生於 2003-06-29"
+      }
+    },
+    {
       "name": "Ousmane Dembélé",
       "team": "France",
       "goals": 5,
@@ -2313,50 +2384,6 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
         "bio": "Left Wing・Senegal・生於 1998-02-25"
-      }
-    },
-    {
-      "name": "Jude Bellingham",
-      "team": "England",
-      "goals": 4,
-      "matches": [
-        {
-          "number": 67,
-          "opponent": "Croatia",
-          "date": "2026-06-17",
-          "kickoff": "2026-06-17T20:00:00.000Z",
-          "score": [
-            4,
-            2
-          ],
-          "goals": 1
-        },
-        {
-          "number": 71,
-          "opponent": "Panama",
-          "date": "2026-06-27",
-          "kickoff": "2026-06-27T21:00:00.000Z",
-          "score": [
-            0,
-            2
-          ],
-          "goals": 1
-        },
-        {
-          "number": 92,
-          "opponent": "Mexico",
-          "date": "2026-07-05",
-          "kickoff": "2026-07-06T00:00:00.000Z",
-          "score": [
-            2,
-            3
-          ],
-          "goals": 2
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
-        "bio": "Attacking Midfield・England・生於 2003-06-29"
       }
     },
     {
@@ -2978,22 +3005,40 @@
   ],
   "news": [
     {
-      "title": "《2026世界盃》8強英格蘭對挪威：三獅軍團能否鎖住世界最強前鋒？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0walVzcTk4Qy1zYU9fd243Y3BCZm4tampYWEV6TjBIY2NKT1RjX3RwTHd2enR1RDFVRW93dDU0cS05RW9YVzhBWm1wTnFCb3BB?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 04:07:57 GMT",
-      "source": "運動視界Sports Vision"
+      "title": "2026 世界盃【阿根廷 vs 瑞士】直播：8 強淘汰賽時間、轉播直播線上看平台 - 蘋果仁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qLURILVRmWmFwQnlpSnJsS3lsT2RLdkstTlVMcUZSbW12NzQ0djBMYnhMS1gyZEFQQ0ZqbDZad3NFU0RrWjJJQmxRSHI?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "source": "蘋果仁"
     },
     {
-      "title": "挪威對英格蘭2026世界盃8強｜免費直播時間+國家足球隊球員 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQN2NJNDI4QmVqQlY2UGNWWW9Ncmh2R0U3UEZpMEctTGdaQzVBUUJnSVFfOC1BdWxvSTBDTzBWYmpqUWNaWU9YVWNYZHVGS2hzQWRhVkVMaXVvZkUyVG1lQVdrRDZUemhxcDhVRjg1Y0FqVHR5aF9YWFMyMk4tc0JSYjlLZUlxTTc3ZVllbmdibGhDbVhjRThoNk9XNWEtTW02ZWJXcUNkNDV2LV9mNGptajNGUHYxcEFDeEIzeVBJVzZGRGhmU0NJNm5JSENtOTZwSzNzbllLNTlidHhGcDdlbkRMZVpJUTkwZW5RaVUyOFdXNHU0S18yTU9teGE5ZnNqTXlqRWN6WFViNkdJZmxkSGxKOU5vTnBlTmxRMGRpQUhvX2VVSHlhdFo2d2pRcG5QTUNvUTJ4eEczZHRqUExYRnpYaGpmUzlpYTh0WHlSSHVSWnV3T1FHYUJrSUo2VUc5MV9NbVVFNk9iV1NDWnpXM19lOUg4YXhSQWVPZmZUX2hjQjc4SkQ3aFNSeHZMd3pLaWZB?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 10:00:53 GMT",
+      "title": "阿根廷對瑞士2026世界盃直播線上看！亮點預測：梅西能帶領團隊晉級4強，衛冕冠軍嗎？ - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem45ZDZ2VDVTM0k3WjJXbHJYamFsb3NnWEkzWEZhYVBpTnMzSTdXeVdoVWxtWW1POVBzd0xrajd6cTk1VVdjMFh2bWhxQkFLVzBQX0NRNE1wR3MtVTVjRE1PaDE3X2RrbjJ0cUZISEhUSmlaYjUxQmZYZ3VTRlRJZlc0T1Ezc2FkTTFxbzJsQldXNjVBbVNzMnFrU1lwdjl5RTZoajlKa1NDUGppeXFTOWdn?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 22:41:46 GMT",
+      "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "世足》阿根廷、瑞士正規時間分不出勝負 1比1加班延長賽 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNYlFZT2QzRVZwSDJaY0tzMWRScnZ4WmwtbHRLQnkwVWRVTURZODNVaWlVNUtDVFhRc1VoZjgyWVh3c0pKSzFGOVotb01relQ4LUhvRXhxcFNZMmMyZUp2YnR2OFNKZmxsbXNFdXN5MWlEQVBlaGlVdHNiMnN0UXFYN0J5aHV2NnBTd0FwdEYtbWpoLVhFdlFacUI0VjVUakNyZ3FVb29tSzkzTXdkWEs4c3JJXzdrdnlXcnR0ZnRQeWRVT2VoNEZreFZZWmdLX1U1SnNtbFVOWGh6ZnlGTFdRU0wwVjdHa0pRbHRDLV9ISjVlWjVTZ3RuWUw5UFNDOEdaYm1DT1dPa2pQNHh4TWFPQTFGeGIwZm55bU9OQ3pNb190MHY5RlVuMTdpTUt1QWk4clpiR0pTRlF0QWtnUnhpQWE2aFZsNUpJTFZBeFk5OGdnZEg2dkE2V0pnQXhoSmQyZkR2SEROUjdaQmlFOVlvbThxeDNEMzJ2ajhfSklBZmU?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 03:02:44 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世界盃7/12挪威VS英格蘭8強淘汰賽懶人包》全分析、預測先發名單 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpUQV9JLUZXZzg2c3ZEb3dUSlBmSU9McHlELWZKWE9XRU5YMU5yUHFiOG80M2hDLVBXWVMySXBXMlc5M084QlpUU0HSAVJBVV95cUxNZVJ5M3ZobVBGQzVaZHNRR2k5Sks0NVRyQjd3QmxCc2ZEVngtWi1PTnM2OThqeVRnRFh5bU1Ld3pvUU52cVZzS2FEdHlpUk9YejlR?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 22:00:00 GMT",
+      "source": "NOWnews今日新聞"
+    },
+    {
+      "title": "挪威對英格蘭2026世界盃8強｜賽果+國家足球隊球員名單出爐 - 香港01",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOSDV5aGg1UlRkQUxTbzlhYTBYeUpzVTR6cnhoSFZyM21FT3BLVWhVYmpITnVkdmhENGNHMFZ1OVFGZ0FZWi0teTlMR0YzelBWRFlmbVBtZUdBQmtLZGo3eEVvRDYwNlpOOE1ZbE0tUDUzYUFzMEIzM0U4OXNZbTlMRmZyUFVVWDdCRVBZX1BRdWZhVGZsa05TWjhZc2VHb1BmOVhXMFZIQ1loWDc0a2pKZ3pyTXRwQUVqM0VfeHJCdGRmM0p2UlpUZHhxM3pzUlpkXzZ4WnktQ1oxaGo4Y3h3WWYyR2ozTmh3QldYcHlBZXBqUWkwcDJiWVo4VzR6djgyT253MWtJWW9kdGgxbVZRQktrVkhSS19FVDRTaEQ1WkhleE94bFFpaHg5Y3U0QXNtNHBuLUJac0FRZW1TZV9QWDJFLURMVHBzelJ3NHoySmdkZm5ydjNYZXRRMDNMZXlybEFqQVRST0ZhTGd0YkV5Y2t3ZF9BY0liZFpGSUIyUEd4Y2d5ODAzaDI5QW4yQXhyYUs4?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 23:49:32 GMT",
       "source": "香港01"
     },
     {
-      "title": "2026 世界盃 7/12 賽程：挪威 vs 英格蘭、阿根廷 vs 瑞士直播轉播一次看 - 蘋果仁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zRkYtczZJUzJEa252Uy0yZlg1QmNHZ0kxeFRqMW82WGRQdEJpYTdLSE4zM0NncTktOTBsYlJwYW9aRVpzcVRtX29aYXo?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 09:04:03 GMT",
-      "source": "蘋果仁"
+      "title": "世足》英格蘭延長賽2比1擊敗挪威 Bellingham進兩球率隊前進4強 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNaGwtS2M2MlduZ3QzTTVDNHNtZVJwa3R6QTQ0R3lBUDQzQ3JjLUdrbjBzcUtqZTZBVlR4MkNFYzNmRG1iRDI4UXhJVE00QThaeGpWUU5OYmNHRGlPVU9ldGtPQlU3eW54OEVxUW9odWtXZ2ZIT2tPRE1xekVKaVdRdllHRTVVdXVkeWdZSjJBem9YRjBQNFYzcGJYNWlaT1AyRlpYVU1GYjR4cVpBdmNaMkhsVnRqcEdlTFBDbzFmNlRaaDBQZldWNHdDOElzUGJFS2RPdDVJS1BGNzFlUGRlWVVyWFFjbDNUM1dkY1JWWHgtRjl6VlBPVkIzTWpfcmc4b2dQRENnSk9yTTBTZ0JFRmNuQWctUXhxMVVlYTRpclBHYUlHZVg3bFBvYzVReEhZU2g1Z25MZ0R4MFp0VnlIaHB0RjNRNUlISTdubkNvTmNKQlpRRmRaNEV1aEpPYmpscHBBUWZONnNPalF3VFo2cnJNZEJZOTQ?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 23:50:39 GMT",
+      "source": "Yahoo運動"
     },
     {
       "title": "世足》才剛踢完世界盃 南非25歲國腳亞當斯過世、外媒指疑似輕生 - 自由體育",
@@ -3002,77 +3047,52 @@
       "source": "自由體育"
     },
     {
-      "title": "世足賽／才出戰世界盃　25歲南非中場亞當斯驚傳逝世 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XWkhiS00wNU9oRy1HQ2x4bmRGQUJtRmR4WDg0T3hSU182cjZqQVVjajBrWkVFcFNYRDZqcWw3dXptWEtpQ3NNdtIBTEFVX3lxTE9iaEl4WVZYbnJUZm9XTGt5OXd5c0FLbnJTYjRfcmViTlhDU216OThPWlJrMDF2M21ZS2NVVU0xS3hULUdxSmg0b1V2TTM?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 17:00:00 GMT",
-      "source": "三立新聞"
-    },
-    {
-      "title": "世足/南非25歲國腳亞當斯驟逝！世界盃後傳噩耗 死因仍待證實 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNTkhFUklxV0xwTVk1OGVYVmpZS2FFazdrREpZb2xpNFVub0hJQlRuQ1hyZlVnOEptc2FLZTVQYXJxN2x5QjlhNl9TZVhqMXZUdDFITGlReHkwdmFOY3o1R0RxeVYwUEtkb0lxUExZR2hWVmhhcTlvMWlxQVMzSzBKNVZ0akVtcGotVUlDZ0VmZG1RS2R0SVdMZEdxdm5ycmVJVG1vVWtYdlQ5aVhQV25qM1Z0elpKRTlsYTdHVmdiZXV5TEMyUzRtV1hFcm9aNDMyUDFHclZ1SHUzcGtnNmZmREpDb2RXSzVXMnQ4VjZRUU9GVW9zUHJKV2JNcXdZSnRhUkhVYkdsU3lsSXJKSzZrTHRCb0RDWXk4akk1WWRCRm1CMHpqOFkzaGpoZHFNaWVxcGVjUHJIc0UxNUJKY3M2bWZBWHpXT2w3X1dreTBhVHZIZ1Z1b3dIdU05b0dfWHhiQUJRWkN5QkJmSUNxcWZYb0Z0NFRBOGdYSXZ1ZVhVM1gyZTE2eHFMV1JmekgtRHM?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 13:42:57 GMT",
-      "source": "Yahoo運動"
-    },
-    {
-      "title": "世界盃7/12阿根廷VS瑞士8強淘汰賽懶人包》戰力全分析、預測先發 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UU1RLVEo0QVZaX3llLWJTYjRXZzJFTlVydjNLN3RuR1ozczhCQnlGNmpSSkN3NVRQTENXVVEwMGJHMEs4d043MmtVRV_SAVJBVV95cUxPdXZNWlhSNW5YN3Z1RTZ6MnNpc3c1RVE1VlZSN1pHbUV2Ql84V3h2M2M2Z0pzWGYtSm1xZEY4SmR0YUxIeFM4SExuMmtjUWRNSm53?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 22:03:00 GMT",
+      "title": "剛踢完世界盃！南非25歲國腳驚傳自殺身亡　前一天才曬女友放閃照 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLTBaeVV1VU1Vd3JYamxvemxVUVVNTGFkcjBXQkxoWDdLMU1ISnlRQUdFZDZfZlIwZEZqTEZZalh2RXV5R29OdF8zcWrSAVJBVV95cUxNZ2hwZkx4OU9uUi12VU9ROVBUVW9NMDRsMjlzUmNHakhsMktZTzVDQXFvd1RuNTJpYjJUXzBhUUQ0YV9CSkdhZ2tkOTlkR25ab0Z3?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 13:46:29 GMT",
       "source": "NOWnews今日新聞"
     },
     {
-      "title": "世足》阿根廷明天若輸瑞士 本屆4強賽將成為「歐洲盃」 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kUXJ2dHJBMW1aWXNrTElHMXVfQ0VVdG15Sm43bnFqbEptV3BySXRQMHM1SzI2ZGNob2tPdmI2X0JsUHc5ZTg5VlM4Mjk0ZDBiRXIwNDNiNHZXS2pYOENrZ9IBZkFVX3lxTE5wNGE5TXVJc0ZSSENZSEhrVWduaGF4VGFDWVpVZENZeWIzQ0JQcGRxS0dPdE9uU09RMk5OcFlDOUdPUlNGTHdQWVhZQVJOcTd2QjdRLWdrbEF2ajJ5cGk0djVkZlY4dw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 04:34:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "2026世界盃／64年無人衛冕！阿根廷挑戰歷史 瑞士盼「鎖死梅西」首闖4強 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UenVRMm5kRXNqQng3ZXE2UmhjeF9TZGFKMEhkWU1pdFZydDBIZDZVMUo1YVJKTlNlakZ3bXJySDRBTFg0OHlJOXVCblctWjcw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 05:02:00 GMT",
-      "source": "TVBS新聞網"
+      "title": "世界盃2026｜25歲南非國腳突然離世 曾出戰今屆3場分組賽 - 星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNYlB4Q2JUUVcyUVMxcV95c0lWWngzcDdQV3RzY2YzM1NsTUNCaE5aUW9QcnhiSmhSMVRQYWNVamFxOE96NlZ2OGpuUjR5THpSdEFSNUFfTWZWdDFoS1JCZVI2YlFoa3dtS01TR0lrb0xpQ2E1UU5Od042eWRTNjlJOXdoangzS1lRelQzZTZsUlM4LTRncVBSTGh5U0NJS3ZhUE1BcVRpWlZnRGZ0S000OWRieWkzQ091YXJxbnVkMXN6NlVtdFNmZl95TDRmTXNYM1ZINjJ6ZUtwU2ZRWUtNbDdhRG1NS0pQa0hSTk1BOVpHdHF6c1lfMnJzV1pXXzhhZEdrT3JGckx5cWg3SVVMdFdHQ2FUVVRjVlNFdURpS1Z1T2E1RmF5OGo3WW9PVGxEU0M3VDVhOWZDV1hPck5oZmhpa2MzY0NlRm9KUUhEZG9EcjZSRWZINnFaUFBRek5SSWQ1Nw?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 20:51:50 GMT",
+      "source": "星島頭條"
     }
   ],
   "odds": [
     {
-      "home": "Norway",
-      "away": "England",
-      "homePrice": 4.5,
-      "drawPrice": 2.5,
-      "awayPrice": 2
-    },
-    {
-      "home": "Argentina",
-      "away": "Switzerland",
-      "homePrice": 1.7,
-      "drawPrice": 3.6,
-      "awayPrice": 6.25
-    },
-    {
       "home": "France",
       "away": "Spain",
       "homePrice": 2.3,
-      "drawPrice": 3.2,
-      "awayPrice": 3.3
+      "drawPrice": 3.3,
+      "awayPrice": 3.2
+    },
+    {
+      "home": "England",
+      "away": "Argentina",
+      "homePrice": 2.67,
+      "drawPrice": 3.05,
+      "awayPrice": 2.98
     }
   ],
   "videos": [
     {
-      "id": "paAUn3vmdhU",
-      "title": "【2026 FIFA世界盃™】西班牙睽違16年晉級四強 德布勞內渴望休息再出發/愛爾達電視20260711新聞",
+      "id": "ta8YQw3yoU0",
+      "title": "【2026 FIFA世界盃™】英格蘭苦戰淘汰挪威 隊史四度晉級四強/愛爾達電視20260712",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=paAUn3vmdhU"
+      "url": "https://www.youtube.com/watch?v=ta8YQw3yoU0"
     },
     {
-      "id": "dELwUollMcc",
-      "title": "【2026 FIFA世界盃™】西班牙梅里諾英雄命 連兩場替補攻進絕殺球/愛爾達電視20260711",
+      "id": "un7j-LerC5c",
+      "title": "【2026 FIFA世界盃™】貝林漢梅開二度 英格蘭延長賽射倒挪威/愛爾達電視20260712",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=dELwUollMcc"
+      "url": "https://www.youtube.com/watch?v=un7j-LerC5c"
     },
     {
-      "id": "b1Ehy2gLCTo",
-      "title": "【2026 FIFA世界盃™】門將傷退埋伏筆 西班牙2：1退紅魔晉四強/愛爾達電視20260711",
+      "id": "MtNR2zYLuPA",
+      "title": "【全場精華】挪威 VS 英格蘭 8強｜2026 FIFA世界盃™｜鎖定ELTA",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=b1Ehy2gLCTo"
+      "url": "https://www.youtube.com/watch?v=MtNR2zYLuPA"
     }
   ]
 }
