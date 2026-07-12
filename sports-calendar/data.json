@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:22:45.314Z",
+  "updatedAt": "2026-07-12T06:23:36.976Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3700,28 +3700,12 @@
       "channelStatus": "MOD BBC Lifestyle HD"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "不思議旅館第2季:多工任務",
-      "subtitle": "MOD 年輕向綜藝・Travel Channel HD・13:49-14:31",
-      "start": "2026-07-12T13:49:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel HD"
-    },
-    {
       "sport": "MOD影劇",
       "title": "監獄醫生(10-11)",
       "subtitle": "MOD 年輕向影集・龍華偶像HD・14:00-16:00",
       "start": "2026-07-12T14:00:00+08:00",
       "channel": "353",
       "channelStatus": "MOD 龍華偶像HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "臥底廚神(7)",
-      "subtitle": "MOD 年輕向影集・tvN HD・14:00-16:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN HD"
     },
     {
       "sport": "MOD影劇",
@@ -3733,6 +3717,14 @@
     },
     {
       "sport": "MOD影劇",
+      "title": "臥底廚神(7)",
+      "subtitle": "MOD 年輕向影集・tvN HD・14:00-16:00",
+      "start": "2026-07-12T14:00:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN HD"
+    },
+    {
+      "sport": "MOD影劇",
       "title": "PERFORMARTS RELOAD:NTOK",
       "subtitle": "MOD 年輕向影集・Arirang TV HD・14:00-15:00",
       "start": "2026-07-12T14:00:00+08:00",
@@ -3741,35 +3733,27 @@
     },
     {
       "sport": "MOD影劇",
-      "title": "進擊的台灣(542)",
-      "subtitle": "MOD 年輕向影集・美食星球HD・14:00-15:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球HD"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "挑戰美食堂第5季:維吉尼亞州里奇蒙",
-      "subtitle": "MOD 年輕向綜藝・Food Network 美食台HD・14:00-14:24",
+      "subtitle": "MOD 年輕向影集・Food Network 美食台HD・14:00-14:24",
       "start": "2026-07-12T14:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台HD"
     },
     {
       "sport": "MOD綜藝",
-      "title": "MIT台灣誌(708)",
-      "subtitle": "MOD 年輕向綜藝・亞洲旅遊HD・14:00-15:00",
+      "title": "時尚婚紗",
+      "subtitle": "MOD 年輕向綜藝・Fashion TV HD・14:00-14:30",
       "start": "2026-07-12T14:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊HD"
+      "channel": "282",
+      "channelStatus": "MOD Fashion TV HD"
     },
     {
       "sport": "MOD綜藝",
-      "title": "消失的國界2",
-      "subtitle": "MOD 年輕向綜藝・EYE TV旅遊台HD・14:00-15:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "279",
-      "channelStatus": "MOD EYE TV旅遊台HD"
+      "title": "一起吃中飯第1季:吉隆坡",
+      "subtitle": "MOD 年輕向綜藝・亞洲美食頻道・14:10-14:35",
+      "start": "2026-07-12T14:10:00+08:00",
+      "channel": "276",
+      "channelStatus": "MOD 亞洲美食頻道"
     },
     {
       "sport": "中職",
@@ -3778,6 +3762,14 @@
       "start": "2026-07-12T16:00:00+08:00",
       "channel": "202",
       "channelStatus": "愛爾達體育 3"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 7/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-12T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "環法",
@@ -3812,6 +3804,14 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -3982,14 +3982,6 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 7/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-21T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 費城費城人",
       "subtitle": "Citizens Bank Park",
@@ -4009,14 +4001,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 7/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4040,14 +4024,6 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 7/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-23T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "環法",
       "title": "環法自行車賽・第 19 站",
       "subtitle": "Gap > Alpe d'Huez",
@@ -4059,14 +4035,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-24T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4223,6 +4191,14 @@
       "start": "2026-08-09T00:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 台鋼 例行賽 8/9 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-09T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4815,17 +4791,17 @@
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "376",
-        "channelName": "tvN HD",
-        "title": "臥底廚神(7)",
-        "time": "14:00-16:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV HD",
         "title": "優雅的家 (5)",
         "time": "14:00-14:50",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN HD",
+        "title": "臥底廚神(7)",
+        "time": "14:00-16:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
@@ -4843,14 +4819,42 @@
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "275",
-        "channelName": "美食星球HD",
-        "title": "進擊的台灣(542)",
-        "time": "14:00-15:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台HD",
+        "title": "挑戰美食堂第5季:維吉尼亞州里奇蒙",
+        "time": "14:00-14:24",
         "source": "中華電信 MOD 目前節目"
       }
     ],
     "modVariety": [
+      {
+        "channel": "376",
+        "channelName": "tvN HD",
+        "title": "臥底廚神(7)",
+        "time": "14:00-16:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV HD",
+        "title": "優雅的家 (5)",
+        "time": "14:00-14:50",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "353",
+        "channelName": "龍華偶像HD",
+        "title": "監獄醫生(10-11)",
+        "time": "14:00-16:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "282",
+        "channelName": "Fashion TV HD",
+        "title": "時尚婚紗",
+        "time": "14:00-14:30",
+        "source": "中華電信 MOD 目前節目"
+      },
       {
         "channel": "260",
         "channelName": "BBC Lifestyle HD",
@@ -4859,38 +4863,10 @@
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "275",
-        "channelName": "美食星球HD",
-        "title": "進擊的台灣(542)",
-        "time": "14:00-15:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台HD",
-        "title": "挑戰美食堂第5季:維吉尼亞州里奇蒙",
-        "time": "14:00-14:24",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊HD",
-        "title": "MIT台灣誌(708)",
-        "time": "14:00-15:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "280",
-        "channelName": "Travel Channel HD",
-        "title": "不思議旅館第2季:多工任務",
-        "time": "13:49-14:31",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "279",
-        "channelName": "EYE TV旅遊台HD",
-        "title": "消失的國界2",
-        "time": "14:00-15:00",
+        "channel": "276",
+        "channelName": "亞洲美食頻道",
+        "title": "一起吃中飯第1季:吉隆坡",
+        "time": "14:10-14:35",
         "source": "中華電信 MOD 目前節目"
       }
     ],
