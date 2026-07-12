@@ -24,7 +24,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Check GEMINI_API_KEY wiring (never prints the value)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -n "$GEMINI_API_KEY" ]; then
+            echo "GEMINI_API_KEY: present (length ${#GEMINI_API_KEY})"
+          else
+            echo "::warning::GEMINI_API_KEY is NOT set in repo secrets — script will use rule-based fallback"
+          fi
       - run: node scripts/update-sports-calendar.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash
       - name: Commit changed calendar
         run: |
           git config user.name "sports-calendar-bot"
