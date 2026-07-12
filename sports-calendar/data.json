@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:45:00.195Z",
+  "updatedAt": "2026-07-12T04:45:40.473Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3742,14 +3742,6 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "世界盃",
       "title": "法國 vs 西班牙",
       "subtitle": "準決賽",
@@ -3835,6 +3827,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 中華隊VS明星隊 7/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "L101 vs L102",
       "subtitle": "Match for third place",
@@ -3871,14 +3871,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-19T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -3939,6 +3931,14 @@
       "timeTbd": true
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 味全 例行賽 7/22 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-22T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 費城費城人",
       "subtitle": "Citizens Bank Park",
@@ -3973,14 +3973,6 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-24T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
@@ -4009,14 +4001,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/25 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-25T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4055,14 +4039,6 @@
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4135,6 +4111,14 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-05T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
