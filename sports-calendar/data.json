@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T05:12:43.671Z",
+  "updatedAt": "2026-07-12T05:48:55.445Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3742,14 +3742,6 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "世界盃",
       "title": "法國 vs 西班牙",
       "subtitle": "準決賽",
@@ -3835,14 +3827,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒37年明星對抗賽 中華隊VS明星隊 7/18 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-18T18:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "世界盃",
       "title": "L101 vs L102",
       "subtitle": "Match for third place",
@@ -3879,14 +3863,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-19T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -4071,14 +4047,6 @@
       "start": "2026-07-31T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 7/31 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-31T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4737,22 +4705,22 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV HD",
-        "title": "忙內的逆襲 (8)",
-        "time": "13:00-13:30",
+        "title": "最佳隊長大賞 (8)",
+        "time": "13:30-14:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
         "channel": "751",
         "channelName": "Arirang TV HD",
-        "title": "PARIS GOES K-CRAZY",
-        "time": "13:00-13:30",
+        "title": "THE ART OF PAIRING",
+        "time": "13:30-14:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
         "channel": "260",
         "channelName": "BBC Lifestyle HD",
-        "title": "傑森艾瑟頓遊杜拜S2(1)",
-        "time": "12:45-13:40",
+        "title": "模里西斯豪宅清單S1(9)",
+        "time": "13:40-14:40",
         "source": "中華電信 MOD 目前節目"
       },
       {
@@ -4765,8 +4733,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台HD",
-        "title": "三十分鐘做晚餐第28季:非典型炒牛肉醬",
-        "time": "13:12-13:36",
+        "title": "三十分鐘做晚餐第28季:鐵鍋披薩",
+        "time": "13:36-14:00",
         "source": "中華電信 MOD 目前節目"
       }
     ],
@@ -4774,8 +4742,8 @@
       {
         "channel": "260",
         "channelName": "BBC Lifestyle HD",
-        "title": "傑森艾瑟頓遊杜拜S2(1)",
-        "time": "12:45-13:40",
+        "title": "模里西斯豪宅清單S1(9)",
+        "time": "13:40-14:40",
         "source": "中華電信 MOD 目前節目"
       },
       {
@@ -4788,8 +4756,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台HD",
-        "title": "三十分鐘做晚餐第28季:非典型炒牛肉醬",
-        "time": "13:12-13:36",
+        "title": "三十分鐘做晚餐第28季:鐵鍋披薩",
+        "time": "13:36-14:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
@@ -4807,10 +4775,10 @@
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "282",
-        "channelName": "Fashion TV HD",
-        "title": "頂尖名模",
-        "time": "13:00-13:30",
+        "channel": "279",
+        "channelName": "EYE TV旅遊台HD",
+        "title": "來頓燒烤",
+        "time": "13:30-14:00",
         "source": "中華電信 MOD 目前節目"
       }
     ],
