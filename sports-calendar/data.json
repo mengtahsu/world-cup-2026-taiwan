@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T05:12:05.709Z",
+  "updatedAt": "2026-07-12T05:12:43.671Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3742,6 +3742,14 @@
       "timeTbd": true
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "法國 vs 西班牙",
       "subtitle": "準決賽",
@@ -3750,25 +3758,25 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T10:00:00Z",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "W99 vs W100",
       "subtitle": "準決賽",
       "start": "2026-07-15T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T19:40:00+08:00",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "環法",
@@ -3827,6 +3835,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 中華隊VS明星隊 7/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "L101 vs L102",
       "subtitle": "Match for third place",
@@ -3863,6 +3879,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-19T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -4017,36 +4041,12 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-26T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4071,6 +4071,14 @@
       "start": "2026-07-31T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 7/31 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-31T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4119,14 +4127,6 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-05T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
