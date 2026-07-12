@@ -75,6 +75,20 @@ function keepLastGoodRecommendations(fresh,old={}){
   }
   return out;
 }
+const taiwanToday=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Taipei'}).format(new Date());
+function addModRecommendationEvents(recommendations){
+  const date=taiwanToday(),seen=new Set();
+  for(const [key,sport,label] of [['modDrama','MOD影劇','MOD 年輕向影集'],['modVariety','MOD綜藝','MOD 年輕向綜藝']]){
+    for(const item of recommendations?.[key]||[]){
+      const time=String(item.time||''),m=time.match(/(\d{1,2}):(\d{2})/);
+      if(!m)continue;
+      const id=`${item.channel}-${item.title}-${time}`;
+      if(seen.has(id))continue;
+      seen.add(id);
+      add({sport,title:item.title,subtitle:`${label}・${item.channelName||''}${time?`・${time}`:''}`,start:`${date}T${String(m[1]).padStart(2,'0')}:${m[2]}:00+08:00`,channel:item.channel||'待定',channelStatus:item.channelName?`MOD ${item.channelName}`:'MOD'});
+    }
+  }
+}
 const eltaChannels=[['101','200','愛爾達體育 1'],['105','201','愛爾達體育 2'],['110','202','愛爾達體育 3'],['115','203','愛爾達體育 4']];
 async function getEltaRows(dates,matcher){
   const rows=[];
@@ -117,4 +131,4 @@ async function getEltaTourBroadcasts(){
   return found;
 }
 const eltaConfirmed=new Map([['2026-07-06',{start:'2026-07-06T18:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-07',{start:'2026-07-07T19:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-08',{start:'2026-07-08T22:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-09',{start:'2026-07-09T18:15:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-10',{start:'2026-07-10T19:05:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-12',{start:'2026-07-12T19:30:00+08:00',channel:'202',channelStatus:'愛爾達體育 3'}]]),eltaLive=process.env.OFFLINE?new Map():await getEltaTourBroadcasts(),eltaTour=new Map([...eltaConfirmed,...eltaLive]),oldTour=new Map(previousEvents.filter(x=>x.sport==='環法').map(x=>[x.title,x]));tourStages.forEach(([stage,day,route,distance,type])=>{const date=`2026-07-${String(day).padStart(2,'0')}`,title=`環法自行車賽・第 ${stage} 站`,tv=eltaTour.get(date),old=oldTour.get(title),saved=!tv&&old&&!old.timeTbd?old:null;add({sport:'環法',title,subtitle:route,start:tv?.start||saved?.start||`${date}T10:00:00Z`,distance,climb:climbZh[type]||type,elevation:elevationGain[stage]||null,mapUrl:`https://www.letour.fr/en/stage-${stage}`,channel:tv?.channel||saved?.channel||'待定',channelStatus:tv?.channelStatus||saved?.channelStatus||'愛爾達 EPG 尚未指定',timeTbd:!(tv||saved)})});
-events.sort((a,b)=>a.start.localeCompare(b.start));const pending=[{sport:'NBA 季後賽',note:'2027 季後賽對戰與時間尚未公布'},{sport:'MLB 季後賽',note:'2026 季後賽對戰與時間尚未公布'},{sport:'NFL',note:'只顯示 MOD／愛爾達 EPG 已列出的 NFL 轉播，EPG 尚未列出則不顯示'},{sport:'UFC',note:'只顯示 MOD／愛爾達 EPG 已列出的 UFC 轉播，EPG 尚未列出則不顯示'},{sport:'中華職棒季後賽',note:'只顯示愛爾達 EPG 已列出的中職轉播'}],recommendations=keepLastGoodRecommendations(await getStreamingRecommendations(),previousData.recommendations);await fs.writeFile('sports-calendar/data.json',JSON.stringify({updatedAt:new Date().toISOString(),events,pending,recommendations},null,2)+'\n');console.log(`Sports calendar: ${events.length} events`);
+const recommendations=keepLastGoodRecommendations(await getStreamingRecommendations(),previousData.recommendations);addModRecommendationEvents(recommendations);events.sort((a,b)=>a.start.localeCompare(b.start));const pending=[{sport:'NBA 季後賽',note:'2027 季後賽對戰與時間尚未公布'},{sport:'MLB 季後賽',note:'2026 季後賽對戰與時間尚未公布'},{sport:'NFL',note:'只顯示 MOD／愛爾達 EPG 已列出的 NFL 轉播，EPG 尚未列出則不顯示'},{sport:'UFC',note:'只顯示 MOD／愛爾達 EPG 已列出的 UFC 轉播，EPG 尚未列出則不顯示'},{sport:'中華職棒季後賽',note:'只顯示愛爾達 EPG 已列出的中職轉播'}];await fs.writeFile('sports-calendar/data.json',JSON.stringify({updatedAt:new Date().toISOString(),events,pending,recommendations},null,2)+'\n');console.log(`Sports calendar: ${events.length} events`);
