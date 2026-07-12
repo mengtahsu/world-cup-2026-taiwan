@@ -75,8 +75,9 @@ function geminiText(result){
 }
 let lastGeminiError='';
 const compactError=s=>String(s||'').replace(/\s+/g,' ').slice(0,180);
-async function postGeminiJson(url,body){
-  const r=await fetch(url,{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(8000)});
+const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function postGeminiJson(url,body,timeoutMs=20000){
+  const r=await fetch(url,{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(timeoutMs)});
   if(!r.ok)throw Error(`${r.status} ${compactError(await r.text())}`);
   return await r.json();
 }
@@ -87,16 +88,24 @@ function extractJsonText(text){
 }
 async function askGeminiJson(prompt){
   if(!process.env.GEMINI_API_KEY)throw Error('GEMINI_API_KEY missing');
-  const model=process.env.GEMINI_MODEL||'gemini-3.5-flash';
+  const model=process.env.GEMINI_MODEL||'gemini-2.5-flash-lite';
   const failures=[];
-  try{
-    const result=await postGeminiJson('https://generativelanguage.googleapis.com/v1beta/interactions',{model,input:prompt,generation_config:{temperature:0.1,thinking_level:'low'}});
-    return {json:JSON.parse(extractJsonText(geminiText(result))),api:'interactions'};
-  }catch(e){failures.push(`interactions ${e.message}`)}
-  try{
-    const result=await postGeminiJson(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.1,responseMimeType:'application/json'}});
-    return {json:JSON.parse(extractJsonText(result?.candidates?.[0]?.content?.parts?.map(p=>p.text||'').join('\n'))),api:'generateContent'};
-  }catch(e){failures.push(`generateContent ${e.message}`)}
+  const calls=[
+    async()=>({api:'generateContent',result:await postGeminiJson(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.1,responseMimeType:'application/json'}},20000)}),
+    async()=>({api:'interactions',result:await postGeminiJson('https://generativelanguage.googleapis.com/v1beta/interactions',{model,input:prompt,generation_config:{temperature:0.1,thinking_level:'low'}},20000)})
+  ];
+  for(const call of calls){
+    for(let attempt=1;attempt<=2;attempt++){
+      try{
+        const {api,result}=await call();
+        const text=api==='generateContent'?result?.candidates?.[0]?.content?.parts?.map(p=>p.text||'').join('\n'):geminiText(result);
+        return {json:JSON.parse(extractJsonText(text)),api,attempt};
+      }catch(e){
+        failures.push(`${attempt>1?'retry ':''}${e.message}`);
+        if(attempt===1)await sleep(700);
+      }
+    }
+  }
   throw Error(failures.join(' | '));
 }
 async function rerankModWithGemini(candidates){
@@ -124,16 +133,16 @@ function pickModScheduleByRules(candidates,selector='rules'){
 }
 async function pickModScheduleWithGemini(candidates){
   const byDay=Object.groupBy?Object.groupBy(candidates,x=>x.date):candidates.reduce((a,x)=>((a[x.date]||=[]).push(x),a),{});
-  const ranked=Object.values(byDay).flatMap(items=>items.sort((a,b)=>b.score-a.score||a.time.localeCompare(b.time)).slice(0,24));
+  const ranked=Object.values(byDay).flatMap(items=>items.sort((a,b)=>b.score-a.score||a.time.localeCompare(b.time)).slice(0,8));
   if(!process.env.GEMINI_API_KEY)return pickModScheduleByRules(ranked);
-  const compact=ranked.map((x,i)=>({i,date:x.date,time:x.time,kind:x.kind,channel:x.channel,channelName:x.channelName,title:x.title}));
-  const prompt=`你是台灣 18-35 歲觀眾的 MOD 7 日節目精選編輯。只根據候選資料挑選，不要新增不存在的節目。目標：年輕熱門，優先韓流、偶像、音樂、實境、旅遊、美食、潮流、國際娛樂、新劇、晚上黃金時段；排除長輩向、購物、新聞、政論、宗教、懷舊、太硬的知識節目。請選未來 7 天每天最多 4 個，其中 MOD影劇最多 2 個、MOD綜藝最多 2 個，同一天避免同名重複。回覆純 JSON：{"schedule":[候選 i...],"modDrama":[候選 i...最多6個],"modVariety":[候選 i...最多6個]}。\n候選：${JSON.stringify(compact)}`;
+  const compact=ranked.map((x,i)=>({i,d:x.date,t:x.time,k:x.kind,ch:x.channel,n:String(x.channelName||'').replace(/ HD$/i,''),title:String(x.title||'').slice(0,42)}));
+  const prompt=`你是台灣 18-35 歲觀眾的 MOD 節目精選編輯。只根據候選挑選，不要新增節目。偏好：韓流、偶像、音樂、實境、旅遊、美食、潮流、新劇、晚間。避開：長輩向、購物、新聞、政論、宗教、懷舊、太硬知識。選未來7天每天最多4個，影劇最多2、綜藝最多2，同日避免同名重複。只回 JSON：{"schedule":[候選i],"modDrama":[候選i最多6],"modVariety":[候選i最多6]}。候選=${JSON.stringify(compact)}`;
   try{
-    const {json:picked,api}=await askGeminiJson(prompt),byIndex=i=>ranked[Number(i)];
+    const {json:picked,api,attempt}=await askGeminiJson(prompt),byIndex=i=>ranked[Number(i)];
     const schedule=(Array.isArray(picked.schedule)?picked.schedule:[]).map(byIndex).filter(Boolean);
     if(!schedule.length)throw Error('empty Gemini schedule');
     const drama=(Array.isArray(picked.modDrama)?picked.modDrama:[]).map(byIndex).filter(Boolean).slice(0,6),variety=(Array.isArray(picked.modVariety)?picked.modVariety:[]).map(byIndex).filter(Boolean).slice(0,6);
-    return {modSchedule:schedule.sort((a,b)=>`${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`)),modDrama:drama.length?drama:schedule.filter(x=>x.kind==='MOD影劇').slice(0,6),modVariety:variety.length?variety:schedule.filter(x=>x.kind==='MOD綜藝').slice(0,6),meta:{modSelector:'gemini',modApi:api,modScheduleDays:new Set(ranked.map(x=>x.date)).size,modDailyLimit:4}};
+    return {modSchedule:schedule.sort((a,b)=>`${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`)),modDrama:drama.length?drama:schedule.filter(x=>x.kind==='MOD影劇').slice(0,6),modVariety:variety.length?variety:schedule.filter(x=>x.kind==='MOD綜藝').slice(0,6),meta:{modSelector:'gemini',modApi:api,modApiAttempt:attempt,modCandidateCount:ranked.length,modScheduleDays:new Set(ranked.map(x=>x.date)).size,modDailyLimit:4}};
   }catch(e){
     lastGeminiError=compactError(e.message);console.warn('Gemini MOD schedule fallback',lastGeminiError);
     const fallback=pickModScheduleByRules(ranked,'rules-fallback');fallback.meta.modSelectorError=lastGeminiError;return fallback;
