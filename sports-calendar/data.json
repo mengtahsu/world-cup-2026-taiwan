@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:23:36.976Z",
+  "updatedAt": "2026-07-12T06:32:27.500Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3692,70 +3692,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD影劇",
-      "title": "模里西斯豪宅清單S1(9)",
-      "subtitle": "MOD 年輕向影集・BBC Lifestyle HD・13:40-14:40",
-      "start": "2026-07-12T13:40:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "監獄醫生(10-11)",
-      "subtitle": "MOD 年輕向影集・龍華偶像HD・14:00-16:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "353",
-      "channelStatus": "MOD 龍華偶像HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "優雅的家 (5)",
-      "subtitle": "MOD 年輕向影集・韓國娛樂台KMTV HD・14:00-14:50",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "臥底廚神(7)",
-      "subtitle": "MOD 年輕向影集・tvN HD・14:00-16:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "PERFORMARTS RELOAD:NTOK",
-      "subtitle": "MOD 年輕向影集・Arirang TV HD・14:00-15:00",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "751",
-      "channelStatus": "MOD Arirang TV HD"
-    },
-    {
-      "sport": "MOD影劇",
-      "title": "挑戰美食堂第5季:維吉尼亞州里奇蒙",
-      "subtitle": "MOD 年輕向影集・Food Network 美食台HD・14:00-14:24",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台HD"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "時尚婚紗",
-      "subtitle": "MOD 年輕向綜藝・Fashion TV HD・14:00-14:30",
-      "start": "2026-07-12T14:00:00+08:00",
-      "channel": "282",
-      "channelStatus": "MOD Fashion TV HD"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "一起吃中飯第1季:吉隆坡",
-      "subtitle": "MOD 年輕向綜藝・亞洲美食頻道・14:10-14:35",
-      "start": "2026-07-12T14:10:00+08:00",
-      "channel": "276",
-      "channelStatus": "MOD 亞洲美食頻道"
-    },
-    {
       "sport": "中職",
       "title": "中華職棒 味全 VS 統一 例行賽 7/12 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
@@ -3770,6 +3706,22 @@
       "start": "2026-07-12T17:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "進擊的台灣(543)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-12T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "決戰賭城主廚第1季:上菜秀決勝負",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-07-12T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "環法",
@@ -3793,6 +3745,22 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "智富食代(164)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-13T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "第六感：趣遊都市(1)",
+      "subtitle": "年輕熱門精選・tvN・18:00",
+      "start": "2026-07-13T18:00:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
       "sport": "環法",
       "title": "環法自行車賽・第 10 站",
       "subtitle": "Aurillac > Le Lioran",
@@ -3806,12 +3774,20 @@
       "timeTbd": true
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
+      "sport": "MOD綜藝",
+      "title": "智富食代(165)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-14T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (11)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-14T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "世界盃",
@@ -3820,6 +3796,35 @@
       "start": "2026-07-14T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T10:00:00Z",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(166)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-15T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "燦盛這料理(5)",
+      "subtitle": "年輕熱門精選・tvN・18:00",
+      "start": "2026-07-15T18:00:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
     },
     {
       "sport": "中職",
@@ -3839,19 +3844,6 @@
     },
     {
       "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T19:40:00+08:00",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
-    },
-    {
-      "sport": "環法",
       "title": "環法自行車賽・第 12 站",
       "subtitle": "Circuit Nevers Magny-Cours > Chalon-sur-Saône",
       "start": "2026-07-16T10:00:00Z",
@@ -3862,6 +3854,22 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(167)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-16T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "多諾居家好料理S1(1)",
+      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
+      "start": "2026-07-16T18:00:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "環法",
@@ -3875,6 +3883,22 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(168)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-17T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "奈潔拉的動人美食S1(5)",
+      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
+      "start": "2026-07-17T18:00:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -3907,6 +3931,22 @@
       "timeTbd": false
     },
     {
+      "sport": "MOD綜藝",
+      "title": "進擊的台灣(547)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-07-18T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
       "sport": "世界盃",
       "title": "L101 vs L102",
       "subtitle": "Match for third place",
@@ -3923,6 +3963,19 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "環法",
+      "title": "環法自行車賽・第 15 站",
+      "subtitle": "Champagnole > Plateau de Solaison",
+      "start": "2026-07-19T10:00:00Z",
+      "distance": "183.9 km",
+      "climb": "山地站",
+      "elevation": 4700,
+      "mapUrl": "https://www.letour.fr/en/stage-15",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
       "sport": "F1",
       "title": "Belgian Grand Prix・正賽",
       "subtitle": "Circuit de Spa-Francorchamps",
@@ -3932,25 +3985,20 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-19T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "W101 vs W102",
       "subtitle": "決賽",
       "start": "2026-07-19T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "環法",
-      "title": "環法自行車賽・第 15 站",
-      "subtitle": "Champagnole > Plateau de Solaison",
-      "start": "2026-07-19T19:00:00+08:00",
-      "distance": "183.9 km",
-      "climb": "山地站",
-      "elevation": 4700,
-      "mapUrl": "https://www.letour.fr/en/stage-15",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4024,6 +4072,14 @@
       "timeTbd": true
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 7/23 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-23T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "環法",
       "title": "環法自行車賽・第 19 站",
       "subtitle": "Gap > Alpe d'Huez",
@@ -4035,6 +4091,14 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-24T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4105,12 +4169,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-07-29T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/29 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-29T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4191,14 +4271,6 @@
       "start": "2026-08-09T00:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 台鋼 例行賽 8/9 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-09T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4782,92 +4854,209 @@
     }
   ],
   "recommendations": {
-    "modDrama": [
+    "modDrama": [],
+    "modVariety": [
       {
-        "channel": "353",
-        "channelName": "龍華偶像HD",
-        "title": "監獄醫生(10-11)",
-        "time": "14:00-16:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV HD",
-        "title": "優雅的家 (5)",
-        "time": "14:00-14:50",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN HD",
-        "title": "臥底廚神(7)",
-        "time": "14:00-16:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "751",
-        "channelName": "Arirang TV HD",
-        "title": "PERFORMARTS RELOAD:NTOK",
-        "time": "14:00-15:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle HD",
-        "title": "模里西斯豪宅清單S1(9)",
-        "time": "13:40-14:40",
-        "source": "中華電信 MOD 目前節目"
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(543)",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
         "channel": "277",
-        "channelName": "Food Network 美食台HD",
-        "title": "挑戰美食堂第5季:維吉尼亞州里奇蒙",
-        "time": "14:00-14:24",
-        "source": "中華電信 MOD 目前節目"
-      }
-    ],
-    "modVariety": [
+        "channelName": "Food Network 美食台頻道",
+        "title": "決戰賭城主廚第1季:上菜秀決勝負",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(164)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
       {
         "channel": "376",
-        "channelName": "tvN HD",
-        "title": "臥底廚神(7)",
-        "time": "14:00-16:00",
-        "source": "中華電信 MOD 目前節目"
+        "channelName": "tvN",
+        "title": "第六感：趣遊都市(1)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
         "channel": "377",
-        "channelName": "韓國娛樂台KMTV HD",
-        "title": "優雅的家 (5)",
-        "time": "14:00-14:50",
-        "source": "中華電信 MOD 目前節目"
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (11)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      }
+    ],
+    "modSchedule": [
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(543)",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
-        "channel": "353",
-        "channelName": "龍華偶像HD",
-        "title": "監獄醫生(10-11)",
-        "time": "14:00-16:00",
-        "source": "中華電信 MOD 目前節目"
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "決戰賭城主廚第1季:上菜秀決勝負",
+        "time": "18:00",
+        "date": "2026-07-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
-        "channel": "282",
-        "channelName": "Fashion TV HD",
-        "title": "時尚婚紗",
-        "time": "14:00-14:30",
-        "source": "中華電信 MOD 目前節目"
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(164)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：趣遊都市(1)",
+        "time": "18:00",
+        "date": "2026-07-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (11)",
+        "time": "18:00",
+        "date": "2026-07-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(166)",
+        "time": "18:00",
+        "date": "2026-07-15",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "燦盛這料理(5)",
+        "time": "18:00",
+        "date": "2026-07-15",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(167)",
+        "time": "18:00",
+        "date": "2026-07-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
         "channel": "260",
-        "channelName": "BBC Lifestyle HD",
-        "title": "模里西斯豪宅清單S1(9)",
-        "time": "13:40-14:40",
-        "source": "中華電信 MOD 目前節目"
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾居家好料理S1(1)",
+        "time": "18:00",
+        "date": "2026-07-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
-        "channel": "276",
-        "channelName": "亞洲美食頻道",
-        "title": "一起吃中飯第1季:吉隆坡",
-        "time": "14:10-14:35",
-        "source": "中華電信 MOD 目前節目"
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(168)",
+        "time": "18:00",
+        "date": "2026-07-17",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "奈潔拉的動人美食S1(5)",
+        "time": "18:00",
+        "date": "2026-07-17",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(547)",
+        "time": "18:00",
+        "date": "2026-07-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
+        "time": "18:00",
+        "date": "2026-07-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
@@ -4943,6 +5132,11 @@
         "source": "YouTube 搜尋",
         "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%81%8A%E6%88%B2+%E5%AF%A6%E6%B3%81+%E7%B2%BE%E8%8F%AF"
       }
-    ]
+    ],
+    "meta": {
+      "modSelector": "rules",
+      "modScheduleDays": 7,
+      "modDailyLimit": 4
+    }
   }
 }
