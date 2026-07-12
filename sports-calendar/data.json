@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:17:46.159Z",
+  "updatedAt": "2026-07-12T04:45:00.195Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3658,14 +3658,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 8 站",
       "subtitle": "Périgueux > Bergerac",
-      "start": "2026-07-11T19:05:00+08:00",
+      "start": "2026-07-11T10:00:00Z",
       "distance": "180.4 km",
       "climb": "平路站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-8",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "世界盃",
@@ -3711,7 +3711,7 @@
       "sport": "環法",
       "title": "環法自行車賽・第 9 站",
       "subtitle": "Malemort > Ussel",
-      "start": "2026-07-12T19:35:00+08:00",
+      "start": "2026-07-12T19:30:00+08:00",
       "distance": "185.5 km",
       "climb": "丘陵站",
       "elevation": 3300,
@@ -3742,6 +3742,14 @@
       "timeTbd": true
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "法國 vs 西班牙",
       "subtitle": "準決賽",
@@ -3750,25 +3758,25 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T10:00:00Z",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "待定",
-      "channelStatus": "愛爾達 EPG 尚未指定",
-      "timeTbd": true
-    },
-    {
       "sport": "世界盃",
       "title": "W99 vs W100",
       "subtitle": "準決賽",
       "start": "2026-07-15T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
+    },
+    {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T19:40:00+08:00",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3",
+      "timeTbd": false
     },
     {
       "sport": "環法",
@@ -3787,14 +3795,14 @@
       "sport": "環法",
       "title": "環法自行車賽・第 13 站",
       "subtitle": "Dole > Belfort",
-      "start": "2026-07-17T18:50:00+08:00",
+      "start": "2026-07-17T10:00:00Z",
       "distance": "205.8 km",
       "climb": "丘陵站",
       "elevation": null,
       "mapUrl": "https://www.letour.fr/en/stage-13",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4",
-      "timeTbd": false
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
     },
     {
       "sport": "道奇",
@@ -3863,6 +3871,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-19T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "世界盃",
@@ -3957,6 +3973,14 @@
       "timeTbd": true
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-24T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
@@ -3985,6 +4009,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/25 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-25T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4023,6 +4055,14 @@
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4692,5 +4732,169 @@
       "sport": "中華職棒季後賽",
       "note": "只顯示愛爾達 EPG 已列出的中職轉播"
     }
-  ]
+  ],
+  "recommendations": {
+    "modDrama": [
+      {
+        "channel": "300",
+        "channelName": "愛爾達綜合台HD",
+        "title": "九重紫 (重)(18)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "301",
+        "channelName": "三立綜合台HD",
+        "title": "新戲說台灣(846)",
+        "time": "11:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "350",
+        "channelName": "三立戲劇台HD",
+        "title": "新戲說台灣(949)",
+        "time": "12:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "352",
+        "channelName": "龍華戲劇HD",
+        "title": "武媚娘傳奇(37-38)",
+        "time": "12:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "356",
+        "channelName": "靖天戲劇HD",
+        "title": "「新戲說台灣」精華版(12)",
+        "time": "12:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "357",
+        "channelName": "靖洋戲劇HD",
+        "title": "【首選卡司系列】楚漢驕雄(23)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      }
+    ],
+    "modVariety": [
+      {
+        "channel": "302",
+        "channelName": "靖天資訊HD",
+        "title": "台灣1001個故事(454)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "303",
+        "channelName": "靖天綜合台HD",
+        "title": "台灣1001個故事(413)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "307",
+        "channelName": "亞洲綜合HD",
+        "title": "綜藝大集合(HD)(1084)",
+        "time": "12:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "308",
+        "channelName": "中視經典台HD",
+        "title": "大陸尋奇(2134)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "309",
+        "channelName": "寰宇HD綜合",
+        "title": "天才衝衝衝(930)",
+        "time": "12:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "313",
+        "channelName": "緯來精采HD",
+        "title": "甄心分享小琳鐺 (65)",
+        "time": "12:00-13:00",
+        "source": "中華電信 MOD 目前節目"
+      }
+    ],
+    "netflix": [
+      {
+        "title": "Husbands in Action",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Double Happiness",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Enola Holmes 3",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Voicemails for Isabelle",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Little Brother",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "The Hustle",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "A Foggy Tale",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "No Time to Die",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Into the Blue",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Despicable Me 4",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "YouTube 台灣熱門影片",
+        "source": "YouTube Trending Taiwan",
+        "url": "https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW"
+      },
+      {
+        "title": "台灣熱門綜藝片段",
+        "source": "YouTube 搜尋",
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%B6%9C%E8%97%9D"
+      },
+      {
+        "title": "台灣熱門音樂",
+        "source": "YouTube 搜尋",
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%9F%B3%E6%A8%82"
+      },
+      {
+        "title": "台灣熱門 Podcast / 訪談",
+        "source": "YouTube 搜尋",
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+Podcast+%E8%A8%AA%E8%AB%87"
+      }
+    ]
+  }
 }
