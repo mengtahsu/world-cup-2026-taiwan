@@ -73,18 +73,42 @@ function geminiText(result){
   walk(result);
   return chunks.join('\n');
 }
+let lastGeminiError='';
+const compactError=s=>String(s||'').replace(/\s+/g,' ').slice(0,180);
+async function postGeminiJson(url,body){
+  const r=await fetch(url,{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(20000)});
+  if(!r.ok)throw Error(`${r.status} ${compactError(await r.text())}`);
+  return await r.json();
+}
+function extractJsonText(text){
+  const raw=String(text||'').replace(/^```json\s*|\s*```$/g,'').trim(),start=raw.indexOf('{'),end=raw.lastIndexOf('}');
+  if(start>=0&&end>start)return raw.slice(start,end+1);
+  return raw;
+}
+async function askGeminiJson(prompt){
+  if(!process.env.GEMINI_API_KEY)throw Error('GEMINI_API_KEY missing');
+  const model=process.env.GEMINI_MODEL||'gemini-3.5-flash';
+  const failures=[];
+  try{
+    const result=await postGeminiJson('https://generativelanguage.googleapis.com/v1beta/interactions',{model,input:prompt,generation_config:{temperature:0.1,thinking_level:'low'}});
+    return {json:JSON.parse(extractJsonText(geminiText(result))),api:'interactions'};
+  }catch(e){failures.push(`interactions ${e.message}`)}
+  try{
+    const result=await postGeminiJson(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.1,responseMimeType:'application/json'}});
+    return {json:JSON.parse(extractJsonText(result?.candidates?.[0]?.content?.parts?.map(p=>p.text||'').join('\n'))),api:'generateContent'};
+  }catch(e){failures.push(`generateContent ${e.message}`)}
+  throw Error(failures.join(' | '));
+}
 async function rerankModWithGemini(candidates){
   if(!process.env.GEMINI_API_KEY)return {modDrama:candidates.modDrama.slice(0,6),modVariety:candidates.modVariety.slice(0,6)};
   const compact=Object.fromEntries(Object.entries(candidates).map(([k,items])=>[k,items.map((x,i)=>({i,channel:x.channel,channelName:x.channelName,title:x.title,time:x.time}))]));
   const prompt=`你是台灣 18-35 歲觀眾的 MOD 節目推薦排序器。請只根據候選資料排序，不要新增不存在的節目。目標是找「年輕向熱門」：韓流、偶像、音樂、實境、旅遊、美食、潮流、國際娛樂、新劇優先；排除長輩向、購物、新聞、政論、宗教、懷舊老片、傳統本土長壽節目。回覆必須是純 JSON，格式：{"modDrama":[候選 i...最多6個],"modVariety":[候選 i...最多6個]}。\n候選：${JSON.stringify(compact)}`;
   try{
-    const r=await fetch('https://generativelanguage.googleapis.com/v1beta/interactions',{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify({model:process.env.GEMINI_MODEL||'gemini-3.5-flash',input:prompt,generation_config:{temperature:0.2,thinking_level:'low'}}),signal:AbortSignal.timeout(20000)});
-    if(!r.ok)throw Error(`Gemini ${r.status}`);
-    const raw=geminiText(await r.json()).replace(/^```json\s*|\s*```$/g,'').trim(),picked=JSON.parse(raw);
+    const {json:picked}=await askGeminiJson(prompt);
     const pick=(key)=>Array.isArray(picked[key])?picked[key].map(i=>candidates[key]?.[Number(i)]).filter(Boolean).slice(0,6):candidates[key].slice(0,6);
     return {modDrama:pick('modDrama'),modVariety:pick('modVariety')};
   }catch(e){
-    console.warn('Gemini rerank fallback',e.message);
+    lastGeminiError=compactError(e.message);console.warn('Gemini rerank fallback',lastGeminiError);
     return {modDrama:candidates.modDrama.slice(0,6),modVariety:candidates.modVariety.slice(0,6)};
   }
 }
@@ -105,16 +129,14 @@ async function pickModScheduleWithGemini(candidates){
   const compact=ranked.map((x,i)=>({i,date:x.date,time:x.time,kind:x.kind,channel:x.channel,channelName:x.channelName,title:x.title}));
   const prompt=`你是台灣 18-35 歲觀眾的 MOD 7 日節目精選編輯。只根據候選資料挑選，不要新增不存在的節目。目標：年輕熱門，優先韓流、偶像、音樂、實境、旅遊、美食、潮流、國際娛樂、新劇、晚上黃金時段；排除長輩向、購物、新聞、政論、宗教、懷舊、太硬的知識節目。請選未來 7 天每天最多 4 個，其中 MOD影劇最多 2 個、MOD綜藝最多 2 個，同一天避免同名重複。回覆純 JSON：{"schedule":[候選 i...],"modDrama":[候選 i...最多6個],"modVariety":[候選 i...最多6個]}。\n候選：${JSON.stringify(compact)}`;
   try{
-    const r=await fetch('https://generativelanguage.googleapis.com/v1beta/interactions',{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify({model:process.env.GEMINI_MODEL||'gemini-3.5-flash',input:prompt,generation_config:{temperature:0.2,thinking_level:'low'}}),signal:AbortSignal.timeout(20000)});
-    if(!r.ok)throw Error(`Gemini ${r.status}`);
-    const raw=geminiText(await r.json()).replace(/^```json\s*|\s*```$/g,'').trim(),picked=JSON.parse(raw),byIndex=i=>ranked[Number(i)];
+    const {json:picked,api}=await askGeminiJson(prompt),byIndex=i=>ranked[Number(i)];
     const schedule=(Array.isArray(picked.schedule)?picked.schedule:[]).map(byIndex).filter(Boolean);
     if(!schedule.length)throw Error('empty Gemini schedule');
     const drama=(Array.isArray(picked.modDrama)?picked.modDrama:[]).map(byIndex).filter(Boolean).slice(0,6),variety=(Array.isArray(picked.modVariety)?picked.modVariety:[]).map(byIndex).filter(Boolean).slice(0,6);
-    return {modSchedule:schedule.sort((a,b)=>`${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`)),modDrama:drama.length?drama:schedule.filter(x=>x.kind==='MOD影劇').slice(0,6),modVariety:variety.length?variety:schedule.filter(x=>x.kind==='MOD綜藝').slice(0,6),meta:{modSelector:'gemini',modScheduleDays:new Set(ranked.map(x=>x.date)).size,modDailyLimit:4}};
+    return {modSchedule:schedule.sort((a,b)=>`${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`)),modDrama:drama.length?drama:schedule.filter(x=>x.kind==='MOD影劇').slice(0,6),modVariety:variety.length?variety:schedule.filter(x=>x.kind==='MOD綜藝').slice(0,6),meta:{modSelector:'gemini',modApi:api,modScheduleDays:new Set(ranked.map(x=>x.date)).size,modDailyLimit:4}};
   }catch(e){
-    console.warn('Gemini MOD schedule fallback',e.message);
-    return pickModScheduleByRules(ranked,'rules-fallback');
+    lastGeminiError=compactError(e.message);console.warn('Gemini MOD schedule fallback',lastGeminiError);
+    const fallback=pickModScheduleByRules(ranked,'rules-fallback');fallback.meta.modSelectorError=lastGeminiError;return fallback;
   }
 }
 async function getModSevenDayPicks(modHtml){
