@@ -173,9 +173,11 @@ async function localizeNetflixTitles(titles){
   if(!needGemini.length)return {titles:mapped,mode:'map'};
   try{
     const prompt=`把 Netflix 台灣 Top 10 片名轉成台灣常用中文片名；如果沒有官方中文名，用自然繁中片名。不要解釋，只回 JSON：{"titles":[{"en":"英文原名","zh":"中文片名"}]}。片名=${JSON.stringify(needGemini)}`;
-    const {json,api,attempt}=await askGeminiJson(prompt);
+    const model=process.env.GEMINI_MODEL||'gemini-2.5-flash-lite';
+    const result=await postGeminiJson(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.1,responseMimeType:'application/json'}},6000);
+    const json=JSON.parse(extractJsonText(result?.candidates?.[0]?.content?.parts?.map(p=>p.text||'').join('\n')));
     for(const item of json?.titles||[])if(item?.en&&item?.zh)mapped[item.en]=item.zh;
-    return {titles:mapped,mode:`gemini:${api}:${attempt}`};
+    return {titles:mapped,mode:'gemini-fast'};
   }catch(e){
     return {titles:mapped,mode:`map-fallback:${compactError(e.message)}`};
   }
