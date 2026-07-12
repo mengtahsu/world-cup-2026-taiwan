@@ -20,15 +20,49 @@ function parseModPrograms(html){
   return out;
 }
 function pickPopularMod(programs){
-  const bad=/新聞|購物|午間|整點|氣象|股市|財經|消費高手|首購|詳按|元氣加油站|大陸尋奇|大陸尋趣|新戲說台灣|戲說台灣|藍色水玲瓏|台灣1001個故事|台灣一千零一個故事|鑽石大舞台|美鳳有約|全民星攻略|巴布狄倫|北西北|古典|爵士|貝多芬|史克里亞賓|第一滴血|鼠來寶|歲月神偷|誅仙/;
-  const dramaRe=/tvN|龍華偶像|韓國娛樂|KMTV|Arirang|偶像|韓流|韓劇|種豆得豆/;
-  const varietyRe=/KMTV|Arirang|Fashion|美食|旅遊|Travel|Food Network|BBC Lifestyle|HGTV|tvN|韓國娛樂|偶像|實境|料理|打卡|HOME TO TABLE|種豆得豆|韓流/;
-  const score=p=>(/tvN|KMTV|Arirang|龍華偶像|Food Network|Fashion|Travel|BBC Lifestyle|HGTV|美食|旅遊/.test(p.channelName)?3:0)+(/HD|4K/.test(p.channelName)?1:0);
-  const uniq=arr=>[...new Map(arr.filter(p=>!bad.test(p.title)).sort((a,b)=>score(b)-score(a)).map(p=>[`${p.channel}-${p.title}`,p])).values()];
-  return {modDrama:uniq(programs.filter(p=>dramaRe.test(`${p.channelName} ${p.title}`))).slice(0,6),modVariety:uniq(programs.filter(p=>varietyRe.test(`${p.channelName} ${p.title}`))).slice(0,6)};
+  const reject=/新聞|購物|午間|整點|氣象|股市|財經|政論|宗教|法會|六合彩|消費高手|首購|詳按|元氣加油站|銀髮|健康|養生|經典|懷舊|大陸尋奇|大陸尋趣|新戲說台灣|戲說台灣|藍色水玲瓏|台灣1001個故事|台灣一千零一個故事|鑽石大舞台|美鳳有約|全民星攻略|巴布狄倫|羅大佑|古典|爵士|貝多芬|史克里亞賓/;
+  const points=(haystack,rules)=>rules.reduce((n,[re,pt])=>n+(re.test(haystack)?pt:0),0);
+  const baseRules=[
+    [/tvN|KMTV|Arirang|MTV|龍華偶像|韓國娛樂|Fashion|Food Network|Travel|BBC Lifestyle|HGTV|美食星球|亞洲旅遊|EYE TV旅遊/i,4],
+    [/HD|4K/,1],
+    [/LIVE|首播|新播|第\d+季|S\d+|\(\d+\)|\d+-\d+/,1]
+  ];
+  const dramaRules=[
+    [/偶像|韓流|韓劇|K-?POP|K-?CRAZY|戀愛|青春|劇場|Drama|Series|Season|tvN|龍華偶像|KMTV|Arirang|韓國娛樂/i,5],
+    [/約會|戀綜|選秀|明星|團體|男團|女團|舞台/i,2]
+  ];
+  const varietyRules=[
+    [/音樂|MV|K-?POP|偶像|韓流|實境|真人秀|選秀|街舞|遊戲|動漫|潮流|時尚|Fashion|美食|料理|餐廳|打卡|旅遊|旅行|探險|Lifestyle|Travel|Food|HGTV|HOME TO TABLE|種豆得豆|頂尖名模/i,5],
+    [/MTV|KMTV|Arirang|tvN|Food Network|BBC Lifestyle|Fashion|Travel|美食星球|亞洲美食|亞洲旅遊|EYE TV旅遊/i,3]
+  ];
+  const rank=(kindRules)=>programs.map(p=>{const haystack=`${p.channelName} ${p.title}`;return {...p,score:reject.test(haystack)?-99:points(haystack,baseRules)+points(haystack,kindRules)}}).filter(p=>p.score>=6).sort((a,b)=>b.score-a.score||Number(a.channel)-Number(b.channel));
+  const uniq=arr=>[...new Map(arr.map(p=>[`${p.channel}-${p.title}`,p])).values()].map(({score,...p})=>p);
+  return {modDrama:uniq(rank(dramaRules)).slice(0,12),modVariety:uniq(rank(varietyRules)).slice(0,12)};
+}
+function geminiText(result){
+  if(result?.output_text)return result.output_text;
+  const chunks=[];
+  const walk=x=>{if(!x)return;if(typeof x==='string')return;if(Array.isArray(x))return x.forEach(walk);if(x.text)chunks.push(x.text);for(const v of Object.values(x))if(typeof v==='object')walk(v)};
+  walk(result);
+  return chunks.join('\n');
+}
+async function rerankModWithGemini(candidates){
+  if(!process.env.GEMINI_API_KEY)return {modDrama:candidates.modDrama.slice(0,6),modVariety:candidates.modVariety.slice(0,6)};
+  const compact=Object.fromEntries(Object.entries(candidates).map(([k,items])=>[k,items.map((x,i)=>({i,channel:x.channel,channelName:x.channelName,title:x.title,time:x.time}))]));
+  const prompt=`你是台灣 18-35 歲觀眾的 MOD 節目推薦排序器。請只根據候選資料排序，不要新增不存在的節目。目標是找「年輕向熱門」：韓流、偶像、音樂、實境、旅遊、美食、潮流、國際娛樂、新劇優先；排除長輩向、購物、新聞、政論、宗教、懷舊老片、傳統本土長壽節目。回覆必須是純 JSON，格式：{"modDrama":[候選 i...最多6個],"modVariety":[候選 i...最多6個]}。\n候選：${JSON.stringify(compact)}`;
+  try{
+    const r=await fetch('https://generativelanguage.googleapis.com/v1beta/interactions',{method:'POST',headers:{'x-goog-api-key':process.env.GEMINI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify({model:process.env.GEMINI_MODEL||'gemini-3.5-flash',input:prompt,generation_config:{temperature:0.2,thinking_level:'low'}}),signal:AbortSignal.timeout(20000)});
+    if(!r.ok)throw Error(`Gemini ${r.status}`);
+    const raw=geminiText(await r.json()).replace(/^```json\s*|\s*```$/g,'').trim(),picked=JSON.parse(raw);
+    const pick=(key)=>Array.isArray(picked[key])?picked[key].map(i=>candidates[key]?.[Number(i)]).filter(Boolean).slice(0,6):candidates[key].slice(0,6);
+    return {modDrama:pick('modDrama'),modVariety:pick('modVariety')};
+  }catch(e){
+    console.warn('Gemini rerank fallback',e.message);
+    return {modDrama:candidates.modDrama.slice(0,6),modVariety:candidates.modVariety.slice(0,6)};
+  }
 }
 async function getStreamingRecommendations(){
-  const modHtml=await text('https://mod.cht.com.tw/modweb/%E9%A0%BB%E9%81%93TV/%E5%85%A8%E9%83%A8.do?tab=channelInfo'),mod=pickPopularMod(parseModPrograms(modHtml));
+  const modHtml=await text('https://mod.cht.com.tw/modweb/%E9%A0%BB%E9%81%93TV/%E5%85%A8%E9%83%A8.do?tab=channelInfo'),mod=await rerankModWithGemini(pickPopularMod(parseModPrograms(modHtml)));
   const netflixHtml=await text('https://www.netflix.com/tudum/top10/taiwan'),seen=new Set(),netflix=[];
   for(const m of netflixHtml.matchAll(/"title":"([^"]+)"/g)){const title=m[1].replace(/\\x20/g,' ');if(title.includes('Top 10')||seen.has(title))continue;seen.add(title);netflix.push({title,source:'Netflix 台灣 Top 10',url:'https://www.netflix.com/tudum/top10/taiwan'});if(netflix.length>=10)break}
   const youtube=[{title:'YouTube 台灣熱門影片',source:'YouTube Trending Taiwan',url:'https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW'},{title:'年輕人熱門短影音／梗片',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%9F%AD%E5%BD%B1%E9%9F%B3+%E6%A2%97%E7%89%87'},{title:'台灣熱門音樂 MV',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+MV+%E9%9F%B3%E6%A8%82'},{title:'熱門遊戲／實況精華',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%81%8A%E6%88%B2+%E5%AF%A6%E6%B3%81+%E7%B2%BE%E8%8F%AF'}];

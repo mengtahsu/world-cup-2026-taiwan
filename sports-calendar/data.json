@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T05:04:41.120Z",
+  "updatedAt": "2026-07-12T05:12:05.709Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4017,12 +4017,36 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-26T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4095,6 +4119,14 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-05T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4715,6 +4747,27 @@
         "title": "PARIS GOES K-CRAZY",
         "time": "13:00-13:30",
         "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle HD",
+        "title": "傑森艾瑟頓遊杜拜S2(1)",
+        "time": "12:45-13:40",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球HD",
+        "title": "智富食代(162)",
+        "time": "13:00-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台HD",
+        "title": "三十分鐘做晚餐第28季:非典型炒牛肉醬",
+        "time": "13:12-13:36",
+        "source": "中華電信 MOD 目前節目"
       }
     ],
     "modVariety": [
@@ -4735,22 +4788,15 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台HD",
-        "title": "挑戰美食堂第4季:加州聖巴巴拉",
-        "time": "12:48-13:12",
+        "title": "三十分鐘做晚餐第28季:非典型炒牛肉醬",
+        "time": "13:12-13:36",
         "source": "中華電信 MOD 目前節目"
       },
       {
         "channel": "280",
         "channelName": "Travel Channel HD",
-        "title": "豪飲旅行家第4季:有酒即是家",
-        "time": "12:25-13:06",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "282",
-        "channelName": "Fashion TV HD",
-        "title": "頂尖名模",
-        "time": "13:00-13:30",
+        "title": "舊貨獵人第8季:第1集",
+        "time": "13:06-13:49",
         "source": "中華電信 MOD 目前節目"
       },
       {
@@ -4758,6 +4804,13 @@
         "channelName": "tvN HD",
         "title": "柳先生的美食遊學團(2)",
         "time": "12:40-14:00",
+        "source": "中華電信 MOD 目前節目"
+      },
+      {
+        "channel": "282",
+        "channelName": "Fashion TV HD",
+        "title": "頂尖名模",
+        "time": "13:00-13:30",
         "source": "中華電信 MOD 目前節目"
       }
     ],
