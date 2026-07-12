@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:45:40.473Z",
+  "updatedAt": "2026-07-12T05:03:54.200Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3693,14 +3693,6 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 味全 VS 統一 例行賽 7/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-12T16:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 富邦 例行賽 7/12 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-12T17:00:00+08:00",
@@ -3750,25 +3742,25 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
+      "sport": "環法",
+      "title": "環法自行車賽・第 11 站",
+      "subtitle": "Vichy > Nevers",
+      "start": "2026-07-15T10:00:00Z",
+      "distance": "161.3 km",
+      "climb": "平路站",
+      "elevation": 1800,
+      "mapUrl": "https://www.letour.fr/en/stage-11",
+      "channel": "待定",
+      "channelStatus": "愛爾達 EPG 尚未指定",
+      "timeTbd": true
+    },
+    {
       "sport": "世界盃",
       "title": "W99 vs W100",
       "subtitle": "準決賽",
       "start": "2026-07-15T19:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "環法",
-      "title": "環法自行車賽・第 11 站",
-      "subtitle": "Vichy > Nevers",
-      "start": "2026-07-15T19:40:00+08:00",
-      "distance": "161.3 km",
-      "climb": "平路站",
-      "elevation": 1800,
-      "mapUrl": "https://www.letour.fr/en/stage-11",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3",
-      "timeTbd": false
     },
     {
       "sport": "環法",
@@ -3873,6 +3865,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-19T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "W101 vs W102",
       "subtitle": "決賽",
@@ -3929,14 +3929,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 7/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4003,6 +3995,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/25 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-25T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
@@ -4033,12 +4033,28 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-26T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4111,14 +4127,6 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-05T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4720,89 +4728,68 @@
   "recommendations": {
     "modDrama": [
       {
-        "channel": "300",
-        "channelName": "愛爾達綜合台HD",
-        "title": "九重紫 (重)(18)",
-        "time": "12:00-13:00",
+        "channel": "376",
+        "channelName": "tvN HD",
+        "title": "柳先生的美食遊學團(2)",
+        "time": "12:40-14:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "301",
-        "channelName": "三立綜合台HD",
-        "title": "新戲說台灣(846)",
-        "time": "11:00-13:00",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV HD",
+        "title": "忙內的逆襲 (8)",
+        "time": "13:00-13:30",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "350",
-        "channelName": "三立戲劇台HD",
-        "title": "新戲說台灣(949)",
-        "time": "12:00-14:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "352",
-        "channelName": "龍華戲劇HD",
-        "title": "武媚娘傳奇(37-38)",
-        "time": "12:00-14:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "356",
-        "channelName": "靖天戲劇HD",
-        "title": "「新戲說台灣」精華版(12)",
-        "time": "12:00-14:00",
-        "source": "中華電信 MOD 目前節目"
-      },
-      {
-        "channel": "357",
-        "channelName": "靖洋戲劇HD",
-        "title": "【首選卡司系列】楚漢驕雄(23)",
-        "time": "12:00-13:00",
+        "channel": "751",
+        "channelName": "Arirang TV HD",
+        "title": "PARIS GOES K-CRAZY",
+        "time": "13:00-13:30",
         "source": "中華電信 MOD 目前節目"
       }
     ],
     "modVariety": [
       {
-        "channel": "302",
-        "channelName": "靖天資訊HD",
-        "title": "台灣1001個故事(454)",
-        "time": "12:00-13:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle HD",
+        "title": "傑森艾瑟頓遊杜拜S2(1)",
+        "time": "12:45-13:40",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "303",
-        "channelName": "靖天綜合台HD",
-        "title": "台灣1001個故事(413)",
-        "time": "12:00-13:00",
+        "channel": "275",
+        "channelName": "美食星球HD",
+        "title": "智富食代(162)",
+        "time": "13:00-14:00",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "307",
-        "channelName": "亞洲綜合HD",
-        "title": "綜藝大集合(HD)(1084)",
-        "time": "12:00-14:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台HD",
+        "title": "挑戰美食堂第4季:加州聖巴巴拉",
+        "time": "12:48-13:12",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "308",
-        "channelName": "中視經典台HD",
-        "title": "大陸尋奇(2134)",
-        "time": "12:00-13:00",
+        "channel": "280",
+        "channelName": "Travel Channel HD",
+        "title": "豪飲旅行家第4季:有酒即是家",
+        "time": "12:25-13:06",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "309",
-        "channelName": "寰宇HD綜合",
-        "title": "天才衝衝衝(930)",
-        "time": "12:00-14:00",
+        "channel": "282",
+        "channelName": "Fashion TV HD",
+        "title": "頂尖名模",
+        "time": "13:00-13:30",
         "source": "中華電信 MOD 目前節目"
       },
       {
-        "channel": "313",
-        "channelName": "緯來精采HD",
-        "title": "甄心分享小琳鐺 (65)",
-        "time": "12:00-13:00",
+        "channel": "376",
+        "channelName": "tvN HD",
+        "title": "柳先生的美食遊學團(2)",
+        "time": "12:40-14:00",
         "source": "中華電信 MOD 目前節目"
       }
     ],
@@ -4865,19 +4852,19 @@
         "url": "https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW"
       },
       {
-        "title": "台灣熱門綜藝片段",
+        "title": "年輕人熱門短影音／梗片",
         "source": "YouTube 搜尋",
-        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%B6%9C%E8%97%9D"
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%9F%AD%E5%BD%B1%E9%9F%B3+%E6%A2%97%E7%89%87"
       },
       {
-        "title": "台灣熱門音樂",
+        "title": "台灣熱門音樂 MV",
         "source": "YouTube 搜尋",
-        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%9F%B3%E6%A8%82"
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+MV+%E9%9F%B3%E6%A8%82"
       },
       {
-        "title": "台灣熱門 Podcast / 訪談",
+        "title": "熱門遊戲／實況精華",
         "source": "YouTube 搜尋",
-        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+Podcast+%E8%A8%AA%E8%AB%87"
+        "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%81%8A%E6%88%B2+%E5%AF%A6%E6%B3%81+%E7%B2%BE%E8%8F%AF"
       }
     ]
   }

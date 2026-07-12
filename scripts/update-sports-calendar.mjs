@@ -7,7 +7,8 @@ const zhNames={
 };
 const zhMeta={'regular-season':'例行賽','post-season':'季後賽','pre-season':'熱身賽','Round of 16':'16 強','Quarter-final':'半準決賽','Semi-final':'準決賽','Final':'決賽','Third-place match':'季軍戰'};
 const zhText=text=>typeof text==='string'?Object.entries(zhNames).reduce((s,[en,zh])=>s.replaceAll(en,zh),zhMeta[text]||text):text;
-let previousEvents=[];try{previousEvents=JSON.parse(await fs.readFile('sports-calendar/data.json','utf8')).events||[]}catch{}
+let previousData={};try{previousData=JSON.parse(await fs.readFile('sports-calendar/data.json','utf8'))}catch{}
+let previousEvents=previousData.events||[];
 const events=[];const add=x=>events.push({...x,title:zhText(x.title),subtitle:zhText(x.subtitle)});const safe=async(url)=>{if(process.env.OFFLINE||process.env.SKIP_SPORTS)return null;try{const r=await fetch(url,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error(r.status);return await r.json()}catch(e){console.warn(url,e.message);return null}};
 const text=async(url)=>{if(process.env.OFFLINE||process.env.SKIP_SPORTS)return '';try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0'},signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error(r.status);return await r.text()}catch(e){console.warn(url,e.message);return ''}};
 const channel={f1:{channel:'200–202',channelStatus:'愛爾達體育，依 EPG'},world:{channel:'200–202',channelStatus:'愛爾達體育，依 EPG'},mlb:{channel:'200–202',channelStatus:'愛爾達／依 EPG'},nba:{channel:'200–202',channelStatus:'愛爾達／依 EPG'},nfl:{channel:'200–202',channelStatus:'愛爾達／依 EPG'},tour:{channel:'待定',channelStatus:'MOD EPG 尚未確認'}};
@@ -19,19 +20,26 @@ function parseModPrograms(html){
   return out;
 }
 function pickPopularMod(programs){
-  const bad=/新聞|購物|午間|整點|氣象|股市|財經|消費高手|首購|詳按|元氣加油站/;
-  const dramaRe=/新戲說台灣|武媚娘傳奇|楚漢驕雄|無所畏懼|九重紫|藍色水玲瓏|戲說台灣|韓劇|陸劇|首選卡司/;
-  const varietyRe=/綜藝大集合|天才衝衝衝|甄心分享小琳鐺|台灣1001個故事|台灣一千零一個故事|大陸尋奇|繞著地球玩|帶爸媽去旅行|韓流最強|鑽石大舞台|食尚玩家|小明星大跟班|綜藝玩很大/;
-  const score=p=>(/三立|八大|東森|緯來|TVBS|中天|民視|台視|中視|公視|龍華|靖天|靖洋|亞洲|寰宇|韓國娛樂|愛爾達/.test(p.channelName)?1:0)+(/HD|4K/.test(p.channelName)?1:0);
+  const bad=/新聞|購物|午間|整點|氣象|股市|財經|消費高手|首購|詳按|元氣加油站|大陸尋奇|大陸尋趣|新戲說台灣|戲說台灣|藍色水玲瓏|台灣1001個故事|台灣一千零一個故事|鑽石大舞台|美鳳有約|全民星攻略|巴布狄倫|北西北|古典|爵士|貝多芬|史克里亞賓|第一滴血|鼠來寶|歲月神偷|誅仙/;
+  const dramaRe=/tvN|龍華偶像|韓國娛樂|KMTV|Arirang|偶像|韓流|韓劇|種豆得豆/;
+  const varietyRe=/KMTV|Arirang|Fashion|美食|旅遊|Travel|Food Network|BBC Lifestyle|HGTV|tvN|韓國娛樂|偶像|實境|料理|打卡|HOME TO TABLE|種豆得豆|韓流/;
+  const score=p=>(/tvN|KMTV|Arirang|龍華偶像|Food Network|Fashion|Travel|BBC Lifestyle|HGTV|美食|旅遊/.test(p.channelName)?3:0)+(/HD|4K/.test(p.channelName)?1:0);
   const uniq=arr=>[...new Map(arr.filter(p=>!bad.test(p.title)).sort((a,b)=>score(b)-score(a)).map(p=>[`${p.channel}-${p.title}`,p])).values()];
-  return {modDrama:uniq(programs.filter(p=>dramaRe.test(p.title)||/戲劇/.test(p.channelName))).slice(0,6),modVariety:uniq(programs.filter(p=>varietyRe.test(p.title)||/(綜合|娛樂|歡樂)/.test(p.channelName)&&varietyRe.test(p.title))).slice(0,6)};
+  return {modDrama:uniq(programs.filter(p=>dramaRe.test(`${p.channelName} ${p.title}`))).slice(0,6),modVariety:uniq(programs.filter(p=>varietyRe.test(`${p.channelName} ${p.title}`))).slice(0,6)};
 }
 async function getStreamingRecommendations(){
   const modHtml=await text('https://mod.cht.com.tw/modweb/%E9%A0%BB%E9%81%93TV/%E5%85%A8%E9%83%A8.do?tab=channelInfo'),mod=pickPopularMod(parseModPrograms(modHtml));
   const netflixHtml=await text('https://www.netflix.com/tudum/top10/taiwan'),seen=new Set(),netflix=[];
   for(const m of netflixHtml.matchAll(/"title":"([^"]+)"/g)){const title=m[1].replace(/\\x20/g,' ');if(title.includes('Top 10')||seen.has(title))continue;seen.add(title);netflix.push({title,source:'Netflix 台灣 Top 10',url:'https://www.netflix.com/tudum/top10/taiwan'});if(netflix.length>=10)break}
-  const youtube=[{title:'YouTube 台灣熱門影片',source:'YouTube Trending Taiwan',url:'https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW'},{title:'台灣熱門綜藝片段',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%B6%9C%E8%97%9D'},{title:'台灣熱門音樂',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%9F%B3%E6%A8%82'},{title:'台灣熱門 Podcast / 訪談',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+Podcast+%E8%A8%AA%E8%AB%87'}];
+  const youtube=[{title:'YouTube 台灣熱門影片',source:'YouTube Trending Taiwan',url:'https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW'},{title:'年輕人熱門短影音／梗片',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%9F%AD%E5%BD%B1%E9%9F%B3+%E6%A2%97%E7%89%87'},{title:'台灣熱門音樂 MV',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+MV+%E9%9F%B3%E6%A8%82'},{title:'熱門遊戲／實況精華',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%81%8A%E6%88%B2+%E5%AF%A6%E6%B3%81+%E7%B2%BE%E8%8F%AF'}];
   return {...mod,netflix,youtube};
+}
+function keepLastGoodRecommendations(fresh,old={}){
+  const out={};
+  for(const key of ['modDrama','modVariety','netflix','youtube']){
+    out[key]=fresh?.[key]?.length?fresh[key]:(old?.[key]||[]);
+  }
+  return out;
 }
 const eltaChannels=[['101','200','愛爾達體育 1'],['105','201','愛爾達體育 2'],['110','202','愛爾達體育 3'],['115','203','愛爾達體育 4']];
 async function getEltaRows(dates,matcher){
@@ -75,4 +83,4 @@ async function getEltaTourBroadcasts(){
   return found;
 }
 const eltaConfirmed=new Map([['2026-07-06',{start:'2026-07-06T18:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-07',{start:'2026-07-07T19:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-08',{start:'2026-07-08T22:00:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-09',{start:'2026-07-09T18:15:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-10',{start:'2026-07-10T19:05:00+08:00',channel:'203',channelStatus:'愛爾達體育 4'}],['2026-07-12',{start:'2026-07-12T19:30:00+08:00',channel:'202',channelStatus:'愛爾達體育 3'}]]),eltaLive=process.env.OFFLINE?new Map():await getEltaTourBroadcasts(),eltaTour=new Map([...eltaConfirmed,...eltaLive]),oldTour=new Map(previousEvents.filter(x=>x.sport==='環法').map(x=>[x.title,x]));tourStages.forEach(([stage,day,route,distance,type])=>{const date=`2026-07-${String(day).padStart(2,'0')}`,title=`環法自行車賽・第 ${stage} 站`,tv=eltaTour.get(date),old=oldTour.get(title),saved=!tv&&old&&!old.timeTbd?old:null;add({sport:'環法',title,subtitle:route,start:tv?.start||saved?.start||`${date}T10:00:00Z`,distance,climb:climbZh[type]||type,elevation:elevationGain[stage]||null,mapUrl:`https://www.letour.fr/en/stage-${stage}`,channel:tv?.channel||saved?.channel||'待定',channelStatus:tv?.channelStatus||saved?.channelStatus||'愛爾達 EPG 尚未指定',timeTbd:!(tv||saved)})});
-events.sort((a,b)=>a.start.localeCompare(b.start));const pending=[{sport:'NBA 季後賽',note:'2027 季後賽對戰與時間尚未公布'},{sport:'MLB 季後賽',note:'2026 季後賽對戰與時間尚未公布'},{sport:'NFL',note:'只顯示 MOD／愛爾達 EPG 已列出的 NFL 轉播，EPG 尚未列出則不顯示'},{sport:'UFC',note:'只顯示 MOD／愛爾達 EPG 已列出的 UFC 轉播，EPG 尚未列出則不顯示'},{sport:'中華職棒季後賽',note:'只顯示愛爾達 EPG 已列出的中職轉播'}],recommendations=await getStreamingRecommendations();await fs.writeFile('sports-calendar/data.json',JSON.stringify({updatedAt:new Date().toISOString(),events,pending,recommendations},null,2)+'\n');console.log(`Sports calendar: ${events.length} events`);
+events.sort((a,b)=>a.start.localeCompare(b.start));const pending=[{sport:'NBA 季後賽',note:'2027 季後賽對戰與時間尚未公布'},{sport:'MLB 季後賽',note:'2026 季後賽對戰與時間尚未公布'},{sport:'NFL',note:'只顯示 MOD／愛爾達 EPG 已列出的 NFL 轉播，EPG 尚未列出則不顯示'},{sport:'UFC',note:'只顯示 MOD／愛爾達 EPG 已列出的 UFC 轉播，EPG 尚未列出則不顯示'},{sport:'中華職棒季後賽',note:'只顯示愛爾達 EPG 已列出的中職轉播'}],recommendations=keepLastGoodRecommendations(await getStreamingRecommendations(),previousData.recommendations);await fs.writeFile('sports-calendar/data.json',JSON.stringify({updatedAt:new Date().toISOString(),events,pending,recommendations},null,2)+'\n');console.log(`Sports calendar: ${events.length} events`);
