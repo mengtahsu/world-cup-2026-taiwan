@@ -154,10 +154,47 @@ async function getModSevenDayPicks(modHtml){
   const scored=rows.map(scoreModProgram).filter(Boolean);
   return scored.length?await pickModScheduleWithGemini(scored):null;
 }
+const netflixZhTitleMap={
+  'Husbands in Action':'出動吧！老公們',
+  'Double Happiness':'雙喜',
+  'Enola Holmes 3':'天才少女福爾摩斯 3',
+  'Voicemails for Isabelle':'給伊莎貝爾的語音留言',
+  'Little Brother':'小弟弟',
+  'The Hustle':'詐騙女神',
+  'A Foggy Tale':'霧中故事',
+  'No Time to Die':'007：生死交戰',
+  'Into the Blue':'深海尋寶',
+  'Despicable Me 4':'神偷奶爸 4'
+};
+function hasCjk(s){return /[\u3400-\u9fff]/.test(String(s||''))}
+async function localizeNetflixTitles(titles){
+  const mapped=Object.fromEntries(titles.map(t=>[t,netflixZhTitleMap[t]||t]));
+  const needGemini=titles.filter(t=>!hasCjk(mapped[t])&&process.env.GEMINI_API_KEY);
+  if(!needGemini.length)return {titles:mapped,mode:'map'};
+  try{
+    const prompt=`把 Netflix 台灣 Top 10 片名轉成台灣常用中文片名；如果沒有官方中文名，用自然繁中片名。不要解釋，只回 JSON：{"titles":[{"en":"英文原名","zh":"中文片名"}]}。片名=${JSON.stringify(needGemini)}`;
+    const {json,api,attempt}=await askGeminiJson(prompt);
+    for(const item of json?.titles||[])if(item?.en&&item?.zh)mapped[item.en]=item.zh;
+    return {titles:mapped,mode:`gemini:${api}:${attempt}`};
+  }catch(e){
+    return {titles:mapped,mode:`map-fallback:${compactError(e.message)}`};
+  }
+}
+async function getNetflixRecommendations(){
+  const netflixHtml=await text('https://www.netflix.com/tudum/top10/taiwan'),seen=new Set(),titles=[];
+  for(const m of netflixHtml.matchAll(/"title":"([^"]+)"/g)){
+    const title=m[1].replace(/\\x20/g,' ');
+    if(title.includes('Top 10')||seen.has(title))continue;
+    seen.add(title);titles.push(title);
+    if(titles.length>=10)break;
+  }
+  const localized=await localizeNetflixTitles(titles);
+  return {items:titles.map(originalTitle=>({title:localized.titles[originalTitle]||originalTitle,originalTitle,source:'Netflix 台灣 Top 10',url:'https://www.netflix.com/tudum/top10/taiwan'})),mode:localized.mode};
+}
 async function getStreamingRecommendations(){
   const modHtml=await text('https://mod.cht.com.tw/modweb/%E9%A0%BB%E9%81%93TV/%E5%85%A8%E9%83%A8.do?tab=channelInfo'),mod=(await getModSevenDayPicks(modHtml))||await rerankModWithGemini(pickPopularMod(parseModPrograms(modHtml)));
-  const netflixHtml=await text('https://www.netflix.com/tudum/top10/taiwan'),seen=new Set(),netflix=[];
-  for(const m of netflixHtml.matchAll(/"title":"([^"]+)"/g)){const title=m[1].replace(/\\x20/g,' ');if(title.includes('Top 10')||seen.has(title))continue;seen.add(title);netflix.push({title,source:'Netflix 台灣 Top 10',url:'https://www.netflix.com/tudum/top10/taiwan'});if(netflix.length>=10)break}
+  const netflixResult=await getNetflixRecommendations(),netflix=netflixResult.items;
+  mod.meta={...(mod.meta||{}),netflixTitleMode:netflixResult.mode};
   const youtube=[{title:'YouTube 台灣熱門影片',source:'YouTube Trending Taiwan',url:'https://www.youtube.com/feed/trending?gl=TW&hl=zh-TW'},{title:'年輕人熱門短影音／梗片',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E7%9F%AD%E5%BD%B1%E9%9F%B3+%E6%A2%97%E7%89%87'},{title:'台灣熱門音樂 MV',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+MV+%E9%9F%B3%E6%A8%82'},{title:'熱門遊戲／實況精華',source:'YouTube 搜尋',url:'https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3+%E7%86%B1%E9%96%80+%E9%81%8A%E6%88%B2+%E5%AF%A6%E6%B3%81+%E7%B2%BE%E8%8F%AF'}];
   return {...mod,netflix,youtube};
 }
