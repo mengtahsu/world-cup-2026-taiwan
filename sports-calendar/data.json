@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:32:03.231Z",
+  "updatedAt": "2026-07-13T04:21:54.091Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3761,6 +3761,14 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "世界盃",
       "title": "法國 vs 西班牙",
       "subtitle": "準決賽",
@@ -3828,11 +3836,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(167)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "多諾居家好料理S1(1)",
+      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
       "start": "2026-07-16T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "環法",
@@ -3862,19 +3870,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "奈潔拉的動人美食S1(5)",
+      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
+      "start": "2026-07-17T18:00:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "智富食代(168)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-17T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "挑戰美食堂第4季:加州聖荷西",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-07-17T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -3916,11 +3924,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(137)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-18T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -3970,11 +3978,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "決戰賭城主廚第1季:早午餐難關",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(138)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-19T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -4941,11 +4949,21 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(167)",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾居家好料理S1(1)",
         "time": "18:00",
         "date": "2026-07-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "奈潔拉的動人美食S1(5)",
+        "time": "18:00",
+        "date": "2026-07-17",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4954,16 +4972,6 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(168)",
-        "time": "18:00",
-        "date": "2026-07-17",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:加州聖荷西",
         "time": "18:00",
         "date": "2026-07-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -4981,9 +4989,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(137)",
         "time": "18:00",
         "date": "2026-07-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -5001,9 +5009,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "決戰賭城主廚第1季:早午餐難關",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(138)",
         "time": "18:00",
         "date": "2026-07-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -5099,7 +5107,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "modSelectorError": "The operation was aborted due to timeout | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more inf",
       "netflixTitleMode": "map"
     }
   }
