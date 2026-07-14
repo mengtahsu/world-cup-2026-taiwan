@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T23:15:15.944Z",
+  "updatedAt": "2026-07-14T03:36:58.523Z",
   "matches": [
     {
       "number": 1,
@@ -2185,7 +2185,7 @@
       ],
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
-        "bio": "Centre-Forward・Norway・生於 2000-07-21"
+        "bio": "Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -3005,6 +3005,36 @@
   ],
   "news": [
     {
+      "title": "世足》超過450萬人聯署！要爭議頻頻的阿根廷滾出世界盃 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15dFhqUGNWOVFJREU2ZkJpSndXVzBtU2Q4VzljakNBNU9PcXZERzNTbGpxVlFWcWVmSVByaGZHVTF5VzFPc3F5VFFnT2NlSjBNVFdvU2FxVVd2Y3NOVE9rUw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 02:07:00 GMT",
+      "source": "自由體育"
+    },
+    {
+      "title": "世足／靠裁判偏袒？360萬人連署開除阿根廷世界盃資格！ - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLXVjUU1QZVl3eFpXNktoa1phWDRBUGdLSUZueUNpaVViNjdPM2JxdE9RTENJSTlqWncwT1ZpR0dJQnNyYXAwRWJPb2NKVktrNzFV?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 00:17:00 GMT",
+      "source": "東森新聞"
+    },
+    {
+      "title": "世足賽／FIFA主席拋震撼彈世界盃後研議擴軍至64隊！挑戰全球足球版圖| 運動 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IS2lDWVd4ZmRpYXpHTlhnQnFvaXpiaUlEN0NwRVFlal9YSVZqaE5BSV9tZnhSLVpjY1ViY2JNd3VrM1o4bmNYVQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 23:02:00 GMT",
+      "source": "三立新聞"
+    },
+    {
+      "title": "世足》FIFA考慮擴軍至64隊 中媒：中國隊希望又來了？ - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPalE5NHp1aFlwMVduaWRGdTNrNnI2S0lCSm1PUkZMMGpNV2hjR1hER1MxdFV4Q0tWZXE1RGZIeDJ6MVJ6azZnTl9IYnUtN2ZscU1yM0hHX3lEajlCNjVJTGVNY0tZYVFKaHFEcVdyblQzdGdBTVJVc2VQbi13RHJlcGl1UDh5c2NWNklodTN1cWVib0pubXhaTmlmMWRSdkdzSXRHeUhzdVZ4ZVUwZEs0dXFZMUxFUDVNVjh4YXRfNzZqUjhUWmpnZ2pwSy1HSkJmRTlYSnZ1SGJyQWItVUdIczNzSy1wampPZURKaHk4U2ZWMXVqbnduS25xTlo4d3g1cHBzNk9JN0Z5N1lrWFpld3pfZXdwMlRWN3NKZ2RXUmFLVzJtZ25aeE1pMFpBZXhrTjhNdFl6N2hWRG14T2VveFZyZFFNS3d1SzBkS3hZX0JtN2FNRlJvRU9XMkNVb25NWmc?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:52:58 GMT",
+      "source": "Yahoo運動"
+    },
+    {
+      "title": "世足》「每國都該有參加世界盃的夢想」FIFA將討論擴編至64隊 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wd1hUS1dDOHdQdlp6NzFwei0zdFN5cEJveWw2cS1kUTg0TzctUzlJblpObDdpcm9OQm1yZkpZSVBZSGg2NU8xN1FxcUFFV2tnSEoxLUNONWxGeWR1UEJmc9IBZkFVX3lxTFBIVXN4emNPUU9QVzVmekx3cnV1eDktTVlWa0REU050c2xuOXJlRXU3OUZ6SERfNTNlM1hKUGlLZ09zdnZYcE1sVlU5OW1jVVFZMTJRZjVWekstcVd1bkhBNnpOcE5iZw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 01:31:00 GMT",
+      "source": "自由體育"
+    },
+    {
       "title": "《2026世界盃》四強法國對西班牙：西法迎來四強賽的「三番戰」！ - 運動視界Sports Vision",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHS25FNFFlbS1KVXNyeTB5clVaa1BmS0Zsa0dRbzUySGFPOHlPWmJWZmtCZVRjdk9xckNXNlhvbHYtV1NJNXFpcmpnOVdGWlkx?oc=5",
       "pubDate": "Mon, 13 Jul 2026 18:38:28 GMT",
@@ -3017,62 +3047,32 @@
       "source": "Yahoo新聞"
     },
     {
-      "title": "世足／促成足球「紅黃牌」誕生！阿根廷名將驚傳逝世 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZFE2OHNPRGZIaXUwcjlSQnBzZmVaMDRSc25BZHFtU2dOVlBOWlQwcXR6M0pIc1V1azFoYXBsR3Rmdm9FZGNKc0MxQ1pTX2FmS2Nz?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 03:10:00 GMT",
-      "source": "東森新聞"
-    },
-    {
-      "title": "2026世界盃10大最失望球隊排行曝：「1國家」陣容超狂卻踢出最差球賽、 全球球迷直呼不敢置信 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZENHWXJKNU52TUVfSWZKNWgtMUd0aEZuQUhzNk0zTC16V1dDb1NFcktrbmFqWU43NWduZEFLVElqMmFMMkdvcWN2TEUtUmxs?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 04:01:15 GMT",
-      "source": "風傳媒"
-    },
-    {
-      "title": "2026世足優惠活動懶人包》超商、速食、餐廳下殺！隱藏優惠碼總整理 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rdFJ4S01jQzN6V1k2eDEtOXUtYlhjdnRQOW12ZlZ4TkJVRERzak1pZnAtZFphWmV4WjlST2Z6QTZSM2Q2VTVXYzNmNG91UQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 08:56:00 GMT",
-      "source": "TVBS新聞網"
+      "title": "2026世足賽賽程｜4強出爐！法國交手西班牙、阿根廷對決英格蘭！4強賽比賽時間、對戰組合、直播線上看管道總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPM1FNbGdPaTV2V3ZhSU1iX0RxaERaX2N2UktjU1RGX082VHhRem9kT0U4Mng3UEJkczlkRXQ1THR3SER3ck5tazRNYjl0bVQwSUp6Y3R5d0w0b3FCN3RkcXYxcVdTT0FOaU10N1c1MGRyeWtUNVVqb3kyVDdYeXRoQWhXZ0ZOM3RpdFlwT01oS1c4UzhMSVh5ZC1aTll5WHVyU0p0ak9FTFRvbWJVNkloVXY1bWFhVXM3My1Bc2w1dHZZOGdlRnRfWTh5WFNOcGJ0Tng0QlM3YXV0MjhzOGNPT09heDZTZnRfaGZzX1ZPX29KYzdGVnJJMDhMaFRBbEd0bVVydUJfQWhtemc1eWRzeE9OenlybWIyb2k1LUFOdGlrbDhaRDhyTklYLUUxSjI0ZjktQjNKNUxLSVNOQ05WWHlMTzR6R2ZJSmRMVzhMLXRqaEhPSGJHS3NlTkVZNG5YYXVKNDRQck0tX0lOSUNyVG5EVkJfOVZ2MVp4Mi1Kdi12bkhxTTJoVHZ5Q3hlQVZsZWVZMy0xZXVkREQ1eEZKMW40T0R6dTYxakZ1UWxKUk5RRTJxX2JRYXcwY3hJTXplX3RMTUV4Zkl2RDUyWkVKNGx6YWo3R3RVclJOeFRR?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "source": "Yahoo運動"
     },
     {
       "title": "2026世界盃中場秀「直播時間、線上看平台」一次看！BTS、小賈斯汀、瑪丹娜豪華開唱 - ELLE",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEY5bXIybGV5WGpNN3lqeXhvVmlzYk1ETEh6X2NrdjI3aTdYelh4WVZ5b24wYm5OTHgxT2s2TGh5RHZwb2g0OGdET1l3dmVKVGN2UVhHa051N2ZkSGVKREFjX0pzeWQ0MWtleFh4LXRoQWFKRDljcW1TTVNjTDJrWjdZQ1RlNEFkaGpVNg?oc=5",
       "pubDate": "Mon, 13 Jul 2026 12:00:27 GMT",
       "source": "ELLE"
-    },
-    {
-      "title": "世足》發豪語「封鎖」梅西！前英格蘭國腳：我們速度比阿根廷快多了 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YU2hLeDFCUlNFU1JTY1BXSDNrd1haZDZpSU9DRHRWejl6TWVaamx3YkttLV9KNHNfdk8wQVVGWTFQT3R5NmIwUm1JLTBma1VNV2JEellHVmIzQnI3SGNiSdIBZkFVX3lxTE1fM0ZtSW1DQkhuaTR5YUlfWTgzYVVUWUZCTDF5MVhpZndGZnhvQkpxWHhPQ24yblBEQ0cyM3g1dXVyYllNUFRIa1hKa0RwcjZiY0UyNDZZNW5qS0g4bVFkMVFKdUhTQQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 07:33:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "英凡提諾：2026世界盃後討論參賽隊數再擴編 | 路透社 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seTFOei1HRG9UaXZndlJ5Z2xYcDJ6MHdGVXZIQ0hhRzN4YUM1dEZZVkFwemlUODU1N3NIaTFWWjczLVlTQUFNUjVXTjJMemZ3QTBUUkFR?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 00:35:24 GMT",
-      "source": "LINE TODAY"
-    },
-    {
-      "title": "2026世足賽賽程｜4強出爐！法國交手西班牙、阿根廷對決英格蘭！4強賽比賽時間、對戰組合、直播線上看管道總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPM1FNbGdPaTV2V3ZhSU1iX0RxaERaX2N2UktjU1RGX082VHhRem9kT0U4Mng3UEJkczlkRXQ1THR3SER3ck5tazRNYjl0bVQwSUp6Y3R5d0w0b3FCN3RkcXYxcVdTT0FOaU10N1c1MGRyeWtUNVVqb3kyVDdYeXRoQWhXZ0ZOM3RpdFlwT01oS1c4UzhMSVh5ZC1aTll5WHVyU0p0ak9FTFRvbWJVNkloVXY1bWFhVXM3My1Bc2w1dHZZOGdlRnRfWTh5WFNOcGJ0Tng0QlM3YXV0MjhzOGNPT09heDZTZnRfaGZzX1ZPX29KYzdGVnJJMDhMaFRBbEd0bVVydUJfQWhtemc1eWRzeE9OenlybWIyb2k1LUFOdGlrbDhaRDhyTklYLUUxSjI0ZjktQjNKNUxLSVNOQ05WWHlMTzR6R2ZJSmRMVzhMLXRqaEhPSGJHS3NlTkVZNG5YYXVKNDRQck0tX0lOSUNyVG5EVkJfOVZ2MVp4Mi1Kdi12bkhxTTJoVHZ5Q3hlQVZsZWVZMy0xZXVkREQ1eEZKMW40T0R6dTYxakZ1UWxKUk5RRTJxX2JRYXcwY3hJTXplX3RMTUV4Zkl2RDUyWkVKNGx6YWo3R3RVclJOeFRR?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "source": "Yahoo運動"
     }
   ],
   "odds": [
     {
       "home": "France",
       "away": "Spain",
-      "homePrice": 2.3,
+      "homePrice": 2.38,
       "drawPrice": 3.3,
       "awayPrice": 2.9
     },
     {
       "home": "England",
       "away": "Argentina",
-      "homePrice": 2.69,
+      "homePrice": 2.72,
       "drawPrice": 2.92,
-      "awayPrice": 3.13
+      "awayPrice": 3.09
     }
   ],
   "videos": [
