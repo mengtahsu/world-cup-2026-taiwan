@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T03:48:35.072Z",
+  "updatedAt": "2026-07-14T08:55:49.500Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3714,19 +3714,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (11)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-14T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(165)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-14T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (11)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-14T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "中職",
@@ -3767,11 +3767,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (13)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "title": "智富食代(166)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-15T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "中職",
@@ -3804,19 +3804,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (15)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-16T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(167)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-16T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (15)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-16T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "環法",
@@ -3978,19 +3978,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (17)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-20T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(169)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-20T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (17)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-20T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "道奇",
@@ -4033,14 +4033,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 7/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4175,14 +4167,6 @@
       "start": "2026-08-01T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/1 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-01T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4825,9 +4809,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (11)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
         "time": "18:00",
         "date": "2026-07-14",
         "source": "中華電信 MOD 7 日節目表",
@@ -4835,9 +4819,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(165)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (11)",
         "time": "18:00",
         "date": "2026-07-14",
         "source": "中華電信 MOD 7 日節目表",
@@ -4855,21 +4839,11 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (13)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(166)",
         "time": "18:00",
         "date": "2026-07-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (15)",
-        "time": "18:00",
-        "date": "2026-07-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4878,6 +4852,16 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(167)",
+        "time": "18:00",
+        "date": "2026-07-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (15)",
         "time": "18:00",
         "date": "2026-07-16",
         "source": "中華電信 MOD 7 日節目表",
@@ -4887,9 +4871,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (11)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(165)",
         "time": "18:00",
         "date": "2026-07-14",
         "source": "中華電信 MOD 7 日節目表",
@@ -4897,9 +4881,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(165)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (11)",
         "time": "18:00",
         "date": "2026-07-14",
         "source": "中華電信 MOD 7 日節目表",
@@ -4917,21 +4901,11 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (13)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(166)",
         "time": "18:00",
         "date": "2026-07-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (15)",
-        "time": "18:00",
-        "date": "2026-07-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4940,6 +4914,16 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(167)",
+        "time": "18:00",
+        "date": "2026-07-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (15)",
         "time": "18:00",
         "date": "2026-07-16",
         "source": "中華電信 MOD 7 日節目表",
@@ -5007,9 +4991,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (17)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(169)",
         "time": "18:00",
         "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -5017,9 +5001,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(169)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (17)",
         "time": "18:00",
         "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -5115,7 +5099,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 429 {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and bil",
+      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map"
     }
   }
