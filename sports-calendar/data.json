@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T19:55:40.105Z",
+  "updatedAt": "2026-07-14T22:39:36.966Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3884,11 +3884,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(137)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-18T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -3938,11 +3938,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "決戰賭城主廚第1季:早午餐難關",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(138)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-19T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -4135,14 +4135,6 @@
       "start": "2026-07-26T17:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4949,9 +4941,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(137)",
         "time": "18:00",
         "date": "2026-07-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4969,9 +4961,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "決戰賭城主廚第1季:早午餐難關",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(138)",
         "time": "18:00",
         "date": "2026-07-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -5021,8 +5013,8 @@
     ],
     "netflix": [
       {
-        "title": "出動吧！老公們",
-        "originalTitle": "Husbands in Action",
+        "title": "詐騙女神",
+        "originalTitle": "The Hustle",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5033,8 +5025,20 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
+        "title": "F9: The Fast Saga",
+        "originalTitle": "F9: The Fast Saga",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
         "title": "天才少女福爾摩斯 3",
         "originalTitle": "Enola Holmes 3",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "出動吧！老公們",
+        "originalTitle": "Husbands in Action",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5045,14 +5049,14 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "小弟弟",
-        "originalTitle": "Little Brother",
+        "title": "神偷奶爸 4",
+        "originalTitle": "Despicable Me 4",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "詐騙女神",
-        "originalTitle": "The Hustle",
+        "title": "Wicked",
+        "originalTitle": "Wicked",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5063,20 +5067,8 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "007：生死交戰",
-        "originalTitle": "No Time to Die",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "深海尋寶",
-        "originalTitle": "Into the Blue",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "神偷奶爸 4",
-        "originalTitle": "Despicable Me 4",
+        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "originalTitle": "Fast & Furious Presents: Hobbs & Shaw",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
@@ -5108,7 +5100,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map"
+      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
 }
