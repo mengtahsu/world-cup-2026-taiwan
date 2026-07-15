@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T16:55:37.754Z",
+  "updatedAt": "2026-07-15T19:50:41.126Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3809,11 +3809,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "奈潔拉的動人美食S1(5)",
-      "subtitle": "年輕熱門精選・BBC Lifestyle Channel・18:00",
+      "title": "花甲少年趣旅行(123)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-17T18:00:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "環法",
@@ -4839,9 +4839,9 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "奈潔拉的動人美食S1(5)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(123)",
         "time": "18:00",
         "date": "2026-07-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -4901,9 +4901,9 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "奈潔拉的動人美食S1(5)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(123)",
         "time": "18:00",
         "date": "2026-07-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -5099,7 +5099,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
