@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:40:15.955Z",
+  "updatedAt": "2026-07-15T21:16:07.017Z",
   "matches": [
     {
       "number": 1,
@@ -1441,6 +1441,10 @@
       "kickoff": "2026-07-15T19:00:00.000Z",
       "team1": "England",
       "team2": "Argentina",
+      "score": [
+        1,
+        2
+      ],
       "ground": "Atlanta"
     },
     {
@@ -1449,7 +1453,7 @@
       "date": "2026-07-18",
       "kickoff": "2026-07-18T21:00:00.000Z",
       "team1": "France",
-      "team2": "L102",
+      "team2": "England",
       "ground": "Miami (Miami Gardens)"
     },
     {
@@ -1458,7 +1462,7 @@
       "date": "2026-07-19",
       "kickoff": "2026-07-19T19:00:00.000Z",
       "team1": "Spain",
-      "team2": "W102",
+      "team2": "Argentina",
       "ground": "New York/New Jersey (East Rutherford)"
     }
   ],
@@ -2189,7 +2193,7 @@
       ],
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
-        "bio": "Forward・Norway・生於 2000-07-21"
+        "bio": "Centre-Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -2897,6 +2901,50 @@
       }
     },
     {
+      "name": "Lautaro Martínez",
+      "team": "Argentina",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 60,
+          "opponent": "Jordan",
+          "date": "2026-06-27",
+          "kickoff": "2026-06-28T02:00:00.000Z",
+          "score": [
+            1,
+            3
+          ],
+          "goals": 1
+        },
+        {
+          "number": 100,
+          "opponent": "Switzerland",
+          "date": "2026-07-11",
+          "kickoff": "2026-07-12T01:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 102,
+          "opponent": "England",
+          "date": "2026-07-15",
+          "kickoff": "2026-07-15T19:00:00.000Z",
+          "score": [
+            1,
+            2
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+        "bio": "Centre-Forward・Argentina・生於 1997-08-22"
+      }
+    },
+    {
       "name": "Matheus Cunha",
       "team": "Brazil",
       "goals": 3,
@@ -2972,50 +3020,6 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjepmh1781348889.png",
         "bio": "Centre-Forward・Mexico・生於 1991-05-05"
       }
-    },
-    {
-      "name": "Romelu Lukaku",
-      "team": "Belgium",
-      "goals": 3,
-      "matches": [
-        {
-          "number": 42,
-          "opponent": "New Zealand",
-          "date": "2026-06-26",
-          "kickoff": "2026-06-27T03:00:00.000Z",
-          "score": [
-            1,
-            5
-          ],
-          "goals": 1
-        },
-        {
-          "number": 82,
-          "opponent": "Senegal",
-          "date": "2026-07-01",
-          "kickoff": "2026-07-01T20:00:00.000Z",
-          "score": [
-            2,
-            2
-          ],
-          "goals": 1
-        },
-        {
-          "number": 94,
-          "opponent": "USA",
-          "date": "2026-07-06",
-          "kickoff": "2026-07-07T00:00:00.000Z",
-          "score": [
-            1,
-            4
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png",
-        "bio": "Centre-Forward・Belgium・生於 1993-05-13"
-      }
     }
   ],
   "news": [
@@ -3032,16 +3036,22 @@
       "source": "運動視界Sports Vision"
     },
     {
+      "title": "世足賽／5年前神預言再被翻出！2026冠軍劇本差1步 ESPN轉發：真會發生？ | 運動 | 2026美加墨世足 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUlJoYVJFQ1p5bVB2bWhzanppNEZnTlFmdFRmVjJxWm1tUDM5ZDI0cnhHeldVbTZkWGZVQTkxY1dHU0pTWmNRRDI5OW9ncno1blFMUmpTcFpuem8zQW91bzdHOXd3LVgzUGY3QlQyMA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:42:36 GMT",
+      "source": "UDN"
+    },
+    {
       "title": "姆巴佩貝林漢都輸了！2026世界盃最強球員第1名是「他」：39歲仍能主宰全場， 球迷讚寶刀未老 - Storm.mg",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fSTQ3V3pGNGJBVGRGcFVVT3Y5LTJwU3I3VzhjdGVtZTRYQk14elJkMFR1Ylg5Y2h0cFlpbS01emR2azMzQmZsTlpkVGd3YUFn?oc=5",
       "pubDate": "Wed, 15 Jul 2026 02:45:29 GMT",
       "source": "Storm.mg"
     },
     {
-      "title": "世足賽／5年前神預言再被翻出！2026冠軍劇本差1步 ESPN轉發：真會發生？ | 運動 | 2026美加墨世足 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUlJoYVJFQ1p5bVB2bWhzanppNEZnTlFmdFRmVjJxWm1tUDM5ZDI0cnhHeldVbTZkWGZVQTkxY1dHU0pTWmNRRDI5OW9ncno1blFMUmpTcFpuem8zQW91bzdHOXd3LVgzUGY3QlQyMA?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 04:42:36 GMT",
-      "source": "UDN"
+      "title": "從箭毒蛙到亞洲獵豹 2026世界盃六國球衣上的「生態彩蛋」 - 環境資訊中心",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3a2g3VUdxYUNCM3RqcUwxM1JoVHNRaE5NbW9TQ3RfYkZSdlhDc3NjNXRFRl9JekQ2dTlOZ2tDVm5XQXE4aVdQUQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:16:59 GMT",
+      "source": "環境資訊中心"
     },
     {
       "title": "2026 世界盃最時尚足球員「漫不經心先生」Michael Olise：沒有代言、沒有曝光的不費力風格學 - GQ Taiwan",
@@ -3050,22 +3060,16 @@
       "source": "GQ Taiwan"
     },
     {
-      "title": "2026 FIFA世界盃真的有賣「決賽草皮」！一塊約新台幣1.3萬元，開賣秒殺售罄 - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hTVlINXViOFJpblVwV2N6MTU0OWtkYW5hMm5RWnd0WDE3TWVKellSWk5kMlZLcnJvSlY5X0ZkOFVYalJ0ZlFVRms0Z05kNks2NTRubnhhajZVV0F0cEtKTEhOUkFFTThiS3A0N21vOGt6dw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:39:04 GMT",
-      "source": "ELLE"
+      "title": "【2026世界盃】梅西「散步」成致命武器？英媒揭球王智慧 魯尼警告：這也是阿根廷最大弱點 - PChome Online 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm0wbkU3RGZlS2gxTHZ5Q2VwQ0R2ZmFtOHVZSWpJWmIxRHhxaE85dWhkQS1NUnZmVy1tWEhWN29td3NiSXQ5Q2dXc3p5bVdXU2o4ZVdsSEYwYV9EcmJjNXI4OUMwNWVpeUtlS3k4S1BZM2UySm5iUUZ3allrWFRXRVF5NTczbkZk?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:40:00 GMT",
+      "source": "PChome Online 新聞"
     },
     {
       "title": "2026世界盃／冠軍戰辦中場秀 休息時間可能上看25分鐘 - rti.org.tw",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oRzJianhuNFpnbkNuQ09ncmVocnFPTWZHYm9MMHUya3dEZUhkYzJTaEJpMkRYYTdzYy1qZDl5cWQ5ZUFRWnRJeVJRTE9xT2J4MGdzRHM2TQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 23:43:30 GMT",
       "source": "rti.org.tw"
-    },
-    {
-      "title": "2026世界盃｜4強淘汰賽完整賽程一次看！法國大戰西班牙、英格蘭對抗阿根廷 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MVFCYlFsaGlZMmU2TnI0UGZmUHlCZDJiUWhBc053UGhHX21jVUtDUHJ2dFdxM0NDcnJSR2ZwNHpsM1JJZTZEWEZfMzZnUU5ZM0NDekN5dHJ4MkktVnhzMndkYjJrM2o3aEtjMGVQWHg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:51:48 GMT",
-      "source": "Vogue Taiwan"
     },
     {
       "title": "世足／2026世界盃驚現「神預言」 網翻出五年前貼文嚇傻：未來人 - 東森新聞",
@@ -3076,11 +3080,18 @@
   ],
   "odds": [
     {
-      "home": "England",
+      "home": "Spain",
       "away": "Argentina",
-      "homePrice": 2.71,
-      "drawPrice": 2.92,
-      "awayPrice": 3.16
+      "homePrice": 2.3,
+      "drawPrice": 3.05,
+      "awayPrice": 4
+    },
+    {
+      "home": "France",
+      "away": "England",
+      "homePrice": 2.3,
+      "drawPrice": 3.3,
+      "awayPrice": 3.25
     }
   ],
   "videos": [
