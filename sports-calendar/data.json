@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T03:53:16.196Z",
+  "updatedAt": "2026-07-16T09:02:57.291Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4119,14 +4119,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-26T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
