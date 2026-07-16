@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T22:40:51.566Z",
+  "updatedAt": "2026-07-16T03:53:16.196Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3713,14 +3713,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 7/14 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "環法",
       "title": "環法自行車賽・第 10 站",
       "subtitle": "Aurillac > Le Lioran",
@@ -4129,6 +4121,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-26T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
@@ -4143,14 +4143,6 @@
       "start": "2026-07-29T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 7/29 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-29T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -5107,8 +5099,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 429 {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and bil",
-      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
