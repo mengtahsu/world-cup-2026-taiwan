@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T10:50:04.356Z",
+  "updatedAt": "2026-07-18T14:08:57.219Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3807,11 +3807,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(137)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-18T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -3869,11 +3869,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "決戰賭城主廚第1季:早午餐難關",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(138)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-19T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "世界盃",
@@ -3922,11 +3922,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "翻轉餐廳第1季:療癒食物災難",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:25",
-      "start": "2026-07-20T18:25:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(124)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-20T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -3959,11 +3959,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "布朗小姐的美味祕訣第10季:家常料理輕鬆做",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(125)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-07-21T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 味全 例行賽 7/21 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-21T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -3996,11 +4004,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "潔絲汀的馬來西亞美食之旅S1(6)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "花甲少年趣旅行(126)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-22T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4033,11 +4041,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "豪飲旅行家第4季:智利人生",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:50",
-      "start": "2026-07-23T18:50:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "花甲少年趣旅行(127)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-23T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "環法",
@@ -4062,11 +4070,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "多諾居家好料理S1(3)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-07-24T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "花甲少年趣旅行(128)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-07-24T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4137,6 +4145,22 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4177,6 +4201,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 統一 例行賽 8/2 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-02T16:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "道奇",
       "title": "波士頓紅襪 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4209,12 +4241,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-05T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-08-08T01:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 台鋼 例行賽 8/8 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-08T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4829,11 +4877,31 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (19)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(137)",
         "time": "18:00",
-        "date": "2026-07-21",
+        "date": "2026-07-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(206)",
+        "time": "19:00",
+        "date": "2026-07-19",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "挑戰美食堂第4季:康乃狄克州密斯提克",
+        "time": "18:00",
+        "date": "2026-07-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4847,33 +4915,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (23)",
-        "time": "18:00",
-        "date": "2026-07-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "決戰賭城主廚第1季:早午餐難關",
-        "time": "18:00",
-        "date": "2026-07-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
       }
     ],
     "modSchedule": [
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美國快餐車第2季:肉包,炸豆餅與刨冰",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(137)",
         "time": "18:00",
         "date": "2026-07-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4891,9 +4939,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "決戰賭城主廚第1季:早午餐難關",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(138)",
         "time": "18:00",
         "date": "2026-07-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -4921,10 +4969,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "翻轉餐廳第1季:療癒食物災難",
-        "time": "18:25",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(124)",
+        "time": "18:00",
         "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4941,9 +4989,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "布朗小姐的美味祕訣第10季:家常料理輕鬆做",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(125)",
         "time": "18:00",
         "date": "2026-07-21",
         "source": "中華電信 MOD 7 日節目表",
@@ -4961,10 +5009,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "潔絲汀的馬來西亞美食之旅S1(6)",
-        "time": "18:30",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(126)",
+        "time": "18:00",
         "date": "2026-07-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4981,10 +5029,10 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "豪飲旅行家第4季:智利人生",
-        "time": "18:50",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(127)",
+        "time": "18:00",
         "date": "2026-07-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5001,10 +5049,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "多諾居家好料理S1(3)",
-        "time": "18:30",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(128)",
+        "time": "18:00",
         "date": "2026-07-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5097,12 +5145,12 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "interactions",
+      "modApi": "generateContent",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:Expected ',' or ']' after array element in JSON at position 225 (line 14 column 6)"
     }
   }
 }
