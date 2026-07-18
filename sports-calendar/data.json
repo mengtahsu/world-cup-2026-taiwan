@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:51:28.158Z",
+  "updatedAt": "2026-07-18T22:32:12.674Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3844,6 +3844,14 @@
       "timeTbd": false
     },
     {
+      "sport": "道奇",
+      "title": "洛杉磯道奇 vs 紐約洋基",
+      "subtitle": "Yankee Stadium",
+      "start": "2026-07-19T16:35:00Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達／依 EPG"
+    },
+    {
       "sport": "中職",
       "title": "中華職棒37年明星對抗賽 明星隊VS中華隊 7/19 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
@@ -4127,14 +4135,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-26T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
