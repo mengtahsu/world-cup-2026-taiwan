@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:08:50.998Z",
+  "updatedAt": "2026-07-19T03:56:58.926Z",
   "matches": [
     {
       "number": 1,
@@ -1454,6 +1454,10 @@
       "kickoff": "2026-07-18T21:00:00.000Z",
       "team1": "France",
       "team2": "England",
+      "score": [
+        4,
+        6
+      ],
       "ground": "Miami (Miami Gardens)"
     },
     {
@@ -2012,7 +2016,7 @@
     {
       "name": "Kylian Mbappé",
       "team": "France",
-      "goals": 8,
+      "goals": 10,
       "matches": [
         {
           "number": 49,
@@ -2068,6 +2072,17 @@
             0
           ],
           "goals": 1
+        },
+        {
+          "number": 103,
+          "opponent": "England",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00.000Z",
+          "score": [
+            4,
+            6
+          ],
+          "goals": 2
         }
       ],
       "profile": {
@@ -2197,6 +2212,72 @@
       }
     },
     {
+      "name": "Jude Bellingham",
+      "team": "England",
+      "goals": 7,
+      "matches": [
+        {
+          "number": 67,
+          "opponent": "Croatia",
+          "date": "2026-06-17",
+          "kickoff": "2026-06-17T20:00:00.000Z",
+          "score": [
+            4,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 71,
+          "opponent": "Panama",
+          "date": "2026-06-27",
+          "kickoff": "2026-06-27T21:00:00.000Z",
+          "score": [
+            0,
+            2
+          ],
+          "goals": 1
+        },
+        {
+          "number": 92,
+          "opponent": "Mexico",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00.000Z",
+          "score": [
+            2,
+            3
+          ],
+          "goals": 2
+        },
+        {
+          "number": 99,
+          "opponent": "Norway",
+          "date": "2026-07-11",
+          "kickoff": "2026-07-11T21:00:00.000Z",
+          "score": [
+            1,
+            1
+          ],
+          "goals": 2
+        },
+        {
+          "number": 103,
+          "opponent": "France",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00.000Z",
+          "score": [
+            4,
+            6
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
+        "bio": "Attacking Midfield・England・生於 2003-06-29"
+      }
+    },
+    {
       "name": "Harry Kane",
       "team": "England",
       "goals": 6,
@@ -2252,58 +2333,58 @@
       }
     },
     {
-      "name": "Jude Bellingham",
-      "team": "England",
+      "name": "Ousmane Dembélé",
+      "team": "France",
       "goals": 6,
       "matches": [
         {
-          "number": 67,
-          "opponent": "Croatia",
-          "date": "2026-06-17",
-          "kickoff": "2026-06-17T20:00:00.000Z",
+          "number": 51,
+          "opponent": "Iraq",
+          "date": "2026-06-22",
+          "kickoff": "2026-06-22T21:00:00.000Z",
           "score": [
-            4,
-            2
+            3,
+            0
           ],
           "goals": 1
         },
         {
-          "number": 71,
-          "opponent": "Panama",
-          "date": "2026-06-27",
-          "kickoff": "2026-06-27T21:00:00.000Z",
-          "score": [
-            0,
-            2
-          ],
-          "goals": 1
-        },
-        {
-          "number": 92,
-          "opponent": "Mexico",
-          "date": "2026-07-05",
-          "kickoff": "2026-07-06T00:00:00.000Z",
-          "score": [
-            2,
-            3
-          ],
-          "goals": 2
-        },
-        {
-          "number": 99,
+          "number": 53,
           "opponent": "Norway",
-          "date": "2026-07-11",
-          "kickoff": "2026-07-11T21:00:00.000Z",
+          "date": "2026-06-26",
+          "kickoff": "2026-06-26T19:00:00.000Z",
           "score": [
             1,
-            1
+            4
           ],
-          "goals": 2
+          "goals": 3
+        },
+        {
+          "number": 97,
+          "opponent": "Morocco",
+          "date": "2026-07-09",
+          "kickoff": "2026-07-09T20:00:00.000Z",
+          "score": [
+            2,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 103,
+          "opponent": "England",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00.000Z",
+          "score": [
+            4,
+            6
+          ],
+          "goals": 1
         }
       ],
       "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
-        "bio": "Attacking Midfield・England・生於 2003-06-29"
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+        "bio": "Right Winger・France・生於 1997-05-15"
       }
     },
     {
@@ -2348,50 +2429,6 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9apeaz1762709253.png",
         "bio": "Left Wing・Spain・生於 1997-04-21"
-      }
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "team": "France",
-      "goals": 5,
-      "matches": [
-        {
-          "number": 51,
-          "opponent": "Iraq",
-          "date": "2026-06-22",
-          "kickoff": "2026-06-22T21:00:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 53,
-          "opponent": "Norway",
-          "date": "2026-06-26",
-          "kickoff": "2026-06-26T19:00:00.000Z",
-          "score": [
-            1,
-            4
-          ],
-          "goals": 3
-        },
-        {
-          "number": 97,
-          "opponent": "Morocco",
-          "date": "2026-07-09",
-          "kickoff": "2026-07-09T20:00:00.000Z",
-          "score": [
-            2,
-            0
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
-        "bio": "Right Winger・France・生於 1997-05-15"
       }
     },
     {
@@ -2538,6 +2575,50 @@
       }
     },
     {
+      "name": "Bradley Barcola",
+      "team": "France",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 49,
+          "opponent": "Senegal",
+          "date": "2026-06-16",
+          "kickoff": "2026-06-16T19:00:00.000Z",
+          "score": [
+            3,
+            1
+          ],
+          "goals": 1
+        },
+        {
+          "number": 77,
+          "opponent": "Sweden",
+          "date": "2026-06-30",
+          "kickoff": "2026-06-30T21:00:00.000Z",
+          "score": [
+            3,
+            0
+          ],
+          "goals": 1
+        },
+        {
+          "number": 103,
+          "opponent": "England",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00.000Z",
+          "score": [
+            4,
+            6
+          ],
+          "goals": 1
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png",
+        "bio": "Left Wing・France・生於 2002-09-02"
+      }
+    },
+    {
       "name": "Brian Brobbey",
       "team": "Netherlands",
       "goals": 3,
@@ -2568,6 +2649,28 @@
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q3qz441762198721.png",
         "bio": "Centre-Forward・The Netherlands・生於 2002-02-01"
+      }
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "England",
+      "goals": 3,
+      "matches": [
+        {
+          "number": 103,
+          "opponent": "France",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00.000Z",
+          "score": [
+            4,
+            6
+          ],
+          "goals": 3
+        }
+      ],
+      "profile": {
+        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xfwok41769331816.png",
+        "bio": "Right Winger・England・生於 2001-09-05"
       }
     },
     {
@@ -2943,97 +3046,14 @@
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
         "bio": "Centre-Forward・Argentina・生於 1997-08-22"
       }
-    },
-    {
-      "name": "Matheus Cunha",
-      "team": "Brazil",
-      "goals": 3,
-      "matches": [
-        {
-          "number": 16,
-          "opponent": "Haiti",
-          "date": "2026-06-19",
-          "kickoff": "2026-06-20T00:30:00.000Z",
-          "score": [
-            3,
-            0
-          ],
-          "goals": 2
-        },
-        {
-          "number": 17,
-          "opponent": "Scotland",
-          "date": "2026-06-24",
-          "kickoff": "2026-06-24T22:00:00.000Z",
-          "score": [
-            0,
-            3
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png",
-        "bio": "Centre-Forward・Brazil・生於 1999-05-27"
-      }
-    },
-    {
-      "name": "Raúl Jiménez",
-      "team": "Mexico",
-      "goals": 3,
-      "matches": [
-        {
-          "number": 1,
-          "opponent": "South Africa",
-          "date": "2026-06-11",
-          "kickoff": "2026-06-11T19:00:00.000Z",
-          "score": [
-            2,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 79,
-          "opponent": "Ecuador",
-          "date": "2026-06-30",
-          "kickoff": "2026-07-01T01:00:00.000Z",
-          "score": [
-            2,
-            0
-          ],
-          "goals": 1
-        },
-        {
-          "number": 92,
-          "opponent": "England",
-          "date": "2026-07-05",
-          "kickoff": "2026-07-06T00:00:00.000Z",
-          "score": [
-            2,
-            3
-          ],
-          "goals": 1
-        }
-      ],
-      "profile": {
-        "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjepmh1781348889.png",
-        "bio": "Centre-Forward・Mexico・生於 1991-05-05"
-      }
     }
   ],
   "news": [
     {
-      "title": "2026世界盃決賽懶人包：西班牙對阿根廷、轉播時間、直播平台一次看！Justin Bieber、BTS 中場秀登場 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDkxRFJiOXZDdFlLZkFkVXkxNVRBY2N0eUtBajBtaC1vay05SjZTRVBsZkdGM3o3aG8zN044b2ZGcHB4UnJ6YXJJdTJPTVhMdENtSUFmYk41X3dwV08zSDFjOXhDMVVpV2p2NE1ubkI5SVdfNU1OWTRWaTYwUy1HUVNQdUVwUQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 10:45:20 GMT",
-      "source": "Vogue Taiwan"
-    },
-    {
-      "title": "《2026世界盃》季軍戰法國對英格蘭：除了金靴獎爭奪以外，英法大戰還會有激情嗎？ - 運動視界Sports Vision",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UOEJqM09HRmRHYkwxcmFYVW1BU0h2T2MtNG5FbDZVWUM1ekd3T1dCWnBRMmpWUXI4ek5UdG9GYWdTVW45Y19KX2JyZko5d2to?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:57:31 GMT",
-      "source": "運動視界Sports Vision"
+      "title": "2026世足賽賽程｜法國、英格蘭會師季軍戰！ 比賽時間、對戰組合、直播線上看管道總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
+      "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQX2VXTERTS0dTZFNjQlRaanREaUFKaGE1dE1YOW1VYU5haVBVS3gwMFdtNWZoeEpzNTZxQUlRbjFlZEpKYmZ5S1FEV2o5eFRTQk9pU0tNeGR1Nkp3eDhiNll6UDBKV29Lc2tnaEpRbGpKTTlnRS03MjBuT1lLTE0yZlBwMHQyZmVSX18tZ0diQ1FyYUVrQkl2RWs3aC1nUng3djhnaG1DU1ZPRFZTLVZMVlZSRGlERU12RVJkWnFhcF9od1ZjYnNVUXBXQWVVbUNzSGZqcjFrOHkzLWR0QTJjUmh6ajlRcUhvZEhVNWRtdHg3a3ptcVEyczhXckZjQmYzempVcW14eGJUanN4MzJPZHc0YVdVUENTOEt1bl9RajBEMUVPeUVkMS1rcG42dFpyd1ZGQ1NfQ0Fna1Z3X0VvdGVqd0ZuUTlldmEyUHdndnV5aDBoNzU4RTZNOXRJM3AydWJwdjhEVEt5Mi1zemNOaWJDcFprUTlBc2xES1hzdU8xeGk3SUIxVUZCVmVqSnZHY2R0S3lEemVTay1yd3VRR3A2Wmg0UVMyaWlWQmNTTVpvYTdSOE9DOEl5OWUtRkVmVWhTekp3Sk5hUHZKM3FJeHJqQU85M3M2cndKemZvT3lHRV9NeTBDVDJMTk1adlBqMy0zbHhYZmpvaHBLa0VPejl6QTcwT0daZmRTblJKRXAxVFJmNkNPOEl5ZVJobVRsRkRqVUlSQ2w5U0ZNVmZ3TmVKa21mQjUyb1p2UkFuSQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 22:06:52 GMT",
+      "source": "Yahoo運動"
     },
     {
       "title": "世足》2026年世界盃足球賽冠軍戰是美國有史以來最貴的體育賽事 - 自由體育",
@@ -3042,34 +3062,40 @@
       "source": "自由體育"
     },
     {
-      "title": "2026世足賽賽程｜法國、英格蘭會師季軍戰！ 比賽時間、對戰組合、直播線上看管道總整理一次看！【2026年國際足總世界盃】 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQX2VXTERTS0dTZFNjQlRaanREaUFKaGE1dE1YOW1VYU5haVBVS3gwMFdtNWZoeEpzNTZxQUlRbjFlZEpKYmZ5S1FEV2o5eFRTQk9pU0tNeGR1Nkp3eDhiNll6UDBKV29Lc2tnaEpRbGpKTTlnRS03MjBuT1lLTE0yZlBwMHQyZmVSX18tZ0diQ1FyYUVrQkl2RWs3aC1nUng3djhnaG1DU1ZPRFZTLVZMVlZSRGlERU12RVJkWnFhcF9od1ZjYnNVUXBXQWVVbUNzSGZqcjFrOHkzLWR0QTJjUmh6ajlRcUhvZEhVNWRtdHg3a3ptcVEyczhXckZjQmYzempVcW14eGJUanN4MzJPZHc0YVdVUENTOEt1bl9RajBEMUVPeUVkMS1rcG42dFpyd1ZGQ1NfQ0Fna1Z3X0VvdGVqd0ZuUTlldmEyUHdndnV5aDBoNzU4RTZNOXRJM3AydWJwdjhEVEt5Mi1zemNOaWJDcFprUTlBc2xES1hzdU8xeGk3SUIxVUZCVmVqSnZHY2R0S3lEemVTay1yd3VRR3A2Wmg0UVMyaWlWQmNTTVpvYTdSOE9DOEl5OWUtRkVmVWhTekp3Sk5hUHZKM3FJeHJqQU85M3M2cndKemZvT3lHRV9NeTBDVDJMTk1adlBqMy0zbHhYZmpvaHBLa0VPejl6QTcwT0daZmRTblJKRXAxVFJmNkNPOEl5ZVJobVRsRkRqVUlSQ2w5U0ZNVmZ3TmVKa21mQjUyb1p2UkFuSQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 22:06:52 GMT",
-      "source": "Yahoo運動"
+      "title": "2026世界盃決賽懶人包：西班牙對阿根廷、轉播時間、直播平台一次看！Justin Bieber、BTS 中場秀登場 - Vogue Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDkxRFJiOXZDdFlLZkFkVXkxNVRBY2N0eUtBajBtaC1vay05SjZTRVBsZkdGM3o3aG8zN044b2ZGcHB4UnJ6YXJJdTJPTVhMdENtSUFmYk41X3dwV08zSDFjOXhDMVVpV2p2NE1ubkI5SVdfNU1OWTRWaTYwUy1HUVNQdUVwUQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 10:45:20 GMT",
+      "source": "Vogue Taiwan"
     },
     {
-      "title": "2026世界盃》阿根廷、西班牙爭冠！運彩賠率揭曉、梅西神助攻拚金靴獎 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOcXZqRWdSOVBTenN4a1Q4QzdDR3J2WV9DUjZQbDBpZGN4dTdiYnIzbTAyZ1V4VHZuNlpsc0RtOEk5NjF1YTNpeDg1RW9QNmNZeWVaTFFraElYdU9Ud0QwaFpyVzFwSVZQZTNZdkpxVHV1TUY2QmdiM0dpM1djRmdja0JfSkpaZk9FUEdWSWl1TWR5c2hHVlhmZlFROXVGVXBTbnlqUzlBTTF3YTVBSnBSaE1rbmlxZTZjRHlFS1NFYWpXZ2RPUENuaHZmZG5pbTNJU3M3TGV6SGVFd2xkRzItbHVmTWhZMmFpaXg0MGQ4R1BmdGVua0E5Z0NsXzJWSzVqTGZWMGluYk0wazNXWjZXZm9CaWdFUnF3Q2RjSFhDdUx3YThIYk5oYlhZNE5TVGpENzlVSEtPeENKMk91VVA4MVZ0Rm5VSHpTckVwQnFtRjY4Q25vNzdKRFoxQkFPVW9ZZlBPMUZzdTFqTDVVcEZUT0pfTnR1d0lJLUVZRnJldjd1akpHWXhfWElseGNMcXJZVHFnRDNn?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 11:09:07 GMT",
-      "source": "Yahoo新聞"
+      "title": "世足賽／2026世界盃季軍戰：英格蘭6比4擊退法國 奪得季軍榮耀 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVGRCZ0FQVDJ3cUF6VVVvSjhoT3F2T25zYTZwNWgwdzJ4WVljb1hvbWJiQlkwRGp6VUVVb18zeHh6ZW1yWE9HeDBqMHhnNk1RTTNr?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 23:15:02 GMT",
+      "source": "UDN"
     },
     {
-      "title": "世足》相隔60年交鋒未演先轟動 阿根廷和西班牙締決賽2大空前紀錄 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tZ2k2dG5aNVFPWk43UXFPVzRLcDM3Yk1PNGx2a1RUbThsbXFGMzJSeXJhZUsxXzZfeFo3dGpfYW1BS1lNV0haR1h5TWtrVVVSSmlrSXVCb3VUdF9kWHlpcdIBZkFVX3lxTE9keGhOdUl3UmU5dW5iV0dpZktEUUxpY0g5dzlsbkl0V2JTYzhaN3dyVUtoMjZEVU9saFA2V1RUTmVlbXp3NXBSQUdkLTkxLWMtdzM0cDZOakNvalU3WHNJVGRLUHlFdw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 06:32:00 GMT",
-      "source": "自由體育"
+      "title": "《2026世界盃》季軍戰法國對英格蘭：除了金靴獎爭奪以外，英法大戰還會有激情嗎？ - 運動視界Sports Vision",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UOEJqM09HRmRHYkwxcmFYVW1BU0h2T2MtNG5FbDZVWUM1ekd3T1dCWnBRMmpWUXI4ek5UdG9GYWdTVW45Y19KX2JyZko5d2to?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:57:31 GMT",
+      "source": "運動視界Sports Vision"
+    },
+    {
+      "title": "英格蘭對法國2026世界盃直播線上看！季軍賽誰會贏？法國勝率略占優勢，姆巴佩拚金靴 - Harper's BAZAAR",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWdZb3M5d3I0TzN2UUhiektDZmxTTzNMVGs4UDFtc0tMOE9iZ1BxREMyYUQydGlsNzNNS0R2cXZETEVRelZRV1NYUXo3V0RtejdxQ3BBX19PT1FWWWRkV203TkpwRTdhN2VvemdMLVJNcXJLalJPT2JZRDFnMm1RRHVTeERXdklwZmVsaGJBakw0bVVhLXZCQVJVUk41dDFHVEUzZEc1d1k?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 15:49:13 GMT",
+      "source": "Harper's BAZAAR"
+    },
+    {
+      "title": "世界盃閉幕典禮有辦法超越「這屆」經典壯舉嗎？把球場變成世紀秀場歷史上世足賽的時尚名場面 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTJGT2xrcEUza3lmbXBIdElpNVlIYVNVdHktNnR4cGwtUm03a25VX2hqVDhyMlhUd2NnMDJ3VFNXaDlveFRKRk1Gc3JocHcwY2lPWEtoQzBZRE9ib01vd1phZm9ZRlJLelFadUlkSHJBc2NEbmU2WW9Sd1VydW5aaTFJMmU?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 11:35:30 GMT",
+      "source": "ELLE"
     },
     {
       "title": "快訊／2026世界盃爭霸！梅西率阿根廷PK西班牙　運彩冠軍賠率曝光 - ETtoday運動雲",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wbm9lYk8yWXFwQVAxRVZIbF9EOHU3X29rX3pDbHVqY01tLWJtQzk1cENmMVRvSmNKd0Z6M21YNjlHMFVySW9CT1Rwa2NGdmdF0gFsQVVfeXFMTmczdnZyOUROdU16NmdWRjFwblNuNkN4WnFTXy1uQmpDMWtNaHQ1SDZzbzdMSnhMNEttU1VGcUdjNzVxNHJCWGVQVFJ0UUEydUNQWVIyMG5vazdHUUFoR3Q1NTlxT0xPeEZqWHBO?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:14:00 GMT",
       "source": "ETtoday運動雲"
-    },
-    {
-      "title": "世界盃2026直播賽程時間表 7.19上午5時法國對英格蘭爭季軍 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOTWNHWU80VTNvR3pWTVpQbDlhV1FDV2MyV19TaHgzVzhQSnRxanN6ZUhzeWtyY25zcThpR3BmTXdvdUM0bjRZT181NERKeVlZZURWSFRlcWV5ZFpnb2Q2OHB0bHg4cjdubGtuUkpFaWQ0SmpTSk4xRHY1bnhjWmt6RkNhMzJybXUtUnFnNm1Sb1dLYWVCOUFFSjJFV0tTM0V3VWFRUHF1clRHTlZxdDdlNEtNYkl5SDJ3V2FHMVFnSWZyZ0s1cGlNSWpPZXNMdm5rWmpRZW9vaHJRQzl6ODZGdlV2Y3MwZzdncm85T0FWWUtJejF5N1cwcWZFR05MLVljM1Qzb3NMQll3dDNLemExdHZTWXpqR0VaRjdaem5mc2ZwOGR1QmZyRWVscl94emlqeW13YlVlRkd6dURVUW9fX1BCR2NMdEN0TkRGNjJRUTlUMUNNMGNISHFXMVBTaDZIOUpSVk91d012bDV6dWE5ME1xVll6N3hW?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 10:07:23 GMT",
-      "source": "香港01"
     },
     {
       "title": "世界盃決賽 Nike 無緣亮相 adidas 成贊助商大贏家 - TechNews 科技新報",
@@ -3080,38 +3106,31 @@
   ],
   "odds": [
     {
-      "home": "France",
-      "away": "England",
-      "homePrice": 55,
-      "drawPrice": 24,
-      "awayPrice": 1.02
-    },
-    {
       "home": "Spain",
       "away": "Argentina",
-      "homePrice": 2.36,
-      "drawPrice": 3.15,
-      "awayPrice": 3.75
+      "homePrice": 2.38,
+      "drawPrice": 3.1,
+      "awayPrice": 3.8
     }
   ],
   "videos": [
     {
-      "id": "p53OFxNuoGs",
-      "title": "【全場精華】7/18 中華隊 vs. 明星隊 ｜ 中華職棒37年明星賽｜鎖定ELTA.tv愛爾達",
+      "id": "jfriENnGD6A",
+      "title": "【2026 FIFA世界盃™】姆巴佩梅開二度 角逐個人金靴連霸/愛爾達電視20260719",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=p53OFxNuoGs"
+      "url": "https://www.youtube.com/watch?v=jfriENnGD6A"
     },
     {
-      "id": "z_EmSlfD6nY",
-      "title": "【2026 FIFA世界盃™】梅西密切關注亞馬爾 坦言相遇很奇妙/愛爾達電視20260718新聞",
+      "id": "y0E_x8LfXOQ",
+      "title": "【2026 FIFA世界盃™】近60年最佳成績！ 英格蘭放眼2030世界盃/愛爾達電視20260719",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=z_EmSlfD6nY"
+      "url": "https://www.youtube.com/watch?v=y0E_x8LfXOQ"
     },
     {
-      "id": "bMzRXdjqFbI",
-      "title": "【2026 FIFA世界盃™】德尚執教最後一舞 季軍戰上演英法大戰/愛爾達電視20260718新聞",
+      "id": "r12EXcoRvaM",
+      "title": "【2026 FIFA世界盃™】薩卡帽子戲法！英格蘭6：4勝法國奪季軍/愛爾達電視20260719",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=bMzRXdjqFbI"
+      "url": "https://www.youtube.com/watch?v=r12EXcoRvaM"
     }
   ]
 }
