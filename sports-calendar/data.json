@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T20:12:41.355Z",
+  "updatedAt": "2026-07-20T22:39:34.201Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4113,14 +4113,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-26T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 紐約大都會",
       "subtitle": "Citi Field",
@@ -4239,6 +4231,14 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-05T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -5131,7 +5131,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 429 {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and bil",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
