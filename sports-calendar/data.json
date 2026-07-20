@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T04:26:45.920Z",
+  "updatedAt": "2026-07-20T09:46:13.796Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3883,18 +3883,18 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (17)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-20T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(169)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "翻轉餐廳第1季:義式料理行不行",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-20T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -3907,18 +3907,18 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (19)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-21T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(170)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "布朗小姐的美味祕訣第10季:家常料理輕鬆做",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-21T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "中職",
@@ -3952,18 +3952,18 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (21)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-22T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(171)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "美味城大亂鬥第1季:酥脆有聲",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-22T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "環法",
@@ -4002,34 +4002,34 @@
     {
       "sport": "MOD綜藝",
       "title": "殭屍偶像 (23)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-07-23T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(172)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "不可能的晚餐第10季:伐木工特典",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-23T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(173)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-07-24T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "挑戰美食堂第4季:康乃狄克州密斯提克",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-24T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "進擊的台灣(400)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-07-24T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "環法",
@@ -4063,19 +4063,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(399)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-07-25T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "美國快餐車第2季:炸熱狗,乳酪牛排三明治與冰淇淋三明治",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-25T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "種豆得豆：牧場篇(5)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:15",
+      "start": "2026-07-25T18:15:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
     },
     {
       "sport": "環法",
@@ -4130,19 +4130,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(400)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-07-26T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "決戰賭城主廚第1季:絕對要完美",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-26T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食打卡趣(211)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-07-26T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4201,14 +4201,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-04T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 芝加哥小熊",
       "subtitle": "Wrigley Field",
@@ -4223,22 +4215,6 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-05T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 台鋼 例行賽 8/7 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-07T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4841,19 +4817,19 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (17)",
-        "time": "18:00",
-        "date": "2026-07-20",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "種豆得豆：牧場篇(5)",
+        "time": "18:15",
+        "date": "2026-07-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(169)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (17)",
         "time": "18:00",
         "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -4873,17 +4849,17 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "智富食代(170)",
-        "time": "18:00",
-        "date": "2026-07-21",
+        "title": "美食打卡趣(211)",
+        "time": "19:00",
+        "date": "2026-07-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (21)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味城大亂鬥第1季:酥脆有聲",
         "time": "18:00",
         "date": "2026-07-22",
         "source": "中華電信 MOD 7 日節目表",
@@ -4891,11 +4867,11 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(171)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "翻轉餐廳第1季:義式料理行不行",
         "time": "18:00",
-        "date": "2026-07-22",
+        "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4913,9 +4889,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(169)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "翻轉餐廳第1季:義式料理行不行",
         "time": "18:00",
         "date": "2026-07-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -4933,9 +4909,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(170)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "布朗小姐的美味祕訣第10季:家常料理輕鬆做",
         "time": "18:00",
         "date": "2026-07-21",
         "source": "中華電信 MOD 7 日節目表",
@@ -4953,9 +4929,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(171)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味城大亂鬥第1季:酥脆有聲",
         "time": "18:00",
         "date": "2026-07-22",
         "source": "中華電信 MOD 7 日節目表",
@@ -4973,21 +4949,11 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(172)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "不可能的晚餐第10季:伐木工特典",
         "time": "18:00",
         "date": "2026-07-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(173)",
-        "time": "18:00",
-        "date": "2026-07-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5005,9 +4971,9 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "進擊的台灣(399)",
-        "time": "18:00",
-        "date": "2026-07-25",
+        "title": "進擊的台灣(400)",
+        "time": "19:00",
+        "date": "2026-07-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5023,11 +4989,11 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(400)",
-        "time": "18:00",
-        "date": "2026-07-26",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "種豆得豆：牧場篇(5)",
+        "time": "18:15",
+        "date": "2026-07-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5037,6 +5003,16 @@
         "channelName": "Food Network 美食台頻道",
         "title": "決戰賭城主廚第1季:絕對要完美",
         "time": "18:00",
+        "date": "2026-07-26",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(211)",
+        "time": "19:00",
         "date": "2026-07-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5128,10 +5104,12 @@
       }
     ],
     "meta": {
-      "modSelector": "rules-fallback",
+      "modSelector": "gemini",
+      "modApi": "interactions",
+      "modApiAttempt": 1,
+      "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:Expected ',' or ']' after array element in JSON at position 225 (line 14 column 6)"
     }
   }
