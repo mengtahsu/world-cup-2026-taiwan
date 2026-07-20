@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T07:31:59.810Z",
+  "updatedAt": "2026-07-20T11:14:57.377Z",
   "matches": [
     {
       "number": 1,
@@ -1467,6 +1467,14 @@
       "kickoff": "2026-07-19T19:00:00.000Z",
       "team1": "Spain",
       "team2": "Argentina",
+      "score": [
+        0,
+        0
+      ],
+      "extraTime": [
+        1,
+        0
+      ],
       "ground": "New York/New Jersey (East Rutherford)"
     }
   ],
@@ -2208,7 +2216,7 @@
       ],
       "profile": {
         "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
-        "bio": "Centre-Forward・Norway・生於 2000-07-21"
+        "bio": "Forward・Norway・生於 2000-07-21"
       }
     },
     {
@@ -3062,67 +3070,67 @@
       "source": "Yahoo運動"
     },
     {
-      "title": "世界盃，哈利路亞！2026 世足「中場秀」有多夢幻：小賈斯汀到 BTS，誰的演出最值得看？ - GQ Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNaGZMdnVSamZlTFl2MFRnWWVWMW5wMFFaNTFCV2NUWlQxSEo4cHZFU21CSVhudUxxcDJlbVNJVERrNS1SSEg5Y05EUjFDcG5nckZyMFF5UVhJRGt4UW9Nc2pDd3JvSFE3cFVQUGtCWEJUU280MHJwRDVoN3JQMU9TNXdhME8tZkpiaF9jdjlxWXNNbTBaS1FvRHRreTNxNkloMndDazlZT1NYX0h3dE54UEc1dEJaVnpIRU5GVk45T2NNbTIza19tMEx5YktkdmZidGZNYzJlZzBTSHdPX0VLdlZNVHZLaXh4TE9vT0VTeTliUG9ydzdaQUI5SWxuMnROeFhJd3Y4OWRmZjllYWttdlJvVGlIdC11Tk1XZ0lpbDUxaUxxQUt5ejdkbzZKV09zQUFPVmI3YmUtYVFLbEFUTC10YlozNkpVdy0yR2JTN3doSHFST3RhRzVYZmRpVG04YXhtNl9nQ1l2eHc?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 03:40:23 GMT",
-      "source": "GQ Taiwan"
+      "title": "2026世界盃閉幕式亮點一次看！不只湯姆克魯斯，還有BTS、瑪丹娜、小賈斯汀，為你盤點史上最狂中場秀 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWZRNjhqZ2hsU1Z1S0RJZDZfbWViSjNsdVVnc05VNUVwZmVHUnA4OEVhNUwwMkJaY3hlUnZrdDl2ZVRKRXZ6Ung0OGsyYzVuMXcwQUlHNzdyX1Z6SlpRMXQ1UmdTcW9TTlI1b3VDNDh1Qm5YWVc4VlhSXzJWVHVYbWVhS201a0Jha1g1anRRVkE1U0JkRHJHamhWdmJ0VjA2WGh0TUprV2ZzQQ?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 21:41:34 GMT",
+      "source": "ELLE"
     },
     {
-      "title": "2026世足中場表演充滿愛！BTS〈Dynamite〉改編歌詞，﻿Coldplay現身你有發現嗎？ - Harper's BAZAAR",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVBpZy1TNHl2c2NMakNGdWpOdjhIVjR4c3ZuVmh6UWg4OTU1VFlBSHhMREF6RUJCdlB2a29PWkFRUGJLdHh0TzVyMjI1V1c5ZDhvVlFqNnB4SkU0ZGhTTHBOUHlKQ1ktS2Z3eWxJb21rYU9Zc1FRRmtxS0lTU2M3SzVYcnoxUHNSTzhiUHg2UFBOZ2dGdHBhTFRhbmZuOHNNVndR?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 22:14:27 GMT",
-      "source": "Harper's BAZAAR"
+      "title": "2026世足》C羅姆巴佩都輸了！網友票選最強足球員TOP10冠軍是他： 重心盤帶強到無解， 帶領國家隊一戰封神 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04bjd6dk80UFBqWl8wQm1NQWNGUFFXSXhXaDR6dVhGMUlZWkJDT0NpOGlteGNGSURlZFpPX25KNGFMUDMtUERKc3lEcGU5R21Y?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:47:45 GMT",
+      "source": "風傳媒"
+    },
+    {
+      "title": "2026世界盃冠軍獎金拿多少？大力神盃帶不回家？世足冷知識一次看－中央社 - 商周",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kM0VMMnlnWjN1T0tlLVFGMXpKbEtEeXN5U1cybDZzeGlBWUUybkF4WmlHQ0lsakhNbXlCZ3BIOWJaU1czLW9vWGxnTFl0N3hINTR5VzNVZnNnX1BtMkhFSkNVQ2tVdjdrcWVxTw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:16:21 GMT",
+      "source": "商周"
+    },
+    {
+      "title": "2026世界盃決賽懶人包：西班牙1:0奪冠擊退阿根廷！Justin Bieber、BTS中場秀登場 - Vogue Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDkxRFJiOXZDdFlLZkFkVXkxNVRBY2N0eUtBajBtaC1vay05SjZTRVBsZkdGM3o3aG8zN044b2ZGcHB4UnJ6YXJJdTJPTVhMdENtSUFmYk41X3dwV08zSDFjOXhDMVVpV2p2NE1ubkI5SVdfNU1OWTRWaTYwUy1HUVNQdUVwUQ?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 22:49:13 GMT",
+      "source": "Vogue Taiwan"
+    },
+    {
+      "title": "2026世界盃中場秀直播連結！台灣轉播時間、閉幕式卡司！小賈斯汀、BTS防彈少年團、夏奇拉神級舞台 - Cosmopolitan",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGdGX2pKeWxzSEFoRGlkMi1oMk9OSHVYMWRCeV9LRnEydWxRYktGbXZ3V1pNcE5xY2lqMl9xb2NTWHlfajlCX3BMSU5Kd01CU3M0c2ljeDFkeFFBYnFZbGhaaXZqaVhVcmpfV3NsYzAtNURkemlfN2p1V3hIT2pfQ1Q4aEVCeGNNR21IZHJkX3JpZDQ2X0tDMTVjeUxOWVhlUHBlZA?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 03:36:24 GMT",
+      "source": "Cosmopolitan"
+    },
+    {
+      "title": "我們看2026年世界盃FIFA足球賽 - 蕃新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vTmF4Zkl2UlJkR2g1NnNwT21PNkNGZ2tyZVV5czktRlBiQmxMY0dMcmgxd1IzcEgzWFVRYmlKcWxBeThaWXFHU2pCaGdVc0hNeEE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:25:00 GMT",
+      "source": "蕃新聞"
     },
     {
       "title": "世界盃2026直播賽程時間表 7.20西班牙對阿根廷凌晨3時爭冠軍 - 香港01",
       "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOSkxuNDFERklpcFNRcVNIZzliSkFPcU0zbTNmNG9wVGF5bnFLSDJCNWdKMXM2M1g4ZGRLX0FwOVd6UExIcEFCVEVOT2xvY2lReTZfYWhpSmdxT0g5N2NfdDI4aERtMjdZYWlTenNwYTZCTEVLX3FsQWlUQjZQcV93Z2g4alZJNXYxRTZGMmR1ZHRkZldkUlFVNnZiN1pVUVFacTdPamlMbVcxUERpWkIxX1ZDYnZjY3ZvcFl0UGhPM3h1TjdvOGYtc1ltYnQ1bDBqcTA3V0l4MTltWXRLYURNaGhtdjlUMUNWcTJkQlJ4ZXc1RE9BekxhTUEtRmUyZnc4RU1BcTQ4UXVFVHg5cDh6dXR4VjhWM1c5M1F6Vjl6RXZYYUFDay1EYUVkUUJSaFh6MnFLcWhKbDU1SlgtdllTazdqZW9LYXpHVGZ5YTMyOUtkTjlOREM0cnJTbzZaenlFZGxIb3NYaFVTczVmVXRxZjlmSHBOcHYyUlE3RHFJdnVXaXNrdjRncXl5S19mZ0RQR0FodnZFd2RBNGU3VnpMQUhLVlZEN1pB?oc=5",
       "pubDate": "Sun, 19 Jul 2026 12:18:52 GMT",
       "source": "香港01"
-    },
-    {
-      "title": "哈蘭德、姆巴佩都輸了！2026世足最熱門球星TOP 10冠軍是他「進球助攻都超強」： 無法取代的神 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcGVRU004VE9yYkRCRW5vdTVvU29NekVFT29fekdISjFnMC1iZThnS0s3c3d1TXRVYUR0WVl6dm9YUTFZTWxyRTR4Zkx1cUM5?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:40:00 GMT",
-      "source": "風傳媒"
-    },
-    {
-      "title": "【2026世界盃】季軍賽英格蘭6比4擊敗法國 上演史上最大爛仗 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUNQWkhIMzV1NU90QXJEczFGdUtrdzg3LWV5ZDM5NDl1aEhMTkZ6ckFuZlZVeVdJcHpVR2ZxRlBZMFNqd3J2Y3BMd2JZWUtLRU85S2dyUTR2dzV4bS1OT1dKYzNma0loY3p6VktscWUyRXo5Nmpwa0hWRWUwSklpR291ME9SNEJG?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 23:57:00 GMT",
-      "source": "PChome Online 新聞"
-    },
-    {
-      "title": "英格蘭勝法國，勇奪季軍【2026世界盃季軍賽戰績排名】季軍賽、冠軍賽時間(不斷更新) - Cosmopolitan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2FTRUVhU05qbHlYcDd0emR4ZEpkYko1UHNMdHhHd0tKMjB3RjVHc3llVzNyRGJxeGx4VGhaSkhvV2VzOVkxSEI3RjMzN25EMVR0cFlsVjZGSi02SXZsN3dqdzRTMHFyZVdVVUtwMjhwY3hYczFIa19rbm1TUFNtWDhfVUczRmt1U3U0RlVTTDItZw?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "source": "Cosmopolitan"
-    },
-    {
-      "title": "世界盃決賽 Nike 無緣亮相 adidas 成贊助商大贏家 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXlwNkcyNEFfNXJqVVd3c1Y5S0Q4U1BJZG0ySlQxQlplZzl3NE5kTUl0amNMZkpOU2xkTXhRdEJ2SmRNQ2I1NjJ1amN0NmdHUy1mdGtQZUVwUklBcGJCNlBPUUdIOXRPb2c0dy1DZG12a2o0S0oyZ25ram84Q05yMndHTW91ajRtN1lWZE1hLWxuN1U?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:21:21 GMT",
-      "source": "TechNews 科技新報"
     }
   ],
   "odds": [],
   "videos": [
     {
+      "id": "Tqrbm7YsfXw",
+      "title": "【2026 FIFA世界盃™】西班牙羅德里奪金球獎 西蒙抱回金手套/愛爾達電視20260720",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=Tqrbm7YsfXw"
+    },
+    {
+      "id": "XKJIA0gEeeU",
+      "title": "【2026 FIFA世界盃™】阿根廷衛冕失利 斯卡洛尼淚灑記者會/愛爾達電視20260720",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=XKJIA0gEeeU"
+    },
+    {
       "id": "iiwKvB1mmL0",
       "title": "【2026 FIFA世界盃™】全台球迷熬夜觀戰！ 西班牙奪冠同步嗨翻/愛爾達電視20260720新聞",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=iiwKvB1mmL0"
-    },
-    {
-      "id": "1ztGR4n3ZzI",
-      "title": "【2026 FIFA世界盃™】奪冠並包辦三座獎項 西班牙成最大贏家/愛爾達電視20260720",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=1ztGR4n3ZzI"
-    },
-    {
-      "id": "FuilUa8T-HY",
-      "title": "【2026 FIFA世界盃™】世界盃首度中場秀 瑪丹娜、BTS輪番獻唱/愛爾達電視20260720",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=FuilUa8T-HY"
     }
   ]
 }
