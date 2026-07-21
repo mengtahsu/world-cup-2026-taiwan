@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T09:16:28.623Z",
+  "updatedAt": "2026-07-21T11:29:28.953Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3943,19 +3943,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 7/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-22T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 味全 例行賽 7/22 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-22T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 7/22 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-22T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "環法",
@@ -4022,14 +4022,6 @@
       "start": "2026-07-24T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-24T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "環法",
@@ -4233,6 +4225,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-05T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
@@ -4247,14 +4247,6 @@
       "start": "2026-08-09T00:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 台鋼 例行賽 8/9 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-09T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4279,6 +4271,14 @@
       "start": "2026-08-12T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -5057,7 +5057,7 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "F9: The Fast Saga",
+        "title": "玩命關頭9",
         "originalTitle": "F9: The Fast Saga",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5087,7 +5087,7 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Wicked",
+        "title": "魔法壞女巫",
         "originalTitle": "Wicked",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5099,7 +5099,7 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "title": "玩命關頭：特別行動",
         "originalTitle": "Fast & Furious Presents: Hobbs & Shaw",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5132,7 +5132,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "empty Gemini schedule",
-      "netflixTitleMode": "map-fallback:Expected ',' or ']' after array element in JSON at position 225 (line 14 column 6)"
+      "netflixTitleMode": "gemini-fast"
     }
   }
 }
