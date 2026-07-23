@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T22:41:21.461Z",
+  "updatedAt": "2026-07-23T03:59:18.090Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3881,14 +3881,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 7/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-21T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "環法",
       "title": "環法自行車賽・第 16 站",
       "subtitle": "Évian-les-Bains > Thonon-les-Bains",
@@ -4000,6 +3992,14 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-24T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "環法",
       "title": "環法自行車賽・第 19 站",
       "subtitle": "Gap > Alpe d'Huez",
@@ -4028,6 +4028,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 7/25 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-25T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4199,6 +4207,14 @@
       "start": "2026-08-02T01:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 例行賽 8/2 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-02T15:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -5123,7 +5139,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
+      "modSelectorError": "The operation was aborted due to timeout | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more inf",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
