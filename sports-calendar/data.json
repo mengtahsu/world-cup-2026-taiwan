@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:11:33.905Z",
+  "updatedAt": "2026-07-24T20:01:51.890Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3999,11 +3999,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(139)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "美國快餐車第2季:炸熱狗,乳酪牛排三明治與冰淇淋三明治",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-25T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "環法",
@@ -4066,19 +4066,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(140)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "決戰賭城主廚第1季:絕對要完美",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-07-26T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "殭屍偶像 (25)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-27T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4090,9 +4082,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (27)",
+      "title": "殭屍偶像 (25)",
       "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-28T18:00:00+08:00",
+      "start": "2026-07-27T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
@@ -4105,6 +4097,14 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (27)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-28T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
       "sport": "道奇",
       "title": "西雅圖水手 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4114,19 +4114,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (29)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-29T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(176)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-29T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (29)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-29T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "道奇",
@@ -4138,19 +4138,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "殭屍偶像 (31)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-30T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(177)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-30T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "殭屍偶像 (31)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-30T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "道奇",
@@ -4162,19 +4162,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "K-POP 歌曲創作人 第二季 (1)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-07-31T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(178)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-07-31T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "K-POP 歌曲創作人 第二季 (1)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-07-31T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "道奇",
@@ -4223,6 +4223,14 @@
       "start": "2026-08-05T18:20:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 8/7 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-07T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4835,9 +4843,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(139)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美國快餐車第2季:炸熱狗,乳酪牛排三明治與冰淇淋三明治",
         "time": "18:00",
         "date": "2026-07-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4855,21 +4863,11 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(140)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "決戰賭城主廚第1季:絕對要完美",
         "time": "18:00",
         "date": "2026-07-26",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (25)",
-        "time": "18:00",
-        "date": "2026-07-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4878,6 +4876,16 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(174)",
+        "time": "18:00",
+        "date": "2026-07-27",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "殭屍偶像 (25)",
         "time": "18:00",
         "date": "2026-07-27",
         "source": "中華電信 MOD 7 日節目表",
@@ -4897,9 +4905,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(139)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美國快餐車第2季:炸熱狗,乳酪牛排三明治與冰淇淋三明治",
         "time": "18:00",
         "date": "2026-07-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4917,21 +4925,11 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(140)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "決戰賭城主廚第1季:絕對要完美",
         "time": "18:00",
         "date": "2026-07-26",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (25)",
-        "time": "18:00",
-        "date": "2026-07-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4949,9 +4947,9 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (27)",
+        "title": "殭屍偶像 (25)",
         "time": "18:00",
-        "date": "2026-07-28",
+        "date": "2026-07-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4969,9 +4967,9 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (29)",
+        "title": "殭屍偶像 (27)",
         "time": "18:00",
-        "date": "2026-07-29",
+        "date": "2026-07-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4989,9 +4987,9 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "殭屍偶像 (31)",
+        "title": "殭屍偶像 (29)",
         "time": "18:00",
-        "date": "2026-07-30",
+        "date": "2026-07-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5009,9 +5007,9 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "K-POP 歌曲創作人 第二季 (1)",
+        "title": "殭屍偶像 (31)",
         "time": "18:00",
-        "date": "2026-07-31",
+        "date": "2026-07-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5020,6 +5018,16 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(178)",
+        "time": "18:00",
+        "date": "2026-07-31",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "K-POP 歌曲創作人 第二季 (1)",
         "time": "18:00",
         "date": "2026-07-31",
         "source": "中華電信 MOD 7 日節目表",
