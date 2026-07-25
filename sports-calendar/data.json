@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:42:20.263Z",
+  "updatedAt": "2026-07-25T03:54:46.997Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -3937,14 +3937,6 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 7/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-23T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 味全 VS 台鋼 例行賽 7/24 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-24T18:30:00+08:00",
@@ -4114,19 +4106,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-28T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 味全 VS 富邦 例行賽 7/28 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-28T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 7/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-28T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4210,27 +4202,11 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 7/31 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-31T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 味全 例行賽 7/31 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-31T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 統一 例行賽 7/31 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-07-31T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -4249,30 +4225,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 味全 例行賽 8/2 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-02T15:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 統一 例行賽 8/2 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-02T16:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/2 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-02T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "波士頓紅襪 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4287,6 +4239,14 @@
       "start": "2026-08-04T00:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-04T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4337,20 +4297,20 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 8/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-11T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "堪薩斯市皇家 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-12T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4415,6 +4375,14 @@
       "start": "2026-08-20T00:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/21 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-21T18:30:00+08:00",
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4"
     },
     {
       "sport": "道奇",
@@ -5203,7 +5171,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "Expected ',' or '}' after property value in JSON at position 214 (line 26 column 4) | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check ",
+      "modSelectorError": "Unexpected non-whitespace character after JSON at position 130 (line 6 column 1) | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check you",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
