@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T11:45:47.984Z",
+  "updatedAt": "2026-07-28T15:05:00.665Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4146,6 +4146,14 @@
     },
     {
       "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 7/31 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-07-31T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
       "title": "中華職棒 樂天 VS 統一 例行賽 7/31 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-07-31T18:30:00+08:00",
@@ -4159,14 +4167,6 @@
       "start": "2026-08-01T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 統一 例行賽 8/1 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-01T16:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MOD綜藝",
@@ -4194,11 +4194,11 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 統一 例行賽 8/2 LIVE",
+      "title": "中華職棒 中信 VS 味全 例行賽 8/2 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-02T16:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
+      "start": "2026-08-02T15:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4273,20 +4273,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 8/8 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-08T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞利桑那響尾蛇",
       "subtitle": "Chase Field",
       "start": "2026-08-09T00:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 台鋼 例行賽 8/9 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-09T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 8/9 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-09T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4303,6 +4311,22 @@
       "start": "2026-08-11T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/11 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-11T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 統一 例行賽 8/11 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-11T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4369,6 +4393,22 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
@@ -4425,14 +4465,6 @@
       "start": "2026-08-25T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 統一 例行賽 8/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-26T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -5172,7 +5204,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
 }
