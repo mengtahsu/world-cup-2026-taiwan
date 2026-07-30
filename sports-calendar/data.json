@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T11:32:41.742Z",
+  "updatedAt": "2026-07-30T14:54:39.226Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4122,14 +4122,6 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/1 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-01T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 味全 例行賽 8/1 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-01T17:00:00+08:00",
@@ -4146,11 +4138,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第2季:黃金蛋糕",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(141)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-01T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4170,11 +4162,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "決戰賭城主廚第1季:贏家出爐",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(142)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-02T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4218,11 +4210,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "先鋒女廚師第39季:新世代16分鐘料理",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(135)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-04T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4242,11 +4234,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味城大亂鬥第1季:起司日",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(136)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-05T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4359,6 +4351,14 @@
       "start": "2026-08-20T00:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/21 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-21T18:30:00+08:00",
+      "channel": "203",
+      "channelStatus": "愛爾達體育 4"
     },
     {
       "sport": "道奇",
@@ -4907,9 +4907,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第2季:黃金蛋糕",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(141)",
         "time": "18:00",
         "date": "2026-08-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -4969,9 +4969,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第2季:黃金蛋糕",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(141)",
         "time": "18:00",
         "date": "2026-08-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -4989,9 +4989,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "決戰賭城主廚第1季:贏家出爐",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(142)",
         "time": "18:00",
         "date": "2026-08-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -5029,9 +5029,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:新世代16分鐘料理",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(135)",
         "time": "18:00",
         "date": "2026-08-04",
         "source": "中華電信 MOD 7 日節目表",
@@ -5049,9 +5049,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味城大亂鬥第1季:起司日",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(136)",
         "time": "18:00",
         "date": "2026-08-05",
         "source": "中華電信 MOD 7 日節目表",
