@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:54:28.441Z",
+  "updatedAt": "2026-08-01T22:38:44.690Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4082,19 +4082,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/1 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-01T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 味全 例行賽 8/1 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-01T17:00:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/1 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-01T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4178,11 +4178,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "不思議旅館第2季:希臘閃電",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:43",
-      "start": "2026-08-04T18:43:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "24小時主廚生死鬥第1季:第七輪:簡潔",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-04T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4194,11 +4194,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "玩具獵人第2季:芝加哥",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:12",
-      "start": "2026-08-05T18:12:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "花甲少年趣旅行(136)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-05T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4266,11 +4266,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的超市料理大戰第37季:十分鐘接力賽終章",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-08-08T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(143)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-08T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4913,11 +4913,21 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "玩具獵人第2季:芝加哥",
-        "time": "18:12",
-        "date": "2026-08-05",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "24小時主廚生死鬥第1季:第七輪:簡潔",
+        "time": "18:50",
+        "date": "2026-08-04",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "挑戰美食堂第4季:亞利桑那州斯科次代爾",
+        "time": "18:00",
+        "date": "2026-08-07",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4928,16 +4938,6 @@
         "title": "美食打卡趣(216)",
         "time": "19:00",
         "date": "2026-08-02",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:十分鐘接力賽終章",
-        "time": "18:50",
-        "date": "2026-08-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4995,20 +4995,20 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "不思議旅館第2季:希臘閃電",
-        "time": "18:43",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "24小時主廚生死鬥第1季:第七輪:簡潔",
+        "time": "18:50",
         "date": "2026-08-04",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "玩具獵人第2季:芝加哥",
-        "time": "18:12",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(136)",
+        "time": "18:00",
         "date": "2026-08-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5075,10 +5075,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:十分鐘接力賽終章",
-        "time": "18:50",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(143)",
+        "time": "18:00",
         "date": "2026-08-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
