@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T09:22:38.197Z",
+  "updatedAt": "2026-08-01T13:57:18.253Z",
   "matches": [
     {
       "number": 1,
@@ -3056,81 +3056,26 @@
       }
     }
   ],
-  "news": [
-    {
-      "title": "FIFA 到底想做什麼？FFE 為何引爆足球世界，卻也揭開足球商業模式最特殊的地方？ - sportsv.net",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yUk0zNXpOOUZvV2JWd3ZwNWF5bDZyTHdfQW1IX1BJQ0tLcGRtR0FaZnhEcnJDZjQxWjhSNm5lNENJMUtrWUJpY25iR21GWTdn?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 06:37:36 GMT",
-      "source": "sportsv.net"
-    },
-    {
-      "title": "2026世界盃冠軍獎金拿多少？大力神盃帶不回家？世足冷知識一次看－中央社｜商周 - 商周",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kM0VMMnlnWjN1T0tlLVFGMXpKbEtEeXN5U1cybDZzeGlBWUUybkF4WmlHQ0lsakhNbXlCZ3BIOWJaU1czLW9vWGxnTFl0N3hINTR5VzNVZnNnX1BtMkhFSkNVQ2tVdjdrcWVxTw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "source": "商周"
-    },
-    {
-      "title": "足球》2026台灣國際足球邀請賽登場 搭建台灣青少年與世界交流舞台 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JUkYzSE9IUDdzNEdLeDFzbUY3OHBVdXJyeW1BbngwRlBSQXd4bjBhMEsxckpqWGFzbHdLN29WbERiQlktSzZsd0haQWxaTVRZdUk1ZlktREJiOEZaWkdVcg?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 07:19:00 GMT",
-      "source": "自由體育"
-    },
-    {
-      "title": "2026世界盃決賽懶人包：西班牙1:0奪冠擊退阿根廷！Justin Bieber、BTS中場秀登場 - Vogue Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDkxRFJiOXZDdFlLZkFkVXkxNVRBY2N0eUtBajBtaC1vay05SjZTRVBsZkdGM3o3aG8zN044b2ZGcHB4UnJ6YXJJdTJPTVhMdENtSUFmYk41X3dwV08zSDFjOXhDMVVpV2p2NE1ubkI5SVdfNU1OWTRWaTYwUy1HUVNQdUVwUQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "source": "Vogue Taiwan"
-    },
-    {
-      "title": "2026世界盃冠軍賽即時比分直播！西班牙1:0贏過阿根廷，睽違16年再奪大力神盃 - elle.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1ZZZ2FmM1BkaGdscTBvVkU0ejZqUk5hRGVQSWZSU1dOQ29USE5IUkJZOUV3cVhRRE1vaE1kUmZoZHU0TUpRUi04Tzd2RlMtcl8wSGlpQWJOWVAtOXc0bm9pU0xPbmFuTHV6QXNKbEJPWVpXMVFsSjVQVkc2ZkZ0VEVOSHVMbk1NQTItdUJaVTZzZUc4V2F2b3ltNkpDU1lC?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "source": "elle.com"
-    },
-    {
-      "title": "2026 世界盃正式落幕！西班牙 1：0 擊退阿根廷，時隔 16 年奪隊史第二星 - GQ Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkQ0NWR6Smo0NEN1Uzc1VEVWX3VYTjZMSm5UNHhMQlpFVm1vZVBpLUNkZk54VjNsQjJhS3NuTUtfVzE3eTk0LUVRRmtiaWQtcmNJNHJ2NkFzZkR1Ym1yRjVNeHdwdDl2R0RJWC1CRmtGVEZxV1FSa29sNFBOZzFhbEFoQ2lKb2ZFQTN2MTFlVGFtdw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "source": "GQ Taiwan"
-    },
-    {
-      "title": "FIFA世界盃2026：西班牙擊敗阿根廷二度封王 托雷斯（托利斯）加時建功 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XMW5sUmxlbU5xV181V0ZmQ0ZzNjlGQl91clQ5X0dCNGFuMmFBUFNqdEJ3aVNOU2Y1NmlYMzVvS0RKSC15VVZnZngwYk40cXJkZVhSeHJGQ1NxbGxabXNsUUVOLTdMQdIBa0FVX3lxTE5xSUVCSjhfWFExUnBDcDNHckFHenFUbmtPOUdsT3paRVd2M0ZhVjFwSjhHS0xTTmJaRkxKdjF2TE11MFZMS1Nhb3JGanZsVEdtb0JpLVpxdHlqM25RLXlIV2NIeU1UTUQ4X1Jv?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "source": "BBC"
-    },
-    {
-      "title": "1：0 西班牙隊贏得2026年世界盃足球冠軍 - RFI",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQR3FwRmlHbXN4THNkYmo1QUxJS2JVTmR0OFF4N0t0cHBmVktjNU9IakNDS09MTU5qZFBENmx2Y2U2OC1EMjNJbzY4ZzN5TzNTcXZtRmlBWWJfRGJZSF9XM3lCUkQ1T2tWY1hrdERGajdSc1lMU3lLMzFPWjFaZ2ZPd2NQR0lwXzRiMnNHWXhIRE81UjdVeXU2bDc4YU9rdWp3bjBWZUFUY3NreE0zUzhfYWRCcEJfcW81V2VTZy1DZ1JWbTNGV0NRNmZaczZHaGg3MVFpV0xwNDFTNFhzTFg2bzJwYjM3TW83TWxoOV9NekR1RFVLYl9za2U2UW9QT1EwWm44blV3?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "source": "RFI"
-    },
-    {
-      "title": "2026世界盃由西班牙奪冠，梅西阿根廷一球之差獲亞軍【2026世界盃總戰績排名】 - Cosmopolitan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjRyZUZ5VWpQb0RlcnltZTRyR2c3U2hRTE9JM1J2czNyRGlhWm1EdFBMZ2hral9pTUVuRWZmVUhPdnVTc0Nsdmp6RHlxR2FoR3JqeGQzLWs5ZkFJMlZkTjZJaE1SeS05LVRrN05RUk1pX2trSEZ4R29YZl83ajRLQlNkVzNnNGEySVZOaENqc21BQQ?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "source": "Cosmopolitan"
-    }
-  ],
+  "news": [],
   "odds": [],
   "videos": [
     {
-      "id": "hHhm6phokjE",
-      "title": "【全場精華】7/31 台鋼雄鷹 vs. 富邦悍將 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "wvjKMGn7JH8",
+      "title": "【全場精華】8/1 台鋼雄鷹 vs. 富邦悍將 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=hHhm6phokjE"
+      "url": "https://www.youtube.com/watch?v=wvjKMGn7JH8"
     },
     {
-      "id": "I8aNRSGWrkY",
-      "title": "【全場精華】7/31 中信兄弟 vs. 味全龍 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "D3elaus-3VA",
+      "title": "【全場精華】8/1 樂天桃猿 vs. 統一獅 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=I8aNRSGWrkY"
+      "url": "https://www.youtube.com/watch?v=D3elaus-3VA"
     },
     {
-      "id": "YrUC-rinmTA",
-      "title": "【全場精華】7/31 樂天桃猿 vs. 統一獅 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
+      "id": "Gur99AA7tqQ",
+      "title": "【全場精華】8/1 中信兄弟 vs. 味全龍 ｜ 中華職棒37年例行賽｜鎖定ELTA.tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=YrUC-rinmTA"
+      "url": "https://www.youtube.com/watch?v=Gur99AA7tqQ"
     }
   ]
 }
