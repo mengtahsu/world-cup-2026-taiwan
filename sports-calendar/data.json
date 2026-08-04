@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:48:59.179Z",
+  "updatedAt": "2026-08-04T15:09:57.733Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4081,20 +4081,20 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "先鋒女廚師第39季:新世代16分鐘料理",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-04T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
       "sport": "中職",
       "title": "中華職棒 樂天 VS 台鋼 例行賽 8/4 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-04T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "24小時主廚生死鬥第1季:第七輪:簡潔",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-04T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4226,11 +4226,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "燒烤對決第5季:再戰德州",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-09T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "美食打卡趣(221)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-08-09T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4250,9 +4250,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "弗蒙特烘焙教室第1季:後院慶生會",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-10T18:00:00+08:00",
+      "title": "挑戰美食堂第6季:羅德島州紐波特",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-10T18:50:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
@@ -4352,6 +4352,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/22 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-22T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4861,16 +4869,6 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:新世代16分鐘料理",
-        "time": "18:00",
-        "date": "2026-08-04",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "376",
         "channelName": "tvN",
         "title": "柳先生的美食遊學團(6)",
@@ -4909,6 +4907,16 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(221)",
+        "time": "19:00",
+        "date": "2026-08-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "modSchedule": [
@@ -4925,8 +4933,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:新世代16分鐘料理",
-        "time": "18:00",
+        "title": "24小時主廚生死鬥第1季:第七輪:簡潔",
+        "time": "18:50",
         "date": "2026-08-04",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5023,10 +5031,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:再戰德州",
-        "time": "18:00",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(221)",
+        "time": "19:00",
         "date": "2026-08-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5045,8 +5053,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第1季:後院慶生會",
-        "time": "18:00",
+        "title": "挑戰美食堂第6季:羅德島州紐波特",
+        "time": "18:50",
         "date": "2026-08-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5144,7 +5152,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
