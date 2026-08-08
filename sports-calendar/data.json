@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:16:21.887Z",
+  "updatedAt": "2026-08-08T22:01:55.007Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4178,9 +4178,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "弗蒙特烘焙教室第1季:後院慶生會",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-10T18:00:00+08:00",
+      "title": "挑戰美食堂第6季:羅德島州紐波特",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-10T18:50:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
@@ -4223,6 +4223,14 @@
       "start": "2026-08-12T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4281,6 +4289,14 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 8/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4290,11 +4306,11 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 8/15 LIVE",
+      "title": "中華職棒 富邦 VS 統一 例行賽 8/15 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-15T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
+      "start": "2026-08-15T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4335,6 +4351,14 @@
       "start": "2026-08-18T00:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 8/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-18T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4378,6 +4402,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/22 D-LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-23T00:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "F1",
       "title": "Dutch Grand Prix・正賽",
       "subtitle": "Circuit Park Zandvoort",
@@ -4395,20 +4427,20 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/23 D-LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-23T23:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
       "start": "2026-08-25T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-26T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4907,8 +4939,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第1季:後院慶生會",
-        "time": "18:00",
+        "title": "挑戰美食堂第6季:羅德島州紐波特",
+        "time": "18:50",
         "date": "2026-08-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4969,8 +5001,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第1季:後院慶生會",
-        "time": "18:00",
+        "title": "挑戰美食堂第6季:羅德島州紐波特",
+        "time": "18:50",
         "date": "2026-08-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
