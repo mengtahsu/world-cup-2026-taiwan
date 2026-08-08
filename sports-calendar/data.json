@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:03:07.402Z",
+  "updatedAt": "2026-08-08T19:16:21.887Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4178,11 +4178,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "鮑伊娃的亞洲廚房S1(3)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-08-10T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "弗蒙特烘焙教室第1季:後院慶生會",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-08-10T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4201,20 +4201,12 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 8/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-11T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "MOD綜藝",
-      "title": "里克斯坦暢遊康沃爾S2(8)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-08-11T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "先鋒女廚師第39季:戶外烤肉",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-08-11T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4258,11 +4250,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "鮑伊娃的亞洲廚房S1(4)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・19:00",
-      "start": "2026-08-13T19:00:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "搶救餐廳總動員第13季:暗潮洶湧",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-08-13T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4282,11 +4274,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "多諾居家好料理S1(6)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-08-14T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "挑戰美食堂第4季:密西根州底特律",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-08-14T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4295,6 +4287,14 @@
       "start": "2026-08-15T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 味全 例行賽 8/15 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-15T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4306,11 +4306,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "里克斯坦暢遊澳洲S1(1)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:15",
-      "start": "2026-08-15T18:15:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "蓋的超市料理大戰第37季:培根大對決",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-15T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4343,14 +4343,6 @@
       "start": "2026-08-19T00:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 台鋼 例行賽 8/19 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-19T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4409,6 +4401,14 @@
       "start": "2026-08-25T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-26T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4905,31 +4905,31 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "星級主廚遊巴黎S1(1)",
-        "time": "18:30",
-        "date": "2026-08-12",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(3)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第1季:後院慶生會",
+        "time": "18:00",
         "date": "2026-08-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(221)",
-        "time": "19:00",
-        "date": "2026-08-09",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "搶救餐廳總動員第13季:暗潮洶湧",
+        "time": "18:00",
+        "date": "2026-08-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:培根大對決",
+        "time": "18:50",
+        "date": "2026-08-15",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4967,10 +4967,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(3)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第1季:後院慶生會",
+        "time": "18:00",
         "date": "2026-08-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4987,10 +4987,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "里克斯坦暢遊康沃爾S2(8)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "先鋒女廚師第39季:戶外烤肉",
+        "time": "18:00",
         "date": "2026-08-11",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5027,10 +5027,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(4)",
-        "time": "19:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "搶救餐廳總動員第13季:暗潮洶湧",
+        "time": "18:00",
         "date": "2026-08-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5047,10 +5047,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "多諾居家好料理S1(6)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "挑戰美食堂第4季:密西根州底特律",
+        "time": "18:00",
         "date": "2026-08-14",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5067,10 +5067,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "里克斯坦暢遊澳洲S1(1)",
-        "time": "18:15",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:培根大對決",
+        "time": "18:50",
         "date": "2026-08-15",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5079,43 +5079,43 @@
     ],
     "netflix": [
       {
-        "title": "鬼滅之刃：無限城篇 I",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "神鬼戰士II",
+        "title": "Gladiator II",
         "originalTitle": "Gladiator II",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "艾莉絲：女人的陰影",
+        "title": "Elize: Shadows of a Woman",
         "originalTitle": "Elize: Shadows of a Woman",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "72小時",
+        "title": "72 HOURS",
         "originalTitle": "72 HOURS",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "加州大地震",
+        "title": "San Andreas",
         "originalTitle": "San Andreas",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "討債人",
+        "title": "The Debt Collector",
         "originalTitle": "The Debt Collector",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "水行俠",
+        "title": "Aquaman",
         "originalTitle": "Aquaman",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5127,13 +5127,13 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "狂野歌聲",
+        "title": "Wild Sing",
         "originalTitle": "Wild Sing",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "蜘蛛人：返校日",
+        "title": "Spider-Man: Homecoming",
         "originalTitle": "Spider-Man: Homecoming",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5164,11 +5164,11 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 2,
+      "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "gemini-fast"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
