@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:36:09.303Z",
+  "updatedAt": "2026-08-11T19:46:30.766Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4162,19 +4162,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-12T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 富邦 例行賽 8/12 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-12T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "中職",
@@ -4209,14 +4209,6 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 富邦 例行賽 8/13 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-13T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4247,14 +4239,6 @@
       "start": "2026-08-15T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 8/15 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-15T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -5085,44 +5069,32 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "originalTitle": "Spider-Man: Homecoming",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
         "title": "Gladiator II",
         "originalTitle": "Gladiator II",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Elize: Shadows of a Woman",
-        "originalTitle": "Elize: Shadows of a Woman",
+        "title": "Spider-Man: Far from Home",
+        "originalTitle": "Spider-Man: Far from Home",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "72 HOURS",
-        "originalTitle": "72 HOURS",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "San Andreas",
-        "originalTitle": "San Andreas",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "The Debt Collector",
-        "originalTitle": "The Debt Collector",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Aquaman",
-        "originalTitle": "Aquaman",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "雙喜",
-        "originalTitle": "Double Happiness",
+        "title": "Max",
+        "originalTitle": "Max",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5133,8 +5105,20 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Homecoming",
-        "originalTitle": "Spider-Man: Homecoming",
+        "title": "The Frozen Ground",
+        "originalTitle": "The Frozen Ground",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "雙喜",
+        "originalTitle": "Double Happiness",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "72 HOURS",
+        "originalTitle": "72 HOURS",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
