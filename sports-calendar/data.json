@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:13:47.592Z",
+  "updatedAt": "2026-08-13T05:22:59.027Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4130,19 +4130,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-12T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 富邦 例行賽 8/12 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-12T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "中職",
@@ -4343,6 +4343,14 @@
       "start": "2026-08-19T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -5157,7 +5165,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more inf",
+      "modSelectorError": "Expected ',' or ']' after array element in JSON at position 3364 (line 185 column 6) | retry 429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
