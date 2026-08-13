@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:35:38.806Z",
+  "updatedAt": "2026-08-13T19:44:19.597Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4130,19 +4130,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-12T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 富邦 例行賽 8/12 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-12T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 台鋼 例行賽 8/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-12T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "中職",
@@ -4194,19 +4194,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 8/14 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-14T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 富邦 VS 統一 例行賽 8/14 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-14T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 味全 例行賽 8/14 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-14T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4215,6 +4215,14 @@
       "start": "2026-08-15T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 8/15 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-15T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
