@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T05:19:59.914Z",
+  "updatedAt": "2026-08-14T08:01:54.572Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4154,19 +4154,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(143)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(188)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-14T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "挑戰美食堂第4季:密西根州底特律",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(143)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-14T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "中職",
@@ -4210,19 +4210,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(145)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(414)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-15T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的超市料理大戰第37季:培根大對決",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-08-15T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(145)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-15T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4233,36 +4233,20 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 8/16 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-16T15:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 8/16 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-16T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
+      "sport": "MOD綜藝",
+      "title": "進擊的台灣(415)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-16T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(146)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-16T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美食打卡趣(226)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
-      "start": "2026-08-16T19:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4275,7 +4259,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(1)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-17T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4283,7 +4267,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(144)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-17T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4299,7 +4283,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(2)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-18T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4307,18 +4291,10 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(145)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-18T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 台鋼 例行賽 8/18 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-18T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4331,18 +4307,18 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(3)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-19T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "柳先生的美食遊學團(8)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:45",
-      "start": "2026-08-19T18:45:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "花甲少年趣旅行(146)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-19T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4355,7 +4331,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(4)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-20T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4363,34 +4339,10 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(147)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-20T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 味全 例行賽 8/20 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-20T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-21T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 8/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-21T18:30:00+08:00",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4"
     },
     {
       "sport": "道奇",
@@ -4410,14 +4362,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-22T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4433,14 +4377,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4923,31 +4859,11 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "柳先生的美食遊學團(8)",
-        "time": "18:45",
-        "date": "2026-08-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "美食打卡趣(226)",
-        "time": "19:00",
-        "date": "2026-08-16",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(1)",
+        "title": "智富食代(188)",
         "time": "18:00",
-        "date": "2026-08-17",
+        "date": "2026-08-14",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4963,43 +4879,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:培根大對決",
-        "time": "18:50",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(414)",
+        "time": "18:00",
         "date": "2026-08-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:密西根州底特律",
-        "time": "18:00",
-        "date": "2026-08-14",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      }
-    ],
-    "modSchedule": [
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(143)",
-        "time": "18:00",
-        "date": "2026-08-14",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:密西根州底特律",
-        "time": "18:00",
-        "date": "2026-08-14",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5015,11 +4899,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:培根大對決",
-        "time": "18:50",
-        "date": "2026-08-15",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(415)",
+        "time": "18:00",
+        "date": "2026-08-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5033,12 +4917,64 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      }
+    ],
+    "modSchedule": [
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(188)",
+        "time": "18:00",
+        "date": "2026-08-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(143)",
+        "time": "18:00",
+        "date": "2026-08-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "美食打卡趣(226)",
-        "time": "19:00",
+        "title": "進擊的台灣(414)",
+        "time": "18:00",
+        "date": "2026-08-15",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(145)",
+        "time": "18:00",
+        "date": "2026-08-15",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(415)",
+        "time": "18:00",
+        "date": "2026-08-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(146)",
+        "time": "18:00",
         "date": "2026-08-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5095,10 +5031,10 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "柳先生的美食遊學團(8)",
-        "time": "18:45",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(146)",
+        "time": "18:00",
         "date": "2026-08-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5210,12 +5146,10 @@
       }
     ],
     "meta": {
-      "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 1,
-      "modCandidateCount": 56,
+      "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
