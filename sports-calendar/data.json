@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:59:11.567Z",
+  "updatedAt": "2026-08-15T02:04:12.564Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4137,14 +4137,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 富邦 例行賽 8/13 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-13T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4223,6 +4215,14 @@
       "start": "2026-08-16T15:00:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 8/16 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-16T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4378,6 +4378,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/22 D-LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-23T00:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "F1",
       "title": "Dutch Grand Prix・正賽",
       "subtitle": "Circuit Park Zandvoort",
@@ -4387,20 +4395,20 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-23T20:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/23 D-LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-23T23:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -5165,7 +5173,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
+      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
