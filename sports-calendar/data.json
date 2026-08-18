@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:05:54.266Z",
+  "updatedAt": "2026-08-18T04:20:27.208Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4281,14 +4281,6 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-21T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -5141,8 +5133,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 429 {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and bil",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "modSelectorError": "empty Gemini schedule",
+      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
 }
