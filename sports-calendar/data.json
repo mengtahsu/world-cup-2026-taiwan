@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:00:19.546Z",
+  "updatedAt": "2026-08-18T02:05:54.266Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4161,22 +4161,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 8/16 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-16T15:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 統一 例行賽 8/16 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-16T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "密爾瓦基釀酒人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4241,6 +4225,22 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 科羅拉多洛磯",
       "subtitle": "Coors Field",
@@ -4279,6 +4279,14 @@
       "start": "2026-08-21T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 統一 例行賽 8/21 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-21T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4331,14 +4339,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "進擊的台灣(421)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
@@ -4361,14 +4361,6 @@
       "start": "2026-08-23T20:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 8/23 D-LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T23:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -5149,7 +5141,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 429 {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and bil",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
