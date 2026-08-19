@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:07:22.203Z",
+  "updatedAt": "2026-08-19T21:59:59.433Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4194,19 +4194,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 中信 VS 味全 例行賽 8/19 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-19T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 統一 VS 台鋼 例行賽 8/19 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-19T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 例行賽 8/19 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-19T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4218,19 +4218,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(4)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-08-20T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(147)",
       "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-20T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(4)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-20T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "中職",
@@ -4242,6 +4242,14 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(148)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-21T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "吃貨請跟上(5)",
       "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-21T18:00:00+08:00",
@@ -4249,12 +4257,12 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(148)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-21T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/21 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-21T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4274,28 +4282,20 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-22T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(147)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-22T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "第六感：趣遊都市(6)",
       "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
       "start": "2026-08-22T18:10:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "里克斯坦暢遊澳洲S1(2)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
+      "start": "2026-08-22T18:10:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -4340,19 +4340,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(6)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-08-24T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(119)",
       "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-24T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(6)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-24T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4692,7 +4692,7 @@
       "sport": "F1",
       "title": "Bahrain Grand Prix in Malaysia・排位賽",
       "subtitle": "Sepang International Circuit",
-      "start": "2026-10-03T09:00:00Z",
+      "start": "2026-10-03T08:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
@@ -4899,6 +4899,16 @@
         "score": 16
       },
       {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(147)",
+        "time": "18:00",
+        "date": "2026-08-20",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "美食打卡趣(231)",
@@ -4907,7 +4917,9 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
@@ -4917,35 +4929,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
+      },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "吃貨請跟上(4)",
         "time": "18:00",
         "date": "2026-08-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
-        "time": "18:00",
-        "date": "2026-08-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(5)",
-        "time": "18:00",
-        "date": "2026-08-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4961,11 +4951,11 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(5)",
         "time": "18:00",
-        "date": "2026-08-22",
+        "date": "2026-08-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4974,6 +4964,16 @@
         "channel": "376",
         "channelName": "tvN",
         "title": "第六感：趣遊都市(6)",
+        "time": "18:10",
+        "date": "2026-08-22",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "里克斯坦暢遊澳洲S1(2)",
         "time": "18:10",
         "date": "2026-08-22",
         "source": "中華電信 MOD 7 日節目表",
@@ -5001,9 +5001,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(6)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
         "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -5011,9 +5011,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(119)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(6)",
         "time": "18:00",
         "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -5063,61 +5063,61 @@
     ],
     "netflix": [
       {
-        "title": "The Last House",
+        "title": "最後一棟房子",
         "originalTitle": "The Last House",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
+        "title": "鬼滅之刃 劇場版：無限城篇 I",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Extinction",
+        "title": "滅絕",
         "originalTitle": "Extinction",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "The Suicide Squad",
+        "title": "自殺突擊隊：集結",
         "originalTitle": "The Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Edge of Tomorrow",
+        "title": "明日邊界",
         "originalTitle": "Edge of Tomorrow",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Far from Home",
+        "title": "蜘蛛人：離家日",
         "originalTitle": "Spider-Man: Far from Home",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Doctor-X the Movie",
+        "title": "派遣女醫X 劇場版",
         "originalTitle": "Doctor-X the Movie",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Homecoming",
+        "title": "蜘蛛人：返校日",
         "originalTitle": "Spider-Man: Homecoming",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Suicide Squad",
+        "title": "自殺突擊隊",
         "originalTitle": "Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Noise",
+        "title": "噪音",
         "originalTitle": "Noise",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5152,7 +5152,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "gemini-fast"
     }
   }
 }
