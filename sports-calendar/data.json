@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:18:40.555Z",
+  "updatedAt": "2026-08-20T22:01:30.442Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4218,19 +4218,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "吃貨請跟上(5)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-21T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(148)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-21T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "挑戰美食堂第4季:曼哈頓",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-21T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "中職",
@@ -4275,19 +4275,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "進擊的台灣(419)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-22T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(147)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-22T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第2季:美味蕈菇",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-22T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4296,6 +4296,14 @@
       "start": "2026-08-22T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 8/22 D-LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-23T00:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "F1",
@@ -4308,19 +4316,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "進擊的台灣(421)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-23T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(148)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-23T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "燒烤對決第5季:路邊美味",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-23T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4332,6 +4340,14 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "吃貨請跟上(6)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-24T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(119)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-24T18:00:00+08:00",
@@ -4340,11 +4356,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "弗蒙特烘焙教室第1季:大綠隊",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-24T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "吃貨請跟上(7)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-25T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4353,14 +4369,6 @@
       "start": "2026-08-25T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "先鋒女廚師第39季:療癒美食一手拿",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-25T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4372,19 +4380,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "吃貨請跟上(8)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-26T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(121)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-26T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美味城大亂鬥第1季:香辣美味",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-26T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4396,19 +4404,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "吃貨請跟上(9)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-08-27T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(122)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-27T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "搶救餐廳總動員第13季:重建信任",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-27T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4867,6 +4875,16 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(5)",
+        "time": "18:00",
+        "date": "2026-08-21",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(148)",
@@ -4877,11 +4895,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:曼哈頓",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(419)",
         "time": "18:00",
-        "date": "2026-08-21",
+        "date": "2026-08-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4897,11 +4915,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第2季:美味蕈菇",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(421)",
         "time": "18:00",
-        "date": "2026-08-22",
+        "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4910,16 +4928,6 @@
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(148)",
-        "time": "18:00",
-        "date": "2026-08-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:路邊美味",
         "time": "18:00",
         "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
@@ -4929,6 +4937,16 @@
     ],
     "modSchedule": [
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(5)",
+        "time": "18:00",
+        "date": "2026-08-21",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(148)",
@@ -4939,11 +4957,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "挑戰美食堂第4季:曼哈頓",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(419)",
         "time": "18:00",
-        "date": "2026-08-21",
+        "date": "2026-08-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4959,11 +4977,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第2季:美味蕈菇",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(421)",
         "time": "18:00",
-        "date": "2026-08-22",
+        "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4979,11 +4997,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:路邊美味",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(6)",
         "time": "18:00",
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4999,11 +5017,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第1季:大綠隊",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(7)",
         "time": "18:00",
-        "date": "2026-08-24",
+        "date": "2026-08-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5019,11 +5037,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:療癒美食一手拿",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(8)",
         "time": "18:00",
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5039,11 +5057,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味城大亂鬥第1季:香辣美味",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(9)",
         "time": "18:00",
-        "date": "2026-08-26",
+        "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5052,16 +5070,6 @@
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(122)",
-        "time": "18:00",
-        "date": "2026-08-27",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "搶救餐廳總動員第13季:重建信任",
         "time": "18:00",
         "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
@@ -5077,7 +5085,7 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "鬼滅之刃：無限城篇 一",
+        "title": "鬼滅之刃 劇場版 無限城篇 I",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5107,7 +5115,7 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "劇場版 派遣女醫X",
+        "title": "派遣女醫X 劇場版",
         "originalTitle": "Doctor-X the Movie",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
