@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:23:59.258Z",
+  "updatedAt": "2026-08-21T07:29:13.218Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4218,14 +4218,6 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 8/21 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-21T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 統一 例行賽 8/21 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-21T18:30:00+08:00",
@@ -4237,8 +4229,8 @@
       "title": "中華職棒 味全 VS 富邦 例行賽 8/21 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-21T18:30:00+08:00",
-      "channel": "203",
-      "channelStatus": "愛爾達體育 4"
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4259,19 +4251,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/22 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-22T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 台鋼 例行賽 8/22 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-22T16:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 統一 例行賽 8/22 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-22T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4296,14 +4288,6 @@
       "start": "2026-08-22T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 8/22 D-LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T00:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "F1",
@@ -5165,7 +5149,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
+      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
