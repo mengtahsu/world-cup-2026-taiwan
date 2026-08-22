@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:56:52.829Z",
+  "updatedAt": "2026-08-22T19:03:53.111Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4234,22 +4234,6 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(147)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-22T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "第六感：趣遊都市(6)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
-      "start": "2026-08-22T18:10:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4284,11 +4268,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(148)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-23T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "傑米的氣炸鍋美食S1(1)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
+      "start": "2026-08-23T18:10:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4324,19 +4308,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(119)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-24T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "挑戰美食堂第6季:加州酒鄉",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-24T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(120)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "吃貨請跟上(7)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-25T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4356,11 +4340,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(121)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-26T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "玩具獵人第2季:宅男諧星",
+      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:16",
+      "start": "2026-08-26T18:16:00+08:00",
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4388,11 +4372,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(122)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-27T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "吉婭達的宴客之道第5季:小女生開心派對",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-27T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4412,11 +4396,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(123)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-28T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "搶救餐廳總動員第13季:重建信任",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-28T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4435,12 +4419,20 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 8/30 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-30T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
+      "sport": "MOD綜藝",
+      "title": "美味秘訣升級版第2季:雞尾酒",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:25",
+      "start": "2026-08-29T18:25:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "蓋的超市料理大戰第37季:全明星採買速度戰",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-08-29T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4875,11 +4867,31 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的氣炸鍋美食S1(1)",
+        "time": "18:10",
+        "date": "2026-08-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "376",
         "channelName": "tvN",
-        "title": "第六感：趣遊都市(6)",
-        "time": "18:10",
-        "date": "2026-08-22",
+        "title": "Sam Kim名廚煮意(11)",
+        "time": "18:25",
+        "date": "2026-08-25",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "玩具獵人第2季:宅男諧星",
+        "time": "18:16",
+        "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4895,41 +4907,21 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "Sam Kim名廚煮意(11)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味秘訣升級版第2季:雞尾酒",
         "time": "18:25",
-        "date": "2026-08-25",
+        "date": "2026-08-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
-        "time": "18:00",
-        "date": "2026-08-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(231)",
-        "time": "19:00",
-        "date": "2026-08-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(6)",
-        "time": "18:00",
-        "date": "2026-08-24",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:全明星採買速度戰",
+        "time": "18:50",
+        "date": "2026-08-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4937,30 +4929,10 @@
     ],
     "modSchedule": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
-        "time": "18:00",
-        "date": "2026-08-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：趣遊都市(6)",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的氣炸鍋美食S1(1)",
         "time": "18:10",
-        "date": "2026-08-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(148)",
-        "time": "18:00",
         "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4987,19 +4959,19 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(119)",
-        "time": "18:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "挑戰美食堂第6季:加州酒鄉",
+        "time": "18:50",
         "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(120)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(7)",
         "time": "18:00",
         "date": "2026-08-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -5017,10 +4989,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(121)",
-        "time": "18:00",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "玩具獵人第2季:宅男諧星",
+        "time": "18:16",
         "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5047,10 +5019,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(122)",
-        "time": "18:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "吉婭達的宴客之道第5季:小女生開心派對",
+        "time": "18:50",
         "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5067,11 +5039,31 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(123)",
-        "time": "18:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "搶救餐廳總動員第13季:重建信任",
+        "time": "18:50",
         "date": "2026-08-28",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味秘訣升級版第2季:雞尾酒",
+        "time": "18:25",
+        "date": "2026-08-29",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:全明星採買速度戰",
+        "time": "18:50",
+        "date": "2026-08-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
