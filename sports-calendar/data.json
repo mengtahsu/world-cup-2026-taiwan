@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:18:37.011Z",
+  "updatedAt": "2026-08-22T09:59:02.950Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4235,19 +4235,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(147)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-22T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "進擊的台灣(419)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-22T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(147)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-22T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4284,19 +4284,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(148)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-23T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "進擊的台灣(421)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-23T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(148)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-23T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4316,14 +4316,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(119)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-24T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "吃貨請跟上(6)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-24T18:00:00+08:00",
@@ -4332,9 +4324,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(120)",
+      "title": "花甲少年趣旅行(119)",
       "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-25T18:00:00+08:00",
+      "start": "2026-08-24T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
@@ -4347,6 +4339,14 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(120)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-25T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
@@ -4356,19 +4356,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(121)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-26T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "吃貨請跟上(8)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-26T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(121)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-26T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4380,19 +4380,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(122)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-27T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "吃貨請跟上(9)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-27T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(122)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-27T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4404,19 +4404,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(123)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-08-28T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "吃貨請跟上(10)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-08-28T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(123)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-28T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4867,16 +4867,6 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
-        "time": "18:00",
-        "date": "2026-08-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "進擊的台灣(419)",
@@ -4889,9 +4879,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(148)",
+        "title": "花甲少年趣旅行(147)",
         "time": "18:00",
-        "date": "2026-08-23",
+        "date": "2026-08-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4909,9 +4899,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(119)",
+        "title": "花甲少年趣旅行(148)",
         "time": "18:00",
-        "date": "2026-08-24",
+        "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4920,6 +4910,16 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "吃貨請跟上(6)",
+        "time": "18:00",
+        "date": "2026-08-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
         "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -4929,16 +4929,6 @@
     ],
     "modSchedule": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(147)",
-        "time": "18:00",
-        "date": "2026-08-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "進擊的台灣(419)",
@@ -4951,9 +4941,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(148)",
+        "title": "花甲少年趣旅行(147)",
         "time": "18:00",
-        "date": "2026-08-23",
+        "date": "2026-08-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4971,9 +4961,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(119)",
+        "title": "花甲少年趣旅行(148)",
         "time": "18:00",
-        "date": "2026-08-24",
+        "date": "2026-08-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4991,9 +4981,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(120)",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
-        "date": "2026-08-25",
+        "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5011,9 +5001,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(121)",
+        "title": "花甲少年趣旅行(120)",
         "time": "18:00",
-        "date": "2026-08-26",
+        "date": "2026-08-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5031,9 +5021,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(122)",
+        "title": "花甲少年趣旅行(121)",
         "time": "18:00",
-        "date": "2026-08-27",
+        "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5051,9 +5041,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(123)",
+        "title": "花甲少年趣旅行(122)",
         "time": "18:00",
-        "date": "2026-08-28",
+        "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5067,65 +5057,75 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(123)",
+        "time": "18:00",
+        "date": "2026-08-28",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
       {
-        "title": "The Last House",
+        "title": "最後一棟房子",
         "originalTitle": "The Last House",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
+        "title": "鬼滅之刃 劇場版 無限城篇：第一部",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Extinction",
+        "title": "滅絕",
         "originalTitle": "Extinction",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "The Suicide Squad",
+        "title": "自殺突擊隊：集結",
         "originalTitle": "The Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Edge of Tomorrow",
+        "title": "明日邊界",
         "originalTitle": "Edge of Tomorrow",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Far from Home",
+        "title": "蜘蛛人：離家日",
         "originalTitle": "Spider-Man: Far from Home",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Doctor-X the Movie",
+        "title": "派遣女醫X 劇場版",
         "originalTitle": "Doctor-X the Movie",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Homecoming",
+        "title": "蜘蛛人：返校日",
         "originalTitle": "Spider-Man: Homecoming",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Suicide Squad",
+        "title": "自殺突擊隊",
         "originalTitle": "Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Noise",
+        "title": "噪音",
         "originalTitle": "Noise",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5158,7 +5158,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "empty Gemini schedule",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "gemini-fast"
     }
   }
 }
