@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:16:10.413Z",
+  "updatedAt": "2026-08-24T19:17:31.345Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4388,19 +4388,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "燒烤對決第5季:烤全豬",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-08-30T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "傑米的氣炸鍋美食S1(2)",
       "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
       "start": "2026-08-30T18:10:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美食打卡趣(236)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
-      "start": "2026-08-30T19:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4863,26 +4863,6 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(7)",
-        "time": "18:00",
-        "date": "2026-08-25",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(236)",
-        "time": "19:00",
-        "date": "2026-08-30",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
         "title": "傑米的氣炸鍋美食S1(2)",
@@ -4895,9 +4875,29 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:烤全豬",
+        "time": "18:00",
+        "date": "2026-08-30",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
         "title": "蓋的超市料理大戰第37季:全明星採買速度戰",
         "time": "18:50",
         "date": "2026-08-29",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(7)",
+        "time": "18:00",
+        "date": "2026-08-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5005,20 +5005,20 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "傑米的氣炸鍋美食S1(2)",
-        "time": "18:10",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:烤全豬",
+        "time": "18:00",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(236)",
-        "time": "19:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的氣炸鍋美食S1(2)",
+        "time": "18:10",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
