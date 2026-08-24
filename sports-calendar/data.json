@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:12:23.345Z",
+  "updatedAt": "2026-08-24T04:28:46.861Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4252,11 +4252,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(6)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(119)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-24T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4268,11 +4268,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(7)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(120)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-25T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4300,11 +4300,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "玩具獵人第2季:宅男諧星",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:16",
-      "start": "2026-08-26T18:16:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "花甲少年趣旅行(121)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-26T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4324,17 +4324,17 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(9)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(122)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-08-27T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "潔絲汀的馬來西亞美食之旅S1(4)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-08-27T18:30:00+08:00",
+      "title": "鮑伊娃的亞洲廚房S1(6)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・19:00",
+      "start": "2026-08-27T19:00:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
     },
@@ -4356,11 +4356,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "危險勝地第1季:前進太空",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:34",
-      "start": "2026-08-28T18:34:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "花甲少年趣旅行(123)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-28T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4380,11 +4380,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第2季:雞尾酒",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:25",
-      "start": "2026-08-29T18:25:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(124)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-29T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4404,19 +4404,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(125)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-08-30T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "傑米的氣炸鍋美食S1(2)",
       "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
       "start": "2026-08-30T18:10:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美食打卡趣(236)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
-      "start": "2026-08-30T19:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4853,21 +4853,31 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "玩具獵人第2季:宅男諧星",
-        "time": "18:16",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "柳先生的美食遊學團(9)",
+        "time": "18:45",
         "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "柳先生的美食遊學團(9)",
-        "time": "18:45",
-        "date": "2026-08-26",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的氣炸鍋美食S1(2)",
+        "time": "18:10",
+        "date": "2026-08-30",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
+        "time": "18:00",
+        "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4885,19 +4895,9 @@
       {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
-        "title": "傑米的氣炸鍋美食S1(2)",
-        "time": "18:10",
-        "date": "2026-08-30",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(236)",
-        "time": "19:00",
-        "date": "2026-08-30",
+        "title": "鮑伊娃的亞洲廚房S1(5)",
+        "time": "18:30",
+        "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4905,9 +4905,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(6)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
         "date": "2026-08-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -4925,9 +4925,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(7)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(120)",
         "time": "18:00",
         "date": "2026-08-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4945,10 +4945,10 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "玩具獵人第2季:宅男諧星",
-        "time": "18:16",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(121)",
+        "time": "18:00",
         "date": "2026-08-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4965,9 +4965,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(9)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(122)",
         "time": "18:00",
         "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
@@ -4977,8 +4977,8 @@
       {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
-        "title": "潔絲汀的馬來西亞美食之旅S1(4)",
-        "time": "18:30",
+        "title": "鮑伊娃的亞洲廚房S1(6)",
+        "time": "19:00",
         "date": "2026-08-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4995,20 +4995,20 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "危險勝地第1季:前進太空",
-        "time": "18:34",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(123)",
+        "time": "18:00",
         "date": "2026-08-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第2季:雞尾酒",
-        "time": "18:25",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(124)",
+        "time": "18:00",
         "date": "2026-08-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5025,20 +5025,20 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "傑米的氣炸鍋美食S1(2)",
-        "time": "18:10",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(125)",
+        "time": "18:00",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(236)",
-        "time": "19:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的氣炸鍋美食S1(2)",
+        "time": "18:10",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
