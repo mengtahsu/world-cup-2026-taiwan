@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T10:06:12.927Z",
+  "updatedAt": "2026-08-25T13:35:01.464Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4276,19 +4276,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 味全 VS 統一 例行賽 8/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-26T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 台鋼 VS 富邦 例行賽 8/26 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-08-26T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 8/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-26T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4337,14 +4337,6 @@
       "start": "2026-08-28T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 8/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-28T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4475,14 +4467,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-06T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -5055,61 +5039,61 @@
     ],
     "netflix": [
       {
-        "title": "The Last House",
+        "title": "最後一棟房子",
         "originalTitle": "The Last House",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
+        "title": "鬼滅之刃 劇場版 無限城篇 I",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Extinction",
+        "title": "滅絕",
         "originalTitle": "Extinction",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "The Suicide Squad",
+        "title": "自殺突擊隊：集結",
         "originalTitle": "The Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Edge of Tomorrow",
+        "title": "明日邊界",
         "originalTitle": "Edge of Tomorrow",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Far from Home",
+        "title": "蜘蛛人：離家日",
         "originalTitle": "Spider-Man: Far from Home",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Doctor-X the Movie",
+        "title": "派遣女醫X 劇場版",
         "originalTitle": "Doctor-X the Movie",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Spider-Man: Homecoming",
+        "title": "蜘蛛人：返校日",
         "originalTitle": "Spider-Man: Homecoming",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Suicide Squad",
+        "title": "自殺突擊隊",
         "originalTitle": "Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Noise",
+        "title": "噪音",
         "originalTitle": "Noise",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5142,7 +5126,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "empty Gemini schedule",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "gemini-fast"
     }
   }
 }
