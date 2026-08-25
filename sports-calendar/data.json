@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:00:55.203Z",
+  "updatedAt": "2026-08-25T02:08:31.988Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4227,22 +4227,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 例行賽 8/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 8/23 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-23T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4299,6 +4283,22 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 8/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-26T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-26T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
@@ -4321,14 +4321,6 @@
       "start": "2026-08-27T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/27 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-27T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4433,14 +4425,6 @@
       "start": "2026-09-02T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/2 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-02T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
