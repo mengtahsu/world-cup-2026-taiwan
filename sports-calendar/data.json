@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:35:01.464Z",
+  "updatedAt": "2026-08-25T16:18:33.659Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4235,22 +4235,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "吃貨請跟上(7)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-08-25T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "先鋒女廚師第39季:療癒美食一手拿",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-08-25T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
@@ -4407,6 +4391,22 @@
       "title": "弗蒙特烘焙教室第2季:預先準備",
       "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-08-31T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(12)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-01T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "先鋒女廚師第39季:免烤甜點",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-01T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
@@ -4837,26 +4837,6 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(7)",
-        "time": "18:00",
-        "date": "2026-08-25",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:療癒美食一手拿",
-        "time": "18:00",
-        "date": "2026-08-25",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
         "title": "吃貨請跟上(8)",
         "time": "18:00",
         "date": "2026-08-26",
@@ -4893,15 +4873,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
+      },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(7)",
+        "title": "吃貨請跟上(10)",
         "time": "18:00",
-        "date": "2026-08-25",
+        "date": "2026-08-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4909,13 +4887,15 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "先鋒女廚師第39季:療癒美食一手拿",
+        "title": "挑戰美食堂第4季:路易斯安納州拉斐特",
         "time": "18:00",
-        "date": "2026-08-25",
+        "date": "2026-08-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "275",
         "channelName": "美食星球頻道",
@@ -5035,65 +5015,85 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(12)",
+        "time": "18:00",
+        "date": "2026-09-01",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "先鋒女廚師第39季:免烤甜點",
+        "time": "18:00",
+        "date": "2026-09-01",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
       {
-        "title": "最後一棟房子",
+        "title": "The Last House",
         "originalTitle": "The Last House",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "鬼滅之刃 劇場版 無限城篇 I",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "originalTitle": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "滅絕",
+        "title": "Extinction",
         "originalTitle": "Extinction",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "自殺突擊隊：集結",
+        "title": "The Suicide Squad",
         "originalTitle": "The Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "明日邊界",
+        "title": "Edge of Tomorrow",
         "originalTitle": "Edge of Tomorrow",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "蜘蛛人：離家日",
+        "title": "Spider-Man: Far from Home",
         "originalTitle": "Spider-Man: Far from Home",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "派遣女醫X 劇場版",
+        "title": "Doctor-X the Movie",
         "originalTitle": "Doctor-X the Movie",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "蜘蛛人：返校日",
+        "title": "Spider-Man: Homecoming",
         "originalTitle": "Spider-Man: Homecoming",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "自殺突擊隊",
+        "title": "Suicide Squad",
         "originalTitle": "Suicide Squad",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "噪音",
+        "title": "Noise",
         "originalTitle": "Noise",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5125,8 +5125,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
-      "netflixTitleMode": "gemini-fast"
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
