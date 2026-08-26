@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:59:43.873Z",
+  "updatedAt": "2026-08-26T02:13:48.869Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4299,6 +4299,14 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 富邦 例行賽 8/27 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-27T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 亞特蘭大勇士",
       "subtitle": "Truist Park",
@@ -4323,20 +4331,20 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 8/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-28T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
       "start": "2026-08-28T22:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 味全 例行賽 8/29 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-08-29T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4361,14 +4369,6 @@
       "start": "2026-08-29T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 8/30 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-30T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4451,6 +4451,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-04T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4466,6 +4474,22 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-05T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-05T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
