@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:50:50.003Z",
+  "updatedAt": "2026-08-30T12:14:43.443Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4300,11 +4300,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(426)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "燒烤對決第5季:烤全豬",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-08-30T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4316,11 +4316,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(11)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "弗蒙特烘焙教室第2季:預先準備",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-08-31T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4332,11 +4332,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(12)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "先鋒女廚師第39季:免烤甜點",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-09-01T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4355,6 +4355,14 @@
       "channelStatus": "愛爾達體育 1"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 9/1 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-01T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4364,11 +4372,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(1)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "美味城大亂鬥第1季:比賽日",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-09-02T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4377,14 +4385,6 @@
       "start": "2026-09-02T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/2 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-02T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4396,11 +4396,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(2)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "搶救餐廳總動員第13季:突襲啜飲餐館",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-09-03T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4420,11 +4420,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(3)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "餐館、免下車餐廳和小酒館第41季:新鮮有勁",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-09-04T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4433,6 +4433,14 @@
       "start": "2026-09-04T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-04T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4452,12 +4460,12 @@
       "timeTbd": false
     },
     {
-      "sport": "MOD綜藝",
-      "title": "進擊的台灣(481)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-05T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/5 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-05T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4466,6 +4474,14 @@
       "start": "2026-09-05T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "進擊的台灣(481)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-05T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4517,6 +4533,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 味全 例行賽 9/9 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-09T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4531,14 +4555,6 @@
       "start": "2026-09-11T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 味全 例行賽 9/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-11T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4564,14 +4580,6 @@
       "start": "2026-09-12T16:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 味全 例行賽 9/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-12T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4655,12 +4663,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 統一 例行賽 9/20 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-20T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-20T20:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 9/22(原8/25延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-22T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -4696,6 +4720,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 9/25 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-25T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
@@ -4721,12 +4753,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 9/27 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-27T15:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-27T19:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 9/28 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-28T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "F1",
@@ -4899,9 +4947,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(426)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:烤全豬",
         "time": "18:00",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
@@ -4919,9 +4967,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(11)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第2季:預先準備",
         "time": "18:00",
         "date": "2026-08-31",
         "source": "中華電信 MOD 7 日節目表",
@@ -4939,9 +4987,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(12)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "先鋒女廚師第39季:免烤甜點",
         "time": "18:00",
         "date": "2026-09-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -4961,9 +5009,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(426)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:烤全豬",
         "time": "18:00",
         "date": "2026-08-30",
         "source": "中華電信 MOD 7 日節目表",
@@ -4981,9 +5029,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(11)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第2季:預先準備",
         "time": "18:00",
         "date": "2026-08-31",
         "source": "中華電信 MOD 7 日節目表",
@@ -5001,9 +5049,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(12)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "先鋒女廚師第39季:免烤甜點",
         "time": "18:00",
         "date": "2026-09-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -5021,9 +5069,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(1)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味城大亂鬥第1季:比賽日",
         "time": "18:00",
         "date": "2026-09-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -5041,9 +5089,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(2)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "搶救餐廳總動員第13季:突襲啜飲餐館",
         "time": "18:00",
         "date": "2026-09-03",
         "source": "中華電信 MOD 7 日節目表",
@@ -5061,9 +5109,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(3)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "餐館、免下車餐廳和小酒館第41季:新鮮有勁",
         "time": "18:00",
         "date": "2026-09-04",
         "source": "中華電信 MOD 7 日節目表",
@@ -5081,9 +5129,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(481)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(131)",
         "time": "18:00",
         "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
@@ -5091,9 +5139,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(131)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(481)",
         "time": "18:00",
         "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
