@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:06:06.278Z",
+  "updatedAt": "2026-09-01T00:48:19.620Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4275,14 +4275,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 8/30 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-08-30T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 底特律老虎",
       "subtitle": "Comerica Park",
@@ -4299,12 +4291,12 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(127)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-01T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 9/1 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-01T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "中職",
@@ -4315,12 +4307,12 @@
       "channelStatus": "愛爾達體育 1"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/1 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-01T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
+      "sport": "MOD綜藝",
+      "title": "多諾的愛爾蘭巡禮S1(1)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:35",
+      "start": "2026-09-01T18:35:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -4332,11 +4324,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(128)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "吃貨請跟上(1)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-02T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "中職",
@@ -4345,6 +4337,14 @@
       "start": "2026-09-02T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 9/2 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-02T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4372,11 +4372,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(129)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-03T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "多諾的愛爾蘭巡禮S1(3)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-09-03T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -4388,11 +4388,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(130)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "吃貨請跟上(3)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-04T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4420,20 +4420,12 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/5 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-05T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(131)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-05T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-09-05T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4462,11 +4454,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(132)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-06T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "傑米奧利佛的四季美食S1(1)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
+      "start": "2026-09-06T18:10:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4494,11 +4486,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(133)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-07T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "多諾的愛爾蘭巡禮S1(5)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-09-07T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -4523,14 +4515,6 @@
       "start": "2026-09-10T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-11T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4567,6 +4551,14 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/13 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-13T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
@@ -4581,14 +4573,6 @@
       "start": "2026-09-14T22:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 9/15(原8/22延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-15T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -4687,6 +4671,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 9/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-26T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -4885,9 +4877,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(127)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(12)",
         "time": "18:00",
         "date": "2026-09-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -4905,31 +4897,31 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(12)",
-        "time": "18:00",
-        "date": "2026-09-01",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "多諾的愛爾蘭巡禮S1(4)",
-        "time": "18:25",
-        "date": "2026-09-04",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
         "title": "傑米奧利佛的四季美食S1(1)",
         "time": "18:10",
         "date": "2026-09-06",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
+        "time": "18:50",
+        "date": "2026-09-05",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾的愛爾蘭巡禮S1(1)",
+        "time": "18:35",
+        "date": "2026-09-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4947,19 +4939,19 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(127)",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾的愛爾蘭巡禮S1(1)",
+        "time": "18:35",
         "date": "2026-09-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(128)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(1)",
         "time": "18:00",
         "date": "2026-09-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -4987,19 +4979,19 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(129)",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾的愛爾蘭巡禮S1(3)",
+        "time": "18:30",
         "date": "2026-09-03",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(130)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(3)",
         "time": "18:00",
         "date": "2026-09-04",
         "source": "中華電信 MOD 7 日節目表",
@@ -5017,10 +5009,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(131)",
-        "time": "18:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
+        "time": "18:50",
         "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5037,10 +5029,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(132)",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米奧利佛的四季美食S1(1)",
+        "time": "18:10",
         "date": "2026-09-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5067,10 +5059,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(133)",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "多諾的愛爾蘭巡禮S1(5)",
+        "time": "18:30",
         "date": "2026-09-07",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5163,8 +5155,8 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 2,
+      "modApi": "interactions",
+      "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
