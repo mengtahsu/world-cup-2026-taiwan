@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:51:16.266Z",
+  "updatedAt": "2026-09-01T23:35:03.731Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4301,18 +4301,10 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(1)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-02T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(128)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-02T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "中職",
@@ -4331,6 +4323,14 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "柳先生的美食遊學團(10)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:35",
+      "start": "2026-09-02T18:35:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
       "sport": "道奇",
       "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4341,7 +4341,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(2)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-03T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4349,7 +4349,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(129)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-03T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4365,7 +4365,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(3)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-04T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4373,26 +4373,10 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(130)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-04T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-04T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-04T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4412,28 +4396,20 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/5 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-05T17:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "進擊的台灣(481)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-05T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(131)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-05T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食打卡趣(240)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-09-05T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4454,19 +4430,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(482)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-06T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(132)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-06T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食打卡趣(241)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-09-06T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4479,7 +4455,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(4)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-07T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4487,7 +4463,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(133)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-07T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4503,7 +4479,7 @@
     {
       "sport": "MOD綜藝",
       "title": "吃貨請跟上(5)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-08T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
@@ -4511,7 +4487,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(134)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-08T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4867,6 +4843,16 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "柳先生的美食遊學團(10)",
+        "time": "18:35",
+        "date": "2026-09-02",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "吃貨請跟上(1)",
@@ -4889,6 +4875,16 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
+        "title": "美食打卡趣(240)",
+        "time": "19:00",
+        "date": "2026-09-05",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
         "title": "吃貨請跟上(2)",
         "time": "18:00",
         "date": "2026-09-03",
@@ -4899,29 +4895,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(129)",
+        "title": "花甲少年趣旅行(131)",
         "time": "18:00",
-        "date": "2026-09-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(3)",
-        "time": "18:00",
-        "date": "2026-09-04",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(130)",
-        "time": "18:00",
-        "date": "2026-09-04",
+        "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4939,10 +4915,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(128)",
-        "time": "18:00",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "柳先生的美食遊學團(10)",
+        "time": "18:35",
         "date": "2026-09-02",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4989,16 +4965,6 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(481)",
-        "time": "18:00",
-        "date": "2026-09-05",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(131)",
@@ -5011,9 +4977,9 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "進擊的台灣(482)",
-        "time": "18:00",
-        "date": "2026-09-06",
+        "title": "美食打卡趣(240)",
+        "time": "19:00",
+        "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5023,6 +4989,16 @@
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(132)",
         "time": "18:00",
+        "date": "2026-09-06",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(241)",
+        "time": "19:00",
         "date": "2026-09-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5077,20 +5053,38 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
+        "title": "Grand Theft Auto VI: An Extended Look",
+        "originalTitle": "Grand Theft Auto VI: An Extended Look",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
         "title": "A Girl out of the Country",
         "originalTitle": "A Girl out of the Country",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Fear Below",
-        "originalTitle": "Fear Below",
+        "title": "The Whisper Man",
+        "originalTitle": "The Whisper Man",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Along with the Gods: The Two Worlds",
-        "originalTitle": "Along with the Gods: The Two Worlds",
+        "title": "Mickey 17",
+        "originalTitle": "Mickey 17",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Facing El Chapo",
+        "originalTitle": "Facing El Chapo",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Anora",
+        "originalTitle": "Anora",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5101,32 +5095,14 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "The Last House",
-        "originalTitle": "The Last House",
+        "title": "Fear Below",
+        "originalTitle": "Fear Below",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Noise",
-        "originalTitle": "Noise",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "The Solitary Gourmet",
-        "originalTitle": "The Solitary Gourmet",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Doctor-X the Movie",
-        "originalTitle": "Doctor-X the Movie",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "The Suicide Squad",
-        "originalTitle": "The Suicide Squad",
+        "title": "2012",
+        "originalTitle": "2012",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
@@ -5154,10 +5130,12 @@
       }
     ],
     "meta": {
-      "modSelector": "rules-fallback",
+      "modSelector": "gemini",
+      "modApi": "interactions",
+      "modApiAttempt": 1,
+      "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
