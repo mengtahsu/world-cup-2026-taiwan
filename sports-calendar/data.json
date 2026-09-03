@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:43:47.992Z",
+  "updatedAt": "2026-09-03T16:41:23.705Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4307,22 +4307,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "吃貨請跟上(2)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-03T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(129)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-03T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
       "sport": "道奇",
       "title": "聖路易紅雀 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4355,6 +4339,14 @@
       "channelStatus": "愛爾達體育 1"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-04T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "道奇",
       "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4381,11 +4373,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-09-05T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "美食打卡趣(240)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-09-05T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4499,6 +4491,22 @@
       "start": "2026-09-10T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(7)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-10T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(136)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-09-10T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "道奇",
@@ -4835,11 +4843,21 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(3)",
+        "time": "18:00",
+        "date": "2026-09-04",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(129)",
+        "title": "花甲少年趣旅行(130)",
         "time": "18:00",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4847,39 +4865,9 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(2)",
-        "time": "18:00",
-        "date": "2026-09-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
-        "time": "18:50",
-        "date": "2026-09-05",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(241)",
+        "title": "美食打卡趣(240)",
         "time": "19:00",
-        "date": "2026-09-06",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "投資餐廳大豪賭第1季:什麼爛食譜",
-        "time": "18:50",
-        "date": "2026-09-08",
+        "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4893,29 +4881,29 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "玩具獵人第2季:加勒比海玩具掠奪戰",
+        "time": "18:05",
+        "date": "2026-09-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "雙姝出遊去第1季:拉斯維加斯",
+        "time": "18:50",
+        "date": "2026-09-10",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "modSchedule": [
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(2)",
-        "time": "18:00",
-        "date": "2026-09-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(129)",
-        "time": "18:00",
-        "date": "2026-09-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
@@ -4947,10 +4935,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:挑戰評審:快速通關",
-        "time": "18:50",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(240)",
+        "time": "19:00",
         "date": "2026-09-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5032,6 +5020,26 @@
         "title": "花甲少年趣旅行(135)",
         "time": "18:00",
         "date": "2026-09-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(7)",
+        "time": "18:00",
+        "date": "2026-09-10",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(136)",
+        "time": "18:00",
+        "date": "2026-09-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
