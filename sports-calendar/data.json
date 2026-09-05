@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:21:56.528Z",
+  "updatedAt": "2026-09-05T04:56:36.186Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4390,19 +4390,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/6 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-06T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-06T16:00:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/6 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-06T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4550,14 +4550,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 味全 例行賽 9/12 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-12T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
@@ -4639,6 +4631,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 9/22(原8/25延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-22T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "道奇",
       "title": "聖地牙哥教士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4687,14 +4687,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 台鋼 例行賽 9/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-26T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -5173,8 +5165,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
 }
