@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:56:36.186Z",
+  "updatedAt": "2026-09-05T10:56:54.561Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4308,19 +4308,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-04T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 台鋼 VS 統一 例行賽 9/4 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-04T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/4 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-04T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4390,19 +4390,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-06T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 富邦 例行賽 9/6 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-06T16:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-06T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4583,6 +4583,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 9/15(原8/22延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-15T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
@@ -4607,6 +4615,14 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 味全 例行賽 9/17 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-17T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
+    },
+    {
       "sport": "道奇",
       "title": "舊金山巨人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4629,14 +4645,6 @@
       "start": "2026-09-20T20:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 統一 例行賽 9/22(原8/25延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-22T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -5165,8 +5173,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
+      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
