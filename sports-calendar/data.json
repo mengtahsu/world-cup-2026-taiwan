@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:21:58.235Z",
+  "updatedAt": "2026-09-06T15:48:34.221Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4358,19 +4358,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-06T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 富邦 例行賽 9/6 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-06T16:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-06T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4382,11 +4382,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "燒烤對決第5季:獨門訣竅",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-09-06T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "美食打卡趣(241)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-09-06T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4443,14 +4443,6 @@
       "start": "2026-09-08T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 味全 例行賽 9/8 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-08T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4540,6 +4532,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 味全 例行賽 9/12 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-12T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4689,20 +4689,20 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 富邦 例行賽 9/26 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-26T17:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-26T20:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 9/27 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-27T15:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4905,29 +4905,19 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(4)",
-        "time": "18:00",
-        "date": "2026-09-07",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:獨門訣竅",
-        "time": "18:00",
+        "title": "美食打卡趣(241)",
+        "time": "19:00",
         "date": "2026-09-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的超市料理大戰第37季:棒球場美食對決",
-        "time": "18:50",
-        "date": "2026-09-12",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(4)",
+        "time": "18:00",
+        "date": "2026-09-07",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4938,6 +4928,16 @@
         "title": "花甲少年趣旅行(135)",
         "time": "18:00",
         "date": "2026-09-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的超市料理大戰第37季:棒球場美食對決",
+        "time": "18:50",
+        "date": "2026-09-12",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4955,10 +4955,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:獨門訣竅",
-        "time": "18:00",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(241)",
+        "time": "19:00",
         "date": "2026-09-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5171,8 +5171,8 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 2,
+      "modApi": "interactions",
+      "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
