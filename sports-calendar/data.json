@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:20:02.213Z",
+  "updatedAt": "2026-09-06T05:06:50.564Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4307,22 +4307,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 富邦 例行賽 9/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-04T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/4 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-04T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4374,19 +4358,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-06T16:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 富邦 例行賽 9/6 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-06T16:00:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 統一 例行賽 9/6 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-06T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4422,11 +4406,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "假期最掃興第2季:第11集",
-      "subtitle": "年輕熱門精選・Travel Channel・18:00",
+      "title": "花甲少年趣旅行(133)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-07T18:00:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "中職",
@@ -4459,14 +4443,6 @@
       "start": "2026-09-08T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 味全 例行賽 9/8 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-08T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4518,14 +4494,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "吃貨請跟上(8)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-11T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "偶像實習生 (1)",
       "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-09-11T18:00:00+08:00",
@@ -4533,12 +4501,12 @@
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-11T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(8)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-11T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4605,14 +4573,6 @@
       "start": "2026-09-14T22:40:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 統一 例行賽 9/15 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-15T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4694,14 +4654,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/25 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-25T16:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
@@ -4937,9 +4889,9 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "假期最掃興第2季:第11集",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(133)",
         "time": "18:00",
         "date": "2026-09-07",
         "source": "中華電信 MOD 7 日節目表",
@@ -4999,9 +4951,9 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "假期最掃興第2季:第11集",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(133)",
         "time": "18:00",
         "date": "2026-09-07",
         "source": "中華電信 MOD 7 日節目表",
@@ -5069,9 +5021,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(8)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (1)",
         "time": "18:00",
         "date": "2026-09-11",
         "source": "中華電信 MOD 7 日節目表",
@@ -5079,9 +5031,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (1)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(8)",
         "time": "18:00",
         "date": "2026-09-11",
         "source": "中華電信 MOD 7 日節目表",
