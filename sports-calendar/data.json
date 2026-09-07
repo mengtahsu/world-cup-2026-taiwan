@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:01:50.249Z",
+  "updatedAt": "2026-09-07T19:24:50.455Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4365,22 +4365,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "吃貨請跟上(4)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-07T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "弗蒙特烘焙教室第2季:美味楓糖漿",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-09-07T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
       "sport": "中職",
       "title": "中華職棒 中信 VS 台鋼 例行賽 9/7(原9/2補賽) LIVE",
       "subtitle": "愛爾達中華職棒轉播",
@@ -4445,14 +4429,6 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 味全 例行賽 9/9 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-09T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "道奇",
       "title": "辛辛那提紅人 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
@@ -4491,14 +4467,6 @@
       "start": "2026-09-11T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-11T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4575,12 +4543,20 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 9/14 (原8/22延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
+      "sport": "MOD綜藝",
+      "title": "吃貨請跟上(9)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-14T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "弗蒙特烘焙教室第2季:花園畢業派對",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-14T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4877,26 +4853,6 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(4)",
-        "time": "18:00",
-        "date": "2026-09-07",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第2季:美味楓糖漿",
-        "time": "18:00",
-        "date": "2026-09-07",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
         "title": "吃貨請跟上(5)",
         "time": "18:00",
         "date": "2026-09-08",
@@ -4933,15 +4889,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
+      },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(4)",
+        "title": "吃貨請跟上(7)",
         "time": "18:00",
-        "date": "2026-09-07",
+        "date": "2026-09-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4949,13 +4903,15 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "弗蒙特烘焙教室第2季:美味楓糖漿",
+        "title": "搶救餐廳總動員第13季:驚喜上門",
         "time": "18:00",
-        "date": "2026-09-07",
+        "date": "2026-09-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "275",
         "channelName": "美食星球頻道",
@@ -5075,6 +5031,26 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(9)",
+        "time": "18:00",
+        "date": "2026-09-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第2季:花園畢業派對",
+        "time": "18:00",
+        "date": "2026-09-14",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
@@ -5165,7 +5141,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
