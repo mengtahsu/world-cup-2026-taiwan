@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:15:55.978Z",
+  "updatedAt": "2026-09-12T15:50:27.282Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4374,19 +4374,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 統一 VS 味全 例行賽 9/11 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-11T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 富邦 VS 台鋼 例行賽 9/11 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-11T18:30:00+08:00",
       "channel": "200",
       "channelStatus": "愛爾達體育 1"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 味全 例行賽 9/11 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-11T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4456,19 +4456,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/13 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-13T16:00:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 統一 VS 味全 例行賽 9/13 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-13T16:00:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/13 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-13T16:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4509,6 +4509,14 @@
       "start": "2026-09-14T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 9/14 (原8/22延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-14T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "道奇",
@@ -4605,14 +4613,6 @@
       "start": "2026-09-18T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 台鋼 VS 味全 例行賽 9/18 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-18T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "道奇",
