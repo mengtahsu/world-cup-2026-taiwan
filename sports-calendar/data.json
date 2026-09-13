@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:08:00.007Z",
+  "updatedAt": "2026-09-13T23:31:50.703Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4487,6 +4487,14 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 9/15(原8/22延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-15T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
       "title": "投資餐廳大豪賭第1季:狀況百出",
       "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
@@ -4565,6 +4573,14 @@
       "start": "2026-09-18T18:25:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-18T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -5148,11 +5164,11 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 1,
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
