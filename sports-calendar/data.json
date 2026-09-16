@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T21:46:01.190Z",
+  "updatedAt": "2026-09-16T05:17:54.688Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4415,14 +4415,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 9/14 (原8/22延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-14T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 辛辛那提紅人",
       "subtitle": "Great American Ball Park",
@@ -4464,19 +4456,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味城大亂鬥第1季:海鮮日",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-09-16T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "吃貨請跟上(11)",
       "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-16T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美味城大亂鬥第1季:海鮮日",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-16T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "中職",
@@ -4504,11 +4496,27 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "鮑伊娃的亞洲廚房S1(1)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "title": "吃貨請跟上(12)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-17T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/17 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-17T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 台鋼 VS 味全 例行賽 9/17 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-17T18:30:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
@@ -4533,6 +4541,14 @@
       "start": "2026-09-18T18:25:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 富邦 例行賽 9/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-18T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "道奇",
@@ -4592,14 +4608,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "頂級游泳水潭祕境第2季:巴西小銀洞",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:29",
-      "start": "2026-09-21T18:29:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "鮑伊娃的亞洲廚房S1(3)",
       "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
       "start": "2026-09-21T18:30:00+08:00",
@@ -4608,11 +4616,27 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "便宜吃好料第1季:波爾德",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-09-21T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "明星主廚的廚房派對第33季:觀眾許願料理",
       "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-09-22T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 9/22(原8/25延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-22T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MOD綜藝",
@@ -4871,19 +4895,9 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "美食打卡趣(251)",
-        "time": "19:00",
-        "date": "2026-09-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(1)",
-        "time": "18:30",
-        "date": "2026-09-17",
+        "title": "吃貨請跟上(11)",
+        "time": "18:00",
+        "date": "2026-09-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4901,6 +4915,16 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
+        "title": "巴比家吃遍紐約第1季:塔可餅",
+        "time": "18:00",
+        "date": "2026-09-19",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
         "title": "燒烤對決第5季:市集嘉年華",
         "time": "18:00",
         "date": "2026-09-20",
@@ -4909,17 +4933,27 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "頂級游泳水潭祕境第2季:巴西小銀洞",
-        "time": "18:29",
-        "date": "2026-09-21",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(251)",
+        "time": "19:00",
+        "date": "2026-09-20",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       }
     ],
     "modSchedule": [
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "吃貨請跟上(11)",
+        "time": "18:00",
+        "date": "2026-09-16",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
@@ -4933,18 +4967,8 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "吃貨請跟上(11)",
+        "title": "吃貨請跟上(12)",
         "time": "18:00",
-        "date": "2026-09-16",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(1)",
-        "time": "18:30",
         "date": "2026-09-17",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5021,20 +5045,20 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "頂級游泳水潭祕境第2季:巴西小銀洞",
-        "time": "18:29",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "鮑伊娃的亞洲廚房S1(3)",
+        "time": "18:30",
         "date": "2026-09-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(3)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "便宜吃好料第1季:波爾德",
+        "time": "18:50",
         "date": "2026-09-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5147,7 +5171,7 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
+      "modApi": "interactions",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
