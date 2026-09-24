@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:13:08.278Z",
+  "updatedAt": "2026-09-24T17:33:43.965Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4487,14 +4487,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(105)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-09-24T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
       "sport": "中職",
       "title": "中華職棒 富邦 VS 台鋼 例行賽 9/24 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
@@ -4509,14 +4501,6 @@
       "start": "2026-09-24T18:30:00+08:00",
       "channel": "202",
       "channelStatus": "愛爾達體育 3"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "鮑伊娃的亞洲廚房S1(6)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-09-24T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "道奇",
@@ -4536,20 +4520,28 @@
       "timeTbd": false
     },
     {
-      "sport": "MOD綜藝",
-      "title": "偶像實習生 (5)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-09-25T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
+      "sport": "中職",
+      "title": "中華職棒 富邦 VS 台鋼 例行賽 9/25 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-25T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
-      "title": "種豆得豆：牧場篇(5)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
-      "start": "2026-09-25T18:10:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "智富食代(106)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-25T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "偶像實習生 (5)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-09-25T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "中職",
@@ -4577,20 +4569,36 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 台鋼 例行賽 9/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-26T16:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 9/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-26T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
       "title": "燦盛這料理(15)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "subtitle": "年輕熱門精選・tvN・18:00",
       "start": "2026-09-26T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(107)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(496)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-26T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "道奇",
@@ -4602,19 +4610,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(108)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(498)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-27T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "美食打卡趣(256)",
-      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
-      "start": "2026-09-27T19:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "燒烤對決第5季:三道關卡",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-27T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "道奇",
@@ -4625,60 +4633,76 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 9/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-28T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(109)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(107)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-28T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "Sam Kim名廚煮意(16)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:20",
-      "start": "2026-09-28T18:20:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "弗蒙特烘焙教室第2季:營火烘焙",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-28T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(110)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(108)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-09-29T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "奈潔拉義式風味S1(3)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・19:00",
-      "start": "2026-09-29T19:00:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
+      "title": "明星主廚的廚房派對第33季:足球賽盛宴",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-09-29T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(109)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-30T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(111)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-09-30T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "第六感：B-side(2)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
-      "start": "2026-09-30T18:30:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "智富食代(110)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-10-01T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "搶救餐廳總動員第14季:冒煙牛排屋",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-10-01T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 10/2(原8/23延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-02T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "F1",
@@ -4851,9 +4875,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (5)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(106)",
         "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4861,10 +4885,10 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "種豆得豆：牧場篇(5)",
-        "time": "18:10",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (5)",
+        "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4881,31 +4905,31 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "Sam Kim名廚煮意(16)",
-        "time": "18:20",
-        "date": "2026-09-28",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(2)",
-        "time": "18:30",
-        "date": "2026-09-30",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(105)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(496)",
         "time": "18:00",
-        "date": "2026-09-24",
+        "date": "2026-09-26",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(498)",
+        "time": "18:00",
+        "date": "2026-09-27",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:三道關卡",
+        "time": "18:00",
+        "date": "2026-09-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4913,21 +4937,11 @@
     ],
     "modSchedule": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(105)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(106)",
         "time": "18:00",
-        "date": "2026-09-24",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "鮑伊娃的亞洲廚房S1(6)",
-        "time": "18:30",
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4945,16 +4959,6 @@
       {
         "channel": "376",
         "channelName": "tvN",
-        "title": "種豆得豆：牧場篇(5)",
-        "time": "18:10",
-        "date": "2026-09-25",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
         "title": "燦盛這料理(15)",
         "time": "18:00",
         "date": "2026-09-26",
@@ -4963,9 +4967,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(107)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(496)",
         "time": "18:00",
         "date": "2026-09-26",
         "source": "中華電信 MOD 7 日節目表",
@@ -4973,9 +4977,19 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(108)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(498)",
+        "time": "18:00",
+        "date": "2026-09-27",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "燒烤對決第5季:三道關卡",
         "time": "18:00",
         "date": "2026-09-27",
         "source": "中華電信 MOD 7 日節目表",
@@ -4985,17 +4999,7 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "美食打卡趣(256)",
-        "time": "19:00",
-        "date": "2026-09-27",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(109)",
+        "title": "智富食代(107)",
         "time": "18:00",
         "date": "2026-09-28",
         "source": "中華電信 MOD 7 日節目表",
@@ -5003,19 +5007,19 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "Sam Kim名廚煮意(16)",
-        "time": "18:20",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "弗蒙特烘焙教室第2季:營火烘焙",
+        "time": "18:00",
         "date": "2026-09-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(110)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(108)",
         "time": "18:00",
         "date": "2026-09-29",
         "source": "中華電信 MOD 7 日節目表",
@@ -5023,11 +5027,21 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "奈潔拉義式風味S1(3)",
-        "time": "19:00",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "明星主廚的廚房派對第33季:足球賽盛宴",
+        "time": "18:00",
         "date": "2026-09-29",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(109)",
+        "time": "18:00",
+        "date": "2026-09-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5043,11 +5057,21 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(2)",
-        "time": "18:30",
-        "date": "2026-09-30",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(110)",
+        "time": "18:00",
+        "date": "2026-10-01",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "搶救餐廳總動員第14季:冒煙牛排屋",
+        "time": "18:00",
+        "date": "2026-10-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5138,13 +5162,11 @@
       }
     ],
     "meta": {
-      "modSelector": "gemini",
-      "modApi": "interactions",
-      "modApiAttempt": 1,
-      "modCandidateCount": 56,
+      "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
     }
   }
 }
