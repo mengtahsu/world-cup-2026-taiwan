@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:25:14.706Z",
+  "updatedAt": "2026-09-25T12:17:32.140Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4529,19 +4529,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(106)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-09-25T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "偶像實習生 (5)",
       "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-09-25T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(106)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-09-25T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "中職",
@@ -4577,6 +4577,14 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 9/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-26T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
       "title": "燦盛這料理(15)",
       "subtitle": "年輕熱門精選・tvN・18:00",
@@ -4602,7 +4610,7 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 味全 例行賽 9/26(副聲道現場原音) D-LIVE",
+      "title": "中華職棒 樂天 VS 味全 例行賽 9/26 D-LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-26T21:00:00+08:00",
       "channel": "201",
@@ -4745,14 +4753,6 @@
       "start": "2026-10-04T10:33:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 10/4(原8/8延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-04T17:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MLB季後賽",
@@ -4931,9 +4931,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(106)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (5)",
         "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4941,9 +4941,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (5)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(106)",
         "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -4993,9 +4993,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(106)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (5)",
         "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -5003,9 +5003,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (5)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(106)",
         "time": "18:00",
         "date": "2026-09-25",
         "source": "中華電信 MOD 7 日節目表",
@@ -5221,8 +5221,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 503 {\"error\":{\"message\":\"gemini-3.5-flash is currently experiencing high demand, spikes ",
-      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
