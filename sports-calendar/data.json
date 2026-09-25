@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:32:56.783Z",
+  "updatedAt": "2026-09-25T21:51:02.207Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4561,6 +4561,14 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 9/26 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-26T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
       "title": "燦盛這料理(15)",
       "subtitle": "年輕熱門精選・tvN・18:00",
@@ -4617,14 +4625,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 9/28 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-28T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "智富食代(107)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
@@ -4655,14 +4655,6 @@
       "start": "2026-09-29T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-30T17:00:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MOD綜藝",
@@ -4745,6 +4737,14 @@
       "start": "2026-10-04T10:33:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 10/4(原8/8延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-04T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MLB季後賽",
@@ -5213,8 +5213,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:429 { \"error\": { \"code\": 429, \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.googl"
+      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
