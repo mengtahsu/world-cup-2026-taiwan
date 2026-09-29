@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:08:53.006Z",
+  "updatedAt": "2026-09-29T18:16:21.336Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4546,27 +4546,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "明星主廚的廚房派對第33季:足球賽盛宴",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-09-29T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "大廚斷頭台荒島篇第1季:歡迎登島",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-09-29T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-30T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
+      "title": "花甲少年趣旅行(111)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-09-30T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "中職",
@@ -4575,6 +4559,14 @@
       "start": "2026-09-30T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-30T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "MOD綜藝",
@@ -4586,19 +4578,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味城大亂鬥第1季:雞蛋日",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-09-30T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "搶救餐廳總動員第14季:冒煙牛排屋",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(112)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-01T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4618,19 +4602,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "餐館、免下車餐廳和小酒館第41季:美國東南部必吃美食",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(113)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-02T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 味全 VS 富邦 例行賽 10/2(原8/21延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-02T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "F1",
@@ -4650,12 +4626,20 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 10/3(原7/11延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-03T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
       "sport": "MOD綜藝",
-      "title": "巴比家吃遍紐約第1季:漢堡",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(114)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-03T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4684,11 +4668,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "燒烤對決第5季:喜事臨門",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(115)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-04T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4700,11 +4684,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "海灘覓屋記第1季:定居密拉馬海灘",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:00",
+      "title": "花甲少年趣旅行(116)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-05T18:00:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4721,6 +4705,22 @@
       "start": "2026-10-06T07:33:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(117)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-06T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "凱莎的召喚第1季:死亡之歌",
+      "subtitle": "Gemini 年輕熱門精選・Travel Channel・19:29",
+      "start": "2026-10-06T19:29:00+08:00",
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "MLB季後賽",
@@ -4911,6 +4911,16 @@
         "score": 16
       },
       {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(111)",
+        "time": "18:00",
+        "date": "2026-09-30",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "美食打卡趣(261)",
@@ -4921,11 +4931,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:歡迎登島",
-        "time": "18:50",
-        "date": "2026-09-29",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "凱莎的召喚第1季:死亡之歌",
+        "time": "19:29",
+        "date": "2026-10-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4933,19 +4943,9 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "美味城大亂鬥第1季:雞蛋日",
+        "title": "戴門的外帶美食第1季:洛杉磯",
         "time": "18:50",
-        "date": "2026-09-30",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:喜事臨門",
-        "time": "18:00",
-        "date": "2026-10-04",
+        "date": "2026-10-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4953,21 +4953,11 @@
     ],
     "modSchedule": [
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "明星主廚的廚房派對第33季:足球賽盛宴",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(111)",
         "time": "18:00",
-        "date": "2026-09-29",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:歡迎登島",
-        "time": "18:50",
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4983,19 +4973,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味城大亂鬥第1季:雞蛋日",
-        "time": "18:50",
-        "date": "2026-09-30",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "搶救餐廳總動員第14季:冒煙牛排屋",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(112)",
         "time": "18:00",
         "date": "2026-10-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -5023,9 +5003,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "餐館、免下車餐廳和小酒館第41季:美國東南部必吃美食",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(113)",
         "time": "18:00",
         "date": "2026-10-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -5033,9 +5013,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "巴比家吃遍紐約第1季:漢堡",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(114)",
         "time": "18:00",
         "date": "2026-10-03",
         "source": "中華電信 MOD 7 日節目表",
@@ -5053,9 +5033,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "燒烤對決第5季:喜事臨門",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(115)",
         "time": "18:00",
         "date": "2026-10-04",
         "source": "中華電信 MOD 7 日節目表",
@@ -5073,9 +5053,9 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "海灘覓屋記第1季:定居密拉馬海灘",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(116)",
         "time": "18:00",
         "date": "2026-10-05",
         "source": "中華電信 MOD 7 日節目表",
@@ -5088,6 +5068,26 @@
         "title": "便宜吃好料第1季:查理斯頓",
         "time": "18:50",
         "date": "2026-10-05",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(117)",
+        "time": "18:00",
+        "date": "2026-10-06",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "凱莎的召喚第1季:死亡之歌",
+        "time": "19:29",
+        "date": "2026-10-06",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5180,7 +5180,7 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "interactions",
-      "modApiAttempt": 1,
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
