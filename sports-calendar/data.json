@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:19:05.791Z",
+  "updatedAt": "2026-10-01T00:51:04.796Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4538,14 +4538,6 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-30T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 中信 VS 台鋼 例行賽 9/30(原9/1延賽) LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-09-30T18:30:00+08:00",
@@ -4553,17 +4545,25 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-09-30T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(112)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(110)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-01T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "搶救餐廳總動員第14季:冒煙牛排屋",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-10-01T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
@@ -4578,19 +4578,35 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(113)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(111)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-02T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "餐館、免下車餐廳和小酒館第41季:美國東南部必吃美食",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "偶像實習生 (7)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-10-02T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 10/2(原8/23延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-02T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 10/2(原8/21延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-02T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "F1",
@@ -4610,20 +4626,28 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(114)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-10-03T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 富邦 例行賽 10/3(原7/11延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-03T17:00:00+08:00",
+      "channel": "200",
+      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "MOD綜藝",
-      "title": "第六感：B-side(2)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:20",
-      "start": "2026-10-03T18:20:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "進擊的台灣(502)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-10-03T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "巴比家吃遍紐約第1季:漢堡",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-10-03T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "F1",
@@ -4635,17 +4659,25 @@
       "timeTbd": false
     },
     {
+      "sport": "中職",
+      "title": "中華職棒 統一 VS 富邦 例行賽 10/4(原8/8延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-04T17:00:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
+    },
+    {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(115)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "進擊的台灣(503)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-04T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "燒烤對決第5季:喜事臨門",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-10-04T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
@@ -4660,16 +4692,16 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(116)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(112)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-05T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "此生最美味全明星第1季:驚奇肉食",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-10-05T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
@@ -4684,19 +4716,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(117)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(113)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-06T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "大廚斷頭台荒島篇第1季:不拚就回家",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-10-06T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(117)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-06T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MLB季後賽",
@@ -4708,19 +4740,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(118)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "智富食代(114)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-07T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "行李變變變：四人一箱去旅行(5)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
-      "start": "2026-10-07T18:30:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "title": "萬聖節大對抗第16季:死而復生：全明星",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-10-07T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MLB季後賽",
@@ -4883,41 +4915,11 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(2)",
-        "time": "18:20",
-        "date": "2026-10-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(5)",
-        "time": "18:30",
-        "date": "2026-10-07",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(114)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(110)",
         "time": "18:00",
-        "date": "2026-10-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(118)",
-        "time": "18:00",
-        "date": "2026-10-07",
+        "date": "2026-10-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4933,11 +4935,41 @@
         "score": 16
       },
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(111)",
+        "time": "18:00",
+        "date": "2026-10-02",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (7)",
+        "time": "18:00",
+        "date": "2026-10-02",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(502)",
+        "time": "18:00",
+        "date": "2026-10-03",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:不拚就回家",
-        "time": "18:50",
-        "date": "2026-10-06",
+        "title": "巴比家吃遍紐約第1季:漢堡",
+        "time": "18:00",
+        "date": "2026-10-03",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4945,9 +4977,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(112)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(110)",
         "time": "18:00",
         "date": "2026-10-01",
         "source": "中華電信 MOD 7 日節目表",
@@ -4965,11 +4997,31 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(113)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(111)",
         "time": "18:00",
         "date": "2026-10-02",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (7)",
+        "time": "18:00",
+        "date": "2026-10-02",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(502)",
+        "time": "18:00",
+        "date": "2026-10-03",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4977,17 +5029,7 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "餐館、免下車餐廳和小酒館第41季:美國東南部必吃美食",
-        "time": "18:00",
-        "date": "2026-10-02",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(114)",
+        "title": "巴比家吃遍紐約第1季:漢堡",
         "time": "18:00",
         "date": "2026-10-03",
         "source": "中華電信 MOD 7 日節目表",
@@ -4995,19 +5037,9 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(2)",
-        "time": "18:20",
-        "date": "2026-10-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(115)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(503)",
         "time": "18:00",
         "date": "2026-10-04",
         "source": "中華電信 MOD 7 日節目表",
@@ -5025,9 +5057,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(116)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(112)",
         "time": "18:00",
         "date": "2026-10-05",
         "source": "中華電信 MOD 7 日節目表",
@@ -5045,6 +5077,16 @@
         "score": 16
       },
       {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(113)",
+        "time": "18:00",
+        "date": "2026-10-06",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(117)",
@@ -5055,19 +5097,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:不拚就回家",
-        "time": "18:50",
-        "date": "2026-10-06",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(118)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(114)",
         "time": "18:00",
         "date": "2026-10-07",
         "source": "中華電信 MOD 7 日節目表",
@@ -5075,10 +5107,10 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(5)",
-        "time": "18:30",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "萬聖節大對抗第16季:死而復生：全明星",
+        "time": "18:00",
         "date": "2026-10-07",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5170,12 +5202,10 @@
       }
     ],
     "meta": {
-      "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 2,
-      "modCandidateCount": 56,
+      "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
