@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T22:55:12.941Z",
+  "updatedAt": "2026-10-02T06:14:36.980Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4538,35 +4538,11 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 中信 VS 台鋼 例行賽 9/30(原9/1延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-30T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 統一 VS 富邦 例行賽 9/30(原8/9延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-09-30T18:30:00+08:00",
-      "channel": "202",
-      "channelStatus": "愛爾達體育 3"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 樂天 VS 台鋼 例行賽 10/1(原8/21延賽) LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-10-01T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(111)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-02T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4577,12 +4553,28 @@
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "智富食代(111)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-10-02T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
       "sport": "中職",
       "title": "中華職棒 樂天 VS 台鋼 例行賽 10/2(原8/23延賽) LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-10-02T18:30:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 富邦 例行賽 10/2(原8/21延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-02T18:30:00+08:00",
+      "channel": "202",
+      "channelStatus": "愛爾達體育 3"
     },
     {
       "sport": "F1",
@@ -4592,6 +4584,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 味全 VS 統一 例行賽 10/3(原7/11延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-03T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "中職",
@@ -4619,7 +4619,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "ATL/PHI vs 洛杉磯道奇",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-10-03T20:00:00Z",
       "channel": "200–202",
@@ -4652,7 +4652,7 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "ATL/PHI vs 洛杉磯道奇",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-10-05T00:00:00Z",
       "channel": "200–202",
@@ -4675,14 +4675,6 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
-      "sport": "MLB季後賽",
-      "title": "洛杉磯道奇 vs ATL/PHI",
-      "subtitle": "NL Stadium",
-      "start": "2026-10-06T07:33:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達／依 EPG"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "智富食代(113)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
@@ -4700,9 +4692,9 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "洛杉磯道奇 vs ATL/PHI",
-      "subtitle": "NL Stadium",
-      "start": "2026-10-07T07:33:00Z",
+      "title": "洛杉磯道奇 vs 亞特蘭大勇士",
+      "subtitle": "Truist Park",
+      "start": "2026-10-06T22:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4723,6 +4715,14 @@
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
+      "sport": "MLB季後賽",
+      "title": "洛杉磯道奇 vs 亞特蘭大勇士",
+      "subtitle": "Truist Park",
+      "start": "2026-10-07T22:00:00Z",
+      "channel": "200–202",
+      "channelStatus": "愛爾達／依 EPG"
+    },
+    {
       "sport": "MOD綜藝",
       "title": "智富食代(115)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
@@ -4740,9 +4740,9 @@
     },
     {
       "sport": "MLB季後賽",
-      "title": "ATL/PHI vs 洛杉磯道奇",
+      "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
-      "start": "2026-10-09T10:33:00Z",
+      "start": "2026-10-10T00:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
     },
@@ -4899,9 +4899,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(111)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (7)",
         "time": "18:00",
         "date": "2026-10-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -4909,9 +4909,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (7)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(111)",
         "time": "18:00",
         "date": "2026-10-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -4961,9 +4961,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(111)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "偶像實習生 (7)",
         "time": "18:00",
         "date": "2026-10-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -4971,9 +4971,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "偶像實習生 (7)",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(111)",
         "time": "18:00",
         "date": "2026-10-02",
         "source": "中華電信 MOD 7 日節目表",
@@ -5189,8 +5189,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "empty Gemini schedule",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
