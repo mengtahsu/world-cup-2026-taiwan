@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:26:22.314Z",
+  "updatedAt": "2026-10-03T14:25:52.107Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4538,19 +4538,19 @@
     },
     {
       "sport": "中職",
-      "title": "中華職棒 樂天 VS 台鋼 例行賽 10/2(原8/23延賽) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-02T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
       "title": "中華職棒 味全 VS 富邦 例行賽 10/2(原8/21延賽) LIVE",
       "subtitle": "愛爾達中華職棒轉播",
       "start": "2026-10-02T18:30:00+08:00",
       "channel": "202",
       "channelStatus": "愛爾達體育 3"
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 樂天 VS 台鋼 例行賽 10/2(原8/23延賽) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-02T18:30:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "F1",
@@ -5189,8 +5189,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "modSelectorError": "empty Gemini schedule",
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
