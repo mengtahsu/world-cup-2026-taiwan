@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:17:24.318Z",
+  "updatedAt": "2026-10-05T22:12:49.397Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4580,22 +4580,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(112)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-05T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "此生最美味全明星第1季:驚奇肉食",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-05T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(113)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-06T18:00:00+08:00",
@@ -4731,6 +4715,22 @@
       "start": "2026-10-11T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(117)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-10-12T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "此生最美味全明星第1季:銷魂三明治",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-10-12T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "F1",
@@ -4869,26 +4869,6 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "智富食代(112)",
-        "time": "18:00",
-        "date": "2026-10-05",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "此生最美味全明星第1季:驚奇肉食",
-        "time": "18:00",
-        "date": "2026-10-05",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
         "title": "智富食代(113)",
         "time": "18:00",
         "date": "2026-10-06",
@@ -4925,15 +4905,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
+      },
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "智富食代(112)",
+        "title": "智富食代(115)",
         "time": "18:00",
-        "date": "2026-10-05",
+        "date": "2026-10-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4941,13 +4919,15 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "此生最美味全明星第1季:驚奇肉食",
+        "title": "搶救餐廳總動員第14季:菲洛梅娜餐廳",
         "time": "18:00",
-        "date": "2026-10-05",
+        "date": "2026-10-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "275",
         "channelName": "美食星球頻道",
@@ -5067,6 +5047,26 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(117)",
+        "time": "18:00",
+        "date": "2026-10-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "此生最美味全明星第1季:銷魂三明治",
+        "time": "18:00",
+        "date": "2026-10-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
@@ -5157,7 +5157,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | 503 {\"error\":{\"message\":\"gemini-3.5-flash is currently experiencing high demand, spikes ",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
