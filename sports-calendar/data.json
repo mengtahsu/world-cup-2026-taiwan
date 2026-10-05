@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:14:51.800Z",
+  "updatedAt": "2026-10-05T15:17:24.318Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -5158,7 +5158,7 @@
       "modScheduleDays": 7,
       "modDailyLimit": 4,
       "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
