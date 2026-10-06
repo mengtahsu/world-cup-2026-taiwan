@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:16:26.647Z",
+  "updatedAt": "2026-10-06T22:48:04.942Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4580,19 +4580,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(118)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-07T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "智富食代(114)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-07T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "萬聖節大對抗第16季:死而復生：全明星",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-07T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MLB季後賽",
@@ -4604,6 +4604,14 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(119)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-08T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "智富食代(115)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-08T18:00:00+08:00",
@@ -4612,11 +4620,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "搶救餐廳總動員第14季:菲洛梅娜餐廳",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-08T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(120)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-09T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4625,14 +4633,6 @@
       "start": "2026-10-09T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "餐館、免下車餐廳和小酒館第41季:百變料理",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-09T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MLB季後賽",
@@ -4653,19 +4653,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(121)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-10T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "進擊的台灣(507)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-10-10T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第1季:完美牛排",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-10T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "F1",
@@ -4686,11 +4686,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(508)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(122)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-11T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(123)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-12T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4702,11 +4710,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "此生最美味全明星第1季:銷魂三明治",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-12T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(124)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-13T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4717,12 +4725,12 @@
       "channelStatus": "MOD 美食星球頻道"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(124)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-10-13T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "sport": "中職",
+      "title": "中華職棒 中信/統一 VS 味全 台灣大賽G2 10/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-18T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "F1",
@@ -4859,6 +4867,16 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(118)",
+        "time": "18:00",
+        "date": "2026-10-07",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(114)",
@@ -4869,11 +4887,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "萬聖節大對抗第16季:死而復生：全明星",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4889,11 +4907,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "搶救餐廳總動員第14季:菲洛梅娜餐廳",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(120)",
         "time": "18:00",
-        "date": "2026-10-08",
+        "date": "2026-10-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4902,16 +4920,6 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(116)",
-        "time": "18:00",
-        "date": "2026-10-09",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "餐館、免下車餐廳和小酒館第41季:百變料理",
         "time": "18:00",
         "date": "2026-10-09",
         "source": "中華電信 MOD 7 日節目表",
@@ -4921,6 +4929,16 @@
     ],
     "modSchedule": [
       {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(118)",
+        "time": "18:00",
+        "date": "2026-10-07",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "智富食代(114)",
@@ -4931,11 +4949,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "萬聖節大對抗第16季:死而復生：全明星",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(119)",
         "time": "18:00",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4951,11 +4969,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "搶救餐廳總動員第14季:菲洛梅娜餐廳",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(120)",
         "time": "18:00",
-        "date": "2026-10-08",
+        "date": "2026-10-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4971,11 +4989,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "餐館、免下車餐廳和小酒館第41季:百變料理",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(121)",
         "time": "18:00",
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4984,16 +5002,6 @@
         "channel": "275",
         "channelName": "美食星球頻道",
         "title": "進擊的台灣(507)",
-        "time": "18:00",
-        "date": "2026-10-10",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第1季:完美牛排",
         "time": "18:00",
         "date": "2026-10-10",
         "source": "中華電信 MOD 7 日節目表",
@@ -5011,11 +5019,21 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(508)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(122)",
         "time": "18:00",
         "date": "2026-10-11",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(123)",
+        "time": "18:00",
+        "date": "2026-10-12",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5031,11 +5049,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "此生最美味全明星第1季:銷魂三明治",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(124)",
         "time": "18:00",
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5049,49 +5067,9 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(124)",
-        "time": "18:00",
-        "date": "2026-10-13",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
       }
     ],
     "netflix": [
-      {
-        "title": "A Minecraft Movie",
-        "originalTitle": "A Minecraft Movie",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Endgame",
-        "originalTitle": "Endgame",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "originalTitle": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Sunshine Women’s Choir",
-        "originalTitle": "Sunshine Women’s Choir",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Vanishing Point",
-        "originalTitle": "Vanishing Point",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
       {
         "title": "UNABOMBER",
         "originalTitle": "UNABOMBER",
@@ -5099,8 +5077,8 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Crazy Rich Asians",
-        "originalTitle": "Crazy Rich Asians",
+        "title": "Where the River Flows",
+        "originalTitle": "Where the River Flows",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5111,14 +5089,44 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Justice League",
-        "originalTitle": "Justice League",
+        "title": "Sunshine Women’s Choir",
+        "originalTitle": "Sunshine Women’s Choir",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Be My Family",
-        "originalTitle": "Be My Family",
+        "title": "The Mummy",
+        "originalTitle": "The Mummy",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "A Minecraft Movie",
+        "originalTitle": "A Minecraft Movie",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Girl",
+        "originalTitle": "Girl",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Unexpected Courage",
+        "originalTitle": "Unexpected Courage",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "originalTitle": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "The Mummy Returns",
+        "originalTitle": "The Mummy Returns",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
