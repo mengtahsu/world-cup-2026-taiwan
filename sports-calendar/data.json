@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:29:41.889Z",
+  "updatedAt": "2026-10-07T13:57:37.565Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4580,11 +4580,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(118)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "萬聖節大對抗第16季:死而復生：全明星",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-10-07T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4652,14 +4652,6 @@
       "timeTbd": false
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 統一 季後挑戰賽G2 10/10 LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-10T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(121)",
       "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
@@ -4694,11 +4686,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(122)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-10-11T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "美食打卡趣(266)",
+      "subtitle": "Gemini 年輕熱門精選・美食星球頻道・19:00",
+      "start": "2026-10-11T19:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4726,9 +4718,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "大廚斷頭台荒島篇第1季:深海尋食",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-10-13T18:50:00+08:00",
+      "title": "賽門戶外做晚餐第3季:莉姿的義式饗宴",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:25",
+      "start": "2026-10-13T18:25:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
@@ -4739,14 +4731,6 @@
       "start": "2026-10-17T17:00:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信/統一 VS 味全 台灣大賽G5 10/23 (如有需要) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-23T18:30:00+08:00",
-      "channel": "200",
-      "channelStatus": "愛爾達體育 1"
     },
     {
       "sport": "F1",
@@ -4903,11 +4887,21 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(118)",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "行李變變變：四人一箱去旅行(6)",
         "time": "18:00",
-        "date": "2026-10-07",
+        "date": "2026-10-11",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(266)",
+        "time": "19:00",
+        "date": "2026-10-11",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4931,23 +4925,13 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:深海尋食",
-        "time": "18:50",
-        "date": "2026-10-13",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
       }
     ],
     "modSchedule": [
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(118)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "萬聖節大對抗第16季:死而復生：全明星",
         "time": "18:00",
         "date": "2026-10-07",
         "source": "中華電信 MOD 7 日節目表",
@@ -5035,10 +5019,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(122)",
-        "time": "18:00",
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(266)",
+        "time": "19:00",
         "date": "2026-10-11",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5077,8 +5061,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:深海尋食",
-        "time": "18:50",
+        "title": "賽門戶外做晚餐第3季:莉姿的義式饗宴",
+        "time": "18:25",
         "date": "2026-10-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5171,12 +5155,12 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 1,
+      "modApi": "interactions",
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
