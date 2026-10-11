@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:27:57.890Z",
+  "updatedAt": "2026-10-11T13:32:20.875Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4734,11 +4734,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(127)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "title": "巴比家吃遍加州海岸第1季:好萊塢餐廳",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-10-16T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MLB季後賽",
@@ -4750,11 +4750,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(128)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-10-17T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
+      "title": "邱瑞秋的巧克力美食S1(4)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:20",
+      "start": "2026-10-17T18:20:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4945,16 +4945,6 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(3)",
-        "time": "18:30",
-        "date": "2026-10-17",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(122)",
@@ -4970,6 +4960,16 @@
         "title": "大廚荷西全家遊西班牙第1季:巴塞隆納與加泰隆尼亞",
         "time": "18:50",
         "date": "2026-10-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "邱瑞秋的巧克力美食S1(4)",
+        "time": "18:20",
+        "date": "2026-10-17",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5087,9 +5087,9 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(127)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "巴比家吃遍加州海岸第1季:好萊塢餐廳",
         "time": "18:00",
         "date": "2026-10-16",
         "source": "中華電信 MOD 7 日節目表",
@@ -5097,10 +5097,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(128)",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "邱瑞秋的巧克力美食S1(4)",
+        "time": "18:20",
         "date": "2026-10-17",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5208,7 +5208,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
