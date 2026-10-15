@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:13:18.867Z",
+  "updatedAt": "2026-10-15T12:08:28.611Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4686,11 +4686,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第1季:百變麵條",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "惡夢成真:駭人故事第1季:光耀母親",
+      "subtitle": "年輕熱門精選・Travel Channel・18:00",
       "start": "2026-10-17T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4780,6 +4780,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 台灣大賽G7 10/25 (如有需要) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-25T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "F1",
@@ -4957,9 +4965,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第1季:百變麵條",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "惡夢成真:駭人故事第1季:光耀母親",
         "time": "18:00",
         "date": "2026-10-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -5019,9 +5027,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第1季:百變麵條",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "惡夢成真:駭人故事第1季:光耀母親",
         "time": "18:00",
         "date": "2026-10-17",
         "source": "中華電信 MOD 7 日節目表",
@@ -5197,7 +5205,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "modSelectorError": "empty Gemini schedule",
       "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
