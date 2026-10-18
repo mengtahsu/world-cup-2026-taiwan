@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:43:47.966Z",
+  "updatedAt": "2026-10-18T16:08:30.661Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4653,18 +4653,18 @@
       "channelStatus": "愛爾達體育 2"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "行李變變變：四人一箱去旅行(7)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
-      "start": "2026-10-18T18:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 台灣大賽G2 10/18 LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-18T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
       "title": "此生最美味全明星第1季:披薩與漢堡",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-10-18T18:50:00+08:00",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-10-19T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
@@ -4675,14 +4675,6 @@
       "start": "2026-10-19T18:35:00+08:00",
       "channel": "260",
       "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "大廚荷西全家遊西班牙第1季:安達魯西亞",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-10-19T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4772,6 +4764,22 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "行李變變變：四人一箱去旅行(8)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "start": "2026-10-25T18:00:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "傑米奧利佛的四季美食S1(8)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
+      "start": "2026-10-25T18:10:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "F1",
@@ -4901,16 +4909,6 @@
       {
         "channel": "376",
         "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(7)",
-        "time": "18:00",
-        "date": "2026-10-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
         "title": "第六感：B-side(4)",
         "time": "18:20",
         "date": "2026-10-21",
@@ -4931,6 +4929,16 @@
       {
         "channel": "376",
         "channelName": "tvN",
+        "title": "行李變變變：四人一箱去旅行(8)",
+        "time": "18:00",
+        "date": "2026-10-25",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
         "title": "Sam Kim名廚煮意(19)",
         "time": "18:00",
         "date": "2026-10-23",
@@ -4939,10 +4947,10 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "星級主廚遊巴黎S1(1)",
-        "time": "18:35",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "此生最美味全明星第1季:披薩與漢堡",
+        "time": "18:00",
         "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4951,9 +4959,9 @@
       {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
-        "title": "傑米奧利佛的四季美食S1(7)",
-        "time": "18:10",
-        "date": "2026-10-18",
+        "title": "星級主廚遊巴黎S1(1)",
+        "time": "18:35",
+        "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4961,21 +4969,11 @@
     ],
     "modSchedule": [
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(7)",
-        "time": "18:00",
-        "date": "2026-10-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
         "title": "此生最美味全明星第1季:披薩與漢堡",
-        "time": "18:50",
-        "date": "2026-10-18",
+        "time": "18:00",
+        "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4985,16 +4983,6 @@
         "channelName": "BBC Lifestyle Channel",
         "title": "星級主廚遊巴黎S1(1)",
         "time": "18:35",
-        "date": "2026-10-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚荷西全家遊西班牙第1季:安達魯西亞",
-        "time": "18:50",
         "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5099,6 +5087,26 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "行李變變變：四人一箱去旅行(8)",
+        "time": "18:00",
+        "date": "2026-10-25",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米奧利佛的四季美食S1(8)",
+        "time": "18:10",
+        "date": "2026-10-25",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
@@ -5192,7 +5200,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
