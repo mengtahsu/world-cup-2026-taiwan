@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T23:25:50.089Z",
+  "updatedAt": "2026-10-18T05:09:35.415Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4655,114 +4655,162 @@
     {
       "sport": "MOD綜藝",
       "title": "行李變變變：四人一箱去旅行(7)",
-      "subtitle": "年輕熱門精選・tvN・18:00",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
       "start": "2026-10-18T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(513)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(129)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-18T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(122)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-19T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
       "title": "此生最美味全明星第1季:披薩與漢堡",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-10-19T18:00:00+08:00",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-10-18T18:50:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(123)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-20T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "花甲少年趣旅行(130)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-10-19T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "星級主廚遊巴黎S1(1)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:35",
+      "start": "2026-10-19T18:35:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "大廚荷西全家遊西班牙第1季:安達魯西亞",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-10-19T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(131)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-20T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(124)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-21T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "星級主廚遊巴黎S1(2)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:35",
+      "start": "2026-10-20T18:35:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
-      "title": "萬聖節大對抗第16季:死而復生：怪物集合",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(132)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-21T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(125)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-22T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "第六感：B-side(4)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:20",
+      "start": "2026-10-21T18:20:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "星級主廚遊巴黎S1(3)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-10-21T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(133)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-22T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
+      "title": "星級主廚遊巴黎S1(4)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-10-22T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "凱蒂李的海灘美食第1季:跳島行",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-10-22T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "Sam Kim名廚煮意(19)",
-      "subtitle": "年輕熱門精選・tvN・18:00",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
       "start": "2026-10-23T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(126)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(134)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-23T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(517)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-10-24T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "星級主廚遊巴黎S1(5)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:35",
+      "start": "2026-10-23T18:35:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第1季:絞肉知多少",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(135)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-24T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "邱瑞秋的巧克力美食S1(5)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:15",
+      "start": "2026-10-24T18:15:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "第六感：B-side(5)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
+      "start": "2026-10-24T18:30:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
     },
     {
       "sport": "F1",
@@ -4909,20 +4957,40 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(513)",
-        "time": "18:00",
-        "date": "2026-10-18",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(4)",
+        "time": "18:20",
+        "date": "2026-10-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(122)",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(5)",
+        "time": "18:30",
+        "date": "2026-10-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "Sam Kim名廚煮意(19)",
         "time": "18:00",
+        "date": "2026-10-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(1)",
+        "time": "18:35",
         "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4931,29 +4999,9 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "此生最美味全明星第1季:披薩與漢堡",
-        "time": "18:00",
+        "title": "大廚荷西全家遊西班牙第1季:安達魯西亞",
+        "time": "18:50",
         "date": "2026-10-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(123)",
-        "time": "18:00",
-        "date": "2026-10-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(131)",
-        "time": "18:00",
-        "date": "2026-10-20",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4971,21 +5019,11 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(513)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(129)",
         "time": "18:00",
         "date": "2026-10-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(122)",
-        "time": "18:00",
-        "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4994,6 +5032,16 @@
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
         "title": "此生最美味全明星第1季:披薩與漢堡",
+        "time": "18:50",
+        "date": "2026-10-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(130)",
         "time": "18:00",
         "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -5001,11 +5049,21 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(123)",
-        "time": "18:00",
-        "date": "2026-10-20",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(1)",
+        "time": "18:35",
+        "date": "2026-10-19",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "大廚荷西全家遊西班牙第1季:安達魯西亞",
+        "time": "18:50",
+        "date": "2026-10-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5021,9 +5079,19 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(124)",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(2)",
+        "time": "18:35",
+        "date": "2026-10-20",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(132)",
         "time": "18:00",
         "date": "2026-10-21",
         "source": "中華電信 MOD 7 日節目表",
@@ -5031,21 +5099,21 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "萬聖節大對抗第16季:死而復生：怪物集合",
-        "time": "18:00",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(4)",
+        "time": "18:20",
         "date": "2026-10-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(125)",
-        "time": "18:00",
-        "date": "2026-10-22",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(3)",
+        "time": "18:30",
+        "date": "2026-10-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5055,6 +5123,26 @@
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(133)",
         "time": "18:00",
+        "date": "2026-10-22",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(4)",
+        "time": "18:30",
+        "date": "2026-10-22",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "凱蒂李的海灘美食第1季:跳島行",
+        "time": "18:50",
         "date": "2026-10-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5071,9 +5159,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(126)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(134)",
         "time": "18:00",
         "date": "2026-10-23",
         "source": "中華電信 MOD 7 日節目表",
@@ -5081,9 +5169,19 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(517)",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(5)",
+        "time": "18:35",
+        "date": "2026-10-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(135)",
         "time": "18:00",
         "date": "2026-10-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -5091,10 +5189,20 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第1季:絞肉知多少",
-        "time": "18:00",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "邱瑞秋的巧克力美食S1(5)",
+        "time": "18:15",
+        "date": "2026-10-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(5)",
+        "time": "18:30",
         "date": "2026-10-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5186,11 +5294,13 @@
       }
     ],
     "meta": {
-      "modSelector": "rules-fallback",
+      "modSelector": "gemini",
+      "modApi": "interactions",
+      "modApiAttempt": 1,
+      "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
