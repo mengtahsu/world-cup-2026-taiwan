@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:40:23.220Z",
+  "updatedAt": "2026-10-20T05:21:33.574Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4701,14 +4701,6 @@
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 味全 台灣大賽G6 10/24 (如有需要) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-24T17:00:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(135)",
       "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
@@ -4732,6 +4724,14 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "中職",
+      "title": "中華職棒 中信 VS 味全 台灣大賽G7 10/25 (如有需要) LIVE",
+      "subtitle": "愛爾達中華職棒轉播",
+      "start": "2026-10-25T17:00:00+08:00",
+      "channel": "201",
+      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4903,6 +4903,16 @@
       {
         "channel": "376",
         "channelName": "tvN",
+        "title": "Sam Kim名廚煮意(19)",
+        "time": "18:00",
+        "date": "2026-10-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
         "title": "第六感：B-side(5)",
         "time": "18:30",
         "date": "2026-10-24",
@@ -4921,16 +4931,6 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "Sam Kim名廚煮意(19)",
-        "time": "18:00",
-        "date": "2026-10-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
         "title": "花甲少年趣旅行(131)",
@@ -4941,11 +4941,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚荷西全家遊西班牙第1季:馬德里",
-        "time": "18:50",
-        "date": "2026-10-26",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(132)",
+        "time": "18:00",
+        "date": "2026-10-21",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5179,8 +5179,8 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "interactions",
-      "modApiAttempt": 1,
+      "modApi": "generateContent",
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
