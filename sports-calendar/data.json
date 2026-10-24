@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T05:02:35.548Z",
+  "updatedAt": "2026-10-24T11:38:38.128Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4712,6 +4712,14 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "大廚荷西全家遊西班牙第1季:馬德里",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-10-26T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(138)",
       "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-10-27T18:00:00+08:00",
@@ -4901,11 +4909,11 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(136)",
-        "time": "18:00",
-        "date": "2026-10-25",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "邱瑞秋的巧克力美食S1(5)",
+        "time": "18:15",
+        "date": "2026-10-24",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4931,11 +4939,11 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "星級主廚遊巴黎S1(7)",
-        "time": "18:35",
-        "date": "2026-10-27",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "大廚荷西全家遊西班牙第1季:馬德里",
+        "time": "18:50",
+        "date": "2026-10-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4943,9 +4951,9 @@
       {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
-        "title": "星級主廚遊巴黎S1(8)",
-        "time": "18:30",
-        "date": "2026-10-28",
+        "title": "星級主廚遊巴黎S1(7)",
+        "time": "18:35",
+        "date": "2026-10-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5007,6 +5015,16 @@
         "channelName": "BBC Lifestyle Channel",
         "title": "星級主廚遊巴黎S1(6)",
         "time": "18:30",
+        "date": "2026-10-26",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "大廚荷西全家遊西班牙第1季:馬德里",
+        "time": "18:50",
         "date": "2026-10-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5179,7 +5197,7 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
+      "modApi": "interactions",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
