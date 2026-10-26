@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:18:43.127Z",
+  "updatedAt": "2026-10-26T13:35:58.403Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4666,7 +4666,7 @@
       "sport": "中職",
       "title": "中華職棒 中信 VS 味全 台灣大賽G6 10/26 LIVE",
       "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-26T15:00:00+08:00",
+      "start": "2026-10-26T14:58:00+08:00",
       "channel": "201",
       "channelStatus": "愛爾達體育 2"
     },
@@ -4693,14 +4693,6 @@
       "start": "2026-10-27T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "中職",
-      "title": "中華職棒 中信 VS 味全 台灣大賽G7 10/27 (如有需要) LIVE",
-      "subtitle": "愛爾達中華職棒轉播",
-      "start": "2026-10-27T18:30:00+08:00",
-      "channel": "201",
-      "channelStatus": "愛爾達體育 2"
     },
     {
       "sport": "MOD綜藝",
@@ -4929,9 +4921,9 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "萬聖節大對抗第16季:死而復生：驚悚童話",
-        "time": "18:00",
-        "date": "2026-10-28",
+        "title": "大廚荷西全家遊西班牙第1季:馬德里",
+        "time": "18:50",
+        "date": "2026-10-26",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5195,8 +5187,8 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
-      "modApiAttempt": 1,
+      "modApi": "interactions",
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
