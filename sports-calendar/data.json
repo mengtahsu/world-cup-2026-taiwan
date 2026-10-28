@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:44:31.536Z",
+  "updatedAt": "2026-10-28T10:01:52.502Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4672,11 +4672,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "島嶼獵人第1季:喬治安灣夏日小屋",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:04",
-      "start": "2026-10-29T18:04:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "星級主廚遊巴黎S1(9)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-10-29T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4696,11 +4696,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "安德魯席曼的必訪清單第1季:紐約市",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:53",
-      "start": "2026-10-30T18:53:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
+      "title": "星級主廚遊巴黎S1(10)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-10-30T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4965,10 +4965,10 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "島嶼獵人第1季:喬治安灣夏日小屋",
-        "time": "18:04",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(9)",
+        "time": "18:30",
         "date": "2026-10-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4995,10 +4995,10 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "安德魯席曼的必訪清單第1季:紐約市",
-        "time": "18:53",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "星級主廚遊巴黎S1(10)",
+        "time": "18:30",
         "date": "2026-10-30",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5172,7 +5172,7 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 1,
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
