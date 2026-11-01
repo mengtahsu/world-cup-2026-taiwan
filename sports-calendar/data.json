@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:51:58.646Z",
+  "updatedAt": "2026-11-01T16:23:47.056Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4664,22 +4664,6 @@
       "timeTbd": false
     },
     {
-      "sport": "MOD綜藝",
-      "title": "行李變變變：四人一箱去旅行(9)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
-      "start": "2026-11-01T18:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "此生最美味全明星第1季:燒烤萬萬歲",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-11-01T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
       "sport": "F1",
       "title": "墨西哥 City Grand Prix・正賽",
       "subtitle": "Autódromo Hermanos Rodríguez",
@@ -4803,6 +4787,22 @@
       "timeTbd": false
     },
     {
+      "sport": "MOD綜藝",
+      "title": "行李變變變：四人一箱去旅行(10)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "start": "2026-11-08T18:00:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "傑米的終極燒烤S1(1)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
+      "start": "2026-11-08T18:10:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
       "sport": "F1",
       "title": "Las Vegas Grand Prix・排位賽",
       "subtitle": "Las Vegas Strip Street Circuit",
@@ -4883,16 +4883,6 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(9)",
-        "time": "18:00",
-        "date": "2026-11-01",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
         "title": "美食之路 (1)",
@@ -4941,29 +4931,19 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
+      },
       {
         "channel": "376",
         "channelName": "tvN",
-        "title": "行李變變變：四人一箱去旅行(9)",
+        "title": "行李變變變：四人一箱去旅行(10)",
         "time": "18:00",
-        "date": "2026-11-01",
+        "date": "2026-11-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "此生最美味全明星第1季:燒烤萬萬歲",
-        "time": "18:50",
-        "date": "2026-11-01",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
@@ -5083,6 +5063,26 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "行李變變變：四人一箱去旅行(10)",
+        "time": "18:00",
+        "date": "2026-11-08",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的終極燒烤S1(1)",
+        "time": "18:10",
+        "date": "2026-11-08",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
       }
     ],
     "netflix": [
@@ -5171,7 +5171,7 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
+      "modApi": "interactions",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
