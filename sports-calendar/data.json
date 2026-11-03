@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:20:56.829Z",
+  "updatedAt": "2026-11-03T19:49:18.971Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4674,22 +4674,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美食之路 (1)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-11-03T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "大富翁世界旅行4(1)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・19:00",
-      "start": "2026-11-03T19:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "美食之路 (2)",
       "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-04T18:00:00+08:00",
@@ -4711,6 +4695,14 @@
       "start": "2026-11-05T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "豪飲旅行家第2季:西西里家務事",
+      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:48",
+      "start": "2026-11-05T18:48:00+08:00",
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4803,6 +4795,38 @@
       "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "大富翁世界旅行4(2)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
+      "start": "2026-11-09T18:10:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食之路 (5)",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-11-10T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "明星主廚的廚房派對第33季:廚師對調",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-11-10T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "大廚斷頭台荒島篇第1季:水中犯難",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
+      "start": "2026-11-10T18:50:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
       "sport": "F1",
       "title": "Las Vegas Grand Prix・排位賽",
       "subtitle": "Las Vegas Strip Street Circuit",
@@ -4885,16 +4909,6 @@
       {
         "channel": "376",
         "channelName": "tvN",
-        "title": "大富翁世界旅行4(1)",
-        "time": "19:00",
-        "date": "2026-11-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
         "title": "第六感：B-side(6)",
         "time": "18:30",
         "date": "2026-11-04",
@@ -4933,6 +4947,16 @@
         "score": 16
       },
       {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (2)",
+        "time": "18:00",
+        "date": "2026-11-04",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
         "title": "少年烘焙大賽S11(1)",
@@ -4944,26 +4968,6 @@
       }
     ],
     "modSchedule": [
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (1)",
-        "time": "18:00",
-        "date": "2026-11-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "大富翁世界旅行4(1)",
-        "time": "19:00",
-        "date": "2026-11-03",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
@@ -4989,6 +4993,16 @@
         "channelName": "韓國娛樂台KMTV",
         "title": "美食之路 (3)",
         "time": "18:00",
+        "date": "2026-11-05",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "豪飲旅行家第2季:西西里家務事",
+        "time": "18:48",
         "date": "2026-11-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5080,6 +5094,46 @@
         "title": "少年烘焙大賽S11(1)",
         "time": "18:05",
         "date": "2026-11-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "大富翁世界旅行4(2)",
+        "time": "18:10",
+        "date": "2026-11-09",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (5)",
+        "time": "18:00",
+        "date": "2026-11-10",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "明星主廚的廚房派對第33季:廚師對調",
+        "time": "18:00",
+        "date": "2026-11-10",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "大廚斷頭台荒島篇第1季:水中犯難",
+        "time": "18:50",
+        "date": "2026-11-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
