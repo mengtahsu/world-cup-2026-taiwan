@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:40:00.473Z",
+  "updatedAt": "2026-11-04T11:34:58.482Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4729,6 +4729,14 @@
       "channelStatus": "MOD tvN"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(144)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-11-07T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
       "sport": "F1",
       "title": "巴西ian Grand Prix・排位賽",
       "subtitle": "Autódromo José Carlos Pace",
@@ -4736,14 +4744,6 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "第六感：B-side(6)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
-      "start": "2026-11-07T18:30:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
     },
     {
       "sport": "F1",
@@ -4883,6 +4883,16 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (2)",
+        "time": "18:00",
+        "date": "2026-11-04",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "376",
         "channelName": "tvN",
         "title": "第六感：B-side(6)",
@@ -4918,16 +4928,6 @@
         "title": "行李變變變：四人一箱去旅行(10)",
         "time": "18:00",
         "date": "2026-11-08",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (4)",
-        "time": "18:00",
-        "date": "2026-11-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5015,10 +5015,10 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(6)",
-        "time": "18:30",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(144)",
+        "time": "18:00",
         "date": "2026-11-07",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5172,11 +5172,11 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 1,
+      "modApiAttempt": 2,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
