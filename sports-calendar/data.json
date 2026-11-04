@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:49:18.971Z",
+  "updatedAt": "2026-11-04T01:40:00.473Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4698,19 +4698,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "豪飲旅行家第2季:西西里家務事",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:48",
-      "start": "2026-11-05T18:48:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "凱蒂李的海灘美食第1季:海灘酒吧小吃",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-11-05T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(147)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-11-05T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4722,11 +4714,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的全美公路之旅第1季:親友美食趣",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(148)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-06T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4788,14 +4780,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "少年烘焙大賽S11(1)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:05",
-      "start": "2026-11-09T18:05:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "大富翁世界旅行4(2)",
       "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
       "start": "2026-11-09T18:10:00+08:00",
@@ -4812,19 +4796,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "明星主廚的廚房派對第33季:廚師對調",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(150)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-10T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "大廚斷頭台荒島篇第1季:水中犯難",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-11-10T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "F1",
@@ -4949,18 +4925,18 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (2)",
+        "title": "美食之路 (4)",
         "time": "18:00",
-        "date": "2026-11-04",
+        "date": "2026-11-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "少年烘焙大賽S11(1)",
-        "time": "18:05",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "大富翁世界旅行4(2)",
+        "time": "18:10",
         "date": "2026-11-09",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4999,20 +4975,10 @@
         "score": 16
       },
       {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "豪飲旅行家第2季:西西里家務事",
-        "time": "18:48",
-        "date": "2026-11-05",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "凱蒂李的海灘美食第1季:海灘酒吧小吃",
-        "time": "18:50",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(147)",
+        "time": "18:00",
         "date": "2026-11-05",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5029,9 +4995,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第1季:親友美食趣",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(148)",
         "time": "18:00",
         "date": "2026-11-06",
         "source": "中華電信 MOD 7 日節目表",
@@ -5089,16 +5055,6 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "少年烘焙大賽S11(1)",
-        "time": "18:05",
-        "date": "2026-11-09",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "376",
         "channelName": "tvN",
         "title": "大富翁世界旅行4(2)",
@@ -5119,20 +5075,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "明星主廚的廚房派對第33季:廚師對調",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(150)",
         "time": "18:00",
-        "date": "2026-11-10",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台荒島篇第1季:水中犯難",
-        "time": "18:50",
         "date": "2026-11-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5141,32 +5087,32 @@
     ],
     "netflix": [
       {
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Animals",
-        "originalTitle": "Animals",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
         "title": "Surviving Hurricane Otis",
         "originalTitle": "Surviving Hurricane Otis",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Sunshine Women’s Choir",
-        "originalTitle": "Sunshine Women’s Choir",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Where the River Flows",
-        "originalTitle": "Where the River Flows",
+        "title": "Collision Course",
+        "originalTitle": "Collision Course",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Black Bag",
+        "originalTitle": "Black Bag",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Final Destination: Bloodlines",
+        "originalTitle": "Final Destination: Bloodlines",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5177,26 +5123,26 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Tomb Raider",
-        "originalTitle": "Tomb Raider",
+        "title": "Sunshine Women’s Choir",
+        "originalTitle": "Sunshine Women’s Choir",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Hot Wheels Let\\'s Race: Attack of the T-Rex",
-        "originalTitle": "Hot Wheels Let\\'s Race: Attack of the T-Rex",
+        "title": "The Addams Family",
+        "originalTitle": "The Addams Family",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Kubi",
-        "originalTitle": "Kubi",
+        "title": "Animals",
+        "originalTitle": "Animals",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Doctor-X the Movie",
-        "originalTitle": "Doctor-X the Movie",
+        "title": "Where the River Flows",
+        "originalTitle": "Where the River Flows",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
@@ -5225,7 +5171,7 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "interactions",
+      "modApi": "generateContent",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
