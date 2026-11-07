@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:13:37.665Z",
+  "updatedAt": "2026-11-07T10:42:02.952Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4913,11 +4913,11 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (4)",
-        "time": "18:00",
-        "date": "2026-11-09",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的終極燒烤S1(1)",
+        "time": "18:10",
+        "date": "2026-11-08",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4933,11 +4933,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第1季:鹹甜滋味與刺激冒險",
-        "time": "18:00",
-        "date": "2026-11-13",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(7)",
+        "time": "18:25",
+        "date": "2026-11-11",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5176,7 +5176,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
