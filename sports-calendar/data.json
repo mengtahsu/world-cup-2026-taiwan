@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:42:08.911Z",
+  "updatedAt": "2026-11-07T01:13:37.665Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4681,14 +4681,6 @@
       "channelStatus": "MOD tvN"
     },
     {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(144)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-07T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
       "sport": "F1",
       "title": "巴西ian Grand Prix・排位賽",
       "subtitle": "Autódromo José Carlos Pace",
@@ -4724,14 +4716,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(145)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-08T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "傑米的終極燒烤S1(1)",
       "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:10",
       "start": "2026-11-08T18:10:00+08:00",
@@ -4748,14 +4732,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "少年烘焙大賽S11(1)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:05",
-      "start": "2026-11-09T18:05:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "大富翁世界旅行4(2)",
       "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
       "start": "2026-11-09T18:10:00+08:00",
@@ -4769,14 +4745,6 @@
       "start": "2026-11-10T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "里克斯坦暢遊康沃爾S2(7)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-11-10T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4804,14 +4772,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "里克斯坦暢遊康沃爾S2(8)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-11-11T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "美食之路 (7)",
       "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-12T18:00:00+08:00",
@@ -4828,27 +4788,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "凱蒂李的海灘美食第1季:意外驚喜",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-11-12T18:50:00+08:00",
+      "title": "蓋的全美公路之旅第1季:鹹甜滋味與刺激冒險",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-11-13T18:00:00+08:00",
       "channel": "277",
       "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(153)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-13T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "里克斯坦暢遊康沃爾S2(10)",
-      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
-      "start": "2026-11-13T18:30:00+08:00",
-      "channel": "260",
-      "channelStatus": "MOD BBC Lifestyle Channel"
     },
     {
       "sport": "MOD綜藝",
@@ -4989,11 +4933,11 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(7)",
-        "time": "18:25",
-        "date": "2026-11-11",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的全美公路之旅第1季:鹹甜滋味與刺激冒險",
+        "time": "18:00",
+        "date": "2026-11-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5004,16 +4948,6 @@
         "channel": "376",
         "channelName": "tvN",
         "title": "燦盛這料理(4)",
-        "time": "18:00",
-        "date": "2026-11-07",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(144)",
         "time": "18:00",
         "date": "2026-11-07",
         "source": "中華電信 MOD 7 日節目表",
@@ -5041,16 +4975,6 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(145)",
-        "time": "18:00",
-        "date": "2026-11-08",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "260",
         "channelName": "BBC Lifestyle Channel",
         "title": "傑米的終極燒烤S1(1)",
@@ -5071,16 +4995,6 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "少年烘焙大賽S11(1)",
-        "time": "18:05",
-        "date": "2026-11-09",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "376",
         "channelName": "tvN",
         "title": "大富翁世界旅行4(2)",
@@ -5095,16 +5009,6 @@
         "channelName": "韓國娛樂台KMTV",
         "title": "美食之路 (5)",
         "time": "18:00",
-        "date": "2026-11-10",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "里克斯坦暢遊康沃爾S2(7)",
-        "time": "18:30",
         "date": "2026-11-10",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5141,16 +5045,6 @@
         "score": 16
       },
       {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "里克斯坦暢遊康沃爾S2(8)",
-        "time": "18:30",
-        "date": "2026-11-11",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
         "title": "美食之路 (7)",
@@ -5173,28 +5067,8 @@
       {
         "channel": "277",
         "channelName": "Food Network 美食台頻道",
-        "title": "凱蒂李的海灘美食第1季:意外驚喜",
-        "time": "18:50",
-        "date": "2026-11-12",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(153)",
+        "title": "蓋的全美公路之旅第1季:鹹甜滋味與刺激冒險",
         "time": "18:00",
-        "date": "2026-11-13",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "260",
-        "channelName": "BBC Lifestyle Channel",
-        "title": "里克斯坦暢遊康沃爾S2(10)",
-        "time": "18:30",
         "date": "2026-11-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5213,61 +5087,61 @@
     ],
     "netflix": [
       {
-        "title": "颶風奧蒂斯求生記",
+        "title": "Surviving Hurricane Otis",
         "originalTitle": "Surviving Hurricane Otis",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "鬼玩人：狂燒",
+        "title": "Evil Dead Burn",
         "originalTitle": "Evil Dead Burn",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "正面交鋒",
+        "title": "Collision Course",
         "originalTitle": "Collision Course",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "機密黑包",
+        "title": "Black Bag",
         "originalTitle": "Black Bag",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "絕命終結站：血脈",
+        "title": "Final Destination: Bloodlines",
         "originalTitle": "Final Destination: Bloodlines",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "意料之外的勇氣",
+        "title": "Unexpected Courage",
         "originalTitle": "Unexpected Courage",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "陽光女子合唱團",
+        "title": "Sunshine Women’s Choir",
         "originalTitle": "Sunshine Women’s Choir",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "阿達一族",
+        "title": "The Addams Family",
         "originalTitle": "The Addams Family",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "野獸",
+        "title": "Animals",
         "originalTitle": "Animals",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "河流奔流之處",
+        "title": "Where the River Flows",
         "originalTitle": "Where the River Flows",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
@@ -5297,12 +5171,12 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "interactions",
+      "modApi": "generateContent",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "gemini-fast"
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
