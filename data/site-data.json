@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:54:52.445Z",
+  "updatedAt": "2026-11-10T17:53:04.382Z",
   "matches": [
     {
       "number": 1,
@@ -3064,16 +3064,16 @@
       "source": "PChome Online新聞"
     },
     {
-      "title": "2026賽季中國足球聯賽落幕 旅外台將表現一次看 - GoGoal 勁球網",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JaWVwWTRVTlhGenBGeFFpWllMc0xJb3g2LTZ6S0xrd0VJM1hsZF94eEtibExzOTluU3QzZnV1UGowS3hXRjBaVTlVMWQ?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 10:46:23 GMT",
-      "source": "GoGoal 勁球網"
-    },
-    {
       "title": "一篇就懂 - 2026世界盃懶人包：賽程、參賽國家、賽制、分組名單完全整理 - DAZN",
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPQ21tUXltWGk2aUFtUDdBcTc5cHh6aFFkQkpSVHNHdXZRTk5tUVAzdUpZdHNFa2RKU19nUTlSU0QtMWpWODRHT1g1M29Gc1lEWmtYVGRYZE1YLW1wM1ltZTh1R3RPTDdxN0FwVjg4TE03MGx1bE8ybkp2ekh3cXJUbDhIUWI0UmdTSERLTFd0bWJwajd3Z2Q2OFNGN3dmNDBRN2VmQldMNlJMTmVUT01Pd1ZmdUVmSG82bEtRSmNkTWJCQmNKYmhZZkFFRy11dXNISjEzTzg2STBIWmd4UlVKeVFrWVdCR3lkZ3dvM1RfdmhvRXRCcHd2bUt4MURLYW9qYjd2MGlYM3NzdmpDaGFyTmhHdTNoMmtYZ1BEQmJPZ3RTYkg3dWRwZGlfZl95dHRncXdVZ29NT191RlVqNVBoSDhMbmhxVG56cVF2WmFMby1QNHgxOGtGMlRWNlhlNGhvckVaS3B6SVFYa1dSaU9NZDAteEpzUkhJY0VrMFFqclJxSmVwQ0lCTmV1aW13b2pkYUtZb0FGeEJTNDI1WmhwN0tWdTJ6eDFldjlBREdyRGZpMUtVM2NlX3J4Y3lhYUZxUTU0?oc=5",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "source": "DAZN"
+    },
+    {
+      "title": "2026賽季中國足球聯賽落幕 旅外台將表現一次看 - GoGoal 勁球網",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JaWVwWTRVTlhGenBGeFFpWllMc0xJb3g2LTZ6S0xrd0VJM1hsZF94eEtibExzOTluU3QzZnV1UGowS3hXRjBaVTlVMWQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 10:46:23 GMT",
+      "source": "GoGoal 勁球網"
     },
     {
       "title": "2026世界盃｜16強淘汰賽完整賽程一次看！阿根廷對戰埃及3:2逆轉勝；葡萄牙、巴西、美加墨地主國全敗 - Vogue Taiwan",
@@ -3115,6 +3115,12 @@
   "odds": [],
   "videos": [
     {
+      "id": "oMnhEef91CY",
+      "title": "【全場精華】11/10 擊劍 女子銳劍四強｜2026達卡青奧｜鎖定ELTA tv愛爾達",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=oMnhEef91CY"
+    },
+    {
       "id": "bmxedcKjM4E",
       "title": "【全場精華】11/9 鄭博隅 跆拳道 男子55公斤級四強 ｜2026達卡青奧｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
@@ -3125,12 +3131,6 @@
       "title": "【全場精華】11/9 跆拳道 女子49公斤級四強 ｜2026達卡青奧｜鎖定ELTA tv愛爾達",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=fqMoNMhg7Bc"
-    },
-    {
-      "id": "N_lks2VUZjE",
-      "title": "【全場精華】11/9 青年奧運 德國vs塞內加爾 3對3籃球四強賽｜2026達卡青奧｜鎖定ELTA.tv愛爾達",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=N_lks2VUZjE"
     }
   ]
 }
