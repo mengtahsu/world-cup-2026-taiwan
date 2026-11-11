@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:25:53.188Z",
+  "updatedAt": "2026-11-11T01:29:08.775Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4724,11 +4724,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的全美公路之旅第1季:與好友吃美食",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:25",
-      "start": "2026-11-13T18:25:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "title": "花甲少年趣旅行(153)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-11-13T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
@@ -4740,19 +4740,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(146)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-11-14T18:00:00+08:00",
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "第六感：B-side(7)",
       "subtitle": "Gemini 年輕熱門精選・tvN・18:20",
       "start": "2026-11-14T18:20:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "大廚斷頭台:新世代第1季:年輕氣盛",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:50",
-      "start": "2026-11-14T18:50:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4933,11 +4933,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚荷西全家遊西班牙第1季:蘭札羅提島",
-        "time": "18:50",
-        "date": "2026-11-16",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "傑米的終極燒烤S1(2)",
+        "time": "18:10",
+        "date": "2026-11-15",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4985,10 +4985,10 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第1季:與好友吃美食",
-        "time": "18:25",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(153)",
+        "time": "18:00",
         "date": "2026-11-13",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5005,20 +5005,20 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(7)",
-        "time": "18:20",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(146)",
+        "time": "18:00",
         "date": "2026-11-14",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台:新世代第1季:年輕氣盛",
-        "time": "18:50",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(7)",
+        "time": "18:20",
         "date": "2026-11-14",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5176,7 +5176,7 @@
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
