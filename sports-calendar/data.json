@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:27:39.519Z",
+  "updatedAt": "2026-11-11T19:52:19.795Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4692,22 +4692,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美食之路 (6)",
-      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-11-11T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "第六感：B-side(7)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:25",
-      "start": "2026-11-11T18:25:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "美食之路 (7)",
       "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-12T18:00:00+08:00",
@@ -4803,6 +4787,22 @@
       "channelStatus": "MOD tvN"
     },
     {
+      "sport": "MOD綜藝",
+      "title": "美食之路 (10)",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-11-18T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "第六感：B-side(8)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:30",
+      "start": "2026-11-18T18:30:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
       "sport": "F1",
       "title": "Las Vegas Grand Prix・排位賽",
       "subtitle": "Las Vegas Strip Street Circuit",
@@ -4885,28 +4885,8 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (6)",
+        "title": "美食之路 (7)",
         "time": "18:00",
-        "date": "2026-11-11",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(7)",
-        "time": "18:25",
-        "date": "2026-11-11",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "豪飲旅行家第2季:希臘隔夜宿醉",
-        "time": "18:42",
         "date": "2026-11-12",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4923,10 +4903,20 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚荷西全家遊西班牙第1季:蘭札羅提島",
-        "time": "18:50",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "比基尼海灘巡禮精選第1季:少女衝浪客",
+        "time": "18:02",
+        "date": "2026-11-15",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (8)",
+        "time": "18:00",
         "date": "2026-11-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -4941,29 +4931,19 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      }
-    ],
-    "modSchedule": [
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (6)",
-        "time": "18:00",
-        "date": "2026-11-11",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
       },
       {
         "channel": "376",
         "channelName": "tvN",
-        "title": "第六感：B-side(7)",
-        "time": "18:25",
-        "date": "2026-11-11",
+        "title": "第六感：B-side(8)",
+        "time": "18:30",
+        "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
+      }
+    ],
+    "modSchedule": [
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
@@ -5080,6 +5060,26 @@
         "title": "大富翁世界旅行4(3)",
         "time": "19:00",
         "date": "2026-11-17",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (10)",
+        "time": "18:00",
+        "date": "2026-11-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(8)",
+        "time": "18:30",
+        "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
