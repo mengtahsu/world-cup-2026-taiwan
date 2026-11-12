@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T19:52:19.795Z",
+  "updatedAt": "2026-11-12T02:31:49.537Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4883,41 +4883,11 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (7)",
-        "time": "18:00",
-        "date": "2026-11-12",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "376",
         "channelName": "tvN",
         "title": "第六感：B-side(7)",
         "time": "18:20",
         "date": "2026-11-14",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "比基尼海灘巡禮精選第1季:少女衝浪客",
-        "time": "18:02",
-        "date": "2026-11-15",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (8)",
-        "time": "18:00",
-        "date": "2026-11-16",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4938,6 +4908,36 @@
         "title": "第六感：B-side(8)",
         "time": "18:30",
         "date": "2026-11-18",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (7)",
+        "time": "18:00",
+        "date": "2026-11-12",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "旋風週末行第1季:柏林",
+        "time": "18:51",
+        "date": "2026-11-13",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "比基尼海灘巡禮精選第1季:少女衝浪客",
+        "time": "18:02",
+        "date": "2026-11-15",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
