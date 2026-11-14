@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T20:03:33.935Z",
+  "updatedAt": "2026-11-14T01:48:16.689Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4923,21 +4923,21 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (10)",
-        "time": "18:00",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(8)",
+        "time": "18:30",
         "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "第六感：B-side(8)",
-        "time": "18:30",
-        "date": "2026-11-18",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "旋風週末行第1季:巴塞隆納",
+        "time": "18:47",
+        "date": "2026-11-20",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
