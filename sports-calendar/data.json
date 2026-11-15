@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:37:07.930Z",
+  "updatedAt": "2026-11-15T23:11:09.124Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4925,9 +4925,9 @@
       {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(154)",
+        "title": "花甲少年趣旅行(157)",
         "time": "18:00",
-        "date": "2026-11-16",
+        "date": "2026-11-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5172,7 +5172,7 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 2,
+      "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
