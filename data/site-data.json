@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T10:59:28.680Z",
+  "updatedAt": "2026-11-15T17:44:53.855Z",
   "matches": [
     {
       "number": 1,
@@ -3058,12 +3058,6 @@
   ],
   "news": [
     {
-      "title": "U23世界盃中華隊火力全開！狂敲3轟17安 13比1痛宰委內瑞拉挺進季軍戰- 體育新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFlYMDhNRFY3bm8xM0dCV0czX09jUEk5UG02NHFUR1NRVDU4QXpkVlprbHFOdmVGS3EzUm1KT1lMUFdRZU82WkxqV0NSRzhzUGtzbWRtSHUwZmtWSlBJbWVDdXNTajhWeExnTGYya2xnQjIyQUNjUjZmMUJRdFpPanMxSmpZQk0?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 03:40:47 GMT",
-      "source": "PChome Online 新聞"
-    },
-    {
       "title": "2026世界盃決賽懶人包：西班牙1:0奪冠擊退阿根廷！Justin Bieber、BTS中場秀登場 - Vogue Taiwan",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDkxRFJiOXZDdFlLZkFkVXkxNVRBY2N0eUtBajBtaC1vay05SjZTRVBsZkdGM3o3aG8zN044b2ZGcHB4UnJ6YXJJdTJPTVhMdENtSUFmYk41X3dwV08zSDFjOXhDMVVpV2p2NE1ubkI5SVdfNU1OWTRWaTYwUy1HUVNQdUVwUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
@@ -3110,27 +3104,33 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xZmFmTFo4dmcweEZIQkRYN1NYb0VjcjNhS3VZWGl3NzFDQWNYejE0SjlwNnRxQlpfWi0zaE1Pd1d5OVBmcjNIQ2p4dVFUdw?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
       "source": "天下雜誌"
+    },
+    {
+      "title": "2026世界盃｜史上最多場，FIFA 足球賽所有賽程日期時間結果一次看，西班牙 1:0 擊退阿根廷，時隔16 年再捧大力神盃 - GQ Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUVJYNTFFN29TQ1d2M01QR3drZUJuV2JJTzdhTzlCV0NrSHlpYjdJbXR1T0tkQklzRUp2dXRPSGMyRFFlN0ZoSDhXdFV0ZVhCUTdSR0lzT2lsODVlcldPZll5aUVwbEljS2FJ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "source": "GQ Taiwan"
     }
   ],
   "odds": [],
   "videos": [
     {
-      "id": "H5hSta31W9I",
-      "title": "【全場精華】11/13 林泳岳 霹靂舞男子組決賽 ｜2026達卡青奧｜鎖定ELTA.tv愛爾達",
+      "id": "EfT1TFa18KU",
+      "title": "【全場精華】11/15 大學明星隊 vs. 台灣山林 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=H5hSta31W9I"
+      "url": "https://www.youtube.com/watch?v=EfT1TFa18KU"
     },
     {
-      "id": "w3rkt89WrAg",
-      "title": "【全場精華】11/13 南韓 vs. 日本 ｜ 2026 亞洲職棒冠軍爭霸賽 預賽",
+      "id": "mdtNKssGW5Q",
+      "title": "【全場精華】11/15 南韓 vs. 日本 ｜ 2026 亞洲職棒冠軍爭霸賽 冠軍戰",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=w3rkt89WrAg"
+      "url": "https://www.youtube.com/watch?v=mdtNKssGW5Q"
     },
     {
-      "id": "zmk7DoSouKo",
-      "title": "【全場精華】11/13 林泳岳 霹靂舞男子組八強 四強 ｜2026達卡青奧｜鎖定ELTA.tv愛爾達",
+      "id": "C-xHGY2BWnI",
+      "title": "【全場精華】11/15 韓職聯隊 vs. 台灣海洋 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=zmk7DoSouKo"
+      "url": "https://www.youtube.com/watch?v=C-xHGY2BWnI"
     }
   ]
 }
