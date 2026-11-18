@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:03:19.330Z",
+  "updatedAt": "2026-11-18T21:59:19.632Z",
   "matches": [
     {
       "number": 1,
@@ -3060,7 +3060,7 @@
     {
       "title": "《發哥足球經》「友誼賽之王」日本主帥森保一卸任功與過- 體育新聞 - PChome Online 新聞",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTJzaEZ0UkRvYU5SSGU3NllrMlJtal9BMmNfY0VpWkdoS25LLS1keGo2cHJvZ0pKaGx3VnJpN1ByNTFQZVpqSHFSVEllUURQWjhUcVBtWVQ3SzY1T2pLb2pWdW5QU0xMQUU3RG50aG5HZnRsWEFRLWxvQlJEVDB0ZnBzLTI?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 08:37:30 GMT",
+      "pubDate": "Wed, 18 Nov 2026 08:37:48 GMT",
       "source": "PChome Online 新聞"
     },
     {
@@ -3115,6 +3115,12 @@
   "odds": [],
   "videos": [
     {
+      "id": "FiRyxPUID20",
+      "title": "【全場精華】11/18 大學明星隊 vs. 日職聯隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=FiRyxPUID20"
+    },
+    {
       "id": "B-Hg4RPCdwM",
       "title": "【全場精華】11/18 日本社會人 vs. 台灣山林 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
@@ -3125,12 +3131,6 @@
       "title": "【全場精華】11/17 台灣海洋 vs. 大學明星隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=yV6zYzBTHxw"
-    },
-    {
-      "id": "XOpzMmW3ok4",
-      "title": "【全場精華】11/17 台灣山林 vs. 韓職聯隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=XOpzMmW3ok4"
     }
   ]
 }
