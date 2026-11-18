@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T12:17:15.562Z",
+  "updatedAt": "2026-11-18T20:54:58.418Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4692,17 +4692,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美食之路 (10)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-11-18T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(144)",
+      "title": "智富食代(145)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-18T18:00:00+08:00",
+      "start": "2026-11-19T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
     },
@@ -4716,14 +4708,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(145)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-19T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "智富食代(146)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
       "start": "2026-11-20T18:00:00+08:00",
@@ -4732,11 +4716,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的全美公路之旅第2季:餐車與快車",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(158)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-20T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "F1",
@@ -4757,11 +4741,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "美味秘訣升級版第1季:佳節餅乾",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(148)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-21T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "F1",
@@ -4782,11 +4766,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "在地美食第1季:肯塔基州帕丟卡",
-      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "title": "花甲少年趣旅行(149)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-22T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "智富食代(147)",
+      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "start": "2026-11-23T18:00:00+08:00",
+      "channel": "275",
+      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4798,9 +4790,9 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(147)",
+      "title": "智富食代(148)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-23T18:00:00+08:00",
+      "start": "2026-11-24T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
     },
@@ -4814,11 +4806,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(148)",
+      "title": "智富食代(149)",
       "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-24T18:00:00+08:00",
+      "start": "2026-11-25T18:00:00+08:00",
       "channel": "275",
       "channelStatus": "MOD 美食星球頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食之路 (14)",
+      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-11-25T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "F1",
@@ -4883,21 +4883,11 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (10)",
-        "time": "18:00",
-        "date": "2026-11-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "智富食代(144)",
+        "title": "智富食代(145)",
         "time": "18:00",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4915,16 +4905,6 @@
       {
         "channel": "275",
         "channelName": "美食星球頻道",
-        "title": "智富食代(145)",
-        "time": "18:00",
-        "date": "2026-11-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
         "title": "智富食代(146)",
         "time": "18:00",
         "date": "2026-11-20",
@@ -4933,71 +4913,9 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第2季:餐車與快車",
-        "time": "18:00",
-        "date": "2026-11-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      }
-    ],
-    "modSchedule": [
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (10)",
-        "time": "18:00",
-        "date": "2026-11-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(144)",
-        "time": "18:00",
-        "date": "2026-11-18",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (11)",
-        "time": "18:00",
-        "date": "2026-11-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(145)",
-        "time": "18:00",
-        "date": "2026-11-19",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(146)",
-        "time": "18:00",
-        "date": "2026-11-20",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第2季:餐車與快車",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(158)",
         "time": "18:00",
         "date": "2026-11-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -5015,9 +4933,71 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "美味秘訣升級版第1季:佳節餅乾",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(148)",
+        "time": "18:00",
+        "date": "2026-11-21",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      }
+    ],
+    "modSchedule": [
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(145)",
+        "time": "18:00",
+        "date": "2026-11-19",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (11)",
+        "time": "18:00",
+        "date": "2026-11-19",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(146)",
+        "time": "18:00",
+        "date": "2026-11-20",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(158)",
+        "time": "18:00",
+        "date": "2026-11-20",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "進擊的台灣(537)",
+        "time": "18:00",
+        "date": "2026-11-21",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(148)",
         "time": "18:00",
         "date": "2026-11-21",
         "source": "中華電信 MOD 7 日節目表",
@@ -5035,21 +5015,11 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "在地美食第1季:肯塔基州帕丟卡",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(149)",
         "time": "18:00",
         "date": "2026-11-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (12)",
-        "time": "18:00",
-        "date": "2026-11-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5067,9 +5037,9 @@
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (13)",
+        "title": "美食之路 (12)",
         "time": "18:00",
-        "date": "2026-11-24",
+        "date": "2026-11-23",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5080,6 +5050,36 @@
         "title": "智富食代(148)",
         "time": "18:00",
         "date": "2026-11-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (13)",
+        "time": "18:00",
+        "date": "2026-11-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "智富食代(149)",
+        "time": "18:00",
+        "date": "2026-11-25",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (14)",
+        "time": "18:00",
+        "date": "2026-11-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5173,7 +5173,7 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
+      "modSelectorError": "The operation was aborted due to timeout | retry 503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary.",
       "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
