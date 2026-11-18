@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:30:51.236Z",
+  "updatedAt": "2026-11-18T01:19:05.243Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4692,19 +4692,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "萬聖節大對抗第16季:死而復生：最後一嚇",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-11-18T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "美食之路 (10)",
       "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-18T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(144)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-18T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4716,19 +4716,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(145)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(157)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-19T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(146)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "蓋的全美公路之旅第2季:餐車與快車",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-11-20T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4749,11 +4749,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(537)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "美味秘訣升級版第1季:佳節餅乾",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-11-21T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4774,11 +4774,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(538)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "在地美食第1季:肯塔基州帕丟卡",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-11-22T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4790,19 +4790,19 @@
     },
     {
       "sport": "MOD綜藝",
+      "title": "此生最美味全明星第1季:魔幻雙拼",
+      "subtitle": "年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-11-23T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
       "title": "美食之路 (12)",
       "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-23T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "智富食代(147)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-23T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
     },
     {
       "sport": "MOD綜藝",
@@ -4814,11 +4814,11 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(148)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
+      "title": "花甲少年趣旅行(160)",
+      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-24T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "channel": "278",
+      "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "F1",
@@ -4883,9 +4883,9 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (10)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "萬聖節大對抗第16季:死而復生：最後一嚇",
         "time": "18:00",
         "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4893,9 +4893,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(144)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (10)",
         "time": "18:00",
         "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4913,9 +4913,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(145)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(157)",
         "time": "18:00",
         "date": "2026-11-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -4923,9 +4923,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(146)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的全美公路之旅第2季:餐車與快車",
         "time": "18:00",
         "date": "2026-11-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -4945,9 +4945,9 @@
     ],
     "modSchedule": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (10)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "萬聖節大對抗第16季:死而復生：最後一嚇",
         "time": "18:00",
         "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4955,9 +4955,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(144)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (10)",
         "time": "18:00",
         "date": "2026-11-18",
         "source": "中華電信 MOD 7 日節目表",
@@ -4975,9 +4975,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(145)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(157)",
         "time": "18:00",
         "date": "2026-11-19",
         "source": "中華電信 MOD 7 日節目表",
@@ -4985,9 +4985,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(146)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "蓋的全美公路之旅第2季:餐車與快車",
         "time": "18:00",
         "date": "2026-11-20",
         "source": "中華電信 MOD 7 日節目表",
@@ -5005,9 +5005,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(537)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "美味秘訣升級版第1季:佳節餅乾",
         "time": "18:00",
         "date": "2026-11-21",
         "source": "中華電信 MOD 7 日節目表",
@@ -5025,9 +5025,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(538)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "在地美食第1季:肯塔基州帕丟卡",
         "time": "18:00",
         "date": "2026-11-22",
         "source": "中華電信 MOD 7 日節目表",
@@ -5045,9 +5045,9 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (12)",
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "此生最美味全明星第1季:魔幻雙拼",
         "time": "18:00",
         "date": "2026-11-23",
         "source": "中華電信 MOD 7 日節目表",
@@ -5055,9 +5055,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(147)",
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (12)",
         "time": "18:00",
         "date": "2026-11-23",
         "source": "中華電信 MOD 7 日節目表",
@@ -5075,9 +5075,9 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(148)",
+        "channel": "278",
+        "channelName": "亞洲旅遊台",
+        "title": "花甲少年趣旅行(160)",
         "time": "18:00",
         "date": "2026-11-24",
         "source": "中華電信 MOD 7 日節目表",
@@ -5087,32 +5087,8 @@
     ],
     "netflix": [
       {
-        "title": "Final Destination: Bloodlines",
-        "originalTitle": "Final Destination: Bloodlines",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
         "title": "One Year to Live, Buy a Man",
         "originalTitle": "One Year to Live, Buy a Man",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Haunted Mountains: The Yellow Taboo",
-        "originalTitle": "Haunted Mountains: The Yellow Taboo",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Collision Course",
-        "originalTitle": "Collision Course",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Yadang: The Snitch",
-        "originalTitle": "Yadang: The Snitch",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5129,20 +5105,44 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Homecam",
-        "originalTitle": "Homecam",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "The Hobbit: An Unexpected Journey",
-        "originalTitle": "The Hobbit: An Unexpected Journey",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
         "title": "The Adventure",
         "originalTitle": "The Adventure",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Final Destination: Bloodlines",
+        "originalTitle": "Final Destination: Bloodlines",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Me Before You",
+        "originalTitle": "Me Before You",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Never Surrender",
+        "originalTitle": "Never Surrender",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Godzilla Minus One",
+        "originalTitle": "Godzilla Minus One",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Haunted Mountains: The Yellow Taboo",
+        "originalTitle": "Haunted Mountains: The Yellow Taboo",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Yadang: The Snitch",
+        "originalTitle": "Yadang: The Snitch",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
@@ -5173,8 +5173,8 @@
       "modSelector": "rules-fallback",
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
-      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
+      "modSelectorError": "503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE",
+      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
     }
   }
 }
