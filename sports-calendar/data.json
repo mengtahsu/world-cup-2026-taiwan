@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:44:21.600Z",
+  "updatedAt": "2026-11-21T02:50:47.135Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4923,21 +4923,21 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "美食打卡趣(96)",
-        "time": "19:00",
-        "date": "2026-11-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
         "title": "美食之路 (12)",
         "time": "18:00",
         "date": "2026-11-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "275",
+        "channelName": "美食星球頻道",
+        "title": "美食打卡趣(96)",
+        "time": "19:00",
+        "date": "2026-11-22",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5172,7 +5172,7 @@
     "meta": {
       "modSelector": "gemini",
       "modApi": "generateContent",
-      "modApiAttempt": 2,
+      "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
