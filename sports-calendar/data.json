@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:59:48.245Z",
+  "updatedAt": "2026-11-22T19:59:39.094Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -4710,22 +4710,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(149)",
-      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-22T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "比基尼海灘巡禮第2季:定點跳傘",
-      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:20",
-      "start": "2026-11-22T18:20:00+08:00",
-      "channel": "280",
-      "channelStatus": "MOD Travel Channel"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "美食之路 (12)",
       "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-23T18:00:00+08:00",
@@ -4790,14 +4774,6 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "蓋的全美公路之旅第2季:露營區料理賽",
-      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
-      "start": "2026-11-27T18:00:00+08:00",
-      "channel": "277",
-      "channelStatus": "MOD Food Network 美食台頻道"
-    },
-    {
-      "sport": "MOD綜藝",
       "title": "大富翁世界旅行4(4)",
       "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
       "start": "2026-11-27T18:10:00+08:00",
@@ -4806,11 +4782,19 @@
     },
     {
       "sport": "MOD綜藝",
-      "title": "Sam Kim名廚煮意(6)",
-      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
+      "title": "奈潔拉義式風味S1(5)",
+      "subtitle": "Gemini 年輕熱門精選・BBC Lifestyle Channel・18:30",
+      "start": "2026-11-27T18:30:00+08:00",
+      "channel": "260",
+      "channelStatus": "MOD BBC Lifestyle Channel"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "大口吃肉,大口喝酒第6季:冠軍漢堡",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
       "start": "2026-11-28T18:00:00+08:00",
-      "channel": "376",
-      "channelStatus": "MOD tvN"
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
     },
     {
       "sport": "F1",
@@ -4837,6 +4821,22 @@
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG",
       "timeTbd": false
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "在地美食第1季:田納西州克拉克斯維",
+      "subtitle": "Gemini 年輕熱門精選・Food Network 美食台頻道・18:00",
+      "start": "2026-11-29T18:00:00+08:00",
+      "channel": "277",
+      "channelStatus": "MOD Food Network 美食台頻道"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "比基尼海灘巡禮第2季:與鯊同遊",
+      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:04",
+      "start": "2026-11-29T18:04:00+08:00",
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "F1",
@@ -4883,11 +4883,41 @@
     "modDrama": [],
     "modVariety": [
       {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (12)",
+        "time": "18:00",
+        "date": "2026-11-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "376",
         "channelName": "tvN",
         "title": "種豆得豆2(7)",
         "time": "18:15",
         "date": "2026-11-23",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (13)",
+        "time": "18:00",
+        "date": "2026-11-24",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (14)",
+        "time": "18:00",
+        "date": "2026-11-25",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4911,59 +4941,9 @@
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
-      },
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (12)",
-        "time": "18:00",
-        "date": "2026-11-23",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "大廚斷頭台:新世代第1季:年輕氣盛",
-        "time": "18:50",
-        "date": "2026-11-24",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(149)",
-        "time": "18:00",
-        "date": "2026-11-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
       }
     ],
     "modSchedule": [
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(149)",
-        "time": "18:00",
-        "date": "2026-11-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "280",
-        "channelName": "Travel Channel",
-        "title": "比基尼海灘巡禮第2季:定點跳傘",
-        "time": "18:20",
-        "date": "2026-11-22",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
@@ -5045,16 +5025,6 @@
         "score": 16
       },
       {
-        "channel": "277",
-        "channelName": "Food Network 美食台頻道",
-        "title": "蓋的全美公路之旅第2季:露營區料理賽",
-        "time": "18:00",
-        "date": "2026-11-27",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
         "channel": "376",
         "channelName": "tvN",
         "title": "大富翁世界旅行4(4)",
@@ -5065,9 +5035,19 @@
         "score": 16
       },
       {
-        "channel": "376",
-        "channelName": "tvN",
-        "title": "Sam Kim名廚煮意(6)",
+        "channel": "260",
+        "channelName": "BBC Lifestyle Channel",
+        "title": "奈潔拉義式風味S1(5)",
+        "time": "18:30",
+        "date": "2026-11-27",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "大口吃肉,大口喝酒第6季:冠軍漢堡",
         "time": "18:00",
         "date": "2026-11-28",
         "source": "中華電信 MOD 7 日節目表",
@@ -5080,6 +5060,26 @@
         "title": "第六感：B-side(9)",
         "time": "18:40",
         "date": "2026-11-28",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "277",
+        "channelName": "Food Network 美食台頻道",
+        "title": "在地美食第1季:田納西州克拉克斯維",
+        "time": "18:00",
+        "date": "2026-11-29",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "比基尼海灘巡禮第2季:與鯊同遊",
+        "time": "18:04",
+        "date": "2026-11-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5171,7 +5171,7 @@
     ],
     "meta": {
       "modSelector": "gemini",
-      "modApi": "generateContent",
+      "modApi": "interactions",
       "modApiAttempt": 1,
       "modCandidateCount": 56,
       "modScheduleDays": 7,
