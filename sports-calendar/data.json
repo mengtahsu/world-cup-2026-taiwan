@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:18:49.834Z",
+  "updatedAt": "2026-11-25T00:07:22.000Z",
   "events": [
     {
       "sport": "NBA季後賽",
@@ -1722,30 +1722,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "澳洲n Grand Prix・排位賽",
-      "subtitle": "Albert Park Grand Prix Circuit",
-      "start": "2026-03-07T05:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "MLB季後賽",
       "title": "科羅拉多洛磯 vs 洛杉磯道奇",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-08T01:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "澳洲n Grand Prix・正賽",
-      "subtitle": "Albert Park Grand Prix Circuit",
-      "start": "2026-03-08T04:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "MLB季後賽",
@@ -1788,30 +1770,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Chinese Grand Prix・排位賽",
-      "subtitle": "Shanghai International Circuit",
-      "start": "2026-03-14T07:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "MLB季後賽",
       "title": "洛杉磯道奇 vs 芝加哥白襪",
       "subtitle": "Camelback Ranch",
       "start": "2026-03-14T20:05:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Chinese Grand Prix・正賽",
-      "subtitle": "Shanghai International Circuit",
-      "start": "2026-03-15T07:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "MLB季後賽",
@@ -1910,30 +1874,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "日本ese Grand Prix・排位賽",
-      "subtitle": "Suzuka Circuit",
-      "start": "2026-03-28T06:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "亞利桑那響尾蛇 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-03-29T01:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "日本ese Grand Prix・正賽",
-      "subtitle": "Suzuka Circuit",
-      "start": "2026-03-29T05:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -2168,15 +2114,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Miami Grand Prix・排位賽",
-      "subtitle": "Miami International Autodrome",
-      "start": "2026-05-02T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 聖路易紅雀",
       "subtitle": "Busch Stadium",
@@ -2191,15 +2128,6 @@
       "start": "2026-05-03T18:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Miami Grand Prix・正賽",
-      "subtitle": "Miami International Autodrome",
-      "start": "2026-05-03T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -2338,15 +2266,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Canadian Grand Prix・排位賽",
-      "subtitle": "Circuit Gilles Villeneuve",
-      "start": "2026-05-23T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 密爾瓦基釀酒人",
       "subtitle": "American Family Field",
@@ -2361,15 +2280,6 @@
       "start": "2026-05-24T18:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Canadian Grand Prix・正賽",
-      "subtitle": "Circuit Gilles Villeneuve",
-      "start": "2026-05-24T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -2460,30 +2370,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Monaco Grand Prix・排位賽",
-      "subtitle": "Circuit de Monaco",
-      "start": "2026-06-06T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯天使 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-06-07T02:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Monaco Grand Prix・正賽",
-      "subtitle": "Circuit de Monaco",
-      "start": "2026-06-07T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -2558,15 +2450,6 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Barcelona Grand Prix・排位賽",
-      "subtitle": "Circuit de Barcelona-Catalunya",
-      "start": "2026-06-13T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "世界盃",
       "title": "卡達 vs 瑞士",
       "subtitle": "Matchday 3",
@@ -2605,15 +2488,6 @@
       "start": "2026-06-14T04:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Barcelona Grand Prix・正賽",
-      "subtitle": "Circuit de Barcelona-Catalunya",
-      "start": "2026-06-14T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3168,15 +3042,6 @@
       "channelStatus": "愛爾達體育，依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "奧地利n Grand Prix・排位賽",
-      "subtitle": "Red Bull Ring",
-      "start": "2026-06-27T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "世界盃",
       "title": "巴拿馬 vs 英格蘭",
       "subtitle": "Matchday 17",
@@ -3231,15 +3096,6 @@
       "start": "2026-06-28T02:00:00.000Z",
       "channel": "200–202",
       "channelStatus": "愛爾達體育，依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "奧地利n Grand Prix・正賽",
-      "subtitle": "Red Bull Ring",
-      "start": "2026-06-28T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3431,15 +3287,6 @@
       "timeTbd": true
     },
     {
-      "sport": "F1",
-      "title": "British Grand Prix・排位賽",
-      "subtitle": "Silverstone Circuit",
-      "start": "2026-07-04T15:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "世界盃",
       "title": "加拿大 vs 摩洛哥",
       "subtitle": "16 強",
@@ -3475,15 +3322,6 @@
       "channel": "待定",
       "channelStatus": "愛爾達 EPG 尚未指定",
       "timeTbd": true
-    },
-    {
-      "sport": "F1",
-      "title": "British Grand Prix・正賽",
-      "subtitle": "Silverstone Circuit",
-      "start": "2026-07-05T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "世界盃",
@@ -3789,15 +3627,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Belgian Grand Prix・排位賽",
-      "subtitle": "Circuit de Spa-Francorchamps",
-      "start": "2026-07-18T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "環法",
       "title": "環法自行車賽・第 14 站",
       "subtitle": "Mulhouse > Le Markstein Fellering",
@@ -3825,15 +3654,6 @@
       "start": "2026-07-19T00:08:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Belgian Grand Prix・正賽",
-      "subtitle": "Circuit de Spa-Francorchamps",
-      "start": "2026-07-19T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -3957,15 +3777,6 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Hungarian Grand Prix・排位賽",
-      "subtitle": "Hungaroring",
-      "start": "2026-07-25T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "環法",
       "title": "環法自行車賽・第 20 站",
       "subtitle": "Le Bourg d'Oisans > Alpe d'Huez",
@@ -3985,15 +3796,6 @@
       "start": "2026-07-25T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Hungarian Grand Prix・正賽",
-      "subtitle": "Hungaroring",
-      "start": "2026-07-26T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4201,30 +4003,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Dutch Grand Prix・排位賽",
-      "subtitle": "Circuit Park Zandvoort",
-      "start": "2026-08-22T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "匹茲堡海盜 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-08-22T23:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Dutch Grand Prix・正賽",
-      "subtitle": "Circuit Park Zandvoort",
-      "start": "2026-08-23T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4315,30 +4099,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Italian Grand Prix・排位賽",
-      "subtitle": "Autodromo Nazionale di Monza",
-      "start": "2026-09-05T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "華盛頓國民 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-09-06T01:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Italian Grand Prix・正賽",
-      "subtitle": "Autodromo Nazionale di Monza",
-      "start": "2026-09-06T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4381,30 +4147,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Spanish Grand Prix・排位賽",
-      "subtitle": "Madring",
-      "start": "2026-09-12T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 邁阿密馬林魚",
       "subtitle": "loanDepot park",
       "start": "2026-09-12T20:10:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Spanish Grand Prix・正賽",
-      "subtitle": "Madring",
-      "start": "2026-09-13T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4495,30 +4243,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Azerbaijan Grand Prix・排位賽",
-      "subtitle": "Baku City Circuit",
-      "start": "2026-09-25T12:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "道奇",
       "title": "洛杉磯道奇 vs 舊金山巨人",
       "subtitle": "Oracle Park",
       "start": "2026-09-26T02:15:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Azerbaijan Grand Prix・正賽",
-      "subtitle": "Baku City Circuit",
-      "start": "2026-09-26T11:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "道奇",
@@ -4537,30 +4267,12 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "Bahrain Grand Prix in Malaysia・排位賽",
-      "subtitle": "Sepang International Circuit",
-      "start": "2026-10-03T08:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
       "sport": "MLB季後賽",
       "title": "亞特蘭大勇士 vs 洛杉磯道奇",
       "subtitle": "UNIQLO Field at Dodger Stadium",
       "start": "2026-10-03T20:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Bahrain Grand Prix in Malaysia・正賽",
-      "subtitle": "Sepang International Circuit",
-      "start": "2026-10-04T07:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "MLB季後賽",
@@ -4585,24 +4297,6 @@
       "start": "2026-10-07T22:00:00Z",
       "channel": "200–202",
       "channelStatus": "愛爾達／依 EPG"
-    },
-    {
-      "sport": "F1",
-      "title": "Singapore Grand Prix・排位賽",
-      "subtitle": "Marina Bay Street Circuit",
-      "start": "2026-10-10T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "Singapore Grand Prix・正賽",
-      "subtitle": "Marina Bay Street Circuit",
-      "start": "2026-10-11T12:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     },
     {
       "sport": "MLB季後賽",
@@ -4637,97 +4331,9 @@
       "channelStatus": "愛爾達／依 EPG"
     },
     {
-      "sport": "F1",
-      "title": "United States Grand Prix・排位賽",
-      "subtitle": "Circuit of the Americas",
-      "start": "2026-10-24T21:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "United States Grand Prix・正賽",
-      "subtitle": "Circuit of the Americas",
-      "start": "2026-10-25T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "墨西哥 City Grand Prix・排位賽",
-      "subtitle": "Autódromo Hermanos Rodríguez",
-      "start": "2026-10-31T21:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "墨西哥 City Grand Prix・正賽",
-      "subtitle": "Autódromo Hermanos Rodríguez",
-      "start": "2026-11-01T20:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "巴西ian Grand Prix・排位賽",
-      "subtitle": "Autódromo José Carlos Pace",
-      "start": "2026-11-07T18:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "巴西ian Grand Prix・正賽",
-      "subtitle": "Autódromo José Carlos Pace",
-      "start": "2026-11-08T17:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "Las Vegas Grand Prix・排位賽",
-      "subtitle": "Las Vegas Strip Street Circuit",
-      "start": "2026-11-21T04:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "Las Vegas Grand Prix・正賽",
-      "subtitle": "Las Vegas Strip Street Circuit",
-      "start": "2026-11-22T04:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "美食之路 (13)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
-      "start": "2026-11-24T18:00:00+08:00",
-      "channel": "377",
-      "channelStatus": "MOD 韓國娛樂台KMTV"
-    },
-    {
-      "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(160)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-24T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
       "sport": "MOD綜藝",
       "title": "美食之路 (14)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-25T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
@@ -4735,7 +4341,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(161)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-25T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4743,7 +4349,7 @@
     {
       "sport": "MOD綜藝",
       "title": "美食之路 (15)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-26T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
@@ -4751,7 +4357,7 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(162)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-26T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
@@ -4759,102 +4365,82 @@
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(163)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-27T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "智富食代(151)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-27T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "大富翁世界旅行4(4)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
+      "start": "2026-11-27T18:10:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
       "title": "Sam Kim名廚煮意(6)",
-      "subtitle": "年輕熱門精選・tvN・18:00",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:00",
       "start": "2026-11-28T18:00:00+08:00",
       "channel": "376",
       "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(150)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-28T18:00:00+08:00",
-      "channel": "278",
-      "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "F1",
-      "title": "卡達 Grand Prix・排位賽",
-      "subtitle": "Lusail International Circuit",
-      "start": "2026-11-28T18:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "卡達 Grand Prix・正賽",
-      "subtitle": "Lusail International Circuit",
-      "start": "2026-11-29T16:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
+      "title": "第六感：B-side(9)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:40",
+      "start": "2026-11-28T18:40:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
     },
     {
       "sport": "MOD綜藝",
       "title": "花甲少年趣旅行(151)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
       "start": "2026-11-29T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
     },
     {
       "sport": "MOD綜藝",
-      "title": "進擊的台灣(543)",
-      "subtitle": "年輕熱門精選・美食星球頻道・18:00",
-      "start": "2026-11-29T18:00:00+08:00",
-      "channel": "275",
-      "channelStatus": "MOD 美食星球頻道"
+      "title": "比基尼海灘巡禮第2季:與鯊同遊",
+      "subtitle": "Gemini 年輕熱門精選・Travel Channel・18:04",
+      "start": "2026-11-29T18:04:00+08:00",
+      "channel": "280",
+      "channelStatus": "MOD Travel Channel"
     },
     {
       "sport": "MOD綜藝",
       "title": "美食之路 (16)",
-      "subtitle": "年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
       "start": "2026-11-30T18:00:00+08:00",
       "channel": "377",
       "channelStatus": "MOD 韓國娛樂台KMTV"
     },
     {
       "sport": "MOD綜藝",
-      "title": "花甲少年趣旅行(164)",
-      "subtitle": "年輕熱門精選・亞洲旅遊台・18:00",
-      "start": "2026-11-30T18:00:00+08:00",
+      "title": "大富翁世界旅行4(4)",
+      "subtitle": "Gemini 年輕熱門精選・tvN・18:10",
+      "start": "2026-11-30T18:10:00+08:00",
+      "channel": "376",
+      "channelStatus": "MOD tvN"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "美食之路 (17)",
+      "subtitle": "Gemini 年輕熱門精選・韓國娛樂台KMTV・18:00",
+      "start": "2026-12-01T18:00:00+08:00",
+      "channel": "377",
+      "channelStatus": "MOD 韓國娛樂台KMTV"
+    },
+    {
+      "sport": "MOD綜藝",
+      "title": "花甲少年趣旅行(165)",
+      "subtitle": "Gemini 年輕熱門精選・亞洲旅遊台・18:00",
+      "start": "2026-12-01T18:00:00+08:00",
       "channel": "278",
       "channelStatus": "MOD 亞洲旅遊台"
-    },
-    {
-      "sport": "F1",
-      "title": "Abu Dhabi Grand Prix・排位賽",
-      "subtitle": "Yas Marina Circuit",
-      "start": "2026-12-05T14:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
-    },
-    {
-      "sport": "F1",
-      "title": "Abu Dhabi Grand Prix・正賽",
-      "subtitle": "Yas Marina Circuit",
-      "start": "2026-12-06T13:00:00Z",
-      "channel": "200–202",
-      "channelStatus": "愛爾達體育，依 EPG",
-      "timeTbd": false
     }
   ],
   "pending": [
@@ -4883,21 +4469,31 @@
     "modDrama": [],
     "modVariety": [
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (13)",
-        "time": "18:00",
-        "date": "2026-11-24",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(9)",
+        "time": "18:40",
+        "date": "2026-11-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(160)",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "大富翁世界旅行4(4)",
+        "time": "18:10",
+        "date": "2026-11-27",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "Sam Kim名廚煮意(6)",
         "time": "18:00",
-        "date": "2026-11-24",
+        "date": "2026-11-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -4923,47 +4519,17 @@
         "score": 16
       },
       {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (15)",
-        "time": "18:00",
-        "date": "2026-11-26",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(162)",
-        "time": "18:00",
-        "date": "2026-11-26",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "比基尼海灘巡禮第2季:與鯊同遊",
+        "time": "18:04",
+        "date": "2026-11-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
       }
     ],
     "modSchedule": [
-      {
-        "channel": "377",
-        "channelName": "韓國娛樂台KMTV",
-        "title": "美食之路 (13)",
-        "time": "18:00",
-        "date": "2026-11-24",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
-      {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(160)",
-        "time": "18:00",
-        "date": "2026-11-24",
-        "source": "中華電信 MOD 7 日節目表",
-        "kind": "MOD綜藝",
-        "score": 16
-      },
       {
         "channel": "377",
         "channelName": "韓國娛樂台KMTV",
@@ -5015,10 +4581,10 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "智富食代(151)",
-        "time": "18:00",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "大富翁世界旅行4(4)",
+        "time": "18:10",
         "date": "2026-11-27",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5035,10 +4601,10 @@
         "score": 16
       },
       {
-        "channel": "278",
-        "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(150)",
-        "time": "18:00",
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "第六感：B-side(9)",
+        "time": "18:40",
         "date": "2026-11-28",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5055,10 +4621,10 @@
         "score": 16
       },
       {
-        "channel": "275",
-        "channelName": "美食星球頻道",
-        "title": "進擊的台灣(543)",
-        "time": "18:00",
+        "channel": "280",
+        "channelName": "Travel Channel",
+        "title": "比基尼海灘巡禮第2季:與鯊同遊",
+        "time": "18:04",
         "date": "2026-11-29",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
@@ -5075,11 +4641,31 @@
         "score": 16
       },
       {
+        "channel": "376",
+        "channelName": "tvN",
+        "title": "大富翁世界旅行4(4)",
+        "time": "18:10",
+        "date": "2026-11-30",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
+        "channel": "377",
+        "channelName": "韓國娛樂台KMTV",
+        "title": "美食之路 (17)",
+        "time": "18:00",
+        "date": "2026-12-01",
+        "source": "中華電信 MOD 7 日節目表",
+        "kind": "MOD綜藝",
+        "score": 16
+      },
+      {
         "channel": "278",
         "channelName": "亞洲旅遊台",
-        "title": "花甲少年趣旅行(164)",
+        "title": "花甲少年趣旅行(165)",
         "time": "18:00",
-        "date": "2026-11-30",
+        "date": "2026-12-01",
         "source": "中華電信 MOD 7 日節目表",
         "kind": "MOD綜藝",
         "score": 16
@@ -5093,32 +4679,20 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Salli",
-        "originalTitle": "Salli",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Possible Love",
-        "originalTitle": "Possible Love",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
         "title": "The Adventure",
         "originalTitle": "The Adventure",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Final Destination: Bloodlines",
-        "originalTitle": "Final Destination: Bloodlines",
+        "title": "Salli",
+        "originalTitle": "Salli",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Me Before You",
-        "originalTitle": "Me Before You",
+        "title": "Guarding Stars",
+        "originalTitle": "Guarding Stars",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
@@ -5129,20 +4703,32 @@
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
+        "title": "Steps",
+        "originalTitle": "Steps",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Heartland",
+        "originalTitle": "Heartland",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
+        "title": "Final Destination: Bloodlines",
+        "originalTitle": "Final Destination: Bloodlines",
+        "source": "Netflix 台灣 Top 10",
+        "url": "https://www.netflix.com/tudum/top10/taiwan"
+      },
+      {
         "title": "Godzilla Minus One",
         "originalTitle": "Godzilla Minus One",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       },
       {
-        "title": "Haunted Mountains: The Yellow Taboo",
-        "originalTitle": "Haunted Mountains: The Yellow Taboo",
-        "source": "Netflix 台灣 Top 10",
-        "url": "https://www.netflix.com/tudum/top10/taiwan"
-      },
-      {
-        "title": "Yadang: The Snitch",
-        "originalTitle": "Yadang: The Snitch",
+        "title": "Tom and Jerry",
+        "originalTitle": "Tom and Jerry",
         "source": "Netflix 台灣 Top 10",
         "url": "https://www.netflix.com/tudum/top10/taiwan"
       }
@@ -5170,11 +4756,13 @@
       }
     ],
     "meta": {
-      "modSelector": "rules-fallback",
+      "modSelector": "gemini",
+      "modApi": "generateContent",
+      "modApiAttempt": 1,
+      "modCandidateCount": 56,
       "modScheduleDays": 7,
       "modDailyLimit": 4,
-      "modSelectorError": "The operation was aborted due to timeout | retry The operation was aborted due to timeout | The operation was aborted due to timeout | retry The operation was aborted due to timeou",
-      "netflixTitleMode": "map-fallback:503 { \"error\": { \"code\": 503, \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\", \"status\": \"UNAVAILABLE"
+      "netflixTitleMode": "map-fallback:The operation was aborted due to timeout"
     }
   }
 }
