@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:24:31.007Z",
+  "updatedAt": "2026-11-26T09:33:44.801Z",
   "matches": [
     {
       "number": 1,
@@ -3082,16 +3082,16 @@
       "source": "Yahoo運動"
     },
     {
-      "title": "2026世界盃8強最新賽果！賽程、比分、對戰組合與4強晉級名單一次看，英格蘭2：1擊敗挪威 - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdzQwV3JHOUs3dHF4anJwd2xiejNoQUFUVkxUenNOU0xhaVlab0Z1MWxpMjhaRzhxUjN4bjBOeW5UcTVzZG5XY1dCbUVRMW9yZkR5NC0tYnp3NnlzVEZuQnc0dkt1dXBFT2ljOA?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "source": "ELLE"
-    },
-    {
       "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看 - 遠見雜誌",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wem81V0RJN2xkNzNKYlFkYTA4c1l5b2pxSEg1V3BkRC1wYlNtUU1rNjB3a1VRSnBRRnh5Y3FDSHFXdmV5U09fR0xQdVRHUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
       "source": "遠見雜誌"
+    },
+    {
+      "title": "2026世界盃8強最新賽果！賽程、比分、對戰組合與4強晉級名單一次看，英格蘭2：1擊敗挪威 - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdzQwV3JHOUs3dHF4anJwd2xiejNoQUFUVkxUenNOU0xhaVlab0Z1MWxpMjhaRzhxUjN4bjBOeW5UcTVzZG5XY1dCbUVRMW9yZkR5NC0tYnp3NnlzVEZuQnc0dkt1dXBFT2ljOA?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "source": "ELLE"
     },
     {
       "title": "2026世界盃｜史上最多場，FIFA 足球賽所有賽程日期時間結果一次看，西班牙 1:0 擊退阿根廷，時隔16 年再捧大力神盃 - GQ Taiwan",
@@ -3115,22 +3115,22 @@
   "odds": [],
   "videos": [
     {
+      "id": "XPke4qFr4S8",
+      "title": "【全場精華】11/26 台灣山林 vs. 台灣海洋 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=XPke4qFr4S8"
+    },
+    {
+      "id": "jS6gW2FR3m8",
+      "title": "【全場精華】11/26 尼加拉瓜 vs. 英國 ｜ 世界12強棒球-2026中國區資格賽",
+      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
+      "url": "https://www.youtube.com/watch?v=jS6gW2FR3m8"
+    },
+    {
       "id": "s4yoVXIL_2M",
       "title": "【全場精華】11/25 台灣山林 vs. 日職聯隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
       "label": "愛爾達體育家族 ELTA Sports・繁中精華",
       "url": "https://www.youtube.com/watch?v=s4yoVXIL_2M"
-    },
-    {
-      "id": "3I4l2eP9dWA",
-      "title": "【全場精華】11/25 日本社會人 vs. 大學明星隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=3I4l2eP9dWA"
-    },
-    {
-      "id": "WK2sizLbUCQ",
-      "title": "【全場精華】11/24 台灣海洋 vs. 韓職聯隊 ｜ 2026 亞洲冬季棒球聯盟 例行賽",
-      "label": "愛爾達體育家族 ELTA Sports・繁中精華",
-      "url": "https://www.youtube.com/watch?v=WK2sizLbUCQ"
     }
   ]
 }
